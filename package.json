@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/WaseemR20/Api-Json-server#readme",
   "dependencies": {
+    "heroku": "^7.65.0",
     "json-server": "^0.17.0"
   }
 }
