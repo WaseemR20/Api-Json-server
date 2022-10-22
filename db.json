@@ -12931,6 +12931,213 @@
       ]
     },
     {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/iWJE1F9RDwEC7xmyKLg7RQfUDsY.jpg",
+      "first_air_date": "2022-10-22",
+      "genre_ids": [16, 10759],
+      "id": "65930Season6",
+      "name": "My Hero Academia Season 6",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "僕のヒーローアカデミア",
+      "overview": "In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won't stop him from enrolling in a prestigious hero academy. Now, he'll get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.",
+      "popularity": 132.254,
+      "poster_path": "https://cdn.myanimelist.net/images/anime/1483/126005l.jpg",
+      "vote_average": 8.724,
+      "vote_count": 3917,
+      "trailer": "https://www.youtube.com/watch?v=mezyq2OX6TM&ab_channel=AniTV",
+      "number_of_episodes": 25,
+      "season_number": "Season 1",
+      "logo": "https://www.themoviedb.org/t/p/original/kMCphLf7gUEaL2u0LqWFHcxN2Sf.png",
+      "genres": [
+        { "id": 16, "name": "Animation" },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "name": "Episode1",
+          "server1": ["https://vadbam.com/embed-f4175oy1ct23.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-uxy6trhcj6to.html"
+            },
+            {
+              "server": "https://vadbam.com/embed-f4175oy1ct23.html"
+            },
+            {
+              "server": "https://mega.nz/embed/tH1DgTrQ!GaggdfVXtwmfzq-Es8d7G51DpLlb8mWCiaVkAdCx_V4"
+            },
+            { "server": "https://www.4shared.com/web/embed/file/tM_sJVB5iq" },
+            { "server": "https://yonaplay.org/embed.php?id=5711" },
+            {
+              "server": "https://mega.nz/embed/9LFmFBia!XQLLeoQr4RGZK-OYkxJKsCnMBQihbcHs8Lyee_WBH00"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Episode2",
+          "server1": [
+            "https://mega.nz/embed/ZKVQjKoZ#C9CL8-160iKOPVU8eWvgU9pWk7Jl2C8S4iMF_igS2tA"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/ZKVQjKoZ#C9CL8-160iKOPVU8eWvgU9pWk7Jl2C8S4iMF_igS2tA"
+            },
+            {
+              "server": "https://upvideo.to/e/3osklv8yedlz/"
+            },
+            { "server": "https://highload.to/e/3rxlp5avtzqp" },
+            { "server": "https://moshahda.net/embed-c1e59a0419hl.html" },
+            { "server": "https://www.4shared.com/web/embed/file/0xpRYXPCfa/" },
+            { "server": "https://vadbam.com/embed-w8p58z4hskoy.html" }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Episode3",
+          "server1": ["https://moshahda.net/embed-uxy6trhcj6to.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-uxy6trhcj6to.html"
+            },
+            {
+              "server": "https://vadbam.com/embed-f4175oy1ct23.html"
+            },
+            {
+              "server": "https://mega.nz/embed/tH1DgTrQ!GaggdfVXtwmfzq-Es8d7G51DpLlb8mWCiaVkAdCx_V4"
+            },
+            { "server": "https://highload.to/e/g7kb3qrgogja" },
+            { "server": "https://www.4shared.com/web/embed/file/DeqTNX-zjq" },
+            {
+              "server": "https://mega.nz/embed/9LFmFBia!XQLLeoQr4RGZK-OYkxJKsCnMBQihbcHs8Lyee_WBH00"
+            },
+            {
+              "server": "https://mega.nz/embed/FKEHUYpJ#mLBBozAwtdg7HImcYAxKHxvl5QtvWhUoMST8FBb9-5U"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Episode4",
+          "server1": [
+            "https://mega.nz/embed/xGEHVTYC#sGC_CCba6dSUz-MgapXsMUF42DMgv0Cu11SytdrsYeQ"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/xGEHVTYC#sGC_CCba6dSUz-MgapXsMUF42DMgv0Cu11SytdrsYeQ"
+            },
+            {
+              "server": "https://highload.to/e/y5noumqblp4p"
+            },
+            { "server": "https://www.4shared.com/web/embed/file/ceMIjZaYfa" },
+            { "server": "https://moshahda.net/embed-6ffhqtyxcpkc.html" },
+            { "server": "https://highload.to/e/dn873ptuwxzs" },
+            { "server": "https://www.4shared.com/web/embed/file/Arr7m-2Ige/" }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://images4.alphacoders.com/116/1165712.jpg",
+      "first_air_date": "2022-10-9",
+      "genre_ids": [16, 10759],
+      "id": "BlueLock",
+      "name": "Blue Lock",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "Blue Lock",
+      "overview": "After reflecting on the current state of Japanese soccer, the Japanese Football Association decides to hire the enigmatic and eccentric coach Jinpachi Ego to achieve their dream of winning the World Cup. Believing that Japan has lacked an egoistic striker hungry for goals, Jinpachi initiates the Blue Lock—a prison-like facility where three hundred talented strikers from high schools all over Japan are isolated and pitted against each other. The sole survivor of Blue Lock will earn the right to become the national team's striker, and those who are defeated shall be banned from joining the team forever.",
+      "popularity": 193.254,
+      "poster_path": "https://cdn.myanimelist.net/images/anime/1258/126929l.jpg",
+      "vote_average": 8.36,
+      "vote_count": 2917,
+      "trailer": "https://www.youtube.com/watch?v=w4V_e3iRxds&ab_channel=EMOTIONLabelChannel",
+      "number_of_episodes": 24,
+      "season_number": "Season 1",
+      "logo": "https://www.themoviedb.org/t/p/original/kMCphLf7gUEaL2u0LqWFHcxN2Sf.png",
+      "genres": [
+        { "id": 16, "name": "Animation" },
+        {
+          "id": 10759,
+          "name": "Sports"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "name": "Episode1",
+          "server1": ["https://moshahda.net/embed-lv05sg3lrqxg.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-lv05sg3lrqxg.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/DfhC8zfFjq/"
+            },
+            {
+              "server": "https://vadbam.com/embed-8buasbowhh4h.html"
+            },
+            {
+              "server": "https://mega.nz/embed/lKUDxAAS!mqcw0Y3b5xxM-pPgAQ1Ym75AS7XpF2Ap1GzZUUreIPc"
+            },
+            { "server": "https://www.4shared.com/web/embed/file/MFiBwkLLge" },
+            {
+              "server": "https://highload.to/e/qyarwwcnlkpz"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Episode2",
+          "server1": ["sdfdsfsd"],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/wtEUxJSZ#SpKcRrfW9hSnyEcGW0c0qy7SbS9_PwxlkbMheFVVVns"
+            },
+            {
+              "server": "https://highload.to/e/lnphwogavoon"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/-6w2rxq0ge"
+            },
+            { "server": "https://highload.to/e/eilxzvddmvif" },
+            { "server": "https://moshahda.net/embed-m29kja8n3f2c.html" },
+            {
+              "server": "https://mega.nz/embed/VPElGBCI!5nzc8A0ZQ9YPIs7FWLBdI_J9W5qLiUe9_n7oN41AgGw"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Episode3",
+          "server1": ["https://moshahda.net/embed-qtgga1blukee.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-qtgga1blukee.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/L64yqU9Jge/"
+            },
+            {
+              "server": "https://mega.nz/embed/oT1k2DIJ!T_zAD7iCO7wDfaQvPU8aw9SgRp69jtD0Y13e4TcEGAk"
+            },
+            { "server": "https://www.4shared.com/web/embed/file/SGPlXAkSku" },
+            {
+              "server": "https://mega.nz/embed/IstBxSIA#5AUX0VTMFcKNW2SlsJTLWGy9cwkrui_wXdX4GRg6LUk"
+            },
+            { "server": "https://highload.to/e/qbitrp9ghqoy" },
+            {
+              "server": "https://mega.nz/embed/ZK0XWZJS!w1ZkEy9l39ofKCN2WwTW1igQ9vn2zqjQlfoEpaHsv3s"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://www.themoviedb.org/t/p/original/1czz0r7urqCPP0CZTAEkCk4TZY1.jpg",
       "first_air_date": "2022-04-15",
       "genre_ids": [16, 18, 9648],
@@ -14331,6 +14538,49 @@
             },
             {
               "server": "https://fansubs.tv/upload/videos/2022/10/dNLALEjqZFlnKUlf7Mc4_09_dabf4cab652a35f80fb9060aef5155c7_video_720p_converted.mp4"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Episode4",
+          "server1": ["https://moshahda.net/embed-nigv0f204bkq.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-nigv0f204bkq.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/gib9f7gXku/"
+            },
+            {
+              "server": "https://dood.pm/e/5hafk0a5zzyh"
+            },
+            {
+              "server": "https://vadbam.com/embed-tltub2hftbkz.html"
+            },
+            {
+              "server": "https://mega.nz/embed/IKM0lJqC!b2ZSi_tMWEnGB0bakstacQDU3JLjWqAukDVU1upTcis"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/gib9f7gXku/"
+            },
+            {
+              "server": "https://mega.nz/embed/IKM0lJqC!b2ZSi_tMWEnGB0bakstacQDU3JLjWqAukDVU1upTcis"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/WBhkbjkqge"
+            },
+            {
+              "server": "https://mega.nz/embed/9LsWDShB#yeeq-OvILEW0UJDrTHonPlcX9ylhhJyzp9PCkXfJrXM"
+            },
+            {
+              "server": "https://highload.to/e/bz5ruxx2oika"
+            },
+            {
+              "server": "https://mega.nz/embed/sL8yCbhY!WiB5kfaBuKm_87wFCnbvk80QwX2gN2YHkmJf2z_xYio"
+            },
+            {
+              "server": "https://drive.google.com/file/d/12FQpWL-9mJEWakUzSUI7bmeXec_JqcsW/preview"
             }
           ]
         }
