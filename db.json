@@ -5506,9 +5506,13 @@
       ],
       "play": [
         {
-          "server1": ["https://cdn.jwplayer.com/players/pzBqMJ7d-BI2JS0Mm.html"],
+          "server1": [
+            "https://cdn.jwplayer.com/players/pzBqMJ7d-BI2JS0Mm.html"
+          ],
           "servers": [
-            { "server": "https://cdn.jwplayer.com/players/pzBqMJ7d-BI2JS0Mm.html" },
+            {
+              "server": "https://cdn.jwplayer.com/players/pzBqMJ7d-BI2JS0Mm.html"
+            },
             { "server": "https://cdn.jwplayer.com/previews/pzBqMJ7d-BI2JS0Mm" }
           ],
           "name": "Watch"
