@@ -11819,93 +11819,396 @@
       "vote_count": 1452,
       "logo": "https://www.themoviedb.org/t/p/original/5CISLBTuphDnjsuwFmLSDdmZao0.png",
       "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34&ab_channel=HBOMax",
-      "number_of_episodes": 10,
+      "number_of_episodes": "Episodes 10",
       "season_number": "Season 1",
       "genres": [
-        { "id": 10765, "name": "Sci-Fi & Fantasy" },
-        {
-          "id": 18,
-          "name": "Drama"
-        },
-        {
-          "id": 10759,
-          "name": "Action & Adventure"
-        }
+        { "name": "Sci-Fi & Fantasy" },
+        { "name": "Drama" },
+        { "name": "Action & Adventure" }
       ],
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=1"],
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://cdn.jwplayer.com/players/ZXquykSf-BI2JS0Mm.html"
+          ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=1"
+              "server": "https://cdn.jwplayer.com/players/ZXquykSf-BI2JS0Mm.html"
             },
-            { "server": "https://sblanh.com/e/k19kd4n3b9ip" },
-            { "server": "https://www.2embed.to/embed/tmdb/tv?id=86374&s=1&e=1" }
+            {
+              "server": "https://cdn.jwplayer.com/previews/ZXquykSf-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-wdccqqpjn2rz.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-j2w0j7f122jn.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-y4msj6k0y6ys.html"
+            },
+            {
+              "server": "https://dood.pm/e/dsltheir4i4m"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=1"
+            }
           ]
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=1",
-            "https://sblanh.com/e/k19kd4n3b9ip"
+            "https://cdn.jwplayer.com/players/J2NrYVsA-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=1"
+              "server": "https://cdn.jwplayer.com/players/J2NrYVsA-BI2JS0Mm.html"
             },
-            { "server": "https://sblanh.com/e/k19kd4n3b9ip" },
-            { "server": "https://sblanh.com/e/k19kd4n3b9ip" },
-            { "server": "https://sblanh.com/e/k19kd4n3b9ip" },
-            { "server": "https://sblanh.com/e/k19kd4n3b9ip" },
-            { "server": "https://www.2embed.to/embed/tmdb/tv?id=86374&s=1&e=1" }
+            {
+              "server": "https://cdn.jwplayer.com/previews/J2NrYVsA-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-yijz1epy3acr.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-0quvt7dqf9sq.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-3s3bow8eevnu.html"
+            },
+            {
+              "server": "https://dood.pm/e/opg27lqmsui2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=2"
+            }
           ]
         },
         {
           "id": 3,
-          "name": "Episode3"
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://cdn.jwplayer.com/players/blPIF1fS-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/blPIF1fS-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/blPIF1fS-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-vac2vgjqf5bb.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-qm2k30p6m207.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-d6gkeo4pmo2r.html"
+            },
+            {
+              "server": "https://dood.pm/e/2tf009htdpgt"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=3"
+            }
+          ]
         },
         {
           "id": 4,
-          "name": "Episode4"
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://cdn.jwplayer.com/players/iRo1ccnt-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/iRo1ccnt-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/iRo1ccnt-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-p8dhh15ymqsh.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-ny7287ru40rt.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-fjn0iiida4xd.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-69r1o347ncnf.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=4"
+            }
+          ]
         },
         {
           "id": 5,
-          "name": "Episode5"
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://cdn.jwplayer.com/players/4cmsVdIC-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/4cmsVdIC-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/4cmsVdIC-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-hdv4vo2igi64.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-8pzjfmldpygi.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-ntmsnn8hlr2p.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-cg51jt0q3h2m.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=5"
+            }
+          ]
         },
         {
           "id": 6,
-          "name": "Episode6"
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://cdn.jwplayer.com/players/BIwL27O6-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/BIwL27O6-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/BIwL27O6-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-8kiymbsapshd.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-jfvmdfrwibpy.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-a02z52w72vnj.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-ej7b7vq3qo81.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=6"
+            }
+          ]
         },
         {
           "id": 7,
-          "name": "Episode7"
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://cdn.jwplayer.com/players/aifFzYaI-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/aifFzYaI-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/aifFzYaI-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-j8wt6lswwgnh.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-pkodl8yier19.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-88xpee4i21dq.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-2ekldl8com1u.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=7"
+            }
+          ]
         },
         {
           "id": 8,
-          "name": "Episode8"
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://cdn.jwplayer.com/players/JZj789Fe-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/JZj789Fe-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/JZj789Fe-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-j7whg7s3dx34.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-wms6j4bts87s.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-22w0hv6s599e.html"
+            },
+            {
+              "server": "https://dood.pm/e/84ie2ohqsheb"
+            },
+            {
+              "server": "https://vidshar.org/embed-xuizih5vz6wc.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=8"
+            }
+          ]
         },
         {
           "id": 9,
-          "name": "Episode9"
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://cdn.jwplayer.com/players/UMgier9U-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/UMgier9U-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/UMgier9U-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-5buryix0budd.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-vjirkb9aqhtx.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-j5mm6124tm1f.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3eg4000577"
+            },
+
+            {
+              "server": "https://vidshar.org/embed-3dry0bmfju7h.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=9"
+            }
+          ]
         },
         {
           "id": 10,
-          "name": "Episode10"
-        },
-        {
-          "id": 11,
-          "name": "Episode11"
-        },
-        {
-          "id": 12,
-          "name": "Episode12"
-        },
-        {
-          "id": 13,
-          "name": "Episode13"
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://cdn.jwplayer.com/players/RHfwQeDd-BI2JS0Mm.html"
+          ],
+          "servers": [
+            {
+              "server": "https://cdn.jwplayer.com/players/RHfwQeDd-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/RHfwQeDd-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-izsyrzpn3x7d.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-1nl62fyyi7uh.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-2yr5hlhlevwd.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3eso00025a"
+            },
+            {
+              "server": "https://dood.pm/e/xvvz3cy5a5kd"
+            },
+            {
+              "server": "https://vidshar.org/embed-sbbj4y4da0ly.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=94997&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=House%20of%20the%20Dragon&year=2022&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11198330&s=1&e=10"
+            }
+          ]
         }
       ]
     },
@@ -11925,7 +12228,7 @@
       "vote_count": 819,
       "logo": "https://www.themoviedb.org/t/p/original/2uDS3VQIDlNnwq3Mp8BsC7igftU.png",
       "trailer": "https://www.youtube.com/watch?v=v7v1hIkYH24&ab_channel=PrimeVideo",
-      "number_of_episodes": 8,
+      "number_of_episodes": "Episodes 8",
       "season_number": "Season 1",
       "genres": [
         { "id": 10765, "name": "Sci-Fi & Fantasy" },
@@ -11941,7 +12244,9 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=1"],
           "servers": [
             {
@@ -11954,7 +12259,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=2"],
           "servers": [
             {
@@ -11967,7 +12274,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=3"],
           "servers": [
             {
@@ -11980,7 +12289,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=4"],
           "servers": [
             {
@@ -11993,7 +12304,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=5"],
           "servers": [
             {
@@ -12006,7 +12319,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=6"],
           "servers": [
             {
@@ -12019,7 +12334,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=7"],
           "servers": [
             {
@@ -12032,7 +12349,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=84773&s=1&e=8"],
           "servers": [
             {
@@ -12061,7 +12380,7 @@
       "vote_average": 8.649,
       "vote_count": 600,
       "trailer": "https://www.youtube.com/watch?v=BUfSen2rYQs&ab_channel=NetflixAnime",
-      "number_of_episodes": 13,
+      "number_of_episodes": "Episodes 13",
       "season_number": "Season 1",
       "genres": [
         { "id": 16, "name": "Animation" },
@@ -12077,7 +12396,9 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=1"],
           "servers": [
             {
@@ -12098,7 +12419,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=2"],
           "servers": [
             {
@@ -12121,7 +12444,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=3"],
           "servers": [
             {
@@ -12145,7 +12470,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=4"],
           "servers": [
             {
@@ -12166,7 +12493,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=5"],
           "servers": [
             {
@@ -12186,7 +12515,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=6"],
           "servers": [
             {
@@ -12210,7 +12541,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=7"],
           "servers": [
             {
@@ -12234,7 +12567,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=8"],
           "servers": [
             {
@@ -12254,7 +12589,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=9"],
           "servers": [
             {
@@ -12275,7 +12612,9 @@
         },
         {
           "id": 10,
-          "name": "Episode10",
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=10"],
           "servers": [
             {
@@ -12295,7 +12634,9 @@
         },
         {
           "id": 11,
-          "name": "Episode11",
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=11"],
           "servers": [
             {
@@ -12316,7 +12657,9 @@
         },
         {
           "id": 12,
-          "name": "Episode12",
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=12"],
           "servers": [
             {
@@ -12337,7 +12680,9 @@
         },
         {
           "id": 13,
-          "name": "Episode13",
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=13"],
           "servers": [
             {
@@ -12369,25 +12714,438 @@
       "original_name": "Sherlock",
       "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
       "popularity": 59.908,
-      "poster_path": "https://image.tmdb.org/t/p/original/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+      "poster_path": "https://www.themoviedb.org/t/p/original/wQczbo7IKtHjmO49pVWTc2u5pSt.jpg",
       "vote_average": 8.524,
       "vote_count": 4021,
       "trailer": "https://www.youtube.com/watch?v=OVXt8jBAGkc&ab_channel=Sherlock",
-      "number_of_episodes": 12,
+      "number_of_episodes": "Episodes 3",
       "season_number": "Season 1",
-
       "genres": [
+        { "name": "Crime" },
+        { "name": "Drama" },
+        { "name": "Mystery" }
+      ],
+      "episodes": [
         {
-          "id": 80,
-          "name": "Crime"
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2010&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=1&e=1"
+            }
+          ]
         },
         {
-          "id": 18,
-          "name": "Drama"
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2010&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=1&e=2"
+            }
+          ]
         },
         {
-          "id": 9648,
-          "name": "Mystery"
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2010&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=1&e=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+      "first_air_date": "2012-01-1",
+      "genre_ids": [80, 18, 9648],
+      "id": "19885Season2",
+      "name": "Sherlock Season 2",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Sherlock",
+      "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "popularity": 59.908,
+      "poster_path": "https://www.themoviedb.org/t/p/original/8IGxkHKRjI3LCwapJ7ieYyWJRSH.jpg",
+      "vote_average": 8.524,
+      "vote_count": 4021,
+      "trailer": "https://www.youtube.com/watch?v=vydmN9pzDzg&ab_channel=VG934",
+      "number_of_episodes": "Episodes 3",
+      "season_number": "Season 2",
+      "genres": [
+        { "name": "Crime" },
+        { "name": "Drama" },
+        { "name": "Mystery" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2012&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2012&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2012&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=2&e=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+      "first_air_date": "2014-01-1",
+      "genre_ids": [80, 18, 9648],
+      "id": "19885Season3",
+      "name": "Sherlock Season 3",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Sherlock",
+      "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "popularity": 59.908,
+      "poster_path": "https://www.themoviedb.org/t/p/original/z9ljxwZUQA2349ZBZAssBXpd0i6.jpg",
+      "vote_average": 8.524,
+      "vote_count": 4021,
+      "trailer": "https://www.youtube.com/watch?v=9UcR9iKArd0&ab_channel=BBC",
+      "number_of_episodes": "Episodes 3",
+      "season_number": "Season 3",
+      "genres": [
+        { "name": "Crime" },
+        { "name": "Drama" },
+        { "name": "Mystery" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=3&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2014&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=3&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2014&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=3&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2014&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=3&e=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+      "first_air_date": "2017-01-1",
+      "genre_ids": [80, 18, 9648],
+      "id": "19885Season4",
+      "name": "Sherlock Season 4",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Sherlock",
+      "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "popularity": 59.908,
+      "poster_path": "https://www.themoviedb.org/t/p/original/yVaWUlLmln0xqUDxVFc8JBuzHzK.jpg",
+      "vote_average": 8.524,
+      "vote_count": 4021,
+      "trailer": "https://www.youtube.com/watch?v=qlcWFoNqZHc&ab_channel=Sherlock",
+      "number_of_episodes": "Episodes 4",
+      "season_number": "Season 4",
+      "genres": [
+        { "name": "Crime" },
+        { "name": "Drama" },
+        { "name": "Mystery" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=4&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=4&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2017&s=4&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=4&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=4&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=4&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2017&s=4&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=4&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=19885&s=4&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=19885&s=4&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Sherlock&year=2017&s=4&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1475582&s=4&e=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/jweDN93wtbUgg2eO8eYTWV6QriS.jpg",
+      "first_air_date": "2020-10-23",
+      "genre_ids": [18],
+      "id": 87739,
+      "name": "The Queen's Gambit",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "The Queen's Gambit",
+      "overview": "In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction.",
+      "popularity": 85.509,
+      "poster_path": "https://www.themoviedb.org/t/p/original/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+      "vote_average": 8.593,
+      "vote_count": 3041,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/aNOWJOfaLlSZlQ93mCz4bsrjHm2.png",
+      "trailer": "https://www.youtube.com/watch?v=oZn3qSgmLqI&ab_channel=RottenTomatoesTV",
+      "number_of_episodes": "Episodes 7",
+      "season_number": "Season 1",
+      "genres": [{ "name": "Drama" }],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Queen%27s%20Gambit&year=2020&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10048342&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Queen%27s%20Gambit&year=2020&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10048342&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Queen%27s%20Gambit&year=2020&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10048342&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Queen%27s%20Gambit&year=2020&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10048342&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Queen%27s%20Gambit&year=2020&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10048342&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Queen%27s%20Gambit&year=2020&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10048342&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=87739&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Queen%27s%20Gambit&year=2020&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10048342&s=1&e=7"
+            }
+          ]
         }
       ]
     },
@@ -12398,7 +13156,7 @@
       "id": 119051,
       "name": "Wednesday",
       "origin_country": ["US"],
-      "number_of_episodes": 8,
+      "number_of_episodes": "Episodes 8",
       "number_of_seasons": 1,
       "original_language": "en",
       "original_name": "Wednesday",
@@ -12437,7 +13195,7 @@
       "vote_count": 812,
       "logo": "https://www.themoviedb.org/t/p/original/tVpAfP9BF8grN4MaOBVIGIMLd1m.png",
       "trailer": "https://www.youtube.com/watch?v=u7JsKhI2An0",
-      "number_of_episodes": 9,
+      "number_of_episodes": "Episodes 9",
       "season_number": "Season 1",
       "genres": [
         { "id": 35, "name": "Comedy" },
@@ -12449,109 +13207,331 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
           "server1": [
-            "https://ur2nexuw9w5z6dsetbxk.vs7000.pics/watch/fbfd7adf41b0a61bShy8-hNLlOzI5rmbT.EBVOg2llguMdZ94NVA7GDQ__.RGpOMGlWQmNSaHRNYXVTVHN1S2JySi9Ed01kZGpEY0NrTFYrbkcyMUtvYUpjZlpGL010S0dqTUZwU2szUVN0MWlNVm1tZDFpOHVYUXNGOGtJcWNYNlY1ZzlOaDlkVUZLY0JyRmNjd0JCQld4YThwTkQwcTZqSGllZFZtZC9qeTUyWFI2dWdPVjJIL2IrQ0hQVGNHT1hhVHEzeWcxb3VMVStJV2RraEdwNWluQ0pFcW1YZ09HU3lXdTVPUGR2eFJJZmh2Qmkxc2NZd2xiS3ZRM2pTOENyZndiZjE0dWtTblNPSlZxYmp4K1ZmbU56UTB6NlNhTGhPelhGRUJtVHU1b0Z6VWVtOTIwVkdnM2tOWnNzSzdQaEZnRWtzWFFVRTlNSDRUY2VMZ0EzMEZTMHAvRDZ5ZUw3ZU5MUmpvMGkyNWhMamZxZkdBMzg2YjRJMFZoOUZQbjRaMEhybFJjTksxTTMxNER0NE1UZHF2blZaRDUrS2NScTdLQWZXOUdTMit0TlFVUlF1b3A4ZVZVT0d3cVgwVTN4cG4wZFBZekM5bk13SGsrK1dEemFYSWFXVmZvNHpMa0dpejBQc1NxTmZDM0Nsc1p1dzRpaElmNklFMC9aV1Y4Z3EwcFVnYnRmOW51aXB4K0FuT0h0a1BLZldUeWowQkR0d1krZlFCWGtVRHpHYzlpaUNIaG5YSEQ_"
+            "https://cdn.jwplayer.com/players/uK6NX6PL-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://ur2nexuw9w5z6dsetbxk.vs7000.pics/watch/fbfd7adf41b0a61bShy8-hNLlOzI5rmbT.EBVOg2llguMdZ94NVA7GDQ__.RGpOMGlWQmNSaHRNYXVTVHN1S2JySi9Ed01kZGpEY0NrTFYrbkcyMUtvYUpjZlpGL010S0dqTUZwU2szUVN0MWlNVm1tZDFpOHVYUXNGOGtJcWNYNlY1ZzlOaDlkVUZLY0JyRmNjd0JCQld4YThwTkQwcTZqSGllZFZtZC9qeTUyWFI2dWdPVjJIL2IrQ0hQVGNHT1hhVHEzeWcxb3VMVStJV2RraEdwNWluQ0pFcW1YZ09HU3lXdTVPUGR2eFJJZmh2Qmkxc2NZd2xiS3ZRM2pTOENyZndiZjE0dWtTblNPSlZxYmp4K1ZmbU56UTB6NlNhTGhPelhGRUJtVHU1b0Z6VWVtOTIwVkdnM2tOWnNzSzdQaEZnRWtzWFFVRTlNSDRUY2VMZ0EzMEZTMHAvRDZ5ZUw3ZU5MUmpvMGkyNWhMamZxZkdBMzg2YjRJMFZoOUZQbjRaMEhybFJjTksxTTMxNER0NE1UZHF2blZaRDUrS2NScTdLQWZXOUdTMit0TlFVUlF1b3A4ZVZVT0d3cVgwVTN4cG4wZFBZekM5bk13SGsrK1dEemFYSWFXVmZvNHpMa0dpejBQc1NxTmZDM0Nsc1p1dzRpaElmNklFMC9aV1Y4Z3EwcFVnYnRmOW51aXB4K0FuT0h0a1BLZldUeWowQkR0d1krZlFCWGtVRHpHYzlpaUNIaG5YSEQ_"
+              "server": "https://cdn.jwplayer.com/players/uK6NX6PL-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/uK6NX6PL-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-qcainu78bwu4.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-d950br7ezb2w.html"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=1"
             }
           ]
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
           "server1": [
-            "https://f8houp565iopubvixvfx.vs7000.pics/watch/c78e2014aafafc60mdng1cdaCHYyWo658.J7s|-Ni-cd7ZUSRq1FU2Gg__.Nm1RaXpLWml2SktiUFl1dFZiODdrcm8zZ0xrRkt1Y3plT2l6d3d3eXRHQncvbnEzRTQ4cFo1cWpqRVZNZjYxWDY3Y3h2aDloa1h6YTVoZ2N3TzJ0QjRMSzdWZ3VjVSt3eE5DOFVGcGxLbnFMdkQ0bURRUEtRajVtcGt6amlSRVdYUncranNBdXNtL1ZxMHhFUGVxQ3lXNXNhcXhCbUFONS9ZcG5JL3poT2xNaGxEOGo4N1RIUzdWcTFJeWhONllJa2FPT2UyVGdYV1F6R05sVmlTWC9rK3VTM28xTFZsQlF1QjlLaXlzeklhcnBsdUEyOGg4RU9YMEFSa0FNZXNvWS8zQXF3ZStnYUI5YklLODg0WFRpTjY1UzRlUDdrU2lCZXpuRlY4ZnU1OW9uY3hKemY1SmNYZEgvOHdyaHR2SmFxQnZnVXJTY2tCUlBaR2gyR25ZWFdxQ3g1VlU2eXViZ2VsemsrYUE3S1lCQjk4WDEyV2RSWlZVTXFHQjB6VWxzM0hSbGJBWTYvZnZkVStFcHluNHJyZTRpYWtJR0xhMENHSndkMGZueHFFLzlkMnZEa0JCTVE0Z2hvbm9uZG1wSDNQTVM1c0VGaUl3VDBoU3BwTjl4WkdpREFVcFgxRlQvbno4cmZ2Ti9xU2p2UWRjTitiNGxyQ3Nka3NReUFoSC8xRDM5NlhkQk9JSEY_"
+            "https://cdn.jwplayer.com/players/dfGErELh-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://f8houp565iopubvixvfx.vs7000.pics/watch/c78e2014aafafc60mdng1cdaCHYyWo658.J7s|-Ni-cd7ZUSRq1FU2Gg__.Nm1RaXpLWml2SktiUFl1dFZiODdrcm8zZ0xrRkt1Y3plT2l6d3d3eXRHQncvbnEzRTQ4cFo1cWpqRVZNZjYxWDY3Y3h2aDloa1h6YTVoZ2N3TzJ0QjRMSzdWZ3VjVSt3eE5DOFVGcGxLbnFMdkQ0bURRUEtRajVtcGt6amlSRVdYUncranNBdXNtL1ZxMHhFUGVxQ3lXNXNhcXhCbUFONS9ZcG5JL3poT2xNaGxEOGo4N1RIUzdWcTFJeWhONllJa2FPT2UyVGdYV1F6R05sVmlTWC9rK3VTM28xTFZsQlF1QjlLaXlzeklhcnBsdUEyOGg4RU9YMEFSa0FNZXNvWS8zQXF3ZStnYUI5YklLODg0WFRpTjY1UzRlUDdrU2lCZXpuRlY4ZnU1OW9uY3hKemY1SmNYZEgvOHdyaHR2SmFxQnZnVXJTY2tCUlBaR2gyR25ZWFdxQ3g1VlU2eXViZ2VsemsrYUE3S1lCQjk4WDEyV2RSWlZVTXFHQjB6VWxzM0hSbGJBWTYvZnZkVStFcHluNHJyZTRpYWtJR0xhMENHSndkMGZueHFFLzlkMnZEa0JCTVE0Z2hvbm9uZG1wSDNQTVM1c0VGaUl3VDBoU3BwTjl4WkdpREFVcFgxRlQvbno4cmZ2Ti9xU2p2UWRjTitiNGxyQ3Nka3NReUFoSC8xRDM5NlhkQk9JSEY_"
+              "server": "https://cdn.jwplayer.com/players/dfGErELh-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/dfGErELh-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-c4xvbmchbnyt.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-w0ev4xh35bi7.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-fh083kjrb72p.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-gkysa30ehvck.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=2"
             }
           ]
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
           "server1": [
-            "https://kdklm8x9iveexns0jxxv.vs7000.pics/watch/3d50bff255b10252RmAQBNAodQLhuWLDE.MkcjNWd2LYhs1clLo9gMeg__.UXdWbnpYdytnNEtGS0dZZWdKTHBUbWlCTDAxVkt3em5vakMvUFRYZ2xvZVlOS3I2ZS8vMVR0aURzQWlIYWx1MDNlU3NNendHR25qbkJaNi96eThmbU5iWSt4bVRFSjZTbXYweFp6UGdFVEFXN1c2ZkprbTJ3WWxpRXdPVUVMZFZ5ZS9LM1IxaVFpTGRyNnprc2djM01zdjVJa0dtRWJUc1lJN09lNk9CYzNXVVpOME9rb3VOOXV4QUtjQXQwL0R3L3kvWTVKcE9ya09iOFU1T3luRE5sWjZLZ0dBRXZ6YU9xdWtmWlZQU20xelFkWEFJWnFTQVpUNGp4b0lGWE5NNUNMZnN4QWk3VHFsbzRmWVBzanJNTEJhc3RzdU1qZFkxQkR6VDNnWlErNHhJckhSVnhNWUFQTnZLbDVXbUs4bFB2ZllvcC9aRmFOdUgyeE9RTkpsQlJZUUY0NlZyK250Y1BwL09CV1pOa3hOUld0N3N3T29ubTlFTm1JbThjSmFBYzNtUmI2L0JiK0xWb0cyTWZWRS84VFRWbU5FSXgxWm1pTHRDZldtUlhCRXNqMzcxSThycnNSdnpjQTdhMDBsSHJCSk1xN3RTTmZybUhWMUVLK1FBWWsyNThBPT0_"
+            "https://cdn.jwplayer.com/players/Iqh35lAk-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://kdklm8x9iveexns0jxxv.vs7000.pics/watch/3d50bff255b10252RmAQBNAodQLhuWLDE.MkcjNWd2LYhs1clLo9gMeg__.UXdWbnpYdytnNEtGS0dZZWdKTHBUbWlCTDAxVkt3em5vakMvUFRYZ2xvZVlOS3I2ZS8vMVR0aURzQWlIYWx1MDNlU3NNendHR25qbkJaNi96eThmbU5iWSt4bVRFSjZTbXYweFp6UGdFVEFXN1c2ZkprbTJ3WWxpRXdPVUVMZFZ5ZS9LM1IxaVFpTGRyNnprc2djM01zdjVJa0dtRWJUc1lJN09lNk9CYzNXVVpOME9rb3VOOXV4QUtjQXQwL0R3L3kvWTVKcE9ya09iOFU1T3luRE5sWjZLZ0dBRXZ6YU9xdWtmWlZQU20xelFkWEFJWnFTQVpUNGp4b0lGWE5NNUNMZnN4QWk3VHFsbzRmWVBzanJNTEJhc3RzdU1qZFkxQkR6VDNnWlErNHhJckhSVnhNWUFQTnZLbDVXbUs4bFB2ZllvcC9aRmFOdUgyeE9RTkpsQlJZUUY0NlZyK250Y1BwL09CV1pOa3hOUld0N3N3T29ubTlFTm1JbThjSmFBYzNtUmI2L0JiK0xWb0cyTWZWRS84VFRWbU5FSXgxWm1pTHRDZldtUlhCRXNqMzcxSThycnNSdnpjQTdhMDBsSHJCSk1xN3RTTmZybUhWMUVLK1FBWWsyNThBPT0_"
+              "server": "https://cdn.jwplayer.com/players/Iqh35lAk-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/Iqh35lAk-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-77jymud3z0wk.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-az11ploni1id.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-4zg5sdnp7czm.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-zvwzcee00djl.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=3"
             }
           ]
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
           "server1": [
-            "https://pypsloznklfvp9aamwdr.vs7000.pics/watch/b270c56285bcdac3akT7vc2|pgIHtR0WV.ScW31-ok7QSH|vkfGXWVXA__.SEdERUJJR05BQXNQeDFjSjcvSnB3aGFBNTFZSWZHTThhN3E4ME1oNWw1SFNOUUlhNWJsT1dmN3pGZ3pOQWw2S3ZScEc3Mk9KbHg2d2xzNEZ6eEh4WndZRW9tS05raFpnZHBDZTJkbnNHVUNxdWZudnpoSFZWcWZiWkNCcFowdEpBRUVmaVVxTjBSSGpXWG1WWGtOeFdoY0pwTVFQaGRmaC84TU55ajY3K3pKMm5rOXhVQXdUSVZMTDQxUXkvWGhyeFZBUXpidjB3QVdOL0xVTkJ5T1ExN1hvWWwzSnpUMjlaRU9STE95UHRnUisyZ0huRTJoZmlJUmRVNW5yaFE3RGZUcUVSQjhyeW95cXdBYUJabFFuQVNtS2l2M1BYTThzcjFQaTRWYXBtUE5yRjJZbHRaK2hLd0dDSm9GYUNCSGNMZjdVdWtoMUZjRzBrMHRKcktlMktaMVh5anRtUTdxbjh1MGRmME9XREdjeTBRUStOeThFbnpza2FnUnFLWjdWVm9uNzJUV0lybDM3dGNpMlVpbGtGQVJhWWc0WDNBRTBHcnF3Tmh5ODhYaFR2MWw1dm9aRDgyMEpnMm1CSHFyTTBpQ0ZhbmIzb0tsNUNjbEx0UmdvZnd0VjZnNjZJUEtoNFNEQzZqWU9jOWFZMWZzZDVuaks1SFpjbzNXa2hTdDcySXBhMlI4NnErbzY_"
+            "https://cdn.jwplayer.com/players/w9sLKX2h-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://pypsloznklfvp9aamwdr.vs7000.pics/watch/b270c56285bcdac3akT7vc2|pgIHtR0WV.ScW31-ok7QSH|vkfGXWVXA__.SEdERUJJR05BQXNQeDFjSjcvSnB3aGFBNTFZSWZHTThhN3E4ME1oNWw1SFNOUUlhNWJsT1dmN3pGZ3pOQWw2S3ZScEc3Mk9KbHg2d2xzNEZ6eEh4WndZRW9tS05raFpnZHBDZTJkbnNHVUNxdWZudnpoSFZWcWZiWkNCcFowdEpBRUVmaVVxTjBSSGpXWG1WWGtOeFdoY0pwTVFQaGRmaC84TU55ajY3K3pKMm5rOXhVQXdUSVZMTDQxUXkvWGhyeFZBUXpidjB3QVdOL0xVTkJ5T1ExN1hvWWwzSnpUMjlaRU9STE95UHRnUisyZ0huRTJoZmlJUmRVNW5yaFE3RGZUcUVSQjhyeW95cXdBYUJabFFuQVNtS2l2M1BYTThzcjFQaTRWYXBtUE5yRjJZbHRaK2hLd0dDSm9GYUNCSGNMZjdVdWtoMUZjRzBrMHRKcktlMktaMVh5anRtUTdxbjh1MGRmME9XREdjeTBRUStOeThFbnpza2FnUnFLWjdWVm9uNzJUV0lybDM3dGNpMlVpbGtGQVJhWWc0WDNBRTBHcnF3Tmh5ODhYaFR2MWw1dm9aRDgyMEpnMm1CSHFyTTBpQ0ZhbmIzb0tsNUNjbEx0UmdvZnd0VjZnNjZJUEtoNFNEQzZqWU9jOWFZMWZzZDVuaks1SFpjbzNXa2hTdDcySXBhMlI4NnErbzY_"
+              "server": "https://cdn.jwplayer.com/players/w9sLKX2h-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/w9sLKX2h-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-h7xtmrotgn6z.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-020d9pgety3e.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-8qlr2jxuu4dh.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-utifd1st1uwb.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=4"
             }
           ]
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
           "server1": [
-            "https://4slseceviwzbls59324f.vs7000.pics/watch/56011f75f2413525hbWw7JXyklYkfkEph.qXsSM6FcDI4Dw|jgFbR4rg__.Z2xkYnpMZGR4a052QVViMVpyaTFqYzJyUGhQZkcxZVZ1K0pSWUwveFlWY2VrODRUbEwzckJFdVR0b25hR1JvTlZyL2VnanlmYTdGZVFjRDlHa0hMc20vdkdUaXFodVI5MXNvL2ptT3lqcTdMdStMRlB2MVFMMGE0cVRGY2JqaUhIL1pDeHlDeG5WOTdwRTAxV0FEdWt4SDJxcTR5SEFuYmRsYTk1YkpvU2tDYzB0SDdDZVJxcFplNFYvZmZQcHFtVVNZalFEOVdabDdXNmhtWVdkU09rNEdlTEdiRHRPYTlwU1QxeE1PcFJONGladURiQWFxMDdJSWFBUElJaHlSdTZUYnJ1VVhMRStoam41ZE12ekdTOFFMU2toaHdCdW9GM0xpTTBIdWMvd284dUJYMVlmcDhTRkRmdDVjeEZBNnJLVEtCU2ZjMlZxdGhuYmYrR2xjTnpQSlFtQXNqaW1uU0lmdHZBVUNKbDIrcGNLN1cyVjhBbE9NbDMwVjhYQW83WjdyWWFMUXUvVHExcTRVblp3elV4d2ZMSHRhQjExNTQvZFBmN1VJRVlnRG13aTRYNStGSmthSDIvVCtVbDNpbyswNjRzUlRISWxSNVFwVXV6TURCTEJiWVpRPT0_"
+            "https://cdn.jwplayer.com/players/gJJ2f9de-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://4slseceviwzbls59324f.vs7000.pics/watch/56011f75f2413525hbWw7JXyklYkfkEph.qXsSM6FcDI4Dw|jgFbR4rg__.Z2xkYnpMZGR4a052QVViMVpyaTFqYzJyUGhQZkcxZVZ1K0pSWUwveFlWY2VrODRUbEwzckJFdVR0b25hR1JvTlZyL2VnanlmYTdGZVFjRDlHa0hMc20vdkdUaXFodVI5MXNvL2ptT3lqcTdMdStMRlB2MVFMMGE0cVRGY2JqaUhIL1pDeHlDeG5WOTdwRTAxV0FEdWt4SDJxcTR5SEFuYmRsYTk1YkpvU2tDYzB0SDdDZVJxcFplNFYvZmZQcHFtVVNZalFEOVdabDdXNmhtWVdkU09rNEdlTEdiRHRPYTlwU1QxeE1PcFJONGladURiQWFxMDdJSWFBUElJaHlSdTZUYnJ1VVhMRStoam41ZE12ekdTOFFMU2toaHdCdW9GM0xpTTBIdWMvd284dUJYMVlmcDhTRkRmdDVjeEZBNnJLVEtCU2ZjMlZxdGhuYmYrR2xjTnpQSlFtQXNqaW1uU0lmdHZBVUNKbDIrcGNLN1cyVjhBbE9NbDMwVjhYQW83WjdyWWFMUXUvVHExcTRVblp3elV4d2ZMSHRhQjExNTQvZFBmN1VJRVlnRG13aTRYNStGSmthSDIvVCtVbDNpbyswNjRzUlRISWxSNVFwVXV6TURCTEJiWVpRPT0_"
+              "server": "https://cdn.jwplayer.com/players/gJJ2f9de-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/gJJ2f9de-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-splognoz3hlz.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-xq20gfshv8ob.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-393bgq1znuwn.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-2po8rtw4omhj.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=5"
             }
           ]
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
           "server1": [
-            "https://olocwmeynlbjc60xa33d.vs7000.pics/watch/abd2fd90fb8c80f0dgG8YFPkdUrgXOQMy.KEzUtFcvQmgia5fjX7VkLg__.OXRtL1JuTUhiRTUydFVDSkdsblo3blJQeGk0b291cTBTL2doSm5wbm1vQXI0MEpNejlwcXdCOCsvRWdiZDdKKzRhSGdDaUNianY0ci9RRkxtbTBUMDZUWERCRU5sRmxTOUNPOTl6VHZPQm5DNkt1STVrOUp1VlVBZ3p5UWI5bWVDZG9UNXkzbEhlam1iVWg2bitGcVM2MkZROGtxbDl3S24wK3RxVWxtb1RObmpwZGhWSXRqYUZ1YVZQbWF5Q0pGLzNSdjlVVWpFajNTMGoxSnVkUk83c1FEN0tXZklhUjhrREVSODNTVkFPRTNMTG54N0RrcWZWQWwrMlZLamxLQ3JsSWJ0SVFweHkzYXdnRHIzUU0vRVFxQ1paV2p4am5YYmhzSjNOcWtQU2xhL3VPNHN2U2dXRlBnT2VBbVpaMlMxOVNLbDZPNnd1bmdMcHc5a1lyWTNyOC9sdk83V1pBa0lmb0VEUG0ydXBGaSt3UStVc2VjQ2JUNlFFa3dqVlRNVkJmblRmdlU2NndMSlhpR3A3dGJWVTAxQkFVdW9VbGJWUnFEUWtkenE4Zm5DVnVoSHMweDNqcVpUQmZ1Z0JteitCS3FTN0dPZDgzUVQ5Z2d3TlFabHhnOU52VC9COFZlTDNEc3VrQUkxcnpyNC94d3FPNTcxSDhtQnQ0eGxSbGRaQk1RaFllUzFhb2U_"
+            "https://cdn.jwplayer.com/players/uiSgN93K-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://olocwmeynlbjc60xa33d.vs7000.pics/watch/abd2fd90fb8c80f0dgG8YFPkdUrgXOQMy.KEzUtFcvQmgia5fjX7VkLg__.OXRtL1JuTUhiRTUydFVDSkdsblo3blJQeGk0b291cTBTL2doSm5wbm1vQXI0MEpNejlwcXdCOCsvRWdiZDdKKzRhSGdDaUNianY0ci9RRkxtbTBUMDZUWERCRU5sRmxTOUNPOTl6VHZPQm5DNkt1STVrOUp1VlVBZ3p5UWI5bWVDZG9UNXkzbEhlam1iVWg2bitGcVM2MkZROGtxbDl3S24wK3RxVWxtb1RObmpwZGhWSXRqYUZ1YVZQbWF5Q0pGLzNSdjlVVWpFajNTMGoxSnVkUk83c1FEN0tXZklhUjhrREVSODNTVkFPRTNMTG54N0RrcWZWQWwrMlZLamxLQ3JsSWJ0SVFweHkzYXdnRHIzUU0vRVFxQ1paV2p4am5YYmhzSjNOcWtQU2xhL3VPNHN2U2dXRlBnT2VBbVpaMlMxOVNLbDZPNnd1bmdMcHc5a1lyWTNyOC9sdk83V1pBa0lmb0VEUG0ydXBGaSt3UStVc2VjQ2JUNlFFa3dqVlRNVkJmblRmdlU2NndMSlhpR3A3dGJWVTAxQkFVdW9VbGJWUnFEUWtkenE4Zm5DVnVoSHMweDNqcVpUQmZ1Z0JteitCS3FTN0dPZDgzUVQ5Z2d3TlFabHhnOU52VC9COFZlTDNEc3VrQUkxcnpyNC94d3FPNTcxSDhtQnQ0eGxSbGRaQk1RaFllUzFhb2U_"
+              "server": "https://cdn.jwplayer.com/players/uiSgN93K-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/uiSgN93K-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-2zifzqp8vcjx.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-xflb47rz7vlt.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-ipmkmn591l37.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-oxjibcea6y8p.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=6"
             }
           ]
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
           "server1": [
-            "https://hayltskcxklf4wuqxpnq.vs7000.pics/watch/a577aca238246874YWHUcpHQmgnPXfNhW.oQteRpcpkCrA0vdZLYLWow__.WXd4RFJPbWUwSWZFRW81MkhnVVVQa2hybi9kdml4NlNQZjVNZGtUTFdwOFhkaE5pWVpDclFvWGhTYWdxUjl1bkFoUW1iMkF3REVwOGlURVUrbWw5UFVJSzBnNmhtZDN5Zk1sNHNTOERuSWlSQkk3ZmFZbVBxT3BleWw3M05VY0cvbkpQUzlDT21yS1k5dDlCV2ZpM3hVNktxNjlrUDhJSWpXWjU0VGVRZ2JqOVcxaDVvcG03Y2VnNjdHaytwK2RaRFV6MTY5N0ZQcWFKTnlYOWg5bUZubXU4cGMzcktUSjJhRUhYSTNaSE1uRWhBQk9WdTFXcDhYMmViVzl4RlorWVY5RXdGUmVldklKbDNMUVVlMHlQdWlNc3JKbVpsUWUyU0xBcHRhejNsZkNxaTRlMzkraXNyY05VSENJY2dyUC9yRVdFaEF3ejg2NUpJRThUaXdmK3R6RGRQZXE1SmlSNkd5c1g2emYvMWhQSjF6Q2tkNVdhYmY2SVN3a3Axc2hqOFlFeDJIRE5vNmI4aGVSY3VzQ25UTVJ1V0dOWEFsT3MwY1RKSWZ5NUpMcXBWT085NmNBSUgwS2QvMXdJMzJNVFE4SnQ0enkvZFVsdUVMWWtPcGNSUWUxb01nPT0_"
+            "https://cdn.jwplayer.com/players/druThUt5-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://hayltskcxklf4wuqxpnq.vs7000.pics/watch/a577aca238246874YWHUcpHQmgnPXfNhW.oQteRpcpkCrA0vdZLYLWow__.WXd4RFJPbWUwSWZFRW81MkhnVVVQa2hybi9kdml4NlNQZjVNZGtUTFdwOFhkaE5pWVpDclFvWGhTYWdxUjl1bkFoUW1iMkF3REVwOGlURVUrbWw5UFVJSzBnNmhtZDN5Zk1sNHNTOERuSWlSQkk3ZmFZbVBxT3BleWw3M05VY0cvbkpQUzlDT21yS1k5dDlCV2ZpM3hVNktxNjlrUDhJSWpXWjU0VGVRZ2JqOVcxaDVvcG03Y2VnNjdHaytwK2RaRFV6MTY5N0ZQcWFKTnlYOWg5bUZubXU4cGMzcktUSjJhRUhYSTNaSE1uRWhBQk9WdTFXcDhYMmViVzl4RlorWVY5RXdGUmVldklKbDNMUVVlMHlQdWlNc3JKbVpsUWUyU0xBcHRhejNsZkNxaTRlMzkraXNyY05VSENJY2dyUC9yRVdFaEF3ejg2NUpJRThUaXdmK3R6RGRQZXE1SmlSNkd5c1g2emYvMWhQSjF6Q2tkNVdhYmY2SVN3a3Axc2hqOFlFeDJIRE5vNmI4aGVSY3VzQ25UTVJ1V0dOWEFsT3MwY1RKSWZ5NUpMcXBWT085NmNBSUgwS2QvMXdJMzJNVFE4SnQ0enkvZFVsdUVMWWtPcGNSUWUxb01nPT0_"
+              "server": "https://cdn.jwplayer.com/players/druThUt5-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/druThUt5-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-i5lcmx3sypuc.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-vpfclmwo5igd.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-1877kd9nyxpu.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-ccaugudc1qt3.html"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=7"
             }
           ]
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
           "server1": [
-            "https://h4de3emafp3cdsqxoe8q.vs7000.pics/watch/17ca4c88a1f0f3cfzj|6kpn|2Z7t9K5Q8.gAWl2wnFCOQBBAI7|sBfgA__.bFJIU3JZMEJ0NWFsNWZ4c2lIditBSjM1ZC8xRlZoNVpSSDNiaHkzenlzY1lucUhlbjd1d0dvMjE1ZTdaeXNLQ2h2M3dDWWV3UWNVbXlTeWVhMXFLVE5Nam9ibC9PT1hZVU1qcFp3b1VTaHlJWmVPYTl1dXZSVEdaTzM0ZjVtN0wxVC9qOFY5ZzZqM3ZsY0lXWktlbTg4Qkd3MDAwYzFkM04rNGlFR0t4TSs4UytYcVA3L1N1MURKZVQ3TWdUL2liN2wvcE1oSkxwYmFRNHd0LzJlc0pFbVZzVGpoYnRaOFVUM0tlZzdmRGEvODNXM2l4ME1rSDJJWCttS08vc29MT1BBZnNGc1JKYzlIUndCWUUwQStIUmkwSis1dVBZQmFNS1FBZWZnbTlBUTdlQjhFRlQ3M0UvOFhXb2kycjRRbC8zRit5U3A2cUs1WjRHR2pkMHVZZ2ZGaFdtVEVHR1o3RC9IT3IvZlgrM09XMVE1d1RXOVFtRFY4a1RxMDVMOXduUkJoK1FPUFk5MCsvZFdJVjJtN1hOdFpSRlRCSmZKVnhwSDZLdzdiei9Jb3FZNTF2VkZqTityQUd0cW1tYVVndGxqb1FYZmlUOHJBcHJTb2ZTNVJZOW9lQmhONGg3ZUM0T3EwYUJDcXRhMlovT3cyZ0FBekxOTXBMczQ1M2pkeE9tTGFVK3Vibm9jQWs_"
+            "https://cdn.jwplayer.com/players/LqyBf2tO-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://h4de3emafp3cdsqxoe8q.vs7000.pics/watch/17ca4c88a1f0f3cfzj|6kpn|2Z7t9K5Q8.gAWl2wnFCOQBBAI7|sBfgA__.bFJIU3JZMEJ0NWFsNWZ4c2lIditBSjM1ZC8xRlZoNVpSSDNiaHkzenlzY1lucUhlbjd1d0dvMjE1ZTdaeXNLQ2h2M3dDWWV3UWNVbXlTeWVhMXFLVE5Nam9ibC9PT1hZVU1qcFp3b1VTaHlJWmVPYTl1dXZSVEdaTzM0ZjVtN0wxVC9qOFY5ZzZqM3ZsY0lXWktlbTg4Qkd3MDAwYzFkM04rNGlFR0t4TSs4UytYcVA3L1N1MURKZVQ3TWdUL2liN2wvcE1oSkxwYmFRNHd0LzJlc0pFbVZzVGpoYnRaOFVUM0tlZzdmRGEvODNXM2l4ME1rSDJJWCttS08vc29MT1BBZnNGc1JKYzlIUndCWUUwQStIUmkwSis1dVBZQmFNS1FBZWZnbTlBUTdlQjhFRlQ3M0UvOFhXb2kycjRRbC8zRit5U3A2cUs1WjRHR2pkMHVZZ2ZGaFdtVEVHR1o3RC9IT3IvZlgrM09XMVE1d1RXOVFtRFY4a1RxMDVMOXduUkJoK1FPUFk5MCsvZFdJVjJtN1hOdFpSRlRCSmZKVnhwSDZLdzdiei9Jb3FZNTF2VkZqTityQUd0cW1tYVVndGxqb1FYZmlUOHJBcHJTb2ZTNVJZOW9lQmhONGg3ZUM0T3EwYUJDcXRhMlovT3cyZ0FBekxOTXBMczQ1M2pkeE9tTGFVK3Vibm9jQWs_"
+              "server": "https://cdn.jwplayer.com/players/LqyBf2tO-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/LqyBf2tO-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-2zlvik8rk72d.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-48zekolsl6hp.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-j1e1icu9imqq.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-5xdibefua95p.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=8"
             }
           ]
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
           "server1": [
-            "https://hua5yp2j6j84qmu5mkfe.vs7000.pics/watch/6398dd37a19c3659FUDAAj7Q9b621NChC.BZuxgT|tr5|giWF0m3UUmA__.TVlUTVU3bVdTOWE5VFBjNDZtTnhiVTE5Yjkva1FvS0d3enczU0N1MzYwb3czb0F3TTh3TC9ZblRVaHcyaGpzSlZEeTl5SDBBSmowb2dpV0hYVlpKYmdsVmJRQkJCakxwVktmekpxZlF1eGZDZWhKY25JdHJEd3QwYmtLT3dmVWptRDNkbXpOd2JYUDQwc0Q2djRqVnhxVXpSMk1xUk5TNFBnVXIwaWovL1VQTmU1ZHhRb0grS0dhOEV6MTNVNzN3SWFlbElLcVhFa1BGbjRCR1hkM3EvOUJ5YlErN1JGcWFUV1NNTVJhZkxmcExPWnZSTWp0VWIxTzJoeWpVcGQ0TUM2QU01YzlpZVNmRUYrZDI2L0xlNldPYnN4WG54clRLSFBCalpBQ1cyN0k5Y1E0TzRoWlBwZzBid0t0b3Bsb2ZRWHIyaDZEY09PQTRDVWtDT3Bqb0FTUmZ1SkwxZEJiK2EyWW0rSGlXQzhWVTEyeE9NcGRYMnZ2VlRVVmI3NWdiRkRoMElvNjJoSllRb0ZxdEhUTzJTL2Z0RFBwMTg1aTZGcE5WN3NETVhzWUlIL0JaQ3FIY1JZRnh2a0hpcDBpNG1jNnJqUmV5ZkVsdlVFZ1dzdXJWTXZlVXg5NjJTZVRUN2N5UStQeDYxdVZJMURyR201ZHJCaUdTMHE2WWFWMEVlZlEvZFdwU05Yam0_"
+            "https://cdn.jwplayer.com/players/eyIDv7AO-BI2JS0Mm.html"
           ],
           "servers": [
             {
-              "server": "https://hua5yp2j6j84qmu5mkfe.vs7000.pics/watch/6398dd37a19c3659FUDAAj7Q9b621NChC.BZuxgT|tr5|giWF0m3UUmA__.TVlUTVU3bVdTOWE5VFBjNDZtTnhiVTE5Yjkva1FvS0d3enczU0N1MzYwb3czb0F3TTh3TC9ZblRVaHcyaGpzSlZEeTl5SDBBSmowb2dpV0hYVlpKYmdsVmJRQkJCakxwVktmekpxZlF1eGZDZWhKY25JdHJEd3QwYmtLT3dmVWptRDNkbXpOd2JYUDQwc0Q2djRqVnhxVXpSMk1xUk5TNFBnVXIwaWovL1VQTmU1ZHhRb0grS0dhOEV6MTNVNzN3SWFlbElLcVhFa1BGbjRCR1hkM3EvOUJ5YlErN1JGcWFUV1NNTVJhZkxmcExPWnZSTWp0VWIxTzJoeWpVcGQ0TUM2QU01YzlpZVNmRUYrZDI2L0xlNldPYnN4WG54clRLSFBCalpBQ1cyN0k5Y1E0TzRoWlBwZzBid0t0b3Bsb2ZRWHIyaDZEY09PQTRDVWtDT3Bqb0FTUmZ1SkwxZEJiK2EyWW0rSGlXQzhWVTEyeE9NcGRYMnZ2VlRVVmI3NWdiRkRoMElvNjJoSllRb0ZxdEhUTzJTL2Z0RFBwMTg1aTZGcE5WN3NETVhzWUlIL0JaQ3FIY1JZRnh2a0hpcDBpNG1jNnJqUmV5ZkVsdlVFZ1dzdXJWTXZlVXg5NjJTZVRUN2N5UStQeDYxdVZJMURyR201ZHJCaUdTMHE2WWFWMEVlZlEvZFdwU05Yam0_"
+              "server": "https://cdn.jwplayer.com/players/eyIDv7AO-BI2JS0Mm.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/eyIDv7AO-BI2JS0Mm"
+            },
+            {
+              "server": "https://vidhd.fun/embed-y2fqsbvxnldt.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-c6umxs1984lh.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-ow5c0nt572io.html"
+            },
+
+            {
+              "server": "https://vidshar.org/embed-bc2bd9nc0fo4.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=92783&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=She-Hulk:%20Attorney%20at%20Law&year=2022&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10857160&s=1&e=9"
             }
           ]
         }
@@ -12813,7 +13793,7 @@
       "vote_count": 2642
     },
     {
-      "backdrop_path": "https://image.tmdb.org/t/p/original/wNKwOtq27yfN13SKKV07NwkpBA3.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
       "first_air_date": "2019-11-01",
       "genre_ids": [18, 10765, 10759],
       "id": 80752,
@@ -12823,9 +13803,482 @@
       "original_name": "See",
       "overview": "A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.",
       "popularity": 770.241,
-      "poster_path": "https://image.tmdb.org/t/p/original/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+      "poster_path": "https://www.themoviedb.org/t/p/original/10eO3eoTgXHXCHNNtUXX3UeAjnX.jpg",
       "vote_average": 8.3,
-      "vote_count": 1767
+      "vote_count": 1767,
+      "logo": "https://www.themoviedb.org/t/p/original/gzzvYow2eHmg8iS5SD3AlrCV43d.png",
+      "trailer": "https://www.youtube.com/watch?v=7Rg0y7NT1gU",
+      "number_of_episodes": "Episodes 8",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Drama" },
+        { "name": "Sci-Fi & Fantasy" },
+        { "name": "Action & Adventure" }
+      ],
+
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/2YQcWTJnyVYqwtj3eIgMtHvxGGE.jpg",
+      "first_air_date": "2021-08-27",
+      "genre_ids": [18, 10765, 10759],
+      "id": "80752Season2",
+      "name": "See Season 2",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "See",
+      "overview": "In season two, Baba Voss is fighting to reunite his torn-apart family and get away from the war and politics that surround him, but the more he moves away, the deeper he gets sucked in, and the emergence of his nemesis brother threatens his family even more.",
+      "popularity": 770.241,
+      "poster_path": "https://image.tmdb.org/t/p/original/A6dnHWe8YYcoFBHzP7T6WPP4b6F.jpg",
+      "vote_average": 8.3,
+      "vote_count": 1767,
+      "trailer": "https://www.youtube.com/watch?v=WTVWaNwTRaE&ab_channel=AppleTV",
+      "number_of_episodes": "Episodes 8",
+      "season_number": "Season 2",
+      "genres": [
+        { "name": "Drama" },
+        { "name": "Sci-Fi & Fantasy" },
+        { "name": "Action & Adventure" }
+      ],
+
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=2&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/wNKwOtq27yfN13SKKV07NwkpBA3.jpg",
+      "air_date": "2022-08-25",
+      "genre_ids": [18, 10765, 10759],
+      "id": "80752Season3",
+      "name": "See Season 3",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "See",
+      "overview": "In season three, almost a year has passed since Baba Voss defeated his nemesis brother Edo and bid farewell to his family to live remotely in the forest. But when a Trivantian scientist develops a new and devastating form of sighted weaponry that threatens the future of humanity, Baba returns to Paya in order to protect his tribe once more.",
+      "popularity": 770.241,
+      "poster_path": "https://image.tmdb.org/t/p/original/eKuHP97omMYK4HPCOPzVTHjoNEM.jpg",
+      "vote_average": 8.3,
+      "vote_count": 1767,
+      "logo": "https://www.themoviedb.org/t/p/original/gzzvYow2eHmg8iS5SD3AlrCV43d.png",
+      "trailer": "https://www.youtube.com/watch?v=L2idzg4dBWU&ab_channel=AppleTV",
+      "number_of_episodes": "Episodes 8",
+      "season_number": "Season 3",
+      "genres": [
+        { "name": "Drama" },
+        { "name": "Sci-Fi & Fantasy" },
+        { "name": "Action & Adventure" }
+      ],
+
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=80752&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=See&year=2019&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7949218&s=3&e=8"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/9xWuVqoUfsYyPsHPeVIzAYds6in.jpg",
@@ -12872,7 +14325,7 @@
       "vote_average": 8.7,
       "vote_count": 85,
       "trailer": "https://www.youtube.com/watch?v=v4yLeNt-kCU",
-      "number_of_episodes": 12,
+      "number_of_episodes": "Episodes 12",
       "season_number": "Season 1",
       "genres": [
         { "id": 16, "name": "Animation" },
@@ -12892,7 +14345,8 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
           "server1": ["https://upvideo.to/e/wys0a9r3v0qa/"],
           "servers": [
             {
@@ -12909,7 +14363,8 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
           "server1": [
             "https://mega.nz/embed/tKdlBJoZ#tP1VbQgGK_PhcI0NuhZWN_Sdu2QCJmohlR7F6UxBEoM"
           ],
@@ -12945,7 +14400,7 @@
       "vote_average": 8.724,
       "vote_count": 3917,
       "trailer": "https://www.youtube.com/watch?v=mezyq2OX6TM&ab_channel=AniTV",
-      "number_of_episodes": 25,
+      "number_of_episodes": "Episodes 25",
       "season_number": "Season 1",
       "logo": "https://www.themoviedb.org/t/p/original/kMCphLf7gUEaL2u0LqWFHcxN2Sf.png",
       "genres": [
@@ -12958,7 +14413,8 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
           "server1": ["https://vadbam.com/embed-f4175oy1ct23.html"],
           "servers": [
             {
@@ -12979,7 +14435,8 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
           "server1": [
             "https://mega.nz/embed/ZKVQjKoZ#C9CL8-160iKOPVU8eWvgU9pWk7Jl2C8S4iMF_igS2tA"
           ],
@@ -12998,7 +14455,8 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
           "server1": ["https://moshahda.net/embed-uxy6trhcj6to.html"],
           "servers": [
             {
@@ -13022,7 +14480,8 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
           "server1": [
             "https://mega.nz/embed/xGEHVTYC#sGC_CCba6dSUz-MgapXsMUF42DMgv0Cu11SytdrsYeQ"
           ],
@@ -13056,9 +14515,8 @@
       "vote_average": 8.36,
       "vote_count": 2917,
       "trailer": "https://www.youtube.com/watch?v=w4V_e3iRxds&ab_channel=EMOTIONLabelChannel",
-      "number_of_episodes": 24,
+      "number_of_episodes": "Episodes 24",
       "season_number": "Season 1",
-      "logo": "https://www.themoviedb.org/t/p/original/kMCphLf7gUEaL2u0LqWFHcxN2Sf.png",
       "genres": [
         { "id": 16, "name": "Animation" },
         {
@@ -13069,7 +14527,8 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
           "server1": ["https://moshahda.net/embed-lv05sg3lrqxg.html"],
           "servers": [
             {
@@ -13092,7 +14551,8 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
           "server1": ["sdfdsfsd"],
           "servers": [
             {
@@ -13113,7 +14573,8 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
           "server1": ["https://moshahda.net/embed-qtgga1blukee.html"],
           "servers": [
             {
@@ -13153,7 +14614,7 @@
       "vote_average": 8.133,
       "vote_count": 30,
       "trailer": "https://www.youtube.com/watch?v=lChKVzvL7cA",
-      "number_of_episodes": 25,
+      "number_of_episodes": "Episodes 25",
       "season_number": "Season 1",
       "genres": [
         { "id": 16, "name": "Animation" },
@@ -13590,7 +15051,7 @@
       "type": "Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/nLlQ7NOtphP7J5aSlT7YfJvKTh1.png",
       "trailer": "https://www.youtube.com/watch?v=JtqIas3bYhg&ab_channel=Netflix",
-      "number_of_episodes": 10,
+      "number_of_episodes": "Episodes 10",
       "season_number": "Season 1",
       "genres": [
         { "id": 16, "name": "Animation" },
@@ -13606,7 +15067,8 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=1"],
           "servers": [
             {
@@ -13619,7 +15081,8 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=2"],
           "servers": [
             {
@@ -13632,7 +15095,8 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=3"],
           "servers": [
             {
@@ -13645,7 +15109,8 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=4"],
           "servers": [
             {
@@ -13658,7 +15123,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=5"],
           "servers": [
             {
@@ -13671,7 +15138,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=6"],
           "servers": [
             {
@@ -13684,7 +15153,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=7"],
           "servers": [
             {
@@ -13697,7 +15168,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=8"],
           "servers": [
             {
@@ -13710,7 +15183,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=9"],
           "servers": [
             {
@@ -13723,7 +15198,9 @@
         },
         {
           "id": 10,
-          "name": "Episode10",
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=105248&s=1&e=10"],
           "servers": [
             {
@@ -13764,7 +15241,153 @@
       "popularity": 623.455,
       "poster_path": "https://image.tmdb.org/t/p/original/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
       "vote_average": 8.6,
-      "vote_count": 2362
+      "vote_count": 2362,
+      "trailer": "https://www.youtube.com/watch?v=2docezZl574&ab_channel=CrunchyrollCollection",
+      "number_of_episodes": "Episodes 24",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Animation" },
+        { "name": "Action & Adventure" },
+        { "name": "Sci-Fi & Fantasy" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95479&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Jujutsu%20Kaisen&year=2020&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12343534&s=1&e=8"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/68sanslplXryiJWzv0uMuXjJBmB.jpg",
@@ -13976,7 +15599,7 @@
       "vote_average": 8.5,
       "vote_count": 10831,
       "trailer": "https://www.youtube.com/watch?v=fYlZDTru55g&ab_channel=ABC",
-      "number_of_episodes": 99,
+      "number_of_episodes": "Episodes 99",
       "season_number": "Season 6",
       "genres": [
         {
@@ -13987,7 +15610,9 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["link"],
           "servers": [
             {
@@ -14065,7 +15690,164 @@
       "popularity": 461.933,
       "poster_path": "https://image.tmdb.org/t/p/original/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
       "vote_average": 8.4,
-      "vote_count": 221
+      "vote_count": 221,
+      "trailer": "https://www.youtube.com/watch?v=NVHHs-xllqo&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 10",
+      "type": "Netflix",
+      "season_number": "Season 1",
+      "logo": "https://www.themoviedb.org/t/p/original/isao9EgHltG2UVRXVdxUpfDl46s.png",
+      "genres": [{ "name": "Drama" }, { "name": "Crime" }],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=1"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=2"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=3"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=4"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=5"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=6"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=7"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=8"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=9"
+            },
+
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=113988&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13207736&s=1&e=10"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
@@ -14179,7 +15961,7 @@
       "id": 120089,
       "name": "SPY x FAMILY",
       "origin_country": ["JP"],
-      "number_of_episodes": 12,
+      "number_of_episodes": "Episodes 12",
       "season_number": "Season 1",
       "original_language": "ja",
       "original_name": "SPY×FAMILY",
@@ -14206,7 +15988,9 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=1"],
           "servers": [
             {
@@ -14225,7 +16009,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=2"],
           "servers": [
             {
@@ -14244,7 +16030,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=3"],
           "servers": [
             {
@@ -14263,7 +16051,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=4"],
           "servers": [
             {
@@ -14282,7 +16072,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=5"],
           "servers": [
             {
@@ -14301,7 +16093,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=6"],
           "servers": [
             {
@@ -14320,7 +16114,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=7"],
           "servers": [
             {
@@ -14339,7 +16135,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=8"],
           "servers": [
             {
@@ -14358,7 +16156,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=9"],
           "servers": [
             {
@@ -14377,7 +16177,9 @@
         },
         {
           "id": 10,
-          "name": "Episode10",
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=10"],
           "servers": [
             {
@@ -14396,7 +16198,9 @@
         },
         {
           "id": 11,
-          "name": "Episode11",
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=11"],
           "servers": [
             {
@@ -14415,7 +16219,9 @@
         },
         {
           "id": 12,
-          "name": "Episode12",
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=12"],
           "servers": [
             {
@@ -14441,7 +16247,7 @@
       "id": "120089s2",
       "name": "Spy x Family Part 2",
       "origin_country": ["JP"],
-      "number_of_episodes": 13,
+      "number_of_episodes": "Episodes 13",
       "season_number": "Season 2",
       "original_language": "ja",
       "original_name": "SPY×FAMILY",
@@ -14468,7 +16274,9 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=13"],
           "servers": [
             {
@@ -14490,7 +16298,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=14"],
           "servers": [
             {
@@ -14515,7 +16325,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=15"],
           "servers": [
             {
@@ -14543,7 +16355,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://moshahda.net/embed-nigv0f204bkq.html"],
           "servers": [
             {
@@ -14616,7 +16430,7 @@
       "vote_average": 7.8,
       "vote_count": 3240,
       "trailer": "https://www.youtube.com/watch?v=BDSa0JhIUMI&ab_channel=ONEMedia",
-      "number_of_episodes": 8,
+      "number_of_episodes": "Episodes 8",
       "season_number": "Season 1",
       "genres": [{ "name": "Crime" }, { "name": "Sci-Fi & Fantasy" }]
     },
@@ -14636,14 +16450,14 @@
       "vote_count": 3240,
       "logo": "https://www.themoviedb.org/t/p/original/oNgJFZwO6CSbn6huZHAKeij9Qwy.png",
       "trailer": "https://www.youtube.com/watch?v=HGabHm_xjPs",
-      "number_of_episodes": 8,
+      "number_of_episodes": "Episodes 8",
       "season_number": "Season 2",
       "genres": [{ "name": "Crime" }, { "name": "Sci-Fi & Fantasy" }],
 
       "episodes": [
         {
-          "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
           "server1": [
             "https://cdn.jwplayer.com/players/pwo0stzI-BI2JS0Mm.html"
           ],
@@ -14676,7 +16490,8 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
           "server1": [
             "https://cdn.jwplayer.com/players/xL7pdR8E-BI2JS0Mm.html"
           ],
@@ -14703,7 +16518,8 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
           "server1": [
             "https://cdn.jwplayer.com/players/W80eWFzx-BI2JS0Mm.html"
           ],
@@ -14971,7 +16787,223 @@
       "popularity": 365.234,
       "poster_path": "https://image.tmdb.org/t/p/original/8gjbGKe5WNOaLrkoeOUPLvDhPhK.jpg",
       "vote_average": 8.4,
-      "vote_count": 2621
+      "vote_count": 2621,
+      "trailer": "https://www.youtube.com/watch?v=IN5TD4VRcSM&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 12",
+      "type": "Netflix",
+      "season_number": "Season 1",
+      "logo": "https://www.themoviedb.org/t/p/original/dnZt67BRuacgxlq6zGCFeuLIZjU.png",
+      "genres": [
+        { "name": "Drama" },
+        { "name": "Action & Adventure" },
+        { "name": "Sci-Fi & Fantasy" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=12"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99966&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=All%20of%20Us%20Are%20Dead&year=2022&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt14169960&s=1&e=12"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/m71hrbhXpY45RB1kW4fYCTlnmZN.jpg",
@@ -15140,7 +17172,7 @@
       "type": "Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/6itv9RmNAd6KAtQPaJCguvg2Zmw.png",
       "trailer": "https://www.youtube.com/watch?v=oqxAJKy0ii4&ab_channel=Netflix",
-      "number_of_episodes": 9,
+      "number_of_episodes": "Episodes 9",
       "season_number": "Season 1",
       "genres": [
         { "name": "Action & Adventure" },
@@ -15151,7 +17183,9 @@
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=1"],
           "servers": [
             {
@@ -15167,7 +17201,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=2"],
           "servers": [
             {
@@ -15183,7 +17219,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=3"],
           "servers": [
             {
@@ -15199,7 +17237,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=4"],
           "servers": [
             {
@@ -15215,7 +17255,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=5"],
           "servers": [
             {
@@ -15231,7 +17273,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=6"],
           "servers": [
             {
@@ -15247,7 +17291,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=7"],
           "servers": [
             {
@@ -15263,7 +17309,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=8"],
           "servers": [
             {
@@ -15279,7 +17327,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=93405&s=1&e=9"],
           "servers": [
             {
@@ -15308,7 +17358,285 @@
       "popularity": 320.674,
       "poster_path": "https://image.tmdb.org/t/p/original/91diI2TKjaWMqKmjlcQeSnImg5n.jpg",
       "vote_average": 10,
-      "vote_count": 2
+      "vote_count": 2,
+      "trailer": "https://www.youtube.com/watch?v=IN5TD4VRcSM&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 16",
+      "season_number": "Season 1",
+      "genres": [{ "name": "Drama" }, { "name": "Comedy" }],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=12"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=12"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=13"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=13"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=14"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=14"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "episodeId": "Episode15",
+          "name": "Episode 15",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=15"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=15"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "episodeId": "Episode16",
+          "name": "Episode 16",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=16"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=201146&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Love%20in%20Contract&year=2022&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt22189294&s=1&e=16"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/uZEG7jen44t2IRhF8Bcz78213cK.jpg",
@@ -15447,14 +17775,16 @@
       "type": "Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/iLX0YD3a0UzlD0xFwaWsdT7UoCs.png",
       "trailer": "https://www.youtube.com/watch?v=HC765gMqmew&ab_channel=Netflix",
-      "number_of_episodes": 13,
+      "number_of_episodes": "Episodes 13",
       "season_number": "Season 1",
       "genres": [{ "name": "Drama" }, { "name": "Mystery" }],
 
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=1"],
           "servers": [
             {
@@ -15470,7 +17800,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=2"],
           "servers": [
             {
@@ -15486,7 +17818,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=3"],
           "servers": [
             {
@@ -15502,7 +17836,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=4"],
           "servers": [
             {
@@ -15518,7 +17854,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=5"],
           "servers": [
             {
@@ -15534,7 +17872,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=6"],
           "servers": [
             {
@@ -15550,7 +17890,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=7"],
           "servers": [
             {
@@ -15566,7 +17908,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=8"],
           "servers": [
             {
@@ -15582,7 +17926,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=9"],
           "servers": [
             {
@@ -15598,7 +17944,9 @@
         },
         {
           "id": 10,
-          "name": "Episode10",
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=10"],
           "servers": [
             {
@@ -15614,7 +17962,9 @@
         },
         {
           "id": 11,
-          "name": "Episode11",
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=11"],
           "servers": [
             {
@@ -15630,7 +17980,9 @@
         },
         {
           "id": 12,
-          "name": "Episode12",
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=12"],
           "servers": [
             {
@@ -15646,7 +17998,9 @@
         },
         {
           "id": 13,
-          "name": "Episode13",
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=1&e=13"],
           "servers": [
             {
@@ -15679,14 +18033,16 @@
       "type": "Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/iLX0YD3a0UzlD0xFwaWsdT7UoCs.png",
       "trailer": "https://www.youtube.com/watch?v=0XuOkYlUWIs&ab_channel=Netflix",
-      "number_of_episodes": 13,
+      "number_of_episodes": "Episodes 13",
       "season_number": "Season 2",
       "genres": [{ "name": "Drama" }, { "name": "Mystery" }],
 
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=1"],
           "servers": [
             {
@@ -15702,7 +18058,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=2"],
           "servers": [
             {
@@ -15718,7 +18076,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=3"],
           "servers": [
             {
@@ -15734,7 +18094,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=4"],
           "servers": [
             {
@@ -15750,7 +18112,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=5"],
           "servers": [
             {
@@ -15766,7 +18130,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=6"],
           "servers": [
             {
@@ -15782,7 +18148,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=7"],
           "servers": [
             {
@@ -15798,7 +18166,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=8"],
           "servers": [
             {
@@ -15814,7 +18184,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=9"],
           "servers": [
             {
@@ -15830,7 +18202,9 @@
         },
         {
           "id": 10,
-          "name": "Episode10",
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=10"],
           "servers": [
             {
@@ -15846,7 +18220,9 @@
         },
         {
           "id": 11,
-          "name": "Episode11",
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=11"],
           "servers": [
             {
@@ -15862,7 +18238,9 @@
         },
         {
           "id": 12,
-          "name": "Episode12",
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=12"],
           "servers": [
             {
@@ -15878,7 +18256,9 @@
         },
         {
           "id": 13,
-          "name": "Episode13",
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=2&e=13"],
           "servers": [
             {
@@ -15911,14 +18291,16 @@
       "type": "Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/iLX0YD3a0UzlD0xFwaWsdT7UoCs.png",
       "trailer": "https://www.youtube.com/watch?v=tOICXpsImEI&ab_channel=TVPromos",
-      "number_of_episodes": 13,
+      "number_of_episodes": "Episodes 13",
       "season_number": "Season 3",
       "genres": [{ "name": "Drama" }, { "name": "Mystery" }],
 
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=1"],
           "servers": [
             {
@@ -15934,7 +18316,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=2"],
           "servers": [
             {
@@ -15950,7 +18334,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=3"],
           "servers": [
             {
@@ -15966,7 +18352,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=4"],
           "servers": [
             {
@@ -15982,7 +18370,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=5"],
           "servers": [
             {
@@ -15998,7 +18388,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=6"],
           "servers": [
             {
@@ -16014,7 +18406,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=7"],
           "servers": [
             {
@@ -16030,7 +18424,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=8"],
           "servers": [
             {
@@ -16046,7 +18442,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=9"],
           "servers": [
             {
@@ -16062,7 +18460,9 @@
         },
         {
           "id": 10,
-          "name": "Episode10",
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=10"],
           "servers": [
             {
@@ -16078,7 +18478,9 @@
         },
         {
           "id": 11,
-          "name": "Episode11",
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=11"],
           "servers": [
             {
@@ -16094,7 +18496,9 @@
         },
         {
           "id": 12,
-          "name": "Episode12",
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=12"],
           "servers": [
             {
@@ -16110,7 +18514,9 @@
         },
         {
           "id": 13,
-          "name": "Episode13",
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=3&e=13"],
           "servers": [
             {
@@ -16143,14 +18549,16 @@
       "type": "Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/iLX0YD3a0UzlD0xFwaWsdT7UoCs.png",
       "trailer": "https://www.youtube.com/watch?v=BImRseysjCw&ab_channel=AlexMeyers",
-      "number_of_episodes": 10,
+      "number_of_episodes": "Episodes 10",
       "season_number": "Season 4",
       "genres": [{ "name": "Drama" }, { "name": "Mystery" }],
 
       "episodes": [
         {
           "id": 1,
-          "name": "Episode1",
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=1"],
           "servers": [
             {
@@ -16166,7 +18574,9 @@
         },
         {
           "id": 2,
-          "name": "Episode2",
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=2"],
           "servers": [
             {
@@ -16182,7 +18592,9 @@
         },
         {
           "id": 3,
-          "name": "Episode3",
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=3"],
           "servers": [
             {
@@ -16198,7 +18610,9 @@
         },
         {
           "id": 4,
-          "name": "Episode4",
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=4"],
           "servers": [
             {
@@ -16214,7 +18628,9 @@
         },
         {
           "id": 5,
-          "name": "Episode5",
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=5"],
           "servers": [
             {
@@ -16230,7 +18646,9 @@
         },
         {
           "id": 6,
-          "name": "Episode6",
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=6"],
           "servers": [
             {
@@ -16246,7 +18664,9 @@
         },
         {
           "id": 7,
-          "name": "Episode7",
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=7"],
           "servers": [
             {
@@ -16262,7 +18682,9 @@
         },
         {
           "id": 8,
-          "name": "Episode8",
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=8"],
           "servers": [
             {
@@ -16278,7 +18700,9 @@
         },
         {
           "id": 9,
-          "name": "Episode9",
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=9"],
           "servers": [
             {
@@ -16294,7 +18718,9 @@
         },
         {
           "id": 10,
-          "name": "Episode10",
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+
           "server1": ["https://www.2embed.to/embed/tmdb/tv?id=66788&s=4&e=10"],
           "servers": [
             {
@@ -16325,6 +18751,150 @@
       "vote_average": 7.9,
       "vote_count": 44,
       "page": 5
+    }
+  ],
+  "MoviesGenres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "TvGenres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 37,
+      "name": "Western"
     }
   ]
 }
