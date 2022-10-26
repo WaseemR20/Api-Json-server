@@ -13171,7 +13171,7 @@
       ]
     },
     {
-      "backdrop_path": "https://image.tmdb.org/t/p/original/es2zPdPQ5FHuJEnJcgwm5ZnoABh.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/l56gka4kw2R4K7M4hSJRt12M6R6.jpg",
       "first_air_date": "2022-11-23",
       "genre_ids": [10765, 9648, 35],
       "id": 119051,
@@ -16474,6 +16474,402 @@
     },
 
     {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/8CKVcSSLOqlYc3kqavox08NbP8F.jpg",
+      "first_air_date": "2020-10-02",
+      "genre_ids": [18, 35],
+      "id": 82596,
+      "name": "Emily in Paris",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Emily in Paris",
+      "overview": "When ambitious Chicago marketing exec Emily unexpectedly lands her dream job in Paris, she embraces a new life as she juggles work, friends and romance.",
+      "popularity": 42.756,
+      "poster_path": "https://image.tmdb.org/t/p/original/kwMqIYOC4U9eK4NZnmmyD8pDEOi.jpg",
+      "vote_average": 7.928,
+      "vote_count": 896,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=lptctjAT-Mk&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 10",
+      "season_number": "Season 1",
+      "genres": [
+        { "id": 16, "name": "Drama" },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=1&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/rijU2PEumZFqeEWgpHCjpkLrmZ7.jpg",
+      "first_air_date": "2021-12-22",
+      "genre_ids": [18, 35],
+      "id": "82596Season2",
+      "name": "Emily in Paris Season 2",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Emily in Paris",
+      "overview": "When ambitious Chicago marketing exec Emily unexpectedly lands her dream job in Paris, she embraces a new life as she juggles work, friends and romance.",
+      "popularity": 42.756,
+      "poster_path": "https://image.tmdb.org/t/p/original/Ak59Y9bzykmV0wAiwKsqrbORDBo.jpg",
+      "vote_average": 7.928,
+      "vote_count": 896,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=n22xzIyZr64&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 10",
+      "season_number": "Season 2",
+      "genres": [
+        { "id": 16, "name": "Drama" },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=82596&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Emily%20in%20Paris&year=2020&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8962124&s=2&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://image.tmdb.org/t/p/original/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
       "first_air_date": "2022-10-12",
       "genre_ids": [16, 10759, 10765, 35],
@@ -18908,6 +19304,525 @@
       "vote_count": 11
     },
     {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/iSAH9nH10hke3IW9woUSnTmSHm4.jpg",
+      "first_air_date": "2021-01-25",
+      "genre_ids": [18, 10751],
+      "id": 119464,
+      "name": "Navillera",
+      "origin_country": ["KR"],
+      "original_language": "ko",
+      "original_name": "나빌레라",
+      "overview": "A coming-of-age drama about a 23-year-old ballerino and an old man who begins ballet at the age of 70.",
+      "popularity": 13.259,
+      "poster_path": "https://image.tmdb.org/t/p/original/pBd6pEhszsWk95TrUqo4bdXhH8T.jpg",
+      "vote_average": 8.541,
+      "vote_count": 148,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=80bc6SRjbDQ&ab_channel=NetflixLatinoam%C3%A9rica",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 1",
+      "genres": [{ "name": "Drama" }, { "name": "Family" }],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=12"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=119464&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Navillera&year=2021&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13885302&s=1&e=12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/ocJbIvw7Xe64CZIYhcxYfXhX4wn.jpg",
+      "first_air_date": "2020-07-29",
+      "genre_ids": [18, 80, 9648],
+      "id": 99494,
+      "name": "Flower of Evil",
+      "origin_country": ["KR"],
+      "original_language": "ko",
+      "original_name": "악의 꽃",
+      "overview": "Hiding a twisted past, a man maintains his facade as the perfect husband to his detective wife — until she begins investigating a series of murders.",
+      "popularity": 31.243,
+      "poster_path": "https://image.tmdb.org/t/p/original/zaD9sixtqMfxmesiWAIZ4JVvgXT.jpg",
+      "vote_average": 8.202,
+      "vote_count": 426,
+      "trailer": "https://www.youtube.com/watch?v=QSmDCxfdiAA&ab_channel=ViuSingapore",
+      "number_of_episodes": "Episode 16",
+      "season_number": "Season 1",
+      "genres": [{ "name": "Drama" }, { "name": "Family" }],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=12"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=12"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=13"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=13"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=14"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=14"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "episodeId": "Episode15",
+          "name": "Episode 15",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=15"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=15"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "episodeId": "Episode16",
+          "name": "Episode 16",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=16"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=99494&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Flower%20of%20Evil&year=2020&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11691684&s=1&e=16"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://image.tmdb.org/t/p/original/rv5gu2gYbOEYoArzH7bqJuMxvBB.jpg",
       "first_air_date": "2021-01-25",
       "genre_ids": [18, 10751],
@@ -18921,6 +19836,532 @@
       "poster_path": "https://image.tmdb.org/t/p/original/w2nOl7KhwcUj11YxEi9Nknj9cqu.jpg",
       "vote_average": 6.4,
       "vote_count": 15
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/xL0E52dHPw7w71INwrLWfvERLUW.jpg",
+      "first_air_date": "2017-12-01",
+      "genre_ids": [18, 10765, 9648, 80],
+      "id": 70523,
+      "name": "Dark",
+      "origin_country": ["DE"],
+      "original_language": "de",
+      "original_name": "Dark",
+      "overview": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town.",
+      "popularity": 126.191,
+      "poster_path": "https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",
+      "vote_average": 8.418,
+      "vote_count": 5316,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/abpbXaiCYne09NkSlvYeXRWvzu0.png",
+      "trailer": "https://www.youtube.com/watch?v=rrwycJ08PSA&ab_channel=ONEMedia",
+      "number_of_episodes": "Episode 10",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Sci-Fi & Fantasy" },
+        { "name": "Drama" },
+        { "name": "Mystery" },
+        { "name": "Crime" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2017&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=1&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/nOpary3p4f9cazyj1bCGkBNoaIS.jpg",
+      "first_air_date": "2019-06-21",
+      "genre_ids": [18, 10765, 9648, 80],
+      "id": "70523Season2",
+      "name": "Dark Season 2",
+      "origin_country": ["DE"],
+      "original_language": "de",
+      "original_name": "Dark",
+      "overview": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town.",
+      "popularity": 126.191,
+      "poster_path": "https://image.tmdb.org/t/p/original/anTJrTKvQ6AlP9ceX5sYqVf61c1.jpg",
+      "vote_average": 8.418,
+      "vote_count": 5316,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/abpbXaiCYne09NkSlvYeXRWvzu0.png",
+      "trailer": "https://www.youtube.com/watch?v=810CHvSdXOo&ab_channel=Netflix",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 2",
+      "genres": [
+        { "name": "Sci-Fi & Fantasy" },
+        { "name": "Drama" },
+        { "name": "Mystery" },
+        { "name": "Crime" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2019&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=2&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/qDKb6hCDsQJRHn6jFQcH0vf76r6.jpg",
+      "first_air_date": "2020-06-27",
+      "genre_ids": [18, 10765, 9648, 80],
+      "id": "70523Season3",
+      "name": "Dark Season 3",
+      "origin_country": ["DE"],
+      "original_language": "de",
+      "original_name": "Dark",
+      "overview": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town.",
+      "popularity": 126.191,
+      "poster_path": "https://image.tmdb.org/t/p/original/mCekE85ukPTMJ0jN179TvAkCHqY.jpg",
+      "vote_average": 8.418,
+      "vote_count": 5316,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/abpbXaiCYne09NkSlvYeXRWvzu0.png",
+      "trailer": "https://www.youtube.com/watch?v=cq2iTHoLrt0&ab_channel=Netflix",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 3",
+      "genres": [
+        { "name": "Sci-Fi & Fantasy" },
+        { "name": "Drama" },
+        { "name": "Mystery" },
+        { "name": "Crime" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=70523&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dark&year=2020&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5753856&s=3&e=8"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
@@ -21711,6 +23152,184 @@
       "poster_path": "https://image.tmdb.org/t/p/original/3dSmBYRPwKdOnx0BGaUnFZ24bIc.jpg",
       "vote_average": 3.2,
       "vote_count": 6
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+      "first_air_date": "2022-02-17",
+      "genre_ids": [18, 9648, 10765],
+      "id": 95396,
+      "name": "Severance",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Severance",
+      "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "popularity": 50.824,
+      "poster_path": "https://image.tmdb.org/t/p/original/lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
+      "vote_average": 8.3,
+      "vote_count": 355,
+      "trailer": "https://www.youtube.com/watch?v=xEQP4VVuyrY&ab_channel=AppleTV",
+      "number_of_episodes": "Episode 9",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Drama" },
+        { "name": "Mystery" },
+        { "name": "Sci-Fi & Fantasy" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=95396&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Severance&year=2022&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11280740&s=1&e=9"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://www.themoviedb.org/t/p/original/9OYu6oDLIidSOocW3JTGtd2Oyqy.jpg",
