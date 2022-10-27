@@ -5329,6 +5329,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/9e6wp707XMouPG939o2fHunXXJR.jpg",
       "genre_ids": [16, 12, 35, 10751, 14, 27],
       "id": 639721,
+      "imdb_id": "tt11125620",
       "original_language": "en",
       "original_title": "The Addams Family 2",
       "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
@@ -5338,7 +5339,26 @@
       "title": "The Addams Family 2",
       "video": false,
       "vote_average": 7.1,
-      "vote_count": 961
+      "vote_count": 961,
+      "trailer": "https://www.youtube.com/watch?v=Kd82bSBDE84&ab_channel=MGM",
+      "genres": [
+        { "name": "Animation" },
+        { "name": "Adventure" },
+        { "name": "Comedy" },
+        { "name": "Horror" },
+        { "name": "Fantasy" },
+        { "name": "Family" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=639721"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=639721" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt11125620" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -6316,6 +6336,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/lr79OVNnJp1Jwys77zEjnJnQ1pc.jpg",
       "genre_ids": [16, 18, 14, 10751],
       "id": 628964,
+      "imdb_id": "tt13057626",
       "original_language": "ja",
       "original_title": "神在月のこども",
       "overview": "A year after losing her mother, a young girl learns that she must journey across Japan to the annual gathering of gods in the sacred land of Izumo.",
@@ -6325,7 +6346,25 @@
       "title": "Child of Kamiari Month",
       "video": false,
       "vote_average": 6.4,
-      "vote_count": 35
+      "vote_count": 35,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=ZsTS1tsD2NM&ab_channel=NetflixAsia",
+      "genres": [
+        { "name": "Animation" },
+        { "name": "Drama" },
+        { "name": "Fantasy" },
+        { "name": "Family" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=628964"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=628964" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt13057626" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -6858,9 +6897,40 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/a8Q2g0g7XzAF6gcB8qgn37ccb9Y.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original//oojlC3gH0bxD7hsnQa3kE9WbEBy.jpg",
+      "genre_ids": [16, 12, 878],
+      "id": 765119,
+      "imdb_id": "tt13610562",
+      "original_language": "en",
+      "original_title": "The Bubble",
+      "overview": "Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.",
+      "popularity": 28.179,
+      "poster_path": "https://image.tmdb.org/t/p/original/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+      "release_date": "2022-03-25",
+      "title": "The Bubble",
+      "video": false,
+      "vote_average": 4.723,
+      "vote_count": 292,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=TRTZja6IyrM&ab_channel=MovieCoverage",
+      "genres": [{ "name": "Comedy" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=765119"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=765119" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt13610562" }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/nxI2Uc6RjD1doHRBjJEOlWFPvsm.jpg",
       "genre_ids": [16, 12, 878],
       "id": 912598,
+      "imdb_id": "tt16360006",
       "original_language": "ja",
       "original_title": "バブル",
       "overview": "In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gifted young man has a fateful meeting with a mysterious girl.",
@@ -6870,7 +6940,24 @@
       "title": "Bubble",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 253
+      "vote_count": 253,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=WItvH4Hoyag&ab_channel=Netflix",
+      "genres": [
+        { "name": "Animation" },
+        { "name": "Adventure" },
+        { "name": "Science Fiction" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=912598"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=912598" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt16360006" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -7537,6 +7624,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/clzh0Z2xR4BAsHLPeal92yZdqFB.jpg",
       "genre_ids": [16, 28, 14],
       "id": 839100,
+      "imdb_id": "tt14837960",
       "original_language": "ja",
       "original_title": "ブライト: サムライソウル",
       "overview": "Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.",
@@ -7546,7 +7634,24 @@
       "title": "Bright: Samurai Soul",
       "video": false,
       "vote_average": 5.7,
-      "vote_count": 42
+      "vote_count": 42,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=CthU2bsh6Fs&ab_channel=Netflix",
+      "genres": [
+        { "name": "Animation" },
+        { "name": "Action" },
+        { "name": "Fantasy" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=839100"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=839100" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt14837960" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -9082,6 +9187,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/9ns9463dwOeo1CK1JU2wirL5Yi1.jpg",
       "genre_ids": [35, 10751, 16],
       "id": 587807,
+      "imdb_id": "tt1361336",
       "original_language": "en",
       "original_title": "Tom & Jerry",
       "overview": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
@@ -9091,7 +9197,23 @@
       "title": "Tom & Jerry",
       "video": false,
       "vote_average": 6.9,
-      "vote_count": 2103
+      "vote_count": 2103,
+      "trailer": "https://www.youtube.com/watch?v=kP9TfCWaQT4&ab_channel=WarnerBros.Pictures",
+      "genres": [
+        { "name": "Animation" },
+        { "name": "Comedy" },
+        { "name": "Family" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=587807"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=587807" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt1361336" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -11682,6 +11804,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/uCAy0n0WHTGU4d3LMJtE0fQxCej.jpg",
       "genre_ids": [10751, 16, 35, 14, 27],
       "id": 481084,
+      "imdb_id": "tt1620981",
       "original_language": "en",
       "original_title": "The Addams Family",
       "overview": "The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
@@ -11691,7 +11814,59 @@
       "title": "The Addams Family",
       "video": false,
       "vote_average": 6.6,
-      "vote_count": 1863
+      "vote_count": 1863,
+      "trailer": "https://www.youtube.com/watch?v=F7Ug863S8dQ&ab_channel=RottenTomatoesTrailers",
+      "genres": [
+        { "name": "Animation" },
+        { "name": "Adventure" },
+        { "name": "Comedy" },
+        { "name": "Horror" },
+        { "name": "Fantasy" },
+        { "name": "Family" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=481084"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=481084" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt1620981" }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/dU9pMo94W91RL2Q38KbbVIr6Kxu.jpg",
+      "genre_ids": [10749, 14, 18],
+      "id": 556694,
+      "imdb_id": "tt9198364",
+      "original_language": "en",
+      "original_title": "Three Thousand Years of Longing",
+      "overview": "A solitary scholar discovers an ancient bottle while on a trip to Istanbul and unleashes a djinn who offers her three wishes. Filled with reluctance, she is unable to come up with one until his stories spark in her a desire to be loved.",
+      "popularity": 45.392,
+      "poster_path": "https://image.tmdb.org/t/p/original/8q6BrcwGEBGbtwtbCUVKEt2lmEy.jpg",
+      "release_date": "2022-08-24",
+      "title": "Three Thousand Years of Longing",
+      "video": false,
+      "vote_average": 7.01,
+      "vote_count": 360,
+      "trailer": "https://www.youtube.com/watch?v=TWGvntl9itE&ab_channel=MGM",
+      "genres": [
+        { "name": "Fantasy" },
+        { "name": "Drama" },
+        { "name": "Romance" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=556694"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=556694" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt9198364" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -16870,6 +17045,618 @@
       ]
     },
     {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/gzOIymABxmetAECXtazEYCpMmfb.jpg",
+      "first_air_date": "2018-09-09",
+      "genre_ids": [18, 9648, 80],
+      "id": 78191,
+      "name": "You",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "You",
+      "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "popularity": 88.347,
+      "poster_path": "https://image.tmdb.org/t/p/original/lDsJxWEVDZCi6UXBLwAcyh2Z6n.jpg",
+      "vote_average": 8.126,
+      "vote_count": 2213,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=ga1m0wjzscU&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 10",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Mystery" },
+        { "name": "Crime" },
+        { "name": "Drama" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2018&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=1&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/yA2WBBIcKSsmOyYzlbE9y4r9wua.jpg",
+      "first_air_date": "2019-12-26",
+      "genre_ids": [18, 9648, 80],
+      "id": "78191Season2",
+      "name": "You Season 2",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "You",
+      "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "popularity": 88.347,
+      "poster_path": "https://image.tmdb.org/t/p/original/wZDUeDRbbFrMiTDVRy85Zdzgqcp.jpg",
+      "vote_average": 8.126,
+      "vote_count": 2213,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=xXBTImqyeU0&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 10",
+      "season_number": "Season 2",
+      "genres": [
+        { "name": "Mystery" },
+        { "name": "Crime" },
+        { "name": "Drama" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=2&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/e92qfYRVYUL602ztyEoujUtXlS1.jpg",
+      "first_air_date": "2021-10-15",
+      "genre_ids": [18, 9648, 80],
+      "id": "78191Season3",
+      "name": "You Season 3",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "You",
+      "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "popularity": 88.347,
+      "poster_path": "https://image.tmdb.org/t/p/original/yxIdKGEjagaLs5kMjw92kAHmopH.jpg",
+      "vote_average": 8.126,
+      "vote_count": 2213,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=yHvX8UIc59M&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 10",
+      "season_number": "Season 3",
+      "genres": [
+        { "name": "Mystery" },
+        { "name": "Crime" },
+        { "name": "Drama" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=78191&s=3&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=You&year=2019&s=3&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7335184&s=3&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/e92qfYRVYUL602ztyEoujUtXlS1.jpg",
+      "first_air_date": "2021-10-15",
+      "genre_ids": [18, 9648, 80],
+      "id": "78191Season4",
+      "name": "You Season 4",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "You",
+      "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "popularity": 88.347,
+      "poster_path": "https://image.tmdb.org/t/p/original/bFvR1NZJBHtcV1TmKJA9js3GVDB.jpg",
+      "vote_average": 8.126,
+      "vote_count": 2213,
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=kAg80yxx3Pg&ab_channel=Netflix",
+      "number_of_episodes": "Episodes 10",
+      "season_number": "Season 4",
+      "genres": [
+        { "name": "Mystery" },
+        { "name": "Crime" },
+        { "name": "Drama" }
+      ]
+    },
+    {
       "backdrop_path": "https://image.tmdb.org/t/p/original/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
       "first_air_date": "2022-10-12",
       "genre_ids": [16, 10759, 10765, 35],
@@ -16956,6 +17743,438 @@
             { "server": "https://dood.pm/e/lala8e365vjs" },
             {
               "server": "https://mega.nz/embed/IaliBChQ!eWLcvMC6S7SiDUWXxjawAZkAPOF4gwQX7UZWuWduwOA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/hOEDrvRqYF0XHf9SBot4cLYusUQ.jpg",
+      "first_air_date": "2022-10-05",
+      "genre_ids": [16, 10765, 35],
+      "id": 119495,
+      "name": "The Eminence in Shadow",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "陰の実力者になりたくて!",
+      "overview": "Shadowbrokers are those who go unnoticed, posing as unremarkable people, when in truth, they control everything from behind the scenes. Sid wants to be someone just like that more than anything, and something as insignificant as boring reality isn’t going to get in his way! He trains in secret every single night, preparing for his eventual rise to power—only to denied his destiny by a run-of-the-mill (yet deadly) traffic accident. But when he wakes up in a another world and suddenly finds himself at the head of an actual secret organization doing battle with evil in the shadows, he’ll finally get a chance to act out all of his delusional fantasies!",
+      "popularity": 229.933,
+      "poster_path": "https://image.tmdb.org/t/p/original/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+      "vote_average": 7.5,
+      "vote_count": 8,
+      "trailer": "https://www.youtube.com/watch?v=P1gpSWUolyI&ab_channel=AniTV",
+      "number_of_episodes": "Episodes 20",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Animation" },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://moshahda.net/embed-14bi3eoyvmuu.html"],
+          "servers": [
+            { "server": "https://moshahda.net/embed-14bi3eoyvmuu.html" },
+            { "server": "https://www.4shared.com/web/embed/file/4oTTZZp9ea/" },
+            {
+              "server": "https://mega.nz/embed/oP9FXAZa!3EW6RbmuZGt_r14GYWwXbew06TL2m7SvJ9DjhLg84g4"
+            },
+            {
+              "server": "https://mega.nz/embed/QDNhFYCa!jS_NSfsikohZ4zYjrlD_2Mxm0unRdXoApZGOjc7JAe8"
+            },
+            { "server": "https://vadbam.com/embed-521j8ojdarl2.html" }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://moshahda.net/embed-u6fnkmaj8ken.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-u6fnkmaj8ken.html"
+            },
+            {
+              "server": "https://mega.nz/embed/0oN3wK7Y!jOlgvbo8Cc9PFJHg5fkN22xnhTTekd4wWrZdUl9hAuY"
+            },
+            { "server": "https://www.4shared.com/web/embed/file/S6wWlUZIjq/" },
+            { "server": "https://vadbam.com/embed-3szikx3gbijd.html" },
+            {
+              "server": "https://mega.nz/embed/R1lSjKYB!nYF20d3_aJVFl5KzjOWaORsyAkmWaQei-4n6ZxvqzCg"
+            },
+            { "server": "https://www.ok.ru/videoembed/3806774430426" }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://moshahda.net/embed-mikrsqc1g1cr.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-mikrsqc1g1cr.html"
+            },
+            {
+              "server": "https://mega.nz/embed/wSVCHQwR!mf5Ueii16Oap7uG-cIY2aiYBHlu_eNNj_jXcvzpPfxo"
+            },
+            { "server": "https://www.ok.ru/videoembed/3834332515034" },
+            { "server": "https://vadbam.com/embed-7u0e8r3wi20i.html" },
+            { "server": "https://www.ok.ru/videoembed/3834269666010" },
+            {
+              "server": "https://mega.nz/embed/MLdnXaZC!ovG_gnbvRo8vKuBGlDZBxXmOEk5tyJahudTecK5pxgc"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://moshahda.net/embed-97pcyuljc7vj.html"],
+          "servers": [
+            {
+              "server": "https://moshahda.net/embed-97pcyuljc7vj.html"
+            },
+            {
+              "server": "https://mega.nz/embed/ITdEQD7Q!bpDH8_LrBR_EbxYOFOBhp1BHHjE2iebWMY8u7jNRHO8"
+            },
+            { "server": "https://www.ok.ru/videoembed/3867109493466" },
+            { "server": "https://sbanh.com/e/9xne48rql67r" },
+            {
+              "server": "https://mega.nz/embed/sKlQFCyY!7j6yFgxNSrEA044Yf4tItlScVUhr_kQ49_J9LVBqXv8"
+            },
+            { "server": "https://vadbam.com/embed-tf1pk9vyxwab.html" },
+            { "server": "https://sbanh.com/e/u42iqoh82xvn" }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "first_air_date": "2022-09-28",
+      "genre_ids": [16, 10765, 35],
+      "id": 134667,
+      "name": "Reincarnated as a Sword",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "転生したら剣でした",
+      "overview": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
+      "popularity": 103.906,
+      "poster_path": "https://image.tmdb.org/t/p/original/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
+      "vote_average": 6.8,
+      "vote_count": 5,
+      "trailer": "https://www.youtube.com/watch?v=h6vASdQnX30&ab_channel=AniTV",
+      "number_of_episodes": "Episodes 12",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Animation" },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://mega.nz/embed/QP9k2DaI!GFRusG7gy7eYoUuL9cMiG2sTf8dVt8-KlfoDqSS5EL0"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/QP9k2DaI!GFRusG7gy7eYoUuL9cMiG2sTf8dVt8-KlfoDqSS5EL0"
+            },
+            { "server": "https://moshahda.net/embed-up2yoymnqyw6.html" },
+            { "server": "https://vadbam.com/embed-dwtjlntxilqc.html" },
+            {
+              "server": "https://mega.nz/embed/0PFVGDCB!Ol8FncSLkwGzs7H2PpIrA1wFdnBqYcsbx0qdSisbnG8"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://mega.nz/embed/QLkR2IoR!P6n5ArwueRepWnfJY7RW3r7_Rr06voY46DllyL3CBRY"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/QLkR2IoR!P6n5ArwueRepWnfJY7RW3r7_Rr06voY46DllyL3CBRY"
+            },
+            { "server": "https://vadbam.com/embed-0duymsmnwzak.html" },
+            { "server": "https://www.4shared.com/web/embed/file/tHlyONw6iq/" },
+            { "server": "https://moshahda.net/embed-ijlvp0szn20j.html" },
+            {
+              "server": "https://mega.nz/embed/oD8C0CqT!Xu-cl8yuYeOzIvGCNUjRD3guvh5IDAAuLawBjrjv29s"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://mega.nz/embed/Up8wGThJ!AxfwAMt9W_VymG1j8RD8SyoNl3sB3funPIDg76WMWdg"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/Up8wGThJ!AxfwAMt9W_VymG1j8RD8SyoNl3sB3funPIDg76WMWdg"
+            },
+            { "server": "https://vadbam.com/embed-kaui37nsxkj7.html" },
+            { "server": "https://www.4shared.com/web/embed/file/RlbNeibbfa/" },
+            { "server": "https://sbanh.com/e/klua0i5ktard.html" },
+            {
+              "server": "https://mega.nz/embed/UpMX3bYJ!zmnH308Ol9OPzgxa_KL64saRpG52BASBjDvu5gIhkE4"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://mega.nz/embed/cKVzUBhJ!9X0bbc1iwpkdBmXfTNntcv3xzDtQCaJNRecuw-TOC0Y"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/cKVzUBhJ!9X0bbc1iwpkdBmXfTNntcv3xzDtQCaJNRecuw-TOC0Y"
+            },
+            { "server": "https://sbanh.com/e/5pg4uldfzjo0" },
+            { "server": "https://sbanh.com/e/zbxugko40yt2" },
+            { "server": "https://www.4shared.com/web/embed/file/_loTZwMSku/" },
+            { "server": "https://vadbam.com/embed-6yq8jh6znir1.html" },
+            {
+              "server": "https://mega.nz/embed/1b8wnBSQ!G9enHKZdiBluo_Dc_JBtZaBplk7Lt83Ts_esYG-yaNU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/nkWTlEgNpaa7XbQmC3208Fnc8SP.jpg",
+      "first_air_date": "2022-10-03",
+      "genre_ids": [16, 10759, 35],
+      "id": "76757Season4",
+      "name": "Golden Kamuy Season 4",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "ゴールデンカムイ",
+      "overview": "The story takes place in the mighty Northern field of Hokkaido, the time is in the turbulent late Meiji Era. A post war soldier Sugimoto, aka, “Immortal Sugimoto” was in need of large sums of money for a particular purpose…. What awaited Sugimoto, who stepped into Hokkaido’s Gold Rush with dreams of making a fortune, was a tattoo map leading to a hidden treasure based on hints inscribed on the bodies of convicts in Abashiri Prison?! The magnificent nature of Hokkaido vs vicious convicts and the meeting with a pure Ainu girl, Ashiripa!! A survival battle for a hidden treasure hunt begins!",
+      "popularity": 47.388,
+      "poster_path": "https://image.tmdb.org/t/p/original/eLe60jzq2A3w1Zp13ivQBxlyXU9.jpg",
+      "vote_average": 7.5,
+      "vote_count": 36,
+      "trailer": "https://www.youtube.com/watch?v=OTKnrZ7zOwA&ab_channel=AniTV",
+      "number_of_episodes": "Episodes 13",
+      "season_number": "Season 4",
+      "genres": [
+        { "name": "Animation" },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Action & Adventure"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://mega.nz/embed/NedmXDAS!RwH_lNiBIavV3ljSpOZRyDW_Awre80DRp-dN-XnbQEA"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/NedmXDAS!RwH_lNiBIavV3ljSpOZRyDW_Awre80DRp-dN-XnbQEA"
+            },
+            { "server": "https://sblanh.com/e/3soba9857j88" },
+            { "server": "https://vadbam.com/embed-uz03u8my9zsk.html" },
+            { "server": "https://www.4shared.com/web/embed/file/_hmoZjdDiq/" },
+            { "server": "https://sblanh.com/e/zu8zzp7mty59" },
+            {
+              "server": "https://mega.nz/embed/cH9WDI5B!6oWSrPaWUMizpNzJbhDlPW03RHwL0Dzv5eQJJK-HuQM"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://mega.nz/embed/DcYX1ToC!1FYCvpqA69XzWR0X57AcFOMV5IQ5DChW2ZutzhQW4dw"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/DcYX1ToC!1FYCvpqA69XzWR0X57AcFOMV5IQ5DChW2ZutzhQW4dw"
+            },
+            { "server": "https://sbanh.com/e/mps5q2iezmse" },
+            { "server": "https://www.4shared.com/web/embed/file/n1LuLEqPku/" },
+            { "server": "https://sbanh.com/e/nu4ie0iojjv9" },
+            { "server": "https://vadbam.com/embed-v4vlr1po9oun.html" },
+            {
+              "server": "https://mega.nz/embed/WQ5F2ZBT!z2k60yxFnnq1m8CEXJ8JCkIIw6lPHmCTwP_zbGHQpAY"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://mega.nz/embed/Zbs2CQQR!WzkQCp77Hcclrp-OjljZDayFBoPyFlMy4bcniuS98PQ"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/Zbs2CQQR!WzkQCp77Hcclrp-OjljZDayFBoPyFlMy4bcniuS98PQ"
+            },
+            { "server": "https://sbanh.com/e/14lvmkhw1f5t" },
+            { "server": "https://www.4shared.com/web/embed/file/G8g7MxE5ku/" },
+            { "server": "https://vadbam.com/embed-z2owg328514s.html" },
+            { "server": "https://sbanh.com/e/e15lu9neleoi" },
+            {
+              "server": "https://mega.nz/embed/xDMSXQ4Y!qLm8pI9th_Yq3lY6rO7utsI3J-aRK4YzKYRBhOPgB3I"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://mega.nz/embed/oHVngSTJ!iRgX1AGypVGvleh9uydVeWA8in1wn0a-JuYP_IBeWU8"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/oHVngSTJ!iRgX1AGypVGvleh9uydVeWA8in1wn0a-JuYP_IBeWU8"
+            },
+            { "server": "https://sbanh.com/e/3x5gw46txqmc" },
+            { "server": "https://vadbam.com/embed-j6xs1rwbkdeh.html" },
+            { "server": "https://www.4shared.com/web/embed/file/5QwHJRS4fa/" },
+            { "server": "https://sbanh.com/e/yz4widhk4xp9" },
+            {
+              "server": "https://mega.nz/embed/0GlBjbYA!NLZX0yja6pAriDIzz_Q3mLtl5uO4eK9ak4OJfyb-xZQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/h0QApjgslrLRs5tWp1TwfrZfsl2.jpg",
+      "first_air_date": "2022-10-01",
+      "genre_ids": [16, 10759, 10765],
+      "id": 158522,
+      "name": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills.",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "農民関連のスキルばっか上げてたら何故か強くなった。",
+      "overview": "Al Wayne loves farming — and we don’t mean the video game sim. He wants to be a literal farmer, but in the process of improving his agriculture skills, he somehow winds up maxing out his overall character stats! He’s superpowered in the most unexpected of ways with abilities even the strongest of heroes would envy. Alas, all he wants is an idyllic farmer's life, but with demons and monsters invading the realm, Al may have to take up the mantle of hero just to keep his dreams from withering away!",
+      "popularity": 80.884,
+      "poster_path": "https://image.tmdb.org/t/p/original/8TTveKSNr23SRib4Q4C3yy9dszz.jpg",
+      "vote_average": 5.4,
+      "vote_count": 5,
+      "trailer": "https://www.youtube.com/watch?v=kv87hOgv5uw&ab_channel=%E3%83%96%E3%82%B7%E3%83%AD%E3%83%BC%E3%83%89%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+      "number_of_episodes": "Episodes 10",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Animation" },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://mega.nz/embed/caUgkTJJ!X4pZR-AJhIFSepe-Qc0bzmZQH-H42jMT2H4Ne-tly7g"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/caUgkTJJ!X4pZR-AJhIFSepe-Qc0bzmZQH-H42jMT2H4Ne-tly7g"
+            },
+            { "server": "https://sblanh.com/e/4wt68aptce0a" },
+            { "server": "https://www.ok.ru/videoembed/3761735535322" },
+            { "server": "https://vadbam.com/embed-z78hmxkz5ba4.html" },
+            { "server": "https://sblanh.com/e/focbie88itpz" },
+            {
+              "server": "https://mega.nz/embed/dWEWXDDQ!18XPn6pKc6q0RyzQNRpYreR0g5dqMg6fE3l7Wy9-zvA"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://mega.nz/embed/BGVg3KJK!x7nXQ3DaN_Xh9UtSZIZawWsagiApB7K7GPngPV7_5Gs"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/BGVg3KJK!x7nXQ3DaN_Xh9UtSZIZawWsagiApB7K7GPngPV7_5Gs"
+            },
+            { "server": "https://sblanh.com/e/7qqlgszexln4" },
+            { "server": "https://www.ok.ru/videoembed/3792375778010" },
+            { "server": "https://vadbam.com/embed-a943hdk9qqtc.html" },
+            { "server": "https://www.4shared.com/web/embed/file/Fc2wXjuCfa/" },
+            { "server": "https://sblanh.com/e/vwaawn9mkchx" },
+            {
+              "server": "https://mega.nz/embed/MLtXwLzb!G5XUvvcko_B1TClz46IPkaNiBiSFAQkUBuFabqjSt-0"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://mega.nz/embed/YGVQDBpQ!hE2AGpDKbd8CNZWAW9tGR9RyM8tU27kR6MMrcxesraI"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/YGVQDBpQ!hE2AGpDKbd8CNZWAW9tGR9RyM8tU27kR6MMrcxesraI"
+            },
+            { "server": "https://sbanh.com/e/b75srh2slv69" },
+            { "server": "https://www.ok.ru/videoembed/3823082080986" },
+            { "server": "https://vadbam.com/embed-noh3230eodtj.html" },
+            { "server": "https://sbanh.com/e/2b1x8rynd1wj" },
+            {
+              "server": "https://mega.nz/embed/dWkWCA4K!54ihvrcsOyPgiafmGjCs4iMaumdN04eX-OeGhlaT2F4"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://mega.nz/embed/gfsSFZwb!GmAgb-Fv6DnDkvnHZGAcKoh1k1MhRtBDk0yqCkLGLc4"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/gfsSFZwb!GmAgb-Fv6DnDkvnHZGAcKoh1k1MhRtBDk0yqCkLGLc4"
+            },
+            { "server": "https://sbanh.com/e/by7formxnnrm" },
+            { "server": "https://www.ok.ru/videoembed/3849417788122" },
+            { "server": "https://www.4shared.com/web/embed/file/1FXI90ppge/" },
+            { "server": "https://sbanh.com/e/xsnpqmuueius" },
+            { "server": "https://vadbam.com/embed-cuzug9ab8jdw.html" },
+            {
+              "server": "https://mega.nz/embed/1SslRBaA!UMdHY7-0xyDO4JFy-QWj89Xj5mR0JJakkjxbpiHzuII"
             }
           ]
         }
@@ -17080,6 +18299,26 @@
               "server": "https://mega.nz/embed/JWlEVT5J!tQxYaWLlsAzh3osEsSTXRW1cF7CvqzXB0cjO5BiJzsI"
             },
             { "server": "https://www.ok.ru/videoembed/3834144361178" }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://mega.nz/embed/MKsQEZCB!Y1XJBwLfQiBjvVG6YqA00R7sVv5Dm4vLDeMU7Qtfu-o"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/MKsQEZCB!Y1XJBwLfQiBjvVG6YqA00R7sVv5Dm4vLDeMU7Qtfu-o"
+            },
+            { "server": "https://sbanh.com/e/7r66q6ff6ycj" },
+            { "server": "https://www.ok.ru/videoembed/3866900302554" },
+            { "server": "https://www.4shared.com/web/embed/file/-lxm7FK-ge/" },
+            { "server": "https://sbanh.com/e/iylasdus88v0" },
+            {
+              "server": "https://mega.nz/embed/cakHFABD!CMZh7iVZMAYvtvYkbhsAsiwhw_5RZIknyphgYCRlfIk"
+            }
           ]
         }
       ]
@@ -18279,6 +19518,187 @@
         {
           "id": 9648,
           "name": "Mystery"
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/gxNAmgFstpHFdahqPsNzgSdKG7L.jpg",
+      "first_air_date": "2022-10-09",
+      "genre_ids": [16, 18, 35],
+      "id": 139287,
+      "name": "More Than a Married Couple, But Not Lovers",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "夫婦以上、恋人未満。",
+      "overview": "The story centers on third-year high school student Jiro Yakuin, who gets saddled with his gyaru classmate Akari Watanabe for the class's \"marriage training\" project about practicing to be a married couple. Jiro is the complete opposite of Akari, but the two know that if they do well they will be able to switch partners to end up with their respective crushes, and so they force themselves to act like the perfect married couple.",
+      "popularity": 33.888,
+      "poster_path": "https://image.tmdb.org/t/p/original/tEdCclmak7CHR5OzbusD94zdhUW.jpg",
+      "vote_average": 5.8,
+      "vote_count": 4,
+      "trailer": "https://www.youtube.com/watch?v=2gHhxAksU9E&ab_channel=KADOKAWAanime",
+      "number_of_episodes": "Episodes 12",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Animation" },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://mega.nz/embed/aJ5UXIbJ!gkmZgioF9T_fFrsuKW-rCVdHm7bPw6k8KsjJmqwE5mk"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/aJ5UXIbJ!gkmZgioF9T_fFrsuKW-rCVdHm7bPw6k8KsjJmqwE5mk"
+            },
+            { "server": "https://sbanh.com/e/57h00usdxisx" },
+            { "server": "https://www.ok.ru/videoembed/3795645565658" },
+            { "server": "https://vadbam.com/embed-2l9iozz7h1o6.html" },
+            { "server": "https://www.4shared.com/web/embed/file/DwOmgeGbjq/" },
+            { "server": "https://sbanh.com/e/650bxzyiztqk" },
+            {
+              "server": "https://mega.nz/embed/2JomXZbL!3HaIMoPLJZWQDdiA1M8L1XEHjPcARXR85KG5SP7Lgss"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://mega.nz/embed/4KFRFAoQ!Bxv8-pjpdtaNfQMlVd4Enlw1uiL__ULkO4YmEC13Eoo"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/4KFRFAoQ!Bxv8-pjpdtaNfQMlVd4Enlw1uiL__ULkO4YmEC13Eoo"
+            },
+            { "server": "https://sbanh.com/e/cqaigqnqedst" },
+            { "server": "https://www.ok.ru/videoembed/3824985115354" },
+            { "server": "https://vadbam.com/embed-ebe9rkm659qn.html" },
+            { "server": "https://sbanh.com/e/54izol96in97" },
+            {
+              "server": "https://mega.nz/embed/kLcQgSyJ!_-p8tLFmsv0h7NL5g5orOp8cYW2P1uqcREMfExpnxbw"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://mega.nz/embed/MfMSmKSJ!qWayrtefdenw50oay50oxAZxS5n5imfSQw3lxJdH06g"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/MfMSmKSJ!qWayrtefdenw50oay50oxAZxS5n5imfSQw3lxJdH06g"
+            },
+            { "server": "https://sbanh.com/e/lp33f49q002e" },
+            { "server": "https://vadbam.com/embed-419hw15vbvcq.html" },
+            { "server": "https://sbanh.com/e/yn48ko14bnyj" },
+            {
+              "server": "https://mega.nz/embed/FHNHGLZI!yNOJG7UGN6JiMAIjVzH7-8SnaZ7KjGmNhe8Qa2IojJ0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/b4rhGFajTzeYIonGrxZIaoBiM7x.jpg",
+      "first_air_date": "2022-10-08",
+      "genre_ids": [16, 10765, 35],
+      "id": "91801Season3",
+      "name": "Welcome to Demon School! Iruma-kun Season 3",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "魔入りました！入間くん",
+      "overview": "This time it's the jungle!\n\nHuman boy Suzuki Iruma becomes \"grandson\" to the great demon Sullivan and begins attending demon school where \"Grandpa\" serves as chair. Winning friends—and rising in demon rank, too—Iruma thrives in his new environment, overcoming the harrowing ordeals thrown his way! In the new season, further challenges await... it's harvest season, and time for the annual test where students wade into the expansive and extremely dangerous (!) jungle to compete for food!! Classmates become rivals, and what erupts is a gargantuan battle of brawn and wits?",
+      "popularity": 89.868,
+      "poster_path": "https://image.tmdb.org/t/p/original/lO6fZddb7qySMn73wsm7uS54Xrh.jpg",
+      "vote_average": 8.6,
+      "vote_count": 205,
+      "trailer": "https://www.youtube.com/watch?time_continue=2&v=v0M9JojWdFA&feature=emb_title&ab_channel=%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E9%AD%94%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%21%E5%85%A5%E9%96%93%E3%81%8F%E3%82%93%E3%80%8D%E5%85%AC%E5%BC%8FAnimeOFFICIAL",
+      "number_of_episodes": "Episodes 21",
+      "season_number": "Season 3",
+      "genres": [
+        { "name": "Animation" },
+        {
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "name": "Comedy"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://mega.nz/embed/dWFiSSBQ!XkrmUhZhdIImo3VWMVGRj1HsgAa6isyQN6xPLk2Zoh4"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/dWFiSSBQ!XkrmUhZhdIImo3VWMVGRj1HsgAa6isyQN6xPLk2Zoh4"
+            },
+            { "server": "https://sblanh.com/e/vrmxpsq4v75d" },
+            { "server": "https://www.ok.ru/videoembed/3792234810074" },
+            { "server": "https://vadbam.com/embed-bq9h0qmunihv.html" },
+            { "server": "https://www.4shared.com/web/embed/file/z2dWdH6qge/" },
+            { "server": "https://sblanh.com/e/8sa8vvt1q5lg" },
+            {
+              "server": "https://mega.nz/embed/ESVR3bKZ!Rf-lVzfEa1Sd1atLgKqpUg6PR45A1go-XhJf9_jm_0I"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://mega.nz/embed/Fa9UCALD!TSv25VH0Xv-EuYRY5NIiAOJ_QdWQcQRyKYv0IpToHOg"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/Fa9UCALD!TSv25VH0Xv-EuYRY5NIiAOJ_QdWQcQRyKYv0IpToHOg"
+            },
+            { "server": "https://sbanh.com/e/j9fdjg9b7txc" },
+            { "server": "https://www.ok.ru/videoembed/3816658832090" },
+            { "server": "https://vadbam.com/embed-cbyojj89rdfa.html" },
+            { "server": "https://www.4shared.com/web/embed/file/WruxDgzNku/" },
+            { "server": "https://sbanh.com/e/of3y1olgwitv" },
+            {
+              "server": "https://mega.nz/embed/MDNkVKJQ!EjL_fdsSz8wQug_21tDhrSy_jQoAfLA8wPHlgdDV_iI"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://mega.nz/embed/RXEklKyR!ZP9PHqZCfVmm_K01c5TjKbIXb1Oy8ReZCIXwH0bSW2k"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/RXEklKyR!ZP9PHqZCfVmm_K01c5TjKbIXb1Oy8ReZCIXwH0bSW2k"
+            },
+            { "server": "https://sbanh.com/e/3n7upe7hoytk" },
+            { "server": "https://www.ok.ru/videoembed/3846730615514" },
+            { "server": "https://vadbam.com/embed-ggnhubiky787.html" },
+            { "server": "https://www.4shared.com/web/embed/file/-EqkhmQbge/" },
+            { "server": "https://sbanh.com/e/zgwhsptzrkeo" },
+            {
+              "server": "https://mega.nz/embed/dW8BTBLJ!n8ABg6XZkotp-jwNDkgiaCzG5Lzl4bIfFqvcOQV8-Ok"
+            }
+          ]
         }
       ]
     },
