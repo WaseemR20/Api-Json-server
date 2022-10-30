@@ -3671,10 +3671,12 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
       "genre_ids": [10751, 16, 14, 10402, 35, 12],
       "id": 354912,
+      "imdb_id": "tt2380307",
       "original_language": "en",
       "original_title": "Coco",
       "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
       "popularity": 320.089,
+      "overview_ar": "على الرغم من حظر عائلته للموسيقى منذ أجيال محيرة ، يحلم ميغيل بأن يصبح موسيقيًا بارعًا مثل معبوده ، إرنستو دي لا كروز. في محاولة يائسة لإثبات موهبته ، يجد ميغيل نفسه في أرض الموتى المذهلة والملونة بعد سلسلة غامضة من الأحداث. على طول الطريق ، يلتقي المخادع الساحر هيكتور ، وانطلقوا معًا في رحلة غير عادية لكشف القصة الحقيقية وراء تاريخ عائلة ميغيل.",
       "poster_path": "https://image.tmdb.org/t/p/original/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
       "release_date": "2017-10-27",
       "title": "Coco",
@@ -3682,30 +3684,30 @@
       "logo": "https://www.themoviedb.org/t/p/original/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
       "trailer": "https://www.youtube.com/watch?v=xlnPHQ3TLX8&ab_channel=Pixar",
       "genres": [
-        { "id": 10751, "name": "Family" },
-        {
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 14,
-          "name": "Fantasy"
-        },
-        {
-          "id": 10402,
-          "name": "Music"
-        },
-        {
-          "id": 35,
-          "name": "Comedy"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        }
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Fantasy", "name_ar": "خيال" },
+        { "name": "Music", "name_ar": "موسيقى" },
+        { "name": "Comedy", "name_ar": "كوميديا" },
+        { "name": "Adventure", "name_ar": "حركة" }
       ],
       "vote_average": 8.2,
-      "vote_count": 16169
+      "vote_count": 16169,
+      "play": [
+        {
+          "server1": ["https://sbanh.com/e/hvrqcxxmptu6.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/hvrqcxxmptu6.html" },
+            { "server": "https://slmaxed.com/e/GWaolEGyM9ZDdPVQ" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=354912" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt2380307" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Coco&year=2017"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -3728,6 +3730,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/vqEX1uF3Spl12rOACQ3gJ6j4MSR.jpg",
       "genre_ids": [27],
       "id": 864370,
+      "imdb_id": "tt18968540",
       "original_language": "zh",
       "original_title": "咒",
       "overview": "Inspired by a true story of a family who believed they were possessed by spirits, this film follows a woman who must protect her child from a curse.  WARNING: This is a cursed video, it might contain certain risks to watch. For those who dares to follow, please solve the puzzle of my daughter's curse with me.",
@@ -3737,7 +3740,25 @@
       "title": "Incantation",
       "video": false,
       "vote_average": 6.9,
-      "vote_count": 328
+      "vote_count": 328,
+      "overview_ar": "مستوحى من قصة حقيقية لعائلة اعتقدت أنها ممسوسة بالأرواح ، هذا الفيلم يتبع امرأة يجب أن تحمي طفلها من اللعنة. تحذير: هذا مقطع فيديو ملعون ، قد يحتوي على مخاطر معينة لمشاهدتها. بالنسبة لهؤلاء من يجرؤ على المتابعة ، يرجى حل لغز لعنة ابنتي معي",
+      "trailer": "https://www.youtube.com/watch?v=HnyNZdcL_GY&ab_channel=NetflixAsia",
+      "genres": [{ "name": "Horror", "name_ar": "رعب" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=864370"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=864370" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt18968540"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Incantation&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -3800,6 +3821,7 @@
       "release_date": "2018-04-25",
       "title": "Avengers: Infinity War",
       "video": false,
+      "type": "Marvel",
       "logo": "https://www.themoviedb.org/t/p/original/7fBzZBlDlbxBNFEY50P4J4OZ5RX.png",
       "trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8&ab_channel=MarvelEntertainment",
       "genres": [
@@ -5036,6 +5058,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
       "genre_ids": [28, 12, 14, 878],
       "id": 791373,
+      "imdb_id": "tt12361974",
       "original_language": "en",
       "original_title": "Zack Snyder's Justice League",
       "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
@@ -5045,7 +5068,30 @@
       "title": "Zack Snyder's Justice League",
       "video": false,
       "vote_average": 8.2,
-      "vote_count": 8229
+      "vote_count": 8229,
+      "overview_ar": "عاقدة العزم على التأكد من أن تضحية سوبرمان النهائية لم تذهب سدى ، بروس واين يربط القوى مع ديانا برينس مع خطط لتجنيد فريق من البشر لحماية العالم من تهديد يقترب بنسب كارثية.",
+      "trailer": "https://www.youtube.com/watch?v=vM-Bja2Gy04&ab_channel=HBOMax",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Fantasy", "name_ar": "خيال" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=791373"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=791373" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt12361974"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Zack%20Snyder%27s%20Justice%20League&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -5218,6 +5264,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "genre_ids": [12, 878, 28],
       "id": 299534,
+      "imdb_id": "tt4154796",
       "original_language": "en",
       "original_title": "Avengers: Endgame",
       "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
@@ -5227,7 +5274,29 @@
       "title": "Avengers: Endgame",
       "video": false,
       "vote_average": 8.3,
-      "vote_count": 21941
+      "vote_count": 21941,
+      "type": "Marvel",
+      "logo": "https://www.themoviedb.org/t/p/original/pjZSBgMDYjEhyanp8aahfE1KcAn.png",
+      "overview_ar": "بعد الأحداث المدمرة لـ Avengers: Infinity War ، أصبح الكون في حالة خراب بسبب جهود Mad Titan ، Thanos. بمساعدة الحلفاء المتبقين ، يجب أن يجتمع المنتقمون مرة أخرى من أجل التراجع عن أفعال ثانوس واستعادة النظام إلى الكون مرة واحدة وإلى الأبد ، بغض النظر عن العواقب المحتملة.",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c&ab_channel=MarvelEntertainment",
+      "genres": [
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Science Fiction", "name_ar": "الخيال العلمي" },
+        { "name": "Action", "name_ar": "حركة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=299534"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=299534" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt4154796" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Avengers:%20Endgame&year=2019"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -6584,6 +6653,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/5vVA0vUVMfCzIl4woB32f2qklog.jpg",
       "genre_ids": [53],
       "id": 628878,
+      "imdb_id": "tt4029412",
       "original_language": "en",
       "original_title": "Panama",
       "overview": "An ex-marine is hired by a defense contractor to travel to Panama to complete an arms deal. In the process he becomes involved with the U.S. invasion of Panama, and learns an important lesson about the true nature of political power.",
@@ -6593,7 +6663,23 @@
       "title": "Panama",
       "video": false,
       "vote_average": 5.6,
-      "vote_count": 85
+      "vote_count": 85,
+      "overview_ar": "تم تعيين أحد جنود البحرية السابقين من قبل مقاول دفاعي للسفر إلى بنما لإتمام صفقة أسلحة. وفي هذه العملية يشارك في الغزو الأمريكي لبنما ، ويتعلم درسًا مهمًا عن الطبيعة الحقيقية للسلطة السياسية",
+      "trailer": "https://www.youtube.com/watch?v=O_FWx79_GNs&ab_channel=MovieTrailersSource",
+      "genres": [{ "name": "Thriller", "name_ar": "إثارة" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=628878"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=628878" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt4029412" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Panama&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -7966,6 +8052,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/7jjwdoIVPJp7gcDo9uE1sVZi2Rs.jpg",
       "genre_ids": [18, 10749],
       "id": 296096,
+      "imdb_id": "tt2674426",
       "original_language": "en",
       "original_title": "Me Before You",
       "overview": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways neither of them could begin to imagine.",
@@ -7975,7 +8062,27 @@
       "title": "Me Before You",
       "video": false,
       "vote_average": 7.9,
-      "vote_count": 10526
+      "vote_count": 10526,
+      "overview_ar": "فتاة بلدة صغيرة عالقة بين وظائف مسدودة. رجل ناجح رفيع المستوى يصبح مقيدًا على كرسي متحرك بعد تعرضه لحادث. يقرر الرجل أن حياته لا تستحق العيش حتى يتم تعيين الفتاة لمدة ستة أشهر لتكون القائم بأعماله الجديدة. عالمان منفصلان ومحاصران بسبب الظروف ، يبدأ الاثنان بداية صعبة. لكن الفتاة مصممة على أن تثبت للرجل أن الحياة تستحق العيش ، وبينما يشرعان في سلسلة من المغامرات معًا ، يجد كل منهما عالمه يتغير بطرق لا يمكن لأي منهما أن يتخيلها.",
+      "trailer": "https://www.youtube.com/watch?v=Eh993__rOxA&ab_channel=RottenTomatoesTrailers",
+      "genres": [
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Romance", "name_ar": "رومانسي" }
+      ],
+
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=296096"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=296096" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt2674426" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Me%20Before%20You&year=2016"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10602,6 +10709,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
       "genre_ids": [16, 35, 10751, 12],
       "id": 14160,
+      "imdb_id": "tt1049413",
       "original_language": "en",
       "original_title": "Up",
       "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
@@ -10611,7 +10719,29 @@
       "title": "Up",
       "video": false,
       "vote_average": 7.9,
-      "vote_count": 17674
+      "vote_count": 17674,
+      "overview_ar": "قضى كارل فريدريكسن حياته كلها في حلم استكشاف العالم وتجربة الحياة على أكمل وجه. ولكن في سن 78 ، يبدو أن الحياة قد فاتته ، حتى تحول القدر (واستكشف وايلدرنس إكسبلورر البالغ من العمر 8 سنوات واسمه راسل) منحه فرصة جديدة للحياة.",
+      "trailer": "https://www.youtube.com/watch?v=ORFWdXl_zJ4&ab_channel=DisneyUK",
+      "genres": [
+        { "name": "Animation", "name_ar": "رسوم متحركة" },
+        { "name": "Comedy", "name_ar": "كوميديا" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Adventure", "name_ar": "مغامرة" }
+      ],
+
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=14160"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=14160" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt1049413" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Up&year=2009"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -12224,22 +12354,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/ur0LjmKqoiCgHxbQ3ZP4x06nmAA.jpg",
-      "genre_ids": [18, 53],
-      "id": 811596,
-      "original_language": "fr",
-      "original_title": "Notre-Dame brûle",
-      "overview": "A film relating from the inside the Notre-Dame de Paris fire of April 2019.",
-      "popularity": 104.57,
-      "poster_path": "https://image.tmdb.org/t/p/original/kXj3FqzQABWsElUuT9y3WhfGPdT.jpg",
-      "release_date": "2022-03-16",
-      "title": "Notre-Dame on Fire",
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 120
-    },
-    {
-      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/hcNM0HjfPonIzOVy6LVTDBXSfMq.jpg",
       "genre_ids": [28, 53, 80],
       "id": 864116,
@@ -12582,6 +12696,742 @@
     }
   ],
   "TvShow": [
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/aPsyg7Q9xSUy3AshffqwWPc69Ir.jpg",
+      "first_air_date": "2018-10-26",
+      "genre_ids": [10765, 18, 9648],
+      "id": 79242,
+      "imdb_id": "tt7569592",
+      "name": "Chilling Adventures of Sabrina",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Chilling Adventures of Sabrina",
+      "overview": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+      "popularity": 119.514,
+      "poster_path": "https://image.tmdb.org/t/p/original/ndsDUwLeHSGzUlrSz0YQzsuwT8H.jpg",
+      "vote_average": 8.293,
+      "vote_count": 3088,
+      "type": "Netflix",
+      "overview_ar": "أحلك أيام الفراغ تصل بينما سابرينا تكافح مع الحزن والندم. هل يمكنها أن تستجمع القوة للتغلب على حلقة لا نهاية لها من الدمار؟",
+      "logo": "https://occ-0-4609-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZE9vEUodbdBGyZ0NQ7DlFT690wQiZ0oEOLZBHFsFEbvFiAqa42wo_PgOHHhsJyHkCAuehMfim5cB51DAgWE6oKZ60Y8cfyjnbRcowxMYfLDzrLFxytj0zd4Ik25-XOdporsGYJzw3EZP0m5bWDvWVcXFmDjjwPH24dmw4alXIwvfHnumnUvlw.png?r=30b",
+      "trailer": "https://www.youtube.com/watch?v=Ab_rXrgk5R4&ab_channel=Netflix",
+      "number_of_episodes_ar": "11 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episodes 11",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Sci-Fi & Fantasy", "name_ar": "خيال علمي وفانتازيا" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2018&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=1&e=11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/8AdmUPTyidDebwIuakqkSt6u1II.jpg",
+      "first_air_date": "2020-01-24",
+      "genre_ids": [10765, 18, 9648],
+      "id": "79242Season2",
+      "imdb_id": "tt7569592",
+      "name": "Chilling Adventures of Sabrina Part 2",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Chilling Adventures of Sabrina",
+      "overview": "A chilling new chapter begins as Sabrina dives deeper into the dark and daring world of teenage witchcraft.",
+      "popularity": 119.514,
+      "poster_path": "https://www.themoviedb.org/t/p/original/vTLy41WQBB0zrDJVGNajSkE4ZHm.jpg",
+      "vote_average": 8.293,
+      "vote_count": 3088,
+      "type": "Netflix",
+      "overview_ar": "يبدأ فصل جديد تقشعر له الأبدان بينما تغوص Sabrina بشكل أعمق في عالم السحر والشعوذة في سن المراهقة.",
+      "logo": "https://occ-0-4609-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZE9vEUodbdBGyZ0NQ7DlFT690wQiZ0oEOLZBHFsFEbvFiAqa42wo_PgOHHhsJyHkCAuehMfim5cB51DAgWE6oKZ60Y8cfyjnbRcowxMYfLDzrLFxytj0zd4Ik25-XOdporsGYJzw3EZP0m5bWDvWVcXFmDjjwPH24dmw4alXIwvfHnumnUvlw.png?r=30b",
+      "trailer": "https://www.youtube.com/watch?v=d8dLwiT2KOo&ab_channel=Netflix",
+      "number_of_episodes_ar": "9 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episodes 9",
+      "season_number": "Season 2",
+      "genres": [
+        { "name": "Sci-Fi & Fantasy", "name_ar": "خيال علمي وفانتازيا" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2019&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=2&e=9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://occ-0-4609-299.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdATVo7FoCiAyFmqp5Dyy9wk_YXv4KLsqJGwKV8z9PXC096mHPR9OLWk20Qy_sc1kZzO5qXsinLPCVbRuhSObcb5aTCWYMCByN_i.jpg?r=01c",
+      "first_air_date": "2020-01-24",
+      "genre_ids": [10765, 18, 9648],
+      "id": "79242Season3",
+      "imdb_id": "tt7569592",
+      "name": "Chilling Adventures of Sabrina Part 3",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Chilling Adventures of Sabrina",
+      "overview": "Love and loyalty are pushed to their limits as Sabrina navigates a sinister new normal -- with the help of Greendale's bravest allies.",
+      "popularity": 119.514,
+      "poster_path": "https://image.tmdb.org/t/p/original/lMHeC5qsDD0SPAadpQt8cu7jCgK.jpg",
+      "vote_average": 8.293,
+      "vote_count": 3088,
+      "type": "Netflix",
+      "overview_ar": "يتم دفع الحب والولاء إلى أقصى حدودهما بينما تتنقل Sabrina في وضع طبيعي جديد شرير - بمساعدة حلفاء Greendale الأشجع.",
+      "logo": "https://occ-0-4609-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZE9vEUodbdBGyZ0NQ7DlFT690wQiZ0oEOLZBHFsFEbvFiAqa42wo_PgOHHhsJyHkCAuehMfim5cB51DAgWE6oKZ60Y8cfyjnbRcowxMYfLDzrLFxytj0zd4Ik25-XOdporsGYJzw3EZP0m5bWDvWVcXFmDjjwPH24dmw4alXIwvfHnumnUvlw.png?r=30b",
+      "trailer": "https://www.youtube.com/watch?v=getvYflDK98&ab_channel=Netflix",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 3",
+      "number_of_episodes": "Episodes 8",
+      "season_number": "Season 3",
+      "genres": [
+        { "name": "Sci-Fi & Fantasy", "name_ar": "خيال علمي وفانتازيا" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=3&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://occ-0-4609-299.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdATVo7FoCiAyFmqp5Dyy9wk_YXv4KLsqJGwKV8z9PXC096mHPR9OLWk20Qy_sc1kZzO5qXsinLPCVbRuhSObcb5aTCWYMCByN_i.jpg?r=01c",
+      "first_air_date": "2020-01-24",
+      "genre_ids": [10765, 18, 9648],
+      "id": "79242Season4",
+      "imdb_id": "tt7569592",
+      "name": "Chilling Adventures of Sabrina Part 4",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Chilling Adventures of Sabrina",
+      "overview": "Sabrina's new normal quickly dissolves as menacing spirits set their sights on Greendale. In a battle of supernatural wits, who will be left standing?",
+      "popularity": 119.514,
+      "poster_path": "https://www.themoviedb.org/t/p/original/zqGW05Q5aDXyRyTbgtbDB5WRn4I.jpg",
+      "vote_average": 8.293,
+      "vote_count": 3088,
+      "type": "Netflix",
+      "overview_ar": "سرعان ما يتلاشى الوضع الطبيعي الجديد لسابرينا بينما تضع الأرواح المهددة أنظارها على غريندال. في معركة الذكاء الخارق ، من سيبقى واقفاً؟",
+      "logo": "https://occ-0-4609-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZE9vEUodbdBGyZ0NQ7DlFT690wQiZ0oEOLZBHFsFEbvFiAqa42wo_PgOHHhsJyHkCAuehMfim5cB51DAgWE6oKZ60Y8cfyjnbRcowxMYfLDzrLFxytj0zd4Ik25-XOdporsGYJzw3EZP0m5bWDvWVcXFmDjjwPH24dmw4alXIwvfHnumnUvlw.png?r=30b",
+      "trailer": "https://www.youtube.com/watch?v=gENO66DUgaQ&ab_channel=Netflix",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 4",
+      "number_of_episodes": "Episodes 8",
+      "season_number": "Season 4",
+      "genres": [
+        { "name": "Sci-Fi & Fantasy", "name_ar": "خيال علمي وفانتازيا" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=79242&s=4&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Chilling%20Adventures%20of%20Sabrina&year=2020&s=4&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7569592&s=4&e=8"
+            }
+          ]
+        }
+      ]
+    },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
       "first_air_date": "2022-08-21",
@@ -23263,6 +24113,28 @@
               "server": "https://mega.nz/embed/ZK0XWZJS!w1ZkEy9l39ofKCN2WwTW1igQ9vn2zqjQlfoEpaHsv3s"
             }
           ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://mega.nz/embed/NfdgjRSB!mT01V5oCo4zmCl88qWORO7kz-EmdGlHTF1MR0dycDgU"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/NfdgjRSB!mT01V5oCo4zmCl88qWORO7kz-EmdGlHTF1MR0dycDgU"
+            },
+            { "server": "https://sbanh.com/e/6bpqmqkou7a6" },
+            { "server": "https://play.cdngo.me/hd.php?code=s2i0vhgleb75" },
+            { "server": "https://sbanh.com/e/4wzguwwlhr3r" },
+            { "server": "https://moshahda.net/embed-pwomridr4l4u.html" },
+            { "server": "https://www.4shared.com/web/embed/file/aoiUvf4uku/" },
+            { "server": "https://vadbam.com/embed-o8sx6xx9lvky.html" },
+            {
+              "server": "https://mega.nz/embed/sfVjTTzR!xu52yf68kQaDcLzgboBjMgj2xBF16pbk7_hZtioSVuE"
+            }
+          ]
         }
       ]
     },
@@ -31763,6 +32635,698 @@
               "server": "https://drive.google.com/file/d/12FQpWL-9mJEWakUzSUI7bmeXec_JqcsW/preview"
             }
           ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=17"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=17"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=17"
+            },
+            {
+              "server": "https://mega.nz/embed/sL8yCbhY!WiB5kfaBuKm_87wFCnbvk80QwX2gN2YHkmJf2z_xYio"
+            },
+            {
+              "server": "https://sbanh.com/e/h9jxiqlfn5ec"
+            },
+            {
+              "server": "https://moshahda.net/embed-nigv0f204bkq.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/gib9f7gXku/"
+            },
+            {
+              "server": "https://vadbam.com/embed-tltub2hftbkz.html"
+            },
+            {
+              "server": "https://sbanh.com/e/gntssgjq370h"
+            },
+            {
+              "server": "https://mega.nz/embed/IKM0lJqC!b2ZSi_tMWEnGB0bakstacQDU3JLjWqAukDVU1upTcis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
+      "first_air_date": "2016-07-11",
+      "genre_ids": [16, 35, 10765],
+      "id": 67676,
+      "name": "The Disastrous Life of Saiki K.",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "斉木楠雄のΨ難",
+      "overview": "Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, Kusuo Saiki finds this so-called blessing to be nothing but a curse. As all the inconveniences his powers cause constantly pile up, all Kusuo aims for is an ordinary, hassle-free life—a life where ignorance is bliss.",
+      "popularity": 44.114,
+      "poster_path": "https://image.tmdb.org/t/p/original/tpym31HVeQgenaubvCxkMF3kFHy.jpg",
+      "vote_average": 8.411,
+      "vote_count": 230,
+      "overview_ar": "Kusuo Saiki مصمم على إخفاء قدراته النفسية القوية حتى يتمكن من عيش حياة المدرسة الثانوية العادية ، لكن زملائه الغريبين في الفصل يمثلون تجربة.",
+      "number_of_episodes_ar": "24 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episodes 24",
+      "season_number": "Season 1",
+      "trailer": "https://www.youtube.com/watch?v=sbw7QB6nrTc&ab_channel=Netflix",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Sci-Fi & Fantasy", "name_ar": "الخيال العلمي" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://sbanh.com/e/5j6mad99pod4.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/5j6mad99pod4.html" },
+            {
+              "server": "https://www.animeiat.tv/player/9c4b5302-4eab-4fbe-b4fd-1efe74063e29"
+            },
+            { "server": "https://www.mp4upload.com/embed-iv9k95ppjrwu.html" },
+            { "server": "https://www.mp4upload.com/embed-pxgzij9x70ga.html" }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://sbanh.com/e/rmyacpxpczsg.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/rmyacpxpczsg.html" },
+            { "server": "https://www.mp4upload.com/embed-rwg3zdj90eo8.html" },
+            {
+              "server": "https://www.animeiat.tv/player/2a994847-afeb-48d1-ae49-ab8a38c4ef2f"
+            },
+            { "server": "https://www.mp4upload.com/embed-uficzcfyc76m.html" }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://sbanh.com/e/v6c7fyq5oote.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/v6c7fyq5oote.html" },
+            { "server": "https://www.mp4upload.com/embed-3yds7sx2gu6t.html" },
+            {
+              "server": "https://www.animeiat.tv/player/dbbe79f1-2dbc-4a31-b0b7-1d4a4be95e54"
+            },
+            { "server": "https://www.mp4upload.com/embed-mvnwxytzz36p.html" }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://sbanh.com/e/6kc54u699uum.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/6kc54u699uum.html" },
+            { "server": "https://www.mp4upload.com/embed-q59i78003zbk.html" },
+            {
+              "server": "https://www.animeiat.tv/player/ba04d0ab-ae6f-4a73-91ff-0bc70fabde9e"
+            },
+            { "server": "https://www.mp4upload.com/embed-ywueooqm5v1x.html" }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://sbanh.com/e/v6wgmp8ob5ry.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/v6wgmp8ob5ry.html" },
+            { "server": "https://www.mp4upload.com/embed-j65prrylvjkx.html" },
+            {
+              "server": "https://www.animeiat.tv/player/1de946a4-9d00-445d-a1ac-5538b42ec765"
+            },
+            { "server": "https://www.mp4upload.com/embed-nocvcs7pecdo.html" }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://sbanh.com/e/ru17v79v7h69.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/ru17v79v7h69.html" },
+            {
+              "server": "https://www.animeiat.tv/player/b94c2df7-439f-43dd-9fd5-f4fdf015082e"
+            },
+            { "server": "https://www.mp4upload.com/embed-7ee9gql9ryeu.html" },
+            { "server": "https://www.mp4upload.com/embed-3kf8xo3qkenp.html" }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://sbanh.com/e/97y621ni430a.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/97y621ni430a.html" },
+            {
+              "server": "https://www.animeiat.tv/player/8a37fcae-5d9c-42a0-b8c2-a73d3a37d929"
+            },
+            { "server": "https://www.mp4upload.com/embed-4ub8ggdx20j0.html" },
+            { "server": "https://www.mp4upload.com/embed-i1jlpwq2omaw.html" }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://sbanh.com/e/m90ghgug5g81.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/m90ghgug5g81.html" },
+            {
+              "server": "https://www.animeiat.tv/player/e56bf9d3-9586-4bd8-ae6e-4b47026cfba6"
+            },
+            { "server": "https://www.mp4upload.com/embed-buh50bfibv3f.html" },
+            { "server": "https://www.mp4upload.com/embed-bbnn0gxxu71b.html" }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://sbanh.com/e/uym6q8vtcj8s.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/uym6q8vtcj8s.html" },
+            {
+              "server": "https://www.animeiat.tv/player/3fbae9e8-fab3-4b55-9183-73648e9c56da"
+            },
+            { "server": "https://www.mp4upload.com/embed-x4a7h79kfsok.html" },
+            { "server": "https://www.mp4upload.com/embed-pikcju6o0kj8.html" }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://sbanh.com/e/t8zae1bxq6x7.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/t8zae1bxq6x7.html" },
+            {
+              "server": "https://www.animeiat.tv/player/87648c09-5408-47b1-9ccf-1c0d0721f44c"
+            },
+            { "server": "https://www.mp4upload.com/embed-o9wx61fga34i.html" },
+            { "server": "https://www.mp4upload.com/embed-6opd130t4op3.html" }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://sbanh.com/e/a9jp4vnpyfaj.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/a9jp4vnpyfaj.html" },
+            {
+              "server": "https://www.animeiat.tv/player/604f0fa1-936e-4b2a-8bf7-7c76b9603975"
+            },
+            { "server": "https://www.mp4upload.com/embed-darwxcv5j7i0.html" },
+            { "server": "https://www.mp4upload.com/embed-1c23yxxojdpf.html" }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://sbanh.com/e/sufpp4x9mqnm.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/sufpp4x9mqnm.html" },
+            {
+              "server": "https://www.animeiat.tv/player/315abd11-60ce-4237-9c35-0e8cd0f04d9b"
+            },
+            { "server": "https://www.mp4upload.com/embed-285o93ls8hf2.html" },
+            { "server": "https://www.mp4upload.com/embed-34y1uvwl3ei8.html" }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": ["https://sbanh.com/e/0zjx3c5zbrmq.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/0zjx3c5zbrmq.html" },
+            {
+              "server": "https://www.animeiat.tv/player/9e611c8f-e41b-423c-9399-32d488832108"
+            },
+            { "server": "https://www.mp4upload.com/embed-m9h308k1ivjz.html" },
+            { "server": "https://www.mp4upload.com/embed-vh3hs277g5qk.html" }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": ["https://sbanh.com/e/mq3ijozyjxmo.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/mq3ijozyjxmo.html" },
+            {
+              "server": "https://www.animeiat.tv/player/c38641e8-8e23-423d-8fa5-1254e2ff50ba"
+            },
+            { "server": "https://www.mp4upload.com/embed-gal6k24en79d.html" },
+            { "server": "https://www.mp4upload.com/embed-tlyjim9794kq.html" }
+          ]
+        },
+        {
+          "id": 15,
+          "episodeId": "Episode15",
+          "name": "Episode 15",
+          "server1": ["https://sbanh.com/e/d63kzbsvm9fx.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/d63kzbsvm9fx.html" },
+            {
+              "server": "https://www.animeiat.tv/player/d02520fe-c0af-4cee-a67b-98203c864783"
+            },
+            { "server": "https://www.mp4upload.com/embed-4sk8lakg4n8d.html" },
+            { "server": "https://www.mp4upload.com/embed-7c8n6hyqcwi4.html" }
+          ]
+        },
+        {
+          "id": 16,
+          "episodeId": "Episode16",
+          "name": "Episode 16",
+          "server1": ["https://sbanh.com/e/vvqah7vczwoh.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/vvqah7vczwoh.html" },
+            {
+              "server": "https://www.animeiat.tv/player/bc96c2bc-694b-4432-8859-870f8100fda4"
+            },
+            { "server": "https://www.mp4upload.com/embed-lv1y533wucr2.html" },
+            { "server": "https://www.mp4upload.com/embed-otonk4udgr5w.html" }
+          ]
+        },
+        {
+          "id": 17,
+          "episodeId": "Episode17",
+          "name": "Episode 17",
+          "server1": ["https://sbanh.com/e/h2zjhmhm1vy8.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/h2zjhmhm1vy8.html" },
+            {
+              "server": "https://www.animeiat.tv/player/e2dd22ba-b255-4a0e-b4ff-dc86334f554e"
+            },
+            { "server": "https://www.mp4upload.com/embed-lv1y533wucr2.html" },
+            { "server": "https://www.mp4upload.com/embed-blw9ke6gcefs.html" }
+          ]
+        },
+        {
+          "id": 18,
+          "episodeId": "Episode18",
+          "name": "Episode 18",
+          "server1": ["https://sbanh.com/e/j7cp29bs5scl.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/j7cp29bs5scl.html" },
+            {
+              "server": "https://www.animeiat.tv/player/ab9b9604-b695-470f-81a9-0b6bf89bdde7"
+            },
+            { "server": "https://www.mp4upload.com/embed-iunqix735z92.html" },
+            { "server": "https://www.mp4upload.com/embed-l75q4xuseffu.html" }
+          ]
+        },
+        {
+          "id": 19,
+          "episodeId": "Episode19",
+          "name": "Episode 19",
+          "server1": ["https://sbanh.com/e/sr24aq7gxb1o.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/sr24aq7gxb1o.html" },
+            {
+              "server": "https://www.animeiat.tv/player/a9f25f79-e02a-432d-bb6d-e07074a89b73"
+            },
+            { "server": "https://www.mp4upload.com/embed-dkl7dvenkwik.html" },
+            { "server": "https://www.mp4upload.com/embed-3tgugjaayyz9.html" }
+          ]
+        },
+        {
+          "id": 20,
+          "episodeId": "Episode20",
+          "name": "Episode 20",
+          "server1": ["https://sbanh.com/e/lugi008azrb2.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/lugi008azrb2.html" },
+            {
+              "server": "https://www.animeiat.tv/player/56dd319f-524e-4d34-9367-25ac07dab7fd"
+            },
+            { "server": "https://www.mp4upload.com/embed-wkq3vi001agx.html" },
+            { "server": "https://www.mp4upload.com/embed-1lvtl24a4n4h.html" }
+          ]
+        },
+        {
+          "id": 21,
+          "episodeId": "Episode21",
+          "name": "Episode 21",
+          "server1": ["https://sbanh.com/e/7vy6kchcknem.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/7vy6kchcknem.html" },
+            {
+              "server": "https://www.animeiat.tv/player/9bca647e-6bc6-4a11-86cc-e667eb7ce1b8"
+            },
+            { "server": "https://www.mp4upload.com/embed-almp2ayy5lq9.html" },
+            { "server": "https://www.mp4upload.com/embed-mo1700nkmioe.html" }
+          ]
+        },
+        {
+          "id": 22,
+          "episodeId": "Episode22",
+          "name": "Episode 22",
+          "server1": ["https://sbanh.com/e/8wjrypocokoy.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/8wjrypocokoy.html" },
+            {
+              "server": "https://www.animeiat.tv/player/3ed29212-cf96-4454-9109-c7f2697ff6b4"
+            },
+            { "server": "https://www.mp4upload.com/embed-5wkaa8m7su3b.html" },
+            { "server": "https://www.mp4upload.com/embed-rigam2k7yfpt.html" }
+          ]
+        },
+        {
+          "id": 23,
+          "episodeId": "Episode23",
+          "name": "Episode 23",
+          "server1": ["https://sbanh.com/e/2ue8xa5t5ewl.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/2ue8xa5t5ewl.html" },
+            {
+              "server": "https://www.animeiat.tv/player/e2aafb19-ac8b-48ce-aad7-e372f5584360"
+            },
+            { "server": "https://www.mp4upload.com/embed-pm3japybpfdz.html" },
+            { "server": "https://www.mp4upload.com/embed-vyx6t0vzh7u6.html" }
+          ]
+        },
+        {
+          "id": 24,
+          "episodeId": "Episode24",
+          "name": "Episode 24",
+          "server1": ["https://sbanh.com/e/o0pizm92cioy.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/o0pizm92cioy.html" },
+            {
+              "server": "https://www.animeiat.tv/player/c506d173-62d2-4f3c-a69f-77440a8ae0df"
+            },
+            { "server": "https://www.mp4upload.com/embed-o5f81xwl83b9.html" },
+            { "server": "https://www.mp4upload.com/embed-yps869js9j76.html" }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
+      "first_air_date": "2018-01-17",
+      "genre_ids": [16, 35, 10765],
+      "id": "67676Season2",
+      "name": "The Disastrous Life of Saiki K. Season 2",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "斉木楠雄のΨ難",
+      "overview": "Kusuo's attempt to lead a normal life continue as his oddball classmates make it difficult once again to conceal his various supernatural abilities.",
+      "popularity": 44.114,
+      "poster_path": "https://cdn.myanimelist.net/images/anime/1961/91383l.jpg",
+      "vote_average": 8.411,
+      "vote_count": 230,
+      "overview_ar": "تستمر محاولة Kusuo لعيش حياة طبيعية ، حيث يجعل زملاؤه في فريق غريب الأطوار من الصعب مرة أخرى إخفاء قدراته الخارقة المختلفة.",
+      "number_of_episodes_ar": "24 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episodes 24",
+      "season_number": "Season 2",
+      "trailer": "https://www.youtube.com/watch?v=Aha1TjvvEUs&ab_channel=SHOPRO",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Sci-Fi & Fantasy", "name_ar": "الخيال العلمي" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 15,
+          "episodeId": "Episode15",
+          "name": "Episode 15",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 16,
+          "episodeId": "Episode16",
+          "name": "Episode 16",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 17,
+          "episodeId": "Episode17",
+          "name": "Episode 17",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 18,
+          "episodeId": "Episode18",
+          "name": "Episode 18",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 19,
+          "episodeId": "Episode19",
+          "name": "Episode 19",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 20,
+          "episodeId": "Episode20",
+          "name": "Episode 20",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 21,
+          "episodeId": "Episode21",
+          "name": "Episode 21",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 22,
+          "episodeId": "Episode22",
+          "name": "Episode 22",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 23,
+          "episodeId": "Episode23",
+          "name": "Episode 23",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 24,
+          "episodeId": "Episode24",
+          "name": "Episode 24",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
         }
       ]
     },
@@ -31784,10 +33348,10 @@
       "season_number": "Season 1",
       "trailer": "https://www.youtube.com/watch?v=oJg6BeGxl-c&ab_channel=CrunchyrollCollection",
       "genres": [
-        { "name": "Animation" },
-        { "name": "Drama" },
-        { "name": "Sci-Fi & Fantasy" },
-        { "name": "Action & Adventure" }
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Sci-Fi & Fantasy", "name_ar": "الخيال العلمي" },
+        { "name": "Action & Adventure", "name_ar": "حركة & مغامرة" }
       ],
       "episodes": [
         {
