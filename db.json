@@ -1341,28 +1341,17 @@
       "original_language": "en",
       "original_title": "Luck",
       "overview": "Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
+      "overview_ar": "وجدت نفسها فجأة في أرض الحظ التي لم يسبق لها مثيل ، يجب على الشخص الأكثر حظًا في العالم أن يتحد مع المخلوقات السحرية هناك لتغيير حظها.",
       "popularity": 801.37,
       "poster_path": "https://image.tmdb.org/t/p/original/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",
       "release_date": "2022-08-05",
       "title": "Luck",
       "video": false,
       "genres": [
-        {
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        },
-        {
-          "id": 35,
-          "name": "Comedy"
-        },
-        {
-          "id": 14,
-          "name": "Fantasy"
-        }
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Comedy", "name_ar": "كوميديا" },
+        { "name": "Fantasy", "name_ar": "خيال" }
       ],
       "play": [
         {
@@ -2093,6 +2082,7 @@
       "original_language": "en",
       "original_title": "The Exorcism of God",
       "overview": "An American priest working in Mexico is considered a saint by many local parishioners. However, due to a botched exorcism, he carries a secret that’s eating him alive until he gets an opportunity to face his demon one final time.",
+      "overview_ar": "يعتبر الكاهن الأمريكي الذي يعمل في المكسيك قديسا من قبل العديد من أبناء الرعية المحليين. ومع ذلك ، بسبب طرد الأرواح الشريرة الفاشل ، فإنه يحمل سرا يأكله حيا حتى يحصل على فرصة لمواجهة شيطانه مرة أخيرة.",
       "popularity": 543.216,
       "poster_path": "https://image.tmdb.org/t/p/original/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg",
       "release_date": "2022-03-11",
@@ -2100,7 +2090,7 @@
       "video": false,
       "logo": "https://www.themoviedb.org/t/p/original/tPiTBsFOYS3wUxt3bkqxhywqKAL.png",
       "trailer": "https://www.youtube.com/watch?v=VdLI8I4jZD0&ab_channel=SabanFilms",
-      "genres": [{ "id": 27, "name": "Horror" }],
+      "genres": [{ "name": "Horror", "name_ar": "رعب" }],
       "play": [
         {
           "id": 233557,
@@ -2344,12 +2334,13 @@
 
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/dWI7xZiIV9crcmPSoe4IUTrDkiB.jpg",
       "genre_ids": [80, 9648, 53],
       "id": 414906,
       "original_language": "en",
       "original_title": "The Batman",
       "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "overview_ar": "في سنته الثانية من محاربة الجريمة ، يكشف باتمان عن فساد في مدينة جوثام يتصل بعائلته بينما يواجه قاتلًا متسلسلاً يُعرف باسم ريدلر",
       "popularity": 521.671,
       "poster_path": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
       "release_date": "2022-03-01",
@@ -2358,15 +2349,9 @@
       "logo": "https://www.themoviedb.org/t/p/original/haibnO2TycgulXD1Fj7b94L9m9E.png",
       "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4&ab_channel=WarnerBros.Pictures",
       "genres": [
-        { "id": 80, "name": "Crime" },
-        {
-          "id": 9648,
-          "name": "Mystery"
-        },
-        {
-          "id": 53,
-          "name": "Thriller"
-        }
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Thriller", "name_ar": "إثارة" }
       ],
       "play": [
         {
@@ -2707,12 +2692,12 @@
       "original_language": "en",
       "original_title": "Hotel Transylvania: Transformania",
       "overview": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
+      "overview_ar": "بسبب الماكينة الجديدة التي ابتكرها فان هلسينج، يتحول دارك وعصبته من الوحوش إلى بشر، أما جوني فعلى العكس يصير وحشًا، وعلى أفراد العصبة أن يعودوا لسابق عهدهم قبل فوات اﻷوان.",
       "popularity": 443.494,
       "poster_path": "https://image.tmdb.org/t/p/original/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
       "release_date": "2022-02-25",
       "title": "Hotel Transylvania: Transformania",
       "video": false,
-      "logo": "https://www.themoviedb.org/t/p/original/pGyr7fPhTEXNC9XaDRMWlc9FL1h.png",
       "trailer": "https://www.youtube.com/watch?v=7AP86CYeR30&ab_channel=SonyPicturesEntertainment",
       "genres": [
         { "id": 16, "name": "Animation" },
@@ -2921,12 +2906,13 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/nUaPnsDwdhtWEYKuMTJBZzzijiZ.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/nriimW9ODNgVWrkMobFaJhWjCRJ.jpg",
       "genre_ids": [28, 12],
       "id": 335787,
       "original_language": "en",
       "original_title": "Uncharted",
       "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+      "overview_ar": "تدور الأحداث حول الفتى الشاب ناثان دريك، وعلاقته بفيكتور سوليفان، حيث يخوض الثنائي العديد من المغامرات بحثًا عن الكنوز المفقودة، بينما يسعى دريك لاسترداد إرث عائلته.",
       "popularity": 392.955,
       "poster_path": "https://image.tmdb.org/t/p/original/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
       "release_date": "2022-02-10",
@@ -2935,11 +2921,8 @@
       "logo": "https://www.themoviedb.org/t/p/original/3UMFRAwOdizSCIoLSFFfTuK9Drt.png",
       "trailer": "https://www.youtube.com/watch?v=eHp3MbsCbMg&ab_channel=SonyPicturesEntertainment",
       "genres": [
-        { "id": 28, "name": "Action" },
-        {
-          "id": 12,
-          "name": "Adventure"
-        }
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" }
       ],
       "play": [
         {
@@ -3564,18 +3547,11 @@
       "release_date": "2022-02-11",
       "title": "Catch the Fair One",
       "video": false,
-      "logo": "https://www.themoviedb.org/t/p/original/jY94nKuUmpgE0XwPzulpc0IZbjF.png",
       "trailer": "https://www.youtube.com/watch?v=lITIDvp1_o8&ab_channel=IFCFilms",
       "genres": [
-        { "id": 80, "name": "Crime" },
-        {
-          "id": 53,
-          "name": "Thriller"
-        },
-        {
-          "id": 18,
-          "name": "Drama"
-        }
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Drama", "name_ar": "دراما" }
       ],
       "play": [
         {
@@ -3583,7 +3559,12 @@
           "server1": ["https://www.2embed.to/embed/tmdb/movie?id=821420"],
           "servers": [
             { "server": "https://www.2embed.to/embed/tmdb/movie?id=821420" },
-            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt11304504" }
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11304504"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Catch%20the%20Fair%20One&year=2022"
+            }
           ],
           "name": "Watch"
         }
@@ -3956,9 +3937,10 @@
 
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
       "genre_ids": [28, 12, 14],
       "id": 566525,
+      "imdb_id": "tt9376612",
       "original_language": "en",
       "original_title": "Shang-Chi and the Legend of the Ten Rings",
       "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
@@ -3968,7 +3950,29 @@
       "title": "Shang-Chi and the Legend of the Ten Rings",
       "video": false,
       "vote_average": 7.7,
-      "vote_count": 7196
+      "vote_count": 7196,
+      "type": "Marvel",
+      "logo": "https://www.themoviedb.org/t/p/original/xUpqspDwEewAAY9qiaGH8qr4Jjk.png",
+      "overview_ar": "ي إطار من المغامرات والحركة، يتناول العمل قصة شانجشي، ومجموعة من مغامرات واحد من أمهر لاعبي الكونغ فو في العالم، حينما يقع في مواجهة مع ماضيه خلال سقوطه في عالم منظمة الخواتم العشرة.",
+      "trailer": "https://www.youtube.com/watch?v=8YjFbMbfXaQ&ab_channel=MarvelEntertainment",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Fantasy", "name_ar": "خيال" },
+        { "name": "Adventure", "name_ar": "مغامرة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=566525"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=566525" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt9376612" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -4285,14 +4289,15 @@
       "poster_path": "https://image.tmdb.org/t/p/original/6h5OCqRnWH7Dcm4IeP4JypBdtuI.jpg",
       "release_date": "2022-07-15",
       "title": "Where the Crawdads Sing",
+      "overview_ar": "في إطار من الدراما والغموض، يتناول العمل قصة امرأة ترعرعت في مستنقعات وأعماق الجنوب، حيث تصبح المشتبه به الرئيسي في جريمة قتل رجل كانت تعرفه يومًا ما.",
       "video": false,
       "vote_average": 7.7,
       "vote_count": 390,
       "trailer": "https://www.youtube.com/watch?v=PY3808Iq0Tg&ab_channel=SonyPicturesEntertainment",
       "genres": [
-        { "name": "Drama" },
-        { "name": "Mystery" },
-        { "name": "Thriller" }
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Thriller", "name_ar": "إثارة" }
       ],
       "play": [
         {
@@ -4576,9 +4581,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/d5jp6mzN7opDqw4vIlpF7Sh2bLP.jpg",
       "genre_ids": [27, 53],
       "id": 632727,
+      "imdb_id": "tt11755740",
       "original_language": "en",
       "original_title": "Texas Chainsaw Massacre",
       "overview": "After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic influencers who accidentally disrupt his carefully shielded world in a remote Texas town.",
@@ -4588,7 +4594,29 @@
       "title": "Texas Chainsaw Massacre",
       "video": false,
       "vote_average": 5.3,
-      "vote_count": 946
+      "vote_count": 946,
+      "overview_ar": "بعد ما يقرب من 50 عامًا من الاختباء، يعود ليذرفيس لإرهاب مجموعة من الأصدقاء الشباب الذين يدخلون عن طريق الخطأ بعالمه المحمي بعناية في بلدة نائية في تكساس.",
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=zcI6SFiK_yk&ab_channel=Netflix",
+      "genres": [
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Horror", "name_ar": "رعب" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=632727"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=632727" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11755740"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Texas%20Chainsaw%20Massacre&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -4689,9 +4717,10 @@
 
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/5C3RriLKkIAQtQMx85JLtu4rVI2.jpg",
       "genre_ids": [12, 18, 878],
       "id": 157336,
+      "imdb_id": "tt0816692",
       "original_language": "en",
       "original_title": "Interstellar",
       "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
@@ -4701,7 +4730,27 @@
       "title": "Interstellar",
       "video": false,
       "vote_average": 8.4,
-      "vote_count": 29417
+      "vote_count": 29417,
+      "overview_ar": "مغامرات مجموعة من المستكشفين الذين يستخدمون ثقبًا دوديًا تم اكتشافه حديثًا لتجاوز القيود المفروضة على سفر الإنسان إلى الفضاء وقهر المسافات الشاسعة التي تنطوي عليها رحلة بين النجوم.",
+      "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E&ab_channel=WarnerBros.UK%26Ireland",
+      "genres": [
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=157336"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=157336" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt0816692" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Interstellar&year=2014"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -4945,6 +4994,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
       "genre_ids": [28, 878, 12],
       "id": 588228,
+      "imdb_id": "tt9777666",
       "original_language": "en",
       "original_title": "The Tomorrow War",
       "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
@@ -4954,7 +5004,27 @@
       "title": "The Tomorrow War",
       "video": false,
       "vote_average": 7.9,
-      "vote_count": 5850
+      "vote_count": 5850,
+      "overview_ar": "أذهل العالم عندما وصلت مجموعة من المسافرين عبر الزمن من عام 2051 لإيصال رسالة عاجلة: ثلاثون عامًا في المستقبل ، تخسر البشرية حربًا عالمية ضد كائنات فضائية قاتلة. الأمل الوحيد للبقاء هو نقل الجنود والمدنيين من الحاضر إلى المستقبل والانضمام إلى القتال. ومن بين هؤلاء الذين تم تجنيدهم مدرس في المدرسة الثانوية ورجل الأسرة دان فوريستر. مصممًا على إنقاذ العالم من أجل ابنته الصغيرة ، يتعاون دان مع عالم لامع ووالده المنفصل في محاولة يائسة لإعادة كتابة مصير الكوكب.",
+      "trailer": "https://www.youtube.com/watch?v=QPistcpGB8o&ab_channel=PrimeVideo",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" },
+        { "name": "Adventure", "name_ar": "مغامرة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=588228"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=588228" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt9777666" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Tomorrow%20War&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -5719,9 +5789,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/2hGjmgZrS1nlsEl5PZorn7EsmzH.jpg",
       "genre_ids": [28, 53],
       "id": 823625,
+      "imdb_id": "tt14060094",
       "original_language": "en",
       "original_title": "Blacklight",
       "overview": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
@@ -5731,7 +5802,28 @@
       "title": "Blacklight",
       "video": false,
       "vote_average": 6.3,
-      "vote_count": 698
+      "vote_count": 698,
+      "overview_ar": "أثناء محاولة العميل الحكومي (ترافيس بلوك) التعامل مع ماضيه الغامض، يكتشف وجود مؤامرة تستهدف قتل مواطنين أمريكيين، ويجد (بلوك) نفسه في مواجهة رئيس مكتب التحقيقات الفيدرالي الذي ساعد في حمايته سابقًا.",
+      "trailer": "https://www.youtube.com/watch?v=PE04ESdgnHI&ab_channel=RottenTomatoesTrailers",
+      "genres": [
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Action", "name_ar": "حركة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=823625"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=823625" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14060094"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Blacklight&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -5970,6 +6062,7 @@
       "original_language": "en",
       "original_title": "Hustle",
       "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+      "overview_ar": "بعد اكتشاف لاعب لا يتكرر في العمر وله ماضٍ صخري في الخارج ، يأخذ كشاف كرة السلة على عاتقه إحضار هذه الظاهرة إلى الولايات المتحدة دون موافقة فريقه. على عكس الصعاب ، لديهم فرصة أخيرة لإثبات أن لديهم ما يلزم لتحقيقه في الدوري الاميركي للمحترفين.",
       "popularity": 190.88,
       "poster_path": "https://image.tmdb.org/t/p/original/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
       "release_date": "2022-06-03",
@@ -5980,13 +6073,19 @@
       "type": "Netflix",
       "trailer": "https://www.youtube.com/watch?v=nM4iy0reaCA&ab_channel=Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/68Z57JoFIuxjrjreNVDGzJXvZAS.png",
-      "genres": [{ "name": "Comedy" }, { "name": "Drama" }],
+      "genres": [
+        { "name": "Comedy", "name_ar": "كوميديا" },
+        { "name": "Drama", "name_ar": "دراما" }
+      ],
       "play": [
         {
           "server1": ["https://www.2embed.to/embed/tmdb/movie?id=705861"],
           "servers": [
             { "server": "https://www.2embed.to/embed/tmdb/movie?id=705861" },
-            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt8009428" }
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt8009428" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Hustle&year=2022"
+            }
           ],
           "name": "Watch"
         }
@@ -6045,6 +6144,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/adlZgxAudw3ZPA0HUcDzSTKrH8B.jpg",
       "genre_ids": [16, 10751, 12, 10770, 14, 28],
       "id": 755812,
+      "imdb_id": "tt12816348",
       "original_language": "fr",
       "original_title": "Miraculous World : New York, les héros unis",
       "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
@@ -6054,7 +6154,31 @@
       "title": "Miraculous World: New York, United HeroeZ",
       "video": false,
       "vote_average": 8.2,
-      "vote_count": 936
+      "vote_count": 936,
+      "overview_ar": "خلال رحلة ميدانية مدرسية ، تلتقي Ladybug و Cat Noir بالأبطال الخارقين الأمريكيين ، الذين يتعين عليهم إنقاذهم من شرير خارق. يكتشفون أن المعجزة موجودة في الولايات المتحدة أيضًا.",
+      "trailer": "https://www.youtube.com/watch?v=K41a_JkCM1U&ab_channel=MiraculousLadybug",
+      "genres": [
+        { "name": "Animation", "name_ar": "رسوم متحركة" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Fantasy", "name_ar": "خيال" },
+        { "name": "Action", "name_ar": "حركة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=755812"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=755812" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt12816348"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Miraculous%20World:%20New%20York,%20United%20HeroeZ&year=2020"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -6530,17 +6654,22 @@
       "original_language": "en",
       "original_title": "The Adam Project",
       "overview": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+      "overview_ar": "بعد الهبوط عن طريق الخطأ في عام 2022، يتعاون الطيار المقاتل آدم ريد الذي يسافر عبر الزمن مع نفسه البالغة من العمر 12 عاما في مهمة لإنقاذ المستقبل.",
       "popularity": 181.311,
       "poster_path": "https://image.tmdb.org/t/p/original/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
       "release_date": "2022-03-11",
       "title": "The Adam Project",
       "video": false,
+      "type": "Netflix",
       "vote_average": 7.1,
       "vote_count": 3029,
       "type": "Netflix",
       "logo": "https://www.themoviedb.org/t/p/original/61I9LBoTmdZ9wLvO3e8ue71iEIm.png",
       "trailer": "https://www.youtube.com/watch?v=IE8HIsIrq4o&ab_channel=Netflix",
-      "genres": [{ "name": "Adventure" }, { "name": "Science Fiction" }],
+      "genres": [
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
+      ],
       "play": [
         {
           "server1": ["https://www.2embed.to/embed/tmdb/movie?id=696806"],
@@ -6686,6 +6815,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/mruT954ve6P1zquaRs6XG0hA5k9.jpg",
       "genre_ids": [53],
       "id": 800510,
+      "imdb_id": "tt14128670",
       "original_language": "en",
       "original_title": "Kimi",
       "overview": "A tech worker with agoraphobia discovers recorded evidence of a violent crime but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she must leave her apartment.",
@@ -6695,7 +6825,25 @@
       "title": "Kimi",
       "video": false,
       "vote_average": 6.2,
-      "vote_count": 533
+      "vote_count": 533,
+      "overview_ar": "خلال فترة الإغلاق بسبب فيروس كورونا بمنطقة سياتل، تعثر فتاة تعاني من رهاب الأماكن العامة على دليل لجريمة قاتل غامضة خلال عملها بمجال التكنولوجيا، وسرعان ما تجد نفسها مجبرة على مواجهة أكبر مخاوفها.",
+      "trailer": "https://www.youtube.com/watch?v=_Gr2zXuEBL0&ab_channel=HBOMax",
+      "genres": [{ "name": "Thriller", "name_ar": "إثارة" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=800510"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=800510" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14128670"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Kimi&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -6837,6 +6985,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
       "genre_ids": [28, 80, 53],
       "id": 637649,
+      "imdb_id": "tt11083552",
       "original_language": "en",
       "original_title": "Wrath of Man",
       "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
@@ -6846,7 +6995,29 @@
       "title": "Wrath of Man",
       "video": false,
       "vote_average": 7.7,
-      "vote_count": 3964
+      "vote_count": 3964,
+      "overview_ar": "يفاجئ حارس أمن جديد وغامض لشركة شاحنات نقود في لوس أنجلوس زملائه في العمل عندما يطلق العنان لمهارات دقيقة أثناء سرقة. ترك الطاقم يتساءل من هو ومن أين أتى. سرعان ما أصبح الدافع النهائي للرامي واضحًا لأنه يتخذ خطوات دراماتيكية لا رجوع عنها لتصفية النتيجة.",
+      "trailer": "https://www.youtube.com/watch?v=EFYEni2gsK0&ab_channel=MGM",
+      "genres": [
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Thriller", "name_ar": "جريمة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=637649"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=637649" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11083552"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Wrath%20of%20Man&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -7659,6 +7830,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/4rsomWxlqnHt3muGYK06auhOib6.jpg",
       "genre_ids": [18, 10749],
       "id": 818647,
+      "imdb_id": "tt14463484",
       "original_language": "es",
       "original_title": "A través de mi ventana",
       "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
@@ -7668,7 +7840,30 @@
       "title": "Through My Window",
       "video": false,
       "vote_average": 7.5,
-      "vote_count": 2307
+      "vote_count": 2307,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/ySR2LaV39bgzUA2WZWXWjba3J6Z.png",
+      "overview_ar": "يتحول سحق `` راكيل '' منذ فترة طويلة لجارتها المجاورة إلى شيء أكثر عندما يبدأ في تطوير مشاعر تجاهها ، على الرغم من اعتراضات عائلته.",
+      "trailer": "https://www.youtube.com/watch?v=_zxhK3Z-R0c&ab_channel=Netflix",
+      "genres": [
+        { "name": "Romance", "name_ar": "رومانسي" },
+        { "name": "Drama", "name_ar": "دراما" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=818647"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=818647" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14463484"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Through%20My%20Window&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -7707,6 +7902,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
       "genre_ids": [878, 12],
       "id": 438631,
+      "imdb_id": "tt1160419",
       "original_language": "en",
       "original_title": "Dune",
       "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
@@ -7716,7 +7912,26 @@
       "title": "Dune",
       "video": false,
       "vote_average": 7.9,
-      "vote_count": 7825
+      "vote_count": 7825,
+      "overview_ar": "بول أتريدس ، شاب لامع وموهوب ولد في مصير عظيم يفوق إدراكه ، يجب أن يسافر إلى أخطر كوكب في الكون لضمان مستقبل عائلته وشعبه. بينما تنفجر القوى الخبيثة في صراع حول الإمداد الحصري للكوكب بأثمن مورد في الوجود - سلعة قادرة على إطلاق أعظم إمكانات البشرية - فقط أولئك الذين يمكنهم التغلب على خوفهم سيبقون على قيد الحياة.",
+      "trailer": "https://www.youtube.com/watch?v=8g18jFHCLXk&ab_channel=WarnerBros.Pictures",
+      "genres": [
+        { "name": "Science Fiction", "name_ar": "خيال علمي" },
+        { "name": "Adventure", "name_ar": "مغامرة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=438631"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=438631" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt1160419" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Dune&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -8002,6 +8217,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/yzH5zvuEzzsHLZnn0jwYoPf0CMT.jpg",
       "genre_ids": [53, 28],
       "id": 760926,
+"imdb_id": "tt6020800",
       "original_language": "en",
       "original_title": "Gold",
       "overview": "In the not-too-distant future, two drifters traveling through the desert stumble across the biggest gold nugget ever found and the dream of immense wealth and greed takes hold. They hatch a plan to excavate their bounty, with one man leaving to secure the necessary tools while the other remains with the gold. The man who remains must endure harsh desert elements, ravenous wild dogs, and mysterious intruders, while battling the sinking suspicion that he has been abandoned to his fate.",
@@ -8011,7 +8227,24 @@
       "title": "Gold",
       "video": false,
       "vote_average": 6.3,
-      "vote_count": 401
+      "vote_count": 401,
+      "overview_ar": "في المستقبل غير البعيد ، يتعثر اثنان من الانجرافات التي تسافر عبر الصحراء عبر أكبر كتلة ذهبية تم العثور عليها على الإطلاق ويترسخ حلم الثروة الهائلة والجشع. إنهم يضعون خطة للتنقيب عن مكافأتهم ، حيث يغادر رجل واحد لتأمين الأدوات اللازمة بينما يبقى الآخر مع الذهب. يجب على الرجل الذي يبقى أن يتحمل العناصر الصحراوية القاسية ، والكلاب البرية الشرسة ، والمتسللين الغامضين ، بينما يحارب الشك الغارق في أنه قد تم التخلي عنه لمصيره.",
+      "trailer": "https://www.youtube.com/watch?v=9UHxMBhFy88&ab_channel=MovieTrailersSource",
+      "genres": [
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Action", "name_ar": "حركة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=760926"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=760926" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt6020800" },
+            { "server": "https://www.2embed.to/embed/title/movie?title=Gold&year=2022" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -8261,6 +8494,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg",
       "genre_ids": [16, 10751, 12],
       "id": 166428,
+      "imdb_id": "tt2386490",
       "original_language": "en",
       "original_title": "How to Train Your Dragon: The Hidden World",
       "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
@@ -8270,7 +8504,29 @@
       "title": "How to Train Your Dragon: The Hidden World",
       "video": false,
       "vote_average": 7.8,
-      "vote_count": 5327
+      "vote_count": 5327,
+      "overview_ar": "في الوقت الذي يحقق فيه - هيكوب - حلمه في إنشاء يوتوبيا تنموية سلمية للتنانين، يكتشف - تووثلس - كائنا مشابها له. بينما يتصاعد الخطر في القرية ويتم اختبار قدرة هيكوب كحاكما للقرية، يتوجب على كل من التنين وفارسه اتخاذ قرارات مستحيلة لإنقاذ القرية.",
+      "trailer": "https://www.youtube.com/watch?v=SkcucKDrbOI&ab_channel=PeacockKids",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=166428"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=166428" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt2386490" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=How%20to%20Train%20Your%20Dragon:%20The%20Hidden%20World&year=2019"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -8648,6 +8904,7 @@
       "original_language": "en",
       "original_title": "Crush",
       "overview": "When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she's been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.",
+      "overview_ar": "تنضم فنانة شابة طموحة إلى فريقها في المدرسة الثانوية وتكتشف لاحقًا ما هو الشعور بالحب الحقيقي عندما تجد نفسها تقع في حب زميل غير متوقع.",
       "popularity": 107.601,
       "poster_path": "https://image.tmdb.org/t/p/original/hayr56csDzCSADaejgrRMVPHyDy.jpg",
       "release_date": "2022-04-29",
@@ -8656,7 +8913,10 @@
       "vote_average": 7.7,
       "vote_count": 264,
       "trailer": "https://www.youtube.com/watch?v=NHxwLymYHWA&ab_channel=Hulu",
-      "genres": [{ "name": "Romance" }, { "name": "Comedy" }],
+      "genres": [
+        { "name": "Romance", "name_ar": "رومانسي" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
       "play": [
         {
           "server1": ["https://www.2embed.to/embed/imdb/movie?id=tt15096128"],
@@ -9722,6 +9982,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/3RQccmgJDybIdLivf4aNCJj5fVO.jpg",
       "genre_ids": [28, 53, 80, 9648],
       "id": 916821,
+      "imdb_id": "tt14174168",
       "original_language": "en",
       "original_title": "Gasoline Alley",
       "overview": "A man implicated in the triple homicide of three Hollywood starlets begins his own investigation. Needing assistance, he enlists the two detectives on his tail in order to expose a conspiracy more explosive than any of them imagined.",
@@ -9731,7 +9992,30 @@
       "title": "Gasoline Alley",
       "video": false,
       "vote_average": 5.4,
-      "vote_count": 79
+      "vote_count": 79,
+      "overview_ar": "يقرر رجل متورط في مقتل ثلات نجمات من هوليوود تعيين مجموعة من المحققين من أجل مساعدته، في سبيل الكشف عن مؤامرة كبيرة قد تغير مجرى الأحداث.",
+      "trailer": "https://www.youtube.com/watch?v=MC7B09hMuNA&ab_channel=ONEMedia",
+      "genres": [
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=916821"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=916821" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14174168"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Gasoline%20Alley&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10056,9 +10340,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/9cGSFGZVVLsrnbs0AFPDh6X2ynl.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/5exe45TqltBmCOltEBxzMif1AlC.jpg",
       "genre_ids": [16, 10751, 12, 18, 35],
       "id": 150540,
+      "imdb_id": "tt2096673",
       "original_language": "en",
       "original_title": "Inside Out",
       "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
@@ -10068,7 +10353,30 @@
       "title": "Inside Out",
       "video": false,
       "vote_average": 7.9,
-      "vote_count": 18283
+      "vote_count": 18283,
+      "logo": "https://www.themoviedb.org/t/p/original/r6fUkDoHks9PXgmw9CQU3CMBCZq.png",
+      "overview_ar": "يمكن أن يكون النمو طريقًا وعرًا ، ولا يُستثنى من ذلك رايلي ، التي اقتلعت من حياتها في الغرب الأوسط عندما بدأ والدها وظيفة جديدة في سان فرانسيسكو. عواطف رايلي الموجهة - الفرح والخوف والغضب والاشمئزاز والحزن - تعيش في المقر ، ومركز التحكم داخل عقل رايلي ، حيث يساعدون في تقديم المشورة لها خلال الحياة اليومية ويحاولون إبقاء الأمور إيجابية ، لكن المشاعر تتعارض حول أفضل السبل للتنقل مدينة جديدة ، منزل ومدرسة.",
+      "trailer": "https://www.youtube.com/watch?v=yRUAzGQ3nSY&ab_channel=Pixar",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=150540"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=150540" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt2096673" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Inside%20Out&year=2015"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10120,9 +10428,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/hkotG0lTzS5O0wfihbukOb2e7dS.jpg",
       "genre_ids": [80, 53, 18],
       "id": 475557,
+      "imdb_id": "tt7286456",
       "original_language": "en",
       "original_title": "Joker",
       "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
@@ -10132,7 +10441,28 @@
       "title": "Joker",
       "video": false,
       "vote_average": 8.2,
-      "vote_count": 21425
+      "vote_count": 21425,
+      "logo": "https://www.themoviedb.org/t/p/original/uACD19MjHdpLBlzmFSztlwsW5Q6.png",
+      "overview_ar": "خلال الثمانينيات من القرن الماضي ، أصبح الممثل الكوميدي الفاشل مدفوعًا بالجنون ويتحول إلى حياة الجريمة والفوضى في مدينة جوثام بينما أصبح شخصية سيئة السمعة للجريمة السيكوباتية.",
+      "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY&ab_channel=WarnerBros.Pictures",
+      "genres": [
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Drama", "name_ar": "دراما" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=475557"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=475557" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt7286456" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Joker&year=2019"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10285,6 +10615,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/i5dUmY2xRzgkmjHJYKNj8kPX1Xx.jpg",
       "genre_ids": [37, 28],
       "id": 928999,
+      "imdb_id": "tt11833692",
       "original_language": "en",
       "original_title": "Desperate Riders",
       "overview": "After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?",
@@ -10294,7 +10625,28 @@
       "title": "Desperate Riders",
       "video": false,
       "vote_average": 6.1,
-      "vote_count": 48
+      "vote_count": 48,
+      "overview_ar": "بعد أن أنقذت كانساس ريد الشاب بيلي من تبادل لإطلاق النار في لعبة ورق ، طلب الصبي من ريد المساعدة في حماية أسرته من الخارج عن القانون ثورن ، الذي اختطف للتو والدة بيلي ، كارول. بينما ينطلق ريد وبيلي لإنقاذ كارول ، يصادفان ليزلي الجميلة القاسية ، التي تمكنت من الهروب من رجال ثورن. السباق الثلاثة لوقف زفاف ثورن على كارول بالبنادق الحارقة - لكن هل تريد أن يتم إنقاذها؟",
+      "trailer": "https://www.youtube.com/watch?v=AAwn9GqBiSY&ab_channel=LionsgateMovies",
+      "genres": [
+        { "name": "Western", "name_ar": "الغربية" },
+        { "name": "Action", "name_ar": "حركة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=928999"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=928999" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11833692"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Desperate%20Riders&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10495,6 +10847,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/7CamWBejQ9JQOO5vAghZfrFpMXY.jpg",
       "genre_ids": [28, 53, 80],
       "id": 928381,
+      "imdb_id": "tt14465894",
       "original_language": "fr",
       "original_title": "Sans répit",
       "overview": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
@@ -10504,7 +10857,30 @@
       "title": "Restless",
       "video": false,
       "vote_average": 6.1,
-      "vote_count": 291
+      "type": "Netflix",
+      "vote_count": 291,
+      "overview_ar": "بعد الذهاب إلى أقصى الحدود للتستر على حادث ، تخرج حياة الشرطي الفاسد عن نطاق السيطرة عندما يبدأ في تلقي تهديدات من شاهد غامض.",
+      "trailer": "https://www.youtube.com/watch?v=L8tCoWmooRE&ab_channel=Netflix",
+      "genres": [
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Action", "name_ar": "حركة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=928381"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=928381" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14465894"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Restless&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -11330,6 +11706,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/wMUPT99gw6IB9OVvC46rF8wHIRt.jpg",
       "genre_ids": [28, 14],
       "id": 890656,
+      "imdb_id": "tt14158554",
       "original_language": "en",
       "original_title": "Fistful of Vengeance",
       "overview": "A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.",
@@ -11339,7 +11716,29 @@
       "title": "Fistful of Vengeance",
       "video": false,
       "vote_average": 5.6,
-      "vote_count": 221
+      "vote_count": 221,
+      "overview_ar": "تصبح مهمة الانتقام معركة لإنقاذ العالم من تهديد قديم عندما يتعقب القاتل الخارق كاي قاتلا إلى بانكوك.",
+      "type": "Netflix",
+      "trailer": "https://www.youtube.com/watch?v=vC_n_L1KGbo&ab_channel=Netflix",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Fantasy", "name_ar": "خيال" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=890656"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=890656" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14158554"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Fistful%20of%20Vengeance&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -11699,6 +12098,7 @@
       "original_language": "en",
       "original_title": "Everything Everywhere All at Once",
       "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "overview_ar": "تنجرف مهاجرة صينية مسنة في مغامرة مجنونة ، حيث يمكنها وحدها إنقاذ ما هو مهم لها من خلال التواصل مع الحياة التي كان من الممكن أن تعيشها في أكوان أخرى.",
       "popularity": 106.204,
       "poster_path": "https://image.tmdb.org/t/p/original/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
       "release_date": "2022-03-24",
@@ -11706,12 +12106,11 @@
       "video": false,
       "vote_average": 8.1,
       "vote_count": 2052,
-      "logo": "",
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=wxN1T1uxQ2g&t=1s&ab_channel=A24",
       "genres": [
-        { "name": "Action" },
-        { "name": "Adventure" },
-        { "name": "Science Fiction" }
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
       ],
       "play": [
         {
@@ -12309,6 +12708,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
       "genre_ids": [18],
       "id": 50014,
+      "imdb_id": "tt1454029",
       "original_language": "en",
       "original_title": "The Help",
       "overview": "Aibileen Clark is a middle-aged African-American maid who has spent her life raising white children and has recently lost her only son; Minny Jackson is an African-American maid who has often offended her employers despite her family's struggles with money and her desperate need for jobs; and Eugenia \"Skeeter\" Phelan is a young white woman who has recently moved back home after graduating college to find out her childhood maid has mysteriously disappeared. These three stories intertwine to explain how life in Jackson, Mississippi revolves around \"the help\"; yet they are always kept at a certain distance because of racial lines.",
@@ -12318,13 +12718,30 @@
       "title": "The Help",
       "video": false,
       "vote_average": 8.2,
-      "vote_count": 6735
+      "vote_count": 6735,
+      "overview_ar": "أيبيلين كلارك خادمة أمريكية من أصل أفريقي في منتصف العمر أمضت حياتها في تربية أطفال بيض وفقدت مؤخرًا ابنها الوحيد ؛ ميني جاكسون خادمة أمريكية من أصل أفريقي تسيء إلى أصحاب عملها في كثير من الأحيان على الرغم من معاناة أسرتها من أجل المال وحاجتها الماسة إلى الوظائف ؛ and Eugenia Skeeter  فيلان هي شابة بيضاء عادت مؤخرًا إلى المنزل بعد تخرجها من الكلية لتكتشف أن خادمة طفولتها قد اختفت في ظروف غامضة. تتشابك هذه القصص الثلاثة لتشرح كيف الحياة في جاكسون",
+      "trailer": "https://www.youtube.com/watch?v=aT9eWGjLv6s&ab_channel=DanceOn",
+      "genres": [{ "name": "Drama", "name_ar": "دراما" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=50014"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=50014" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt1454029" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Help&year=2011"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/dssCw0mUmD4EriUmkwB3PnsGu4q.jpg",
       "genre_ids": [16, 28, 14],
       "id": 841755,
+      "imdb_id": "tt14901058",
       "original_language": "en",
       "original_title": "Mortal Kombat Legends: Battle of the Realms",
       "overview": "The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.",
@@ -12334,7 +12751,29 @@
       "title": "Mortal Kombat Legends: Battle of the Realms",
       "video": false,
       "vote_average": 7.8,
-      "vote_count": 301
+      "vote_count": 301,
+      "overview_ar": "يجب على أبطال الأرض السفر إلى العالم الخارجي لانقاذ وطنهم. الذي تم غزوه بواسطة قوى الشر التابعة لشاو كان في معركة لإنهاء كل المعارك : معركة مورتال كومبات الأخيرة",
+      "trailer": "https://www.youtube.com/watch?v=hRRtd7Etato&ab_channel=WarnerBros.Entertainment",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Fantasy", "name_ar": "خيال" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=841755"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=841755" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14901058"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Mortal%20Kombat%20Legends:%20Battle%20of%20the%20Realms&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -12357,6 +12796,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/hcNM0HjfPonIzOVy6LVTDBXSfMq.jpg",
       "genre_ids": [28, 53, 80],
       "id": 864116,
+      "imdb_id": "tt14412366",
       "original_language": "en",
       "original_title": "A Day to Die",
       "overview": "A disgraced parole officer is indebted to a local gang leader and forced to pull off a series of dangerous drug heists within twelve hours in order to pay the $2 million dollars he owes, rescue his kidnapped pregnant wife, and settle a score with the city's corrupt police chief, who is working with the gang leader and double-crossed him years ago.",
@@ -12366,7 +12806,29 @@
       "title": "A Day to Die",
       "video": false,
       "vote_average": 6.2,
-      "vote_count": 150
+      "vote_count": 150,
+      "overview_ar": "بعد قتله لعضو في إحدى عصابات المخدرات الخطيرة، يجد كونور نفسه في مواجهة العديد من المواقف العصيبة، ويلجأ إلى طلب المساعدة من فريق عمليات عسكرية قديم من أجل إنقاذه قبل فقدانه كل من يحب.",
+      "trailer": "https://www.youtube.com/watch?v=JnFQv6hnUuU&ab_channel=RottenTomatoesTrailers",
+      "genres": [
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Crime", "name_ar": "جريمة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=864116"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=864116" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14412366"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=A%20Day%20to%20Die&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -12696,6 +13158,338 @@
     }
   ],
   "TvShow": [
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/bKETHQDD3QoIRTMOP4dfKwisL3g.jpg",
+      "first_air_date": "2019-12-20",
+      "genre_ids": [18, 10759],
+      "id": 71912,
+      "imdb_id": "tt5180504",
+      "name": "The Witcher",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "The Witcher",
+      "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+      "popularity": 255.787,
+      "poster_path": "https://image.tmdb.org/t/p/original/uZsV5ZIZQMHekWDQQMsBwN0C3yA.jpg",
+      "vote_average": 8.214,
+      "vote_count": 4177,
+      "type": "Netflix",
+      "overview_ar": "يسافر `` جيرالت أوف ريفيا '' ، صائد الوحوش المتحور المأجور ، نحو مصيره في عالم مضطرب حيث غالبًا ما يثبت الناس أنه أكثر شرًا من الوحوش.",
+      "logo": "https://www.themoviedb.org/t/p/original/iOHWc4Zzn6Ep1hXYMlXH6BfKQkG.png",
+      "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg&ab_channel=TheWitcherNetflix",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episodes 8",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Action & Adventure", "name_ar": "الحركة والمغامرة" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/iY6upFm468X37gqWPE7IEz3TRJx.jpg",
+      "first_air_date": "2021-12-17",
+      "genre_ids": [18, 10759],
+      "id": "71912Season2",
+      "imdb_id": "tt5180504",
+      "name": "The Witcher Season 2",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "The Witcher",
+      "overview": "Geralt embraces his destiny as he protects Ciri from the forces battling for control of the Continent — and from the mysterious power she possesses.",
+      "popularity": 255.787,
+      "poster_path": "https://image.tmdb.org/t/p/original/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",
+      "vote_average": 8.5,
+      "vote_count": 4177,
+      "type": "Netflix",
+      "overview_ar": "جيرالت يحتضن مصيره لأنه يحمي Ciri من القوات التي تقاتل من أجل السيطرة على القارة - ومن القوة الغامضة التي تمتلكها",
+      "logo": "https://www.themoviedb.org/t/p/original/iOHWc4Zzn6Ep1hXYMlXH6BfKQkG.png",
+      "trailer": "https://www.youtube.com/watch?v=TJFVV2L8GKs&ab_channel=Netflix",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episodes 8",
+      "season_number": "Season 2",
+      "genres": [
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Action & Adventure", "name_ar": "الحركة والمغامرة" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=71912&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Witcher&year=2019&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5180504&s=2&e=8"
+            }
+          ]
+        }
+      ]
+    },
     {
       "backdrop_path": "https://image.tmdb.org/t/p/original/aPsyg7Q9xSUy3AshffqwWPc69Ir.jpg",
       "first_air_date": "2018-10-26",
@@ -32675,7 +33469,7 @@
       ]
     },
     {
-      "backdrop_path": "https://image.tmdb.org/t/p/original/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
+      "backdrop_path": "https://wallpaperaccess.com/full/1086604.jpg",
       "first_air_date": "2016-07-11",
       "genre_ids": [16, 35, 10765],
       "id": 67676,
@@ -33039,7 +33833,7 @@
       ]
     },
     {
-      "backdrop_path": "https://image.tmdb.org/t/p/original/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
+      "backdrop_path": "https://wallpaperaccess.com/full/1086601.png",
       "first_air_date": "2018-01-17",
       "genre_ids": [16, 35, 10765],
       "id": "67676Season2",
@@ -33068,264 +33862,312 @@
           "id": 1,
           "episodeId": "Episode1",
           "name": "Episode 1",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/jhlcp8mynwnq.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/jhlcp8mynwnq.html" },
+            {
+              "server": "https://www.animeiat.tv/player/d63180ce-d6d4-47b7-b28e-d9cc6838e60c"
+            },
+            { "server": "https://www.mp4upload.com/embed-jbu8fnp8p3yt.html" }
           ]
         },
         {
           "id": 2,
           "episodeId": "Episode2",
           "name": "Episode 2",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/ycjdhioz161n.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/ycjdhioz161n.html" },
+            {
+              "server": "https://www.animeiat.tv/player/57121da3-ea44-4fbc-afdb-43b8023502ee"
+            },
+            { "server": "https://www.mp4upload.com/embed-lly4w2p72tiq.html" }
           ]
         },
         {
           "id": 3,
           "episodeId": "Episode3",
           "name": "Episode 3",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/lk3cn6g6rpzy.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/lk3cn6g6rpzy.html" },
+            {
+              "server": "https://www.animeiat.tv/player/9dfe1308-f66c-4a31-bcd5-9d5a367051cd"
+            },
+            { "server": "https://www.mp4upload.com/embed-02am7rba7m3t.html" }
           ]
         },
         {
           "id": 4,
           "episodeId": "Episode4",
           "name": "Episode 4",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/biysu1a71uke.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/biysu1a71uke.html" },
+            {
+              "server": "https://www.animeiat.tv/player/54d6c8e9-1d24-4962-b3aa-d476f4be41f0"
+            },
+            { "server": "https://www.mp4upload.com/embed-6078xfbtgzjv.html" }
           ]
         },
         {
           "id": 5,
           "episodeId": "Episode5",
           "name": "Episode 5",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/f74u5nllcco4.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/f74u5nllcco4.html" },
+            {
+              "server": "https://www.animeiat.tv/player/5dc7632c-91c9-448e-ae08-666465830f3e"
+            },
+            { "server": "https://www.mp4upload.com/embed-j1uxiny6k81e.html" }
           ]
         },
         {
           "id": 6,
           "episodeId": "Episode6",
           "name": "Episode 6",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/wpu5g0la954f.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/wpu5g0la954f.html" },
+            {
+              "server": "https://www.animeiat.tv/player/cb3aeed9-bc78-4c94-bf3e-2bc658814449"
+            },
+            { "server": "https://www.mp4upload.com/embed-nzlw9lawe7ab.html" }
           ]
         },
         {
           "id": 7,
           "episodeId": "Episode7",
           "name": "Episode 7",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/yhisq34y5v9q.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/yhisq34y5v9q.html" },
+            {
+              "server": "https://www.animeiat.tv/player/2a13cb4e-1180-48af-997e-4ea3369cc2e6"
+            },
+            { "server": "https://www.mp4upload.com/embed-ypolczjonci2.html" }
           ]
         },
         {
           "id": 8,
           "episodeId": "Episode8",
           "name": "Episode 8",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/i4kvugw4d7mk.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/i4kvugw4d7mk.html" },
+            {
+              "server": "https://www.animeiat.tv/player/5d9e726a-6cd5-4a02-ab54-18c14f7085ab"
+            },
+            { "server": "https://www.mp4upload.com/embed-43xtf7cvghad.html" }
           ]
         },
         {
           "id": 9,
           "episodeId": "Episode9",
           "name": "Episode 9",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/q6s50t8j9mc3.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/q6s50t8j9mc3.html" },
+            {
+              "server": "https://www.animeiat.tv/player/a159cece-b9a3-4307-90ba-dde430a3d78b"
+            },
+            { "server": "https://www.mp4upload.com/embed-brevnhgxkxz2.html" }
           ]
         },
         {
           "id": 10,
           "episodeId": "Episode10",
           "name": "Episode 10",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/24duxpmrl12j.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/24duxpmrl12j.html" },
+            {
+              "server": "https://www.animeiat.tv/player/66a847be-c779-4be9-9cd8-148db0c3961c"
+            },
+            { "server": "https://www.mp4upload.com/embed-ji74sq1gw1nh.html" }
           ]
         },
         {
           "id": 11,
           "episodeId": "Episode11",
           "name": "Episode 11",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/ijfaewtb0vll.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/ijfaewtb0vll.html" },
+            {
+              "server": "https://www.animeiat.tv/player/75b7341c-85d7-4344-ac9b-bdf7351740ff"
+            },
+            { "server": "https://www.mp4upload.com/embed-hmua92pig993.html" }
           ]
         },
         {
           "id": 12,
           "episodeId": "Episode12",
           "name": "Episode 12",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/ee24mvz4d4rm.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/ee24mvz4d4rm.html" },
+            {
+              "server": "https://www.animeiat.tv/player/8fa053d0-c757-4e69-8851-cccd7913682c"
+            },
+            { "server": "https://www.mp4upload.com/embed-0yx5gdqsoe6t.html" }
           ]
         },
         {
           "id": 13,
           "episodeId": "Episode13",
           "name": "Episode 13",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/viq4qhekhcrn.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/viq4qhekhcrn.html" },
+            {
+              "server": "https://www.animeiat.tv/player/5657dbc6-3314-420f-a80a-cb25fbe9c525"
+            },
+            { "server": "https://www.mp4upload.com/embed-amjx36xwt6ub.html" }
           ]
         },
         {
           "id": 14,
           "episodeId": "Episode14",
           "name": "Episode 14",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/r4hmpwz6x0c6.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/r4hmpwz6x0c6.html" },
+            {
+              "server": "https://www.animeiat.tv/player/3020bbad-4591-4773-96fa-b54d9295a44e"
+            },
+            { "server": "https://www.mp4upload.com/embed-h03n2m6ohr1u.html" }
           ]
         },
         {
           "id": 15,
           "episodeId": "Episode15",
           "name": "Episode 15",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/ysxdclweqk6a.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/ysxdclweqk6a.html" },
+            {
+              "server": "https://www.animeiat.tv/player/b631f10a-8b24-4a5d-8453-c5f81233933a"
+            },
+            { "server": "https://www.mp4upload.com/embed-cksyq6iyy3p1.html" }
           ]
         },
         {
           "id": 16,
           "episodeId": "Episode16",
           "name": "Episode 16",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/w1fbb5lcm5ld.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/w1fbb5lcm5ld.html" },
+            {
+              "server": "https://www.animeiat.tv/player/92b82d55-63b3-44af-a55f-a19c13136a80"
+            },
+            { "server": "https://www.mp4upload.com/embed-dibkw4ve5c2s.html" }
           ]
         },
         {
           "id": 17,
           "episodeId": "Episode17",
           "name": "Episode 17",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/lkkqpj5qi7ta.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/lkkqpj5qi7ta.html" },
+            {
+              "server": "https://www.animeiat.tv/player/6f508669-96ac-46d8-9d1a-7a955540d45f"
+            },
+            { "server": "https://www.mp4upload.com/embed-inbxkpvajs28.html" }
           ]
         },
         {
           "id": 18,
           "episodeId": "Episode18",
           "name": "Episode 18",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/ks0mcmu785fg.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/ks0mcmu785fg.html" },
+            {
+              "server": "https://www.animeiat.tv/player/e393d85c-74c9-40a4-bac0-985a88b5539b"
+            },
+            { "server": "https://www.mp4upload.com/embed-kni82d2rw3tg.html" }
           ]
         },
         {
           "id": 19,
           "episodeId": "Episode19",
           "name": "Episode 19",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/7u2so4eylgb9.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/7u2so4eylgb9.html" },
+            {
+              "server": "https://www.animeiat.tv/player/b95b383f-e80b-4d28-bce3-816a5e83c4b8"
+            },
+            { "server": "https://www.mp4upload.com/embed-7x66winiht8s.html" }
           ]
         },
         {
           "id": 20,
           "episodeId": "Episode20",
           "name": "Episode 20",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/dmc9dgtvfc7s.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/dmc9dgtvfc7s.html" },
+            {
+              "server": "https://www.animeiat.tv/player/9eea682c-50aa-4012-a64c-13128a56bb5a"
+            },
+            { "server": "https://www.mp4upload.com/embed-525twk3s44oe.html" }
           ]
         },
         {
           "id": 21,
           "episodeId": "Episode21",
           "name": "Episode 21",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/1abd3c86n9dd.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/1abd3c86n9dd.html" },
+            {
+              "server": "https://www.animeiat.tv/player/9ebcef00-34c3-477e-a483-2ee7528aff4d"
+            },
+            { "server": "https://www.mp4upload.com/embed-3siar525cqqw.html" }
           ]
         },
         {
           "id": 22,
           "episodeId": "Episode22",
           "name": "Episode 22",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/g1tei4h3e6lt.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/g1tei4h3e6lt.html" },
+            {
+              "server": "https://www.animeiat.tv/player/99ee6f96-5732-4bf6-ab0e-e42afc1a8bef"
+            },
+            { "server": "https://www.mp4upload.com/embed-jir1iwxcya5j.html" }
           ]
         },
         {
           "id": 23,
           "episodeId": "Episode23",
           "name": "Episode 23",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/xpymi5pq1tir.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/xpymi5pq1tir.html" },
+            {
+              "server": "https://www.animeiat.tv/player/397c757c-7b66-4d84-8753-2f3a57d40ab3"
+            },
+            { "server": "https://www.mp4upload.com/embed-jnr6jj0y3jf3.html" }
           ]
         },
         {
           "id": 24,
           "episodeId": "Episode24",
           "name": "Episode 24",
-          "server1": ["link"],
+          "server1": ["https://sbanh.com/e/ma38vw7zgjk4.html"],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            { "server": "https://sbanh.com/e/ma38vw7zgjk4.html" },
+            {
+              "server": "https://www.animeiat.tv/player/efb4a4fa-16ab-4f91-ac85-a9fdedb28055"
+            },
+            { "server": "https://www.mp4upload.com/embed-evqmicuqjk14.html" }
           ]
         }
       ]
