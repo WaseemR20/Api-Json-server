@@ -514,10 +514,11 @@
       "play": [
         {
           "id": 233557,
-          "server1": [
-            "https://cdn.jwplayer.com/players/EPS6L3ue-BI2JS0Mm.html"
-          ],
+          "server1": ["https://sbanh.com/e/ji2ny6rivgi9.html"],
           "servers": [
+            {
+              "server": "https://sbanh.com/e/ji2ny6rivgi9.html"
+            },
             {
               "server": "https://cdn.jwplayer.com/players/EPS6L3ue-BI2JS0Mm.html"
             },
@@ -1199,11 +1200,10 @@
       "play": [
         {
           "id": 233557,
-          "server1": [
-            "https://e31.e-amzn-cdn.net/kmxsutxfpnumwmesrlzuyzpsnmc4omvwy3sd7wclipyegg366q2htzprajna/v.mp4"
-          ],
+          "server1": ["https://slmaxed.com/e/padWzjBe4Ykz9NyA"],
           "servers": [
-            { "server": "https://www.2embed.to/embed/tmdb/movie?id=1015602" },
+            { "server": "https://slmaxed.com/e/padWzjBe4Ykz9NyA" },
+            { "server": "https://sbanh.com/e/td97ht0cb6g2.html" },
             { "server": "https://www.2embed.to/embed/tmdb/movie?id=1015602" },
             { "server": "https://www.2embed.to/embed/imdb/movie?id=tt21983602" }
           ],
@@ -1216,9 +1216,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/qJQSB0UDYW3XdKSTcclI1kdp3hZ.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/csWGuKukQDceYLLDnitENtlFzzm.jpg",
       "genre_ids": [53],
       "id": 952374,
+      "imdb_id": "tt17372462",
       "original_language": "en",
       "original_title": "The Aviary",
       "overview": "A twisted journey of two women’s desperate flee to escape the clutches of Skylight, an insidious cult. Lured in by the promise of “freedom” in the isolated desert campus called The Aviary, Jillian and Blair join forces to escape in hopes of real freedom. Consumed by fear and paranoia, they can’t shake the feeling that they are being followed by the cult’s leader, Seth, a man as seductive as he is controlling. The more distance the pair gains from the cult, the more Seth holds control of their minds. With supplies dwindling and their senses failing, Jillian and Blair are faced with a horrifying question: how do you run from an enemy who lives inside your head?",
@@ -1227,10 +1228,23 @@
       "release_date": "2022-04-29",
       "title": "The Aviary",
       "video": false,
-      "trailer": "https://www.youtube.com/watch?v=_-90I4kLHug&ab_channel=SabanFilms",
-      "genres": [{ "id": 53, "name": "Thriller" }],
       "vote_average": 5.6,
-      "vote_count": 16
+      "vote_count": 16,
+      "overview_ar": "امرأتان تهربان إلى الصحراء المكسيكية الجديدة هربًا من براثن طائفة ماكرة. مستهلكين بالخوف والبارانويا ، لا يمكنهم التخلص من الشعور بأن زعيمهم يتبعهم ، رجل مغر بقدر ما يتحكم به. مع تضاؤل ​​إمداداتهم وبدأت حواسهم في الفشل ، يواجهون سؤالًا مروعًا: كيف تهرب من عدو يعيش داخل رأسك؟",
+      "trailer": "https://www.youtube.com/watch?v=IH5jD5oEl2U&ab_channel=ParamountMovies",
+      "genres": [{ "name": "Thriller", "name_ar": "إثارة" }],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/ARPonQ3BYAgzb1aE"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/ARPonQ3BYAgzb1aE" },
+            { "server": "https://sbanh.com/e/zjxn1lpympu4.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=952374" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt17372462" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -1422,6 +1436,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/pkLegAR3G5T63B2Xz2ijbD1BAm8.jpg",
       "genre_ids": [27, 53, 28, 12, 80, 9648, 18, 10752],
       "id": 927341,
+      "imdb_id": "tt13872380",
       "original_language": "en",
       "original_title": "Hunting Ava Bravo",
       "overview": "Billionaire sportsman Buddy King unwinds by hunting human captives on his remote mountain estate. But his latest victim, Ava Bravo is no easy target.",
@@ -1431,7 +1446,9 @@
       "release_date": "2022-04-01",
       "title": "Hunting Ava Bravo",
       "video": false,
-      "trailer": "https://www.youtube.com/watch?v=573tJWT_Gtk&ab_channel=TheRokuChannel",
+      "vote_average": 6.6,
+      "vote_count": 67,
+      "trailer": "https://www.youtube.com/watch?v=gfWVT-uYqNQ&ab_channel=AmazonPrimeVideoLATAM",
       "genres": [
         { "name": "Horror", "name_ar": "رعب" },
         { "name": "Thriller", "name_ar": "إثارة" },
@@ -1439,28 +1456,27 @@
         { "name": "Adventure", "name_ar": "مغامرة" },
         { "name": "Crime", "name_ar": "جريمة" },
         { "name": "Mystery", "name_ar": "غموض" },
-        { "name": "Drama", "name_ar": "دراما" },
-        { "name": "War", "name_ar": "حرب" }
+        { "name": "Drama", "name_ar": "دراما" }
       ],
       "play": [
         {
-          "id": 233557,
-          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=927341"],
+          "server1": ["https://slmaxed.com/e/WwM7lMB8ZqEnZKbo"],
           "servers": [
-            { "server": "https://www.2embed.to/embed/tmdb/movie?id=927341" }
+            { "server": "https://slmaxed.com/e/WwM7lMB8ZqEnZKbo" },
+            { "server": "https://sbanh.com/e/f6ke14fidmt8.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=927341" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt13872380" }
           ],
           "name": "Watch"
         }
-      ],
-
-      "vote_average": 6.6,
-      "vote_count": 67
+      ]
     },
     {
       "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/jazlkwXfw4KdF6fVTRsolOvRCmu.jpg",
       "genre_ids": [53, 12, 9648, 28, 80],
       "id": 924482,
+      "imdb_id": "tt6805938",
       "original_language": "en",
       "original_title": "The Ledge",
       "overview": "A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight knit group of friends who will stop at nothing to destroy the evidence and anyone in their way. Desperate for her safety, she begins a treacherous climb up a mountain cliff and her survival instincts are put to the test when she becomes trapped with the killers just 20 feet away.",
@@ -1469,28 +1485,29 @@
       "release_date": "2022-02-18",
       "title": "The Ledge",
       "video": false,
-      "trailer": "https://www.youtube.com/watch?v=lI5QB-BOWNo&ab_channel=ParamountMovies",
-      "genres": [
-        { "id": 53, "name": "Thriller" },
-        {
-          "id": 12,
-          "name": "Adventure"
-        },
-        {
-          "id": 9648,
-          "name": "Mystery"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 80,
-          "name": "Crime"
-        }
-      ],
       "vote_average": 6.3,
-      "vote_count": 106
+      "vote_count": 106,
+      "overview_ar": "في إطار من التشويق والإثارة، تتحول رحلة تسلق إلى مأساة حينما تُقتل صديقة كيلي، فيصبح عليها التسلق بأقصى سرعة للهروب من مجموعة من القتلة الذين يطاردونها.",
+      "trailer": "https://www.youtube.com/watch?v=J5SPKIxBDGs&ab_channel=MovieTrailersSource",
+      "genres": [
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/padWzjBe4okz9NyA"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/padWzjBe4okz9NyA" },
+            { "server": "https://sbanh.com/e/9veudrbhd9gy.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=924482" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt6805938" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -2804,6 +2821,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/as4jvr6PF7Wfs0RyUl5bOJcB3yt.jpg",
       "genre_ids": [18, 35],
       "id": 626735,
+      "imdb_id": "tt11252248",
       "original_language": "en",
       "original_title": "Dog",
       "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
@@ -2812,17 +2830,26 @@
       "release_date": "2022-02-17",
       "title": "Dog",
       "video": false,
+      "vote_average": 7.4,
+      "vote_count": 908,
+      "overview_ar": "يتناول العمل قصة بريجس، والذي تربطه علاقة صداقة قوية بكلب شيبرد بلجيكي، حيث لدى أحدهما أسبوع وحيد في الحياة، بينما الآخر يعيش كل يوم كأنه اليوم الأخير، ومعًا ينطلقا بالقرب من المحيط الهادئ لحضور جنازة صديقهما المُقرب.",
       "trailer": "https://www.youtube.com/watch?v=V4tAtp-TyzQ&ab_channel=MGM",
       "genres": [
-        { "id": 18, "name": "Drama" },
-        {
-          "id": 35,
-          "name": "Comedy"
-        }
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
       ],
-
-      "vote_average": 7.4,
-      "vote_count": 908
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/gNXKzZOJykKlEk6P"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/gNXKzZOJykKlEk6P" },
+            { "server": "https://sbanh.com/e/begd20pjec0a.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=626735" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt11252248" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -3422,6 +3449,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/kQ40ewB9YKtxlchOcqDHuU8oYLz.jpg",
       "genre_ids": [53],
       "id": 948333,
+      "imdb_id": "tt11005128",
       "original_language": "en",
       "original_title": "Into the Deep",
       "overview": "Follows a woman desperate to escape her town, she meets a stranger who promises a romantic escape, but it results in deceit, mistrust, and violence.",
@@ -3431,7 +3459,24 @@
       "title": "Into the Deep",
       "video": false,
       "vote_average": 6.8,
-      "vote_count": 15
+      "vote_count": 15,
+      "overview_ar": "تدور أحداث الفيلم حول امرأة يائسة للهروب من مدينتها، وتلتقي بشخص غريب يعد بالهروب الرومانسي، لكنه يؤدي إلى الخداع وعدم الثقة والعنف.",
+      "trailer": "https://www.youtube.com/watch?v=xrGhR6lATgE&ab_channel=SkyCinema",
+      "genres": [{ "name": "Thriller", "name_ar": "إثارة" }],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/qwo9ly15EBjlrWvP"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/qwo9ly15EBjlrWvP" },
+            { "server": "https://sbanh.com/e/4uy2anl8nq6w.html" },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=tt11005128"
+            },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt11005128" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -4331,6 +4376,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
       "genre_ids": [878, 28, 12],
       "id": 524434,
+      "imdb_id": "tt9032400",
       "original_language": "en",
       "original_title": "Eternals",
       "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
@@ -4340,7 +4386,28 @@
       "title": "Eternals",
       "video": false,
       "vote_average": 7.1,
-      "vote_count": 6284
+      "vote_count": 6284,
+      "type": "Marvel",
+      "logo": "https://www.themoviedb.org/t/p/original/6pyJfypc4f8i5dUBkSsbJLm4cwk.png",
+      "overview_ar": "فريقٌ من الفَضائيين القدامى عاشوا على الأرض في الخَفَاء لِآلافِ السنين. بَاغَتَتهُم مَأساةٌ أَجبِرُتهُم عَلَى الظُّهور وَلمِّ شَملِهِم لِمُواجَهَةِ أقدَمِ أعداءِ البشرِية؛ المُنحرِفُون.",
+      "trailer": "https://www.youtube.com/watch?v=x_me3xsvDgk&ab_channel=MarvelEntertainment",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
+      ],
+      "play": [
+        {
+          "server1": ["https://sbanh.com/e/r1o9xfj4xs5r.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/r1o9xfj4xs5r.html" },
+            { "server": "https://slmaxed.com/e/LMEmnAkxQPXzgPvq" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=524434" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt9032400" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -5846,6 +5913,7 @@
       "backdrop_path": "https://www.themoviedb.org/t/p/original/33wnBK5NxvuKQv0Cxo3wMv0eR7F.jpg",
       "genre_ids": [27, 53, 9648],
       "id": 833425,
+      "imdb_id": "tt7550014",
       "original_language": "en",
       "original_title": "No Exit",
       "overview": "Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.",
@@ -5856,22 +5924,21 @@
       "video": false,
       "vote_average": 7,
       "vote_count": 768,
+      "overview_ar": "أثناء عاصفة ثلجية عالقة في استراحة منعزلة على الطريق السريع في الجبال ، يكتشف طالب جامعي طفلًا مختطفًا مختبئًا في سيارة تعود لأحد الأشخاص بداخلها.",
       "trailer": "https://www.youtube.com/watch?v=GFvupyiNEz0&ab_channel=20thCenturyStudios",
       "genres": [
-        { "name": "Horror" },
-        { "name": "Thriller" },
-        { "name": "Mystery" }
+        { "name": "Horror", "name_ar": "رعب" },
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Mystery", "name_ar": "غموض" }
       ],
       "play": [
         {
-          "server1": [
-            "https://cdn.jwplayer.com/players/pzBqMJ7d-BI2JS0Mm.html"
-          ],
+          "server1": ["https://slmaxed.com/e/ARPonQ3Brydzb1aE"],
           "servers": [
-            {
-              "server": "https://cdn.jwplayer.com/players/pzBqMJ7d-BI2JS0Mm.html"
-            },
-            { "server": "https://cdn.jwplayer.com/previews/pzBqMJ7d-BI2JS0Mm" }
+            { "server": "https://slmaxed.com/e/ARPonQ3Brydzb1aE" },
+            { "server": "https://sbanh.com/e/zqmuynf4r8hl.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=833425" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt7550014" }
           ],
           "name": "Watch"
         }
@@ -7201,6 +7268,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
       "genre_ids": [28, 12, 878],
       "id": 497698,
+      "imdb_id": "tt3480822",
       "original_language": "en",
       "original_title": "Black Widow",
       "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
@@ -7210,7 +7278,28 @@
       "title": "Black Widow",
       "video": false,
       "vote_average": 7.4,
-      "vote_count": 8225
+      "vote_count": 8225,
+      "type": "Marvel",
+      "logo": "https://www.themoviedb.org/t/p/original/nPAytGfFRMLE2b3iUzbSPWbt8mv.png",
+      "overview_ar": "تواجه ناتاشا رومانوف ، المعروفة أيضًا باسم الأرملة السوداء ، الأجزاء المظلمة من دفتر الأستاذ الخاص بها عندما تنشأ مؤامرة خطيرة مرتبطة بماضيها. تلاحقها قوة لن تتوقف عند أي شيء لإسقاطها ، يجب أن تتعامل ناتاشا مع تاريخها كجاسوسة والعلاقات المحطمة التي خلفتها في أعقابها قبل فترة طويلة من أن تصبح منتقمًا.",
+      "trailer": "https://www.youtube.com/watch?v=RxAtuMu_ph4&ab_channel=MarvelEntertainment",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
+      ],
+      "play": [
+        {
+          "server1": ["https://sbanh.com/e/otv20tlbfqzw.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/otv20tlbfqzw.html" },
+            { "server": "https://slmaxed.com/e/GWaolEGyeQKDdPVQ" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=497698" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt3480822" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -7935,9 +8024,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/sahdgvn0Brw6AgdwyLHgdCAynWG.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/cwwiCNMFyHWshwiCMRuESD4vEqx.jpg",
       "genre_ids": [16, 12, 35, 10751, 14],
       "id": 778855,
+      "imdb_id": "tt12532368",
       "original_language": "en",
       "original_title": "Chickenhare and the Hamster of Darkness",
       "overview": "Young Chickenhare is the adopted son of King Peter, a famous adventurer. Part chicken and part hare, he has a really tough time growing up and disguises himself as a hare to avoid the mockeries of his peers. When the day of the Royal Adventurer Society trials comes, Chickenhare, hampered by his disguise, fails miserably. But he is determined to grab a second chance and find the Scepter of the Hamster of Darkness, before his evil Uncle Lapin. The Scepter will give immense power to its holder. If Lapin gets hold of it, he will be unstoppable. Accompanied by his faithful servant Abe, a sarcastic turtle, and Meg, a martial arts expert skunk, he sets of on an epic and initiatory quest.",
@@ -7947,7 +8037,28 @@
       "title": "Chickenhare and the Hamster of Darkness",
       "video": false,
       "vote_average": 7.5,
-      "vote_count": 192
+      "vote_count": 192,
+      "overview_ar": "يتعاون مستكشف حيوانات شجاع مع صديقين موثوقين للعثور على قطعة أثرية قوية قبل أن يتمكن عمه الجشع من وضع كفوفه عليها.",
+      "trailer": "https://www.youtube.com/watch?v=MpPz6nVe-Uc&ab_channel=JoBloAnimatedVideos",
+      "genres": [
+        { "name": "Fantasy", "name_ar": "خيال" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://sbanh.com/e/ibr8pm55zm1c.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/ibr8pm55zm1c.html" },
+            { "server": "https://slmaxed.com/e/Jj8GzOqOK1qnvPog" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=778855" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt12532368" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -8198,9 +8309,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/pFwvHAFyPEqtvJEoutPuobLwrNj.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg",
       "genre_ids": [16, 35, 10751],
       "id": 778810,
+      "imdb_id": "tt8354218",
       "original_language": "en",
       "original_title": "Fireheart",
       "overview": "The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.",
@@ -8210,14 +8322,33 @@
       "title": "Fireheart",
       "video": false,
       "vote_average": 7.5,
-      "vote_count": 171
+      "vote_count": 171,
+      "overview_ar": "تحلم جورجيا البالغة من العمر ستة عشر عامًا أن تصبح أول امرأة رائدة في مجال الإطفاء في العالم، وعندما يبدأ رجل غامض في حرق برودواي ويختفي رجال الإطفاء في نيويورك، تقرر جورجيا التنكر في هيئة شاب يُدعى جو والانضمام لمجموعة صغيرة من رجال الإطفاء لإنقاذ المدينة.",
+      "trailer": "https://www.youtube.com/watch?v=g1-7ov3x53o&ab_channel=JoBloAnimatedVideos",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/NGePnbXZ7BxzQqrY"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/NGePnbXZ7BxzQqrY" },
+            { "server": "https://sbanh.com/e/636nnwp5m8p1.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=778810" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt8354218" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/yzH5zvuEzzsHLZnn0jwYoPf0CMT.jpg",
       "genre_ids": [53, 28],
       "id": 760926,
-"imdb_id": "tt6020800",
+      "imdb_id": "tt6020800",
       "original_language": "en",
       "original_title": "Gold",
       "overview": "In the not-too-distant future, two drifters traveling through the desert stumble across the biggest gold nugget ever found and the dream of immense wealth and greed takes hold. They hatch a plan to excavate their bounty, with one man leaving to secure the necessary tools while the other remains with the gold. The man who remains must endure harsh desert elements, ravenous wild dogs, and mysterious intruders, while battling the sinking suspicion that he has been abandoned to his fate.",
@@ -8240,7 +8371,9 @@
           "servers": [
             { "server": "https://www.2embed.to/embed/tmdb/movie?id=760926" },
             { "server": "https://www.2embed.to/embed/imdb/movie?id=tt6020800" },
-            { "server": "https://www.2embed.to/embed/title/movie?title=Gold&year=2022" }
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Gold&year=2022"
+            }
           ],
           "name": "Watch"
         }
@@ -8322,6 +8455,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/oE6bhqqVFyIECtBzqIuvh6JdaB5.jpg",
       "genre_ids": [878, 18, 12],
       "id": 522402,
+      "imdb_id": "tt3420504",
       "original_language": "en",
       "original_title": "Finch",
       "overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
@@ -8331,7 +8465,26 @@
       "title": "Finch",
       "video": false,
       "vote_average": 8,
-      "vote_count": 2598
+      "vote_count": 2598,
+      "overview_ar": "على أرض ما بعد نهاية العالم ، يتعلم الروبوت ، المصمم لحماية حياة كلبه المحبوب ، عن الحياة والحب والصداقة وما يعنيه أن تكون إنسانًا.",
+      "trailer": "https://www.youtube.com/watch?v=-0bYWnP3jH4&ab_channel=AppleTV",
+      "genres": [
+        { "name": "Science Fiction", "name_ar": "خيال علمي" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Adventure", "name_ar": "مغامرة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://sbanh.com/e/oqq54lwqt7qf.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/oqq54lwqt7qf.html" },
+            { "server": "https://slmaxed.com/e/aNdbzkZ3k8mD8JjB" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=522402" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt3420504" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -8354,6 +8507,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/AqpiLT9IqB8y4FIIC8FbfgK9EKq.jpg",
       "genre_ids": [10749, 18],
       "id": 834742,
+      "imdb_id": "tt14726510",
       "original_language": "en",
       "original_title": "First Love",
       "overview": "A young man’s difficult entry into adulthood, who experiences the highs and lows of his first love, while dealing with the familial fallout spurred by the financial crisis of 2008.",
@@ -8363,7 +8517,25 @@
       "title": "First Love",
       "video": false,
       "vote_average": 6.1,
-      "vote_count": 67
+      "vote_count": 67,
+      "overview_ar": "في إطار رومانسي، يلقي العمل نظرة مؤثرة على حياة شاب، والصعوبات التي تقع في طريقه خلال دخوله مرحلة البلوغ.",
+      "trailer": "https://www.youtube.com/watch?v=IDF_QdK5iCA&ab_channel=VoltagePictures",
+      "genres": [
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Romance", "name_ar": "رومانسي" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/Jj8GzOqO3v7nvPog"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/Jj8GzOqO3v7nvPog" },
+            { "server": "https://sbanh.com/e/key778yvg9bn.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=834742" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt14726510" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -9083,6 +9255,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
       "genre_ids": [18, 10749],
       "id": 337167,
+      "imdb_id": "tt4477536",
       "original_language": "en",
       "original_title": "Fifty Shades Freed",
       "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
@@ -9092,7 +9265,25 @@
       "title": "Fifty Shades Freed",
       "video": false,
       "vote_average": 6.7,
-      "vote_count": 7052
+      "vote_count": 7052,
+      "overview_ar": "اعتقادًا بأنهم تركوا وراءهم شخصيات غامضة من ماضيهم ، يعتنق كريستيان وآنا المتزوجان حديثًا ارتباطًا لا ينفصم ويشتركان في حياة الرفاهية. ولكن عندما تتدخل في دورها كسيدة قراي وترتاح في استقرار غير مألوف ، تهديدات جديدة قد تنهي نهايتها السعيدة قبل أن تبدأ.",
+      "trailer": "https://www.youtube.com/watch?v=av4zbG8dAhk&ab_channel=UniversalPicturesAustralia",
+      "genres": [
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Romance", "name_ar": "رومانسي" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/6mwWD4oZm84nPGrY"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/6mwWD4oZm84nPGrY" },
+            { "server": "https://sbanh.com/e/kwu94gsougxt.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=337167" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt4477536" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -9918,6 +10109,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/lD8dFIk9wDEvOwZw0RB47e346io.jpg",
       "genre_ids": [10749, 18, 36],
       "id": 698508,
+      "imdb_id": "tt11365186",
       "original_language": "en",
       "original_title": "Redeeming Love",
       "overview": "A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.",
@@ -9927,7 +10119,26 @@
       "title": "Redeeming Love",
       "video": false,
       "vote_average": 7.9,
-      "vote_count": 153
+      "vote_count": 153,
+      "overview_ar": "إعادة سرد لكتاب هوشع التوراتي على خلفية حمى الذهب في كاليفورنيا عام 1850.",
+      "trailer": "https://www.youtube.com/watch?v=_8RIlIOd_us&ab_channel=RottenTomatoesTrailers",
+      "genres": [
+        { "name": "Romance", "name_ar": "رومانسي" },
+        { "name": "History", "name_ar": "تاريخ" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://sbanh.com/e/65vsjodda1gb.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/65vsjodda1gb.html" },
+            { "server": "https://slmaxed.com/e/YvAyz2GNawOlg9kL" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=698508" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt11365186" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10383,6 +10594,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/wNQpfAZkySbinb93qVwWIWaot1x.jpg",
       "genre_ids": [10402, 14, 35, 878, 10751, 10770],
       "id": 809107,
+      "imdb_id": "tt14301252",
       "original_language": "en",
       "original_title": "Z-O-M-B-I-E-S 3",
       "overview": "Zed and Addison are beginning their final year at Seabrook High in the town that’s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook’s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition.",
@@ -10392,7 +10604,29 @@
       "title": "Z-O-M-B-I-E-S 3",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 265
+      "vote_count": 265,
+      "overview_ar": "بينما يأمل زيد في الحصول على منحة دراسية رياضية وتستعد أديسون لمنافسات التشجيع الدولية، تظهر كائنات من خارج الكوكب مما يتسبب في منافسة أكثر من مجرد ودية.",
+      "type": "Disney",
+      "trailer": "https://www.youtube.com/watch?v=EGsoC0bWakU&ab_channel=DisneyPlus",
+      "genres": [
+        { "name": "Music", "name_ar": "موسيقى" },
+        { "name": "Fantasy", "name_ar": "خيال" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/gNXKzZOJ326lEk6P"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/gNXKzZOJ326lEk6P" },
+            { "server": "https://sbanh.com/e/ny1v8sra8s91.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=809107" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt14301252" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10501,6 +10735,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
       "genre_ids": [28, 12, 14, 878, 35],
       "id": 284053,
+      "imdb_id": "tt3501632",
       "original_language": "en",
       "original_title": "Thor: Ragnarok",
       "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
@@ -10510,13 +10745,37 @@
       "title": "Thor: Ragnarok",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 18323
+      "vote_count": 18323,
+      "type": "Marvel",
+      "logo": "https://www.themoviedb.org/t/p/original/mp1u3U9zdzuxfHhjMcD3tX3LnIA.png",
+      "overview_ar": "ثور في الجانب الآخر من الكون، يجد نفسه في سباق مع الزمن للعودة إلى - ازقارد- ليوقف الراقناروك، ونبوءة تدمير عالمه ونهاية حضارة - أزقارديان - على يد تهديد جديد قوي - هيلا - القاسية.",
+      "trailer": "https://www.youtube.com/watch?v=ue80QwXMRHg&ab_channel=MarvelEntertainment",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Fantasy", "name_ar": "خيال" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/GWaolEGy4vYDdPVQ"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/GWaolEGy4vYDdPVQ" },
+            { "server": "https://sbanh.com/e/7qy3de06l035.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=284053" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt3501632" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/5spmzlcl3GmtMwQfptTVgMwdM3.jpg",
       "genre_ids": [27, 53],
       "id": 816977,
+      "imdb_id": "tt14502344",
       "original_language": "en",
       "original_title": "They/Them",
       "overview": "Campers at an LGBTQ+ conversion camp endure unsettling psychological techniques while the campsite is stalked by a mysterious killer.",
@@ -10526,7 +10785,25 @@
       "title": "They/Them",
       "video": false,
       "vote_average": 5.3,
-      "vote_count": 108
+      "vote_count": 108,
+      "overview_ar": "يتحمل المخيمون في مخيم تحويل LGBTQ + تقنيات نفسية مزعجة بينما يطارد المخيم قاتل غامض.",
+      "trailer": "https://www.youtube.com/watch?v=HtQk6sANmKs&ab_channel=Peacock",
+      "genres": [
+        { "name": "Horror", "name_ar": "رعب" },
+        { "name": "Thriller", "name_ar": "إثارة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/NGePnbXZJeVzQqrY"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/NGePnbXZJeVzQqrY" },
+            { "server": "https://sbanh.com/e/gas0256kuf3l.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=816977" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt14502344" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10925,6 +11202,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
       "genre_ids": [27, 9648],
       "id": 338947,
+      "imdb_id": "tt0887261",
       "original_language": "en",
       "original_title": "Hellraiser",
       "overview": "A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
@@ -10934,7 +11212,27 @@
       "title": "Hellraiser",
       "video": false,
       "vote_average": 6.6,
-      "vote_count": 218
+      "vote_count": 218,
+      "overview_ar": "في إطار من الرعب والغموض، تعثر فتاة شابة تكافح للإقلاع عن الإدمان على صندوق ألغاز غامض، فتكتشف بمرور الوقت أن الغرض منه هو استدعاء مخلوقات شيطانية مروعة.",
+      "trailer": "https://www.youtube.com/watch?v=oUlgwJNdu2I&ab_channel=20thCenturyStudios",
+      "genres": [
+        { "name": "Horror", "name_ar": "رعب" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/Lvgezwv6gxPDbp8E"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/Lvgezwv6gxPDbp8E" },
+            { "server": "https://sbanh.com/e/wyefcbp294dm.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=338947" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt0887261"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -12563,6 +12861,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/334KZ2yt18AjPN9VmJw68sEkc7U.jpg",
       "genre_ids": [10749, 878, 18],
       "id": 818750,
+      "imdb_id": "tt8851148",
       "original_language": "en",
       "original_title": "The In Between",
       "overview": "After surviving a car accident that took the life of her boyfriend, a teenage girl believes he's attempting to reconnect with her from the after world.",
@@ -12572,7 +12871,26 @@
       "title": "The In Between",
       "video": false,
       "vote_average": 7.4,
-      "vote_count": 481
+      "vote_count": 481,
+      "overview_ar": "بعد أن نجت من حادث سيارة أودى بحياة صديقها ، تعتقد فتاة مراهقة أنه يحاول إعادة الاتصال بها من العالم الآخر.",
+      "trailer": "https://www.youtube.com/watch?v=1JBjyBKUHqc&ab_channel=MovieCoverage",
+      "genres": [
+        { "name": "Romance", "name_ar": "رومانسي" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" },
+        { "name": "Drama", "name_ar": "دراما" }
+      ],
+      "play": [
+        {
+          "server1": ["https://slmaxed.com/e/qR7MzRr7gyyzwA3d"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/qR7MzRr7gyyzwA3d" },
+            { "server": "https://sbanh.com/e/g85zhkr28gyo.html" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=818750" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt8851148" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -23119,6 +23437,30 @@
               "server": "https://mega.nz/embed/IaliBChQ!eWLcvMC6S7SiDUWXxjawAZkAPOF4gwQX7UZWuWduwOA"
             }
           ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://slmaxed.com/e/ZEvMDN5y05EnNoKy"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/ZEvMDN5y05EnNoKy" },
+            { "server": "https://sbanh.com/e/6x52tnqrjqnk.html" },
+            {
+              "server": "https://drive.google.com/file/d/15bnkxlTXYP7cYbIeV20hJYZHaxwMU_E2/preview"
+            },
+            {
+              "server": "https://mega.nz/embed/5T8mmQIQ!wLRpwGLIn7Muy9vfyq3CtDlrwK5EPIuTzeOtOYKD6KY"
+            },
+            { "server": "https://sbanh.com/e/mpocj1073rjj" },
+            { "server": "https://play.cdngo.me/hd.php?code=8fzqzyxh542o" },
+            { "server": "https://www.4shared.com/web/embed/file/LURM41HDfa/" },
+            { "server": "https://vadbam.com/embed-k0qa0yap84om.html" },
+            {
+              "server": "https://mega.nz/embed/8ClCHRbS!Z6K6CCl_-hqHqKuo-LfTdvmapA9WcH98gKVBc0azMNY"
+            },
+            { "server": "https://sbanh.com/e/3gnafyraxf33" }
+          ]
         }
       ]
     },
@@ -23464,6 +23806,25 @@
               "server": "https://mega.nz/embed/0GlBjbYA!NLZX0yja6pAriDIzz_Q3mLtl5uO4eK9ak4OJfyb-xZQ"
             }
           ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://sbanh.com/e/whoekby5kgov"],
+          "servers": [
+            { "server": "https://sbanh.com/e/whoekby5kgov" },
+            {
+              "server": "https://mega.nz/embed/lX82TIAT!02GUZpn_PkbfqXKbAm9rYxVa9_GccCyELTvlCLmzRWA"
+            },
+            { "server": "https://play.cdngo.me/hd.php?code=qhnapymn4rf5" },
+            { "server": "https://www.4shared.com/web/embed/file/fsZv87U-ge/" },
+            { "server": "https://vadbam.com/embed-fvbeed4tcdtd.html" },
+            { "server": "https://sbanh.com/e/sxkb192r0inb" },
+            {
+              "server": "https://mega.nz/embed/xWVlAQBQ!sEEAHbqi6ZBNLGEi0DMN3SKe1U7OCr-QqTpAxBu8Cj8"
+            }
+          ]
         }
       ]
     },
@@ -23573,6 +23934,28 @@
             { "server": "https://vadbam.com/embed-cuzug9ab8jdw.html" },
             {
               "server": "https://mega.nz/embed/1SslRBaA!UMdHY7-0xyDO4JFy-QWj89Xj5mR0JJakkjxbpiHzuII"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://mega.nz/embed/pDlxlaZJ!1rdUQtjtiKUmhkoR0OoGcb60Q6plpB42ROyZaaPGpGY"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/pDlxlaZJ!1rdUQtjtiKUmhkoR0OoGcb60Q6plpB42ROyZaaPGpGY"
+            },
+            { "server": "https://sbanh.com/e/0xpigev26b54" },
+            { "server": "https://play.cdngo.me/hd.php?code=sejcru4ra3e8" },
+            { "server": "https://vadbam.com/embed-bepf43xmd9o3.html" },
+            { "server": "https://moshahda.net/embed-q11nnt98ys6n.html" },
+            { "server": "https://www.4shared.com/web/embed/file/q-NaKbSyge/" },
+            { "server": "https://sbanh.com/e/8j50f4en6obw" },
+            {
+              "server": "https://mega.nz/embed/8XlwHAyB!lhJ5pen6C4PxUa6-bqXnfK43efHx5XUlcVRDDZ76yV8"
             }
           ]
         }
@@ -25048,6 +25431,25 @@
               "server": "https://mega.nz/embed/FHNHGLZI!yNOJG7UGN6JiMAIjVzH7-8SnaZ7KjGmNhe8Qa2IojJ0"
             }
           ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://sbanh.com/e/yxib8ibpz0dh"],
+          "servers": [
+            { "server": "https://sbanh.com/e/yxib8ibpz0dh" },
+            {
+              "server": "https://mega.nz/embed/ca01iDpY!sfRrQrcxc4xdRAjxVKS6pNTE_XHufestcRfL1Z17NSc"
+            },
+            { "server": "https://play.cdngo.me/hd.php?code=rqib0709p3t7" },
+            { "server": "https://vadbam.com/embed-kn63jsq5q7hd.html" },
+            { "server": "https://sbanh.com/e/rmwpnbadzrus" },
+            { "server": "https://moshahda.net/embed-yq0ivogioc7c.html" },
+            {
+              "server": "https://mega.nz/embed/sScUFK6D!qd7y49Z4xrgeQS9aC_vBUDaYdIMNGeXAZVTVNMeuRi0"
+            }
+          ]
         }
       ]
     },
@@ -25138,6 +25540,25 @@
             { "server": "https://sbanh.com/e/zgwhsptzrkeo" },
             {
               "server": "https://mega.nz/embed/dW8BTBLJ!n8ABg6XZkotp-jwNDkgiaCzG5Lzl4bIfFqvcOQV8-Ok"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://sbanh.com/e/asjwf9gy0z47"],
+          "servers": [
+            { "server": "https://sbanh.com/e/asjwf9gy0z47" },
+            {
+              "server": "https://mega.nz/embed/IXcAUALJ!UvAZDUHtvGVKtS16WO5Due9cVxQx0hmfLNkA27l5TiU"
+            },
+            { "server": "https://play.cdngo.me/hd.php?code=sfbnqfhd0amb" },
+            { "server": "https://www.4shared.com/web/embed/file/LttwYtp8ku/" },
+            { "server": "https://vadbam.com/embed-a8cbg6mecsol.html" },
+            { "server": "https://sbanh.com/e/d3ai09fdi5xb" },
+            {
+              "server": "https://mega.nz/embed/taFHWCCT!ysmD4T8uksgf4_kF20KYSJdJgnG-QKJhBrkIBtNa8Us"
             }
           ]
         }
@@ -33444,26 +33865,21 @@
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=17"
             },
             {
-              "server": "https://mega.nz/embed/sL8yCbhY!WiB5kfaBuKm_87wFCnbvk80QwX2gN2YHkmJf2z_xYio"
+              "server": "https://mega.nz/embed/mR4TgbLK#1peLyV9fvcvq-zdflDtkTBorJP3qSKLxvzAf76Bg9Vc"
             },
             {
-              "server": "https://sbanh.com/e/h9jxiqlfn5ec"
+              "server": "https://drive.google.com/file/d/1EOo1vDjybYuh2YpSahJGbcFQrVglpQCx/preview"
+            },
+            { "server": "link" },
+            {
+              "server": "https://drive.google.com/file/d/1UqitibNQ_unOTUhZZWjSivXUjG_q22AY/preview"
             },
             {
-              "server": "https://moshahda.net/embed-nigv0f204bkq.html"
+              "server": "https://mega.nz/embed/lXMBTJBY!mRudcR4F-OSAvc1AvD4MOTlOfpTFdZXEGZyNf932Huk"
             },
-            {
-              "server": "https://www.4shared.com/web/embed/file/gib9f7gXku/"
-            },
-            {
-              "server": "https://vadbam.com/embed-tltub2hftbkz.html"
-            },
-            {
-              "server": "https://sbanh.com/e/gntssgjq370h"
-            },
-            {
-              "server": "https://mega.nz/embed/IKM0lJqC!b2ZSi_tMWEnGB0bakstacQDU3JLjWqAukDVU1upTcis"
-            }
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" }
           ]
         }
       ]
@@ -34793,8 +35209,10 @@
           "episodeId": "Episode1",
           "name": "Episode 1",
 
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=97525&s=2&e=1"],
+          "server1": ["https://slmaxed.com/e/vJ41zYNE5qmlwA3g"],
           "servers": [
+            { "server": "https://slmaxed.com/e/vJ41zYNE5qmlwA3g" },
+            { "server": "https://sbanh.com/e/uxihfy08v321.html" },
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=97525&s=2&e=1"
             },
@@ -34818,6 +35236,28 @@
             },
             {
               "server": "https://fansubs.tv/upload/videos/2022/10/aAcTVatRTPcwmmLxCePs_24_b12d37146c07f3460867906af0777621_video_480p_converted.mp4"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://slmaxed.com/e/vBgrD8G4PbanMZ64"],
+          "servers": [
+            { "server": "https://slmaxed.com/e/vBgrD8G4PbanMZ64" },
+            { "server": "https://sbanh.com/e/f8icmm4xlw4q.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2022/10/1UUlr2Trs9wWcw9cxnXt_30_346a001d037bac847b109e8cd146cf3c_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2022/10/1UUlr2Trs9wWcw9cxnXt_30_346a001d037bac847b109e8cd146cf3c_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97525&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12063450&s=1&e=2"
             }
           ]
         }
