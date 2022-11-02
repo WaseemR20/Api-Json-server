@@ -142,20 +142,11 @@
       ],
       "play": [
         {
-          "server1": [
-            "https://cdn.jwplayer.com/players/dMU0ixkD-BI2JS0Mm.html"
-          ],
+          "server1": ["https://sbanh.com/e/985td05w30rt.html"],
           "servers": [
-            {
-              "server": "https://cdn.jwplayer.com/players/dMU0ixkD-BI2JS0Mm.html"
-            },
-            { "server": "https://cdn.jwplayer.com/previews/dMU0ixkD-BI2JS0Mm" },
-            {
-              "server": "https://n4.e-amzn-cdn.net/kmxsudhfpnumwmesrlzuy65phagfy6c3tr64wsx3omaacjvvjhcylsmsx3ka/v.mp4"
-            },
-            {
-              "server": "https://htulfov29jsxfvsr8faa.vs7000.pics/watch/66c68f12a499f4f3q7ZwQxWgrEgPCUwF1.z|pEIi507hAUdKlsU1eBgw__.WXUzTlBpc2FqOXNOSjBYV3BSUk9vaUxXcUw5cnlMbGh4WURYcDM3NEJjaWNxeElZTlc2aWxybHphek8zZlFzcmJUL2RBNTNwRXc4bk5VVTV5VWVGVzdjTU9yZ2o2VDBBNmF2alpXRU1DSWpnMFdGMmNBMUNVOHZCZTJvWm9raTdicEdVa1FFZ1lxSytadjJpOTNZMURwVFpjWjU4OHgzYXVpZzd6YVZ0ekRQYmt6RnRwSlIrQ1ZKZGJDMWJjcWNQekx4a3RaRnRMUE11a3h6ZGpRUmhtU3N0WTIzVlY1bWgrcWpHTmM5OXRuRDNjdmtsMFdadHpTMUVORERVS1ppdndpMGF2ZFR2NURaVVE1c0wvOCs2Vk5HaER5UWFEN2NmU0czRXpOaENlWGZ5OE4zTG53YTZRZURRdSs0WDZsOExKc2pTa3Q2aU9oTHR0YjdBbWl6blRMekptRWE2ZFlIRnMxa0dXdDkzS2dTQnkrUldweit3QzFDcHI4TG9vMWwwVWcwajFPcy8yaGp1WkMzWVY2ejd1OU5OMHljUHp2ZkpEWFF3Y0hCanF6NnhhbndCdmZTcVJTbFA5ZGZiVDN1SnpWdUZjcERFNWxLK01acWkvVUxUSWovTmFnYURlRW5PNG9mUGpSVHI0dEljY29FNlF4OUpBSFE9"
-            },
+            { "server": "https://sbanh.com/e/985td05w30rt.html" },
+            { "server": "https://slwatch.co/e/OE0wDKMAx9pl3oMa" },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=532639" },
             { "server": "https://www.2embed.to/embed/imdb/movie?id=tt4593060" }
           ],
           "name": "Watch"
