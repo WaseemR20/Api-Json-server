@@ -435,6 +435,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
       "genre_ids": [53, 28, 878],
       "id": 766507,
+      "imdb_id": "tt11866324",
       "original_language": "en",
       "original_title": "Prey",
       "overview": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
@@ -443,49 +444,27 @@
       "release_date": "2022-08-02",
       "title": "Prey",
       "logo": "https://www.themoviedb.org/t/p/original/rlnocTLfKwnCpgtKD8cUizogaGz.png",
-      "trailer": "https://www.youtube.com/watch?v=wZ7LytagKlc&t=2s&ab_channel=20thCenturyStudios",
+      "trailer": "https://www.youtube.com/watch?v=wZ7LytagKlc&ab_channel=20thCenturyStudios",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 4070,
+      "overview_ar": "يتناول العمل قصة المفترس الشهير والذي يعرف باسم بريدتور وقصته الأصلية من 300 عام، حيث تقاتل نارو وهي محاربة ماهرة لحماية قبيلتها من الكائن المفترس.",
       "genres": [
-        {
-          "id": 53,
-          "name": "Thriller"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 878,
-          "name": "Science Fiction"
-        }
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
       ],
       "play": [
         {
-          "id": 233557,
-          "server1": [
-            "https://cdn.jwplayer.com/players/WqfAllwd-BI2JS0Mm.html"
-          ],
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=766507"],
           "servers": [
-            {
-              "server": "https://cdn.jwplayer.com/players/WqfAllwd-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/WqfAllwd-BI2JS0Mm"
-            },
-            {
-              "server": "https://n3.e-amzn-cdn.net/kmxsvzg2pnumwmesrlzuy65kocqzjt47gp55qolnoa3h5palsmbf6v6pibhq/v.mp4"
-            },
-            {
-              "server": "https://ur2nexuw9w5z6dsetbxk.vs7000.pics/watch/1aef3178c9922397Zd5UTUdCCz4EFqr86.8OliOE-ltEMP8lhHLUNVPA__.TmFnVDdaWEJpUVhuTVVSdURzYmt1aUVENFAvR3Q0UnFNN1o4RTRDbHNoZFVOdFFwdUsyRjhvRjFEZVZSTm5DWWxUc24zTVhxelBIV3ZOeCtQNnIvVlFTQ1ZkQUZvd25wa3Q4Zk5DUUo4Tmp1dDkrSjBHRDRNOWtRVDVyVnZjVENGV3NjWVpEekZKaWkva3Qra1NpWHVLaGJhZG9YdFM2eWhVbThQNTlGK1Z3bUx3dHUxVy9mb1hZcDk0bUVHa2kzZW5JUTYzbXc2V1FTK2RJRjk1UkpZWTdXUWV4WVdGUXVMN2lrSEhlUkhTMmtwY3VEdFpGQUhQSE9mNjhHOEpSczBzZHgrK3NNallTbGcybjgwNDU4MU9hcldDMnV4S09FYW9OenlkeWhHbm83a0s5SHBReUJYTER1UnN0Z2xTbStVSFVLdkk0a1Z6U3pjQUg0a3kvbitYa2srS2hrOFZqL20xb3ZoWjVreWN0WWxVb1QvUGFTeFZXdGlHOWx4clhxVFVOZ1hmSmptbkFFSUQrMEV3NHJDd0N2QUFSbEhmSVRJaXZyNFQyK2pTND0_"
-            },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=766507" },
+            { "server": "https://sbanh.com/v/8u4zyk2hz1i6.html" },
             { "server": "https://www.2embed.to/embed/imdb/movie?id=tt11866324" }
           ],
           "name": "Watch"
         }
-      ],
-
-      "video": false,
-      "vote_average": 7.9,
-      "vote_count": 4070
+      ]
     },
     {
       "adult": false,
@@ -1639,6 +1618,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/nYla7faWqM3nLCY9arQH1DwXC84.jpg",
       "genre_ids": [16, 12, 10751],
       "id": 576925,
+      "imdb_id": "tt9572006",
       "original_language": "ru",
       "original_title": "Buka. My favorite monster",
       "overview": "A scandal in the royal family: the wayward princess Barbara escaped from the palace and went through the forest in search of a handsome prince. However, instead of the cherished meeting with her beloved, she is captured by Buka, the most dangerous robber of the kingdom. But it quickly becomes clear that the brisk princess is ready to turn Buka's life into a nightmare, just to reach her goal. So the restless Varvara begins to establish her own order in the forest.",
@@ -1649,39 +1629,26 @@
       "video": false,
       "logo": "https://www.themoviedb.org/t/p/original/li1Xs97AQmkpNUZOEfDtJK7PoyY.png",
       "trailer": "https://www.youtube.com/watch?v=hSCqtzcMeEg&ab_channel=LionsgateMovies",
+      "vote_average": 6.4,
+      "vote_count": 12,
+      "overview_ar": "فضيحة في العائلة المالكة: هربت الأميرة الضالة باربرا من القصر وذهبت عبر الغابة بحثا عن أمير وسيم. ومع ذلك ، بدلا من الاجتماع العزيزة مع حبيبها ، يتم القبض عليها من قبل بوكا ، أخطر لص في المملكة. ولكن سرعان ما يصبح من الواضح أن الأميرة السريعة مستعدة لتحويل حياة بوكا إلى كابوس ، فقط للوصول إلى هدفها. لذلك تبدأ فارفارا التي لا تهدأ في تأسيس نظامها الخاص في الغابة.",
       "genres": [
-        { "id": 16, "name": "Animation" },
-        {
-          "id": 12,
-          "name": "Adventure"
-        },
-        {
-          "id": 10751,
-          "name": "Family"
-        }
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Family", "name_ar": "عائلة" }
       ],
       "play": [
         {
-          "id": 233557,
-          "server1": [
-            "https://0gigz9l1u2emh1e9aqnb.vs7000.pics/watch/17710736fd4be13eqkKg4ikicgUa91PIs.NoiNA|ZCokkbnjujhR3EOw__.LzdzaDROVndZU2NKMkh3aDNCYW4vd3VKK1Y5c3NpRVQ2aklwSmUvZHNWUll1MVVVL2tlTnlrNTFZbTdmQ3I5NjJvYysxNkVTSnRQRzJocUc1Nk1LVm85djkzN2JzUThKazZWN2QySkh5bG1wc0F4ZFFvYjlaV2tseDEvR01FdzFWUHk5Y05ZVS92VlZRTW9IYnZJYXh4dWg3d0lnTlZCc1V2a0ptU00wbmFERk5rRS9ucmJVMUFYOG9adjBxSFlTWXlwUGxsWCszUml3WElmMitJNEJ5THZwcFZOc0NHV2lITjZrZzJYQVNoVHhoZjdMTVMyckpFQWF5SmFDMzlYWkVwSkJCWHIwb0YxYk0wY25CV1dlSWlpSGZOWi8vV1ZPcmdEUGJ4THQxWkZKeWtZNG02cWg0SlNpV2hrSjVtWjM5c3JHdkxEbWxObFd5N2gxLzVOOW5IWEVMc0RMZmo3NU9KVXFJWlpxRy9EZWxTQTlsS0FtL3RyNVN3eUw5ZFNWVzJydGZWUmxHUmxyUnhvYWl6Z0k5T0VDc1BJQmp0WjlYNkR3S0FKYjduRXMxekhUREdjcEhra2I1WWZsem4yMU1WTDNRNXV0aUFJQ2FnPT0_"
-          ],
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=576925"],
           "servers": [
-            {
-              "server": "https://0gigz9l1u2emh1e9aqnb.vs7000.pics/watch/17710736fd4be13eqkKg4ikicgUa91PIs.NoiNA|ZCokkbnjujhR3EOw__.LzdzaDROVndZU2NKMkh3aDNCYW4vd3VKK1Y5c3NpRVQ2aklwSmUvZHNWUll1MVVVL2tlTnlrNTFZbTdmQ3I5NjJvYysxNkVTSnRQRzJocUc1Nk1LVm85djkzN2JzUThKazZWN2QySkh5bG1wc0F4ZFFvYjlaV2tseDEvR01FdzFWUHk5Y05ZVS92VlZRTW9IYnZJYXh4dWg3d0lnTlZCc1V2a0ptU00wbmFERk5rRS9ucmJVMUFYOG9adjBxSFlTWXlwUGxsWCszUml3WElmMitJNEJ5THZwcFZOc0NHV2lITjZrZzJYQVNoVHhoZjdMTVMyckpFQWF5SmFDMzlYWkVwSkJCWHIwb0YxYk0wY25CV1dlSWlpSGZOWi8vV1ZPcmdEUGJ4THQxWkZKeWtZNG02cWg0SlNpV2hrSjVtWjM5c3JHdkxEbWxObFd5N2gxLzVOOW5IWEVMc0RMZmo3NU9KVXFJWlpxRy9EZWxTQTlsS0FtL3RyNVN3eUw5ZFNWVzJydGZWUmxHUmxyUnhvYWl6Z0k5T0VDc1BJQmp0WjlYNkR3S0FKYjduRXMxekhUREdjcEhra2I1WWZsem4yMU1WTDNRNXV0aUFJQ2FnPT0_"
-            },
-            {
-              "server": "https://c41.e-amzn-cdn.net/kmxsvcfbpnumwmesrl7eyyhpmjcrzpoifpuhl7cnyq2mnjhu36dtp4ix5cla/v.mp4"
-            },
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=576925" },
+            { "server": "https://sbanh.com/e/e89nqmx3k2ng.html" },
             { "server": "https://vadbam.com/embed-sjk5sxiq1i3b.html" },
-            { "server": "https://www.2embed.to/embed/tmdb/movie?id=576925" }
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt9572006" }
           ],
           "name": "Watch"
         }
-      ],
-
-      "vote_average": 6.4,
-      "vote_count": 12
+      ]
     },
     {
       "adult": false,
@@ -3487,9 +3454,10 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/z1s7yuQbDOhJE2zvvADofBCL9j1.jpg",
       "genre_ids": [16, 35, 12, 10751],
       "id": 459151,
+      "imdb_id": "tt6932874",
       "original_language": "en",
       "original_title": "The Boss Baby: Family Business",
       "overview": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
@@ -3499,7 +3467,26 @@
       "title": "The Boss Baby: Family Business",
       "video": false,
       "vote_average": 7.5,
-      "vote_count": 2065
+      "vote_count": 2065,
+      "overview_ar": "في الجزء الثاني، يكبر اﻷخوان تمبلتون في السن، وتتفرق مساراتهما عن بعضهما البعض، ولكن هذه المرة سيأتي طفل متسيد جديد كي يجمع اﻷخوين معًا من جديد في عمل جديد.",
+      "trailer": "https://www.youtube.com/watch?v=QPzy8Ckza08&ab_channel=PeacockKids",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=459151"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=459151" },
+            { "server": "https://sbanh.com/e/tgk1wk772vwo.html" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt6932874" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -6379,6 +6366,7 @@
       "backdrop_path": "https://image.tmdb.org/t/p/original/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
       "genre_ids": [28, 12, 14],
       "id": 451048,
+      "imdb_id": "tt0870154",
       "original_language": "en",
       "original_title": "Jungle Cruise",
       "overview": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.",
@@ -6387,8 +6375,28 @@
       "release_date": "2021-07-28",
       "title": "Jungle Cruise",
       "video": false,
+      "type": "Disney",
+      "logo": "https://www.themoviedb.org/t/p/original/hfTJqey9lJ3jRRunLB0Zs3La1F0.png",
       "vote_average": 7.5,
-      "vote_count": 4654
+      "vote_count": 4654,
+      "overview_ar": "تستعين الدكتورة ليلي هوتون بمساعدة ربان الحكمة فرانك وولف لإنزالها في غابات الأمازون في قاربه المتداعي. يبحثون معًا عن شجرة قديمة لديها القدرة على الشفاء - اكتشاف سيغير مستقبل الطب.",
+      "trailer": "https://www.youtube.com/watch?v=f_HvoipFcA8&ab_channel=WaltDisneyStudios",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Fantasy", "name_ar": "خيال" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=451048"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=451048" },
+            { "server": "https://sbanh.com/e/twc6yna8vmfv.html" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt0870154" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -9515,9 +9523,45 @@
     },
     {
       "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/A2WRSXXo5c8ojPhARzN5aczv86H.jpg",
+      "genre_ids": [18, 12, 10751],
+      "id": 826680,
+      "imdb_id": "tt14592998",
+      "original_language": "en",
+      "original_title": "The Railway Children Return",
+      "overview": "Follow a group of children who are evacuated to a Yorkshire village during the Second World War, where they encounter a young soldier who, like them, is far away from home.",
+      "popularity": 12.873,
+      "poster_path": "https://image.tmdb.org/t/p/original/7tp7UaCM8kibj2WRnyOmHXJQVGI.jpg",
+      "release_date": "2022-07-15",
+      "title": "The Railway Children Return",
+      "video": false,
+      "vote_average": 6.873,
+      "vote_count": 51,
+      "overview_ar": "تابع قصة مجموعة من الأطفال الذين تم إجلاؤهم إلى قرية يوركشاير خلال الحرب العالمية الثانية ، حيث يواجهون جنديًا شابًا ، مثلهم ، بعيدًا عن المنزل.",
+      "trailer": "https://www.youtube.com/watch?v=g6IsUeWO2Yw&ab_channel=StudiocanalUK",
+      "genres": [
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Adventure", "name_ar": "مغامرة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=826680"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=826680" },
+            { "server": "https://sbanh.com/e/zswi1lwlpr4g.html" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt14592998" }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/jdLirLFnvSuAKin2XqZkwOEv4Km.jpg",
       "genre_ids": [16, 28, 35],
       "id": 913205,
+      "imdb_id": "tt18250460",
       "original_language": "en",
       "original_title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
       "overview": "With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth's Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!",
@@ -9527,7 +9571,26 @@
       "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
       "video": false,
       "vote_average": 6.9,
-      "vote_count": 62
+      "vote_count": 62,
+      "logo": "https://www.themoviedb.org/t/p/original/sO7mReizHINWdS3pgeIFdK41AL6.png",
+      "overview_ar": "بمساعدة قوة Kryptonian القديمة ، توحد Lex Luthor الأشرار الخارقين في العالم لالتقاط جميع أبطال الأرض الخارقين ، حتى ... لم يتبق سوى DC Super Hero Girls لإيقاف Legion of Doom. يجب على أبطالنا عبور الأبعاد لإنقاذ زملائهم الأبطال الخارقين من منطقة Phantom Zone ، لكن منعطفًا خاطئًا يقودهم إلى برج Titans - حيث يجدون الحلفاء الذين تمس الحاجة إليهم في Teen Titans!",
+      "trailer": "https://www.youtube.com/watch?v=PqiokC8HTOA&ab_channel=WarnerBros.Entertainment",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=913205"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=913205" },
+            { "server": "https://sbanh.com/e/wctosdjtu8gm.html" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt18250460" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10931,6 +10994,112 @@
       "video": false,
       "vote_average": 6.3,
       "vote_count": 42
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/m0ec6o8cMtkv1ywNIOMbeWmk2LO.jpg",
+      "genre_ids": [99, 10402],
+      "id": 939790,
+      "imdb_id": "tt18269838",
+      "original_language": "en",
+      "original_title": "OLIVIA RODRIGO: driving home 2 u (a SOUR film)",
+      "overview": "Grammy® winner singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”",
+      "popularity": 9.883,
+      "poster_path": "https://image.tmdb.org/t/p/original/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
+      "release_date": "2022-03-25",
+      "title": "OLIVIA RODRIGO: driving home 2 u (a SOUR film)",
+      "video": false,
+      "vote_average": 7.581,
+      "vote_count": 31,
+      "type": "Disney",
+      "logo": "https://www.themoviedb.org/t/p/original/9kgHMEFPlBBg4AB9oSEsxTOEg3I.png",
+      "overview_ar": "أوليفيا رودريجو ، المغنية وكاتبة الأغاني الحائزة على جائزة جرامي® ، تقوم برحلة مألوفة على الطريق من سولت ليك سيتي ، حيث بدأت في كتابة ألبومها الأول ”سور” إلى لوس أنجلوس. على طول الطريق ، تسرد رودريغو ذكريات الكتابة وإنشاء ألبومها الأول الذي حطم الأرقام القياسية وتشاركها مشاعرها كإمرأة شابة تقضي وقتًا محددًا في حياتها. من خلال الترتيبات الحية الجديدة لأغانيها والمقابلات الشخصية واللقطات التي لم يسبق لها مثيل من إنتاج الألبوم ، سيتبع الجمهور أوليفيا في رحلة سينمائية لاستكشاف قصة ”SOUR”.",
+      "trailer": "https://www.youtube.com/watch?v=-VVHUq4tOzg&ab_channel=DisneyPlus",
+      "genres": [
+        { "name": "Music", "name_ar": "موسيقى" },
+        { "name": "Documentary", "name_ar": "وثائقي" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=939790"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=939790" },
+            { "server": "https://sbanh.com/e/432da52sceej.html" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt18269838" }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/9USfR9Ty910a82T2ObWduhsx1DY.jpg",
+      "genre_ids": [10751, 18],
+      "id": 945664,
+      "imdb_id": "tt15801594",
+      "original_language": "zh",
+      "original_title": "人生大事",
+      "overview": "Having been released after serving his sentence, a funeral director accidentally crosses paths with a girl which brings about an unexpected change in his attitude towards life.",
+      "popularity": 3.339,
+      "poster_path": "https://image.tmdb.org/t/p/original/xHTGLYpZKfwGJ0lM2NEAmb6DdYi.jpg",
+      "release_date": "2022-06-24",
+      "title": "Lighting Up the Stars",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 10,
+      "overview_ar": "بعد أن أطلق سراحه بعد قضاء عقوبته ، يلتقي مدير الجنازة بطريق الخطأ مع فتاة مما يؤدي إلى تغيير غير متوقع في موقفه من الحياة.",
+      "trailer": "https://www.youtube.com/watch?v=yZgBvOAuSUg&ab_channel=FarEastFilms",
+      "genres": [
+        { "name": "Family", "name_ar": "عائلة" },
+        { "name": "Drama", "name_ar": "دراما" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=945664"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=945664" },
+            { "server": "https://sbanh.com/e/6402c0yzgwsj.html" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15801594"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/3f2xX0r2x0RbMR2spoqkdUIhuuj.jpg",
+      "genre_ids": [27],
+      "id": 1023086,
+      "imdb_id": "tt12444934",
+      "original_language": "en",
+      "original_title": "Devil's Workshop",
+      "overview": "Desperate for a role as a demonologist, struggling actor Clayton contacts Eliza, an expert in devil lore, to help him prepare. As he spends the weekend at her home, Eliza forces Clayton to confront his troubling past, perform dark rituals, and sacrifice a goat. Does she want to help Clayton, seduce him—or destroy him?",
+      "popularity": 232.169,
+      "poster_path": "https://image.tmdb.org/t/p/original/fJQr6E6tUwihQuQgTSDUkKsrVZA.jpg",
+      "release_date": "2022-09-30",
+      "title": "Devil's Workshop",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 46,
+      "overview_ar": "يائسا للحصول على دور كعالم شياطين ، يتصل الممثل المكافح كلايتون بإليزا ، الخبيرة في تقاليد الشيطان ، لمساعدته على الاستعداد. بينما يقضي عطلة نهاية الأسبوع في منزلها ، تجبر إليزا كلايتون على مواجهة ماضيه المقلق ، وأداء طقوس مظلمة ، والتضحية بماعز. هل تريد مساعدة كلايتون أو إغوائه أو تدميره؟",
+      "trailer": "https://www.youtube.com/watch?v=COMCI6r-mh8&ab_channel=MovieTrailersSource",
+      "genres": [{ "name": "Horror", "name_ar": "رعب" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=1023086"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=1023086" },
+            { "server": "https://sbanh.com/e/ml7djotgd53g.html" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=IMtt12444934DB"
+            },
+            { "server": "https://www.2embed.to/embed/title/movie?title=ssss" }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -23333,6 +23502,25 @@
               "server": "https://mega.nz/embed/gHMWnZrY!y3gssce0BugaXXuwt4R8PzXpFumhKFRuNabekA91gps"
             }
           ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://sbanh.com/e/e2k7xl50yx4p"],
+          "servers": [
+            { "server": "https://sbanh.com/e/e2k7xl50yx4p" },
+            {
+              "server": "https://mega.nz/embed/4KkRWJjb!D0JU6OBNJI1bp70k7-v05Q5E_ytU2uoYQsqabdZaTFs"
+            },
+            { "server": "https://vadbam.com/embed-z8gb1za32dlh.html" },
+            { "server": "https://www.4shared.com/web/embed/file/rc5MWORljq/" },
+            { "server": "https://sbanh.com/e/y5lbwtckf94u" },
+            { "server": "https://moshahda.net/embed-ifjp3okndea5.html" },
+            {
+              "server": "https://mega.nz/embed/pW8kHYKZ!tJRmHowVld04qagj4GCHjxGCy0gkNZm1qJeeBL2vO5A"
+            }
+          ]
         }
       ]
     },
@@ -23686,6 +23874,25 @@
             { "server": "https://sbanh.com/e/xh6i44a8ofen" },
             {
               "server": "https://mega.nz/embed/0G9llZgD!ZFTFm3yyFFUFsuZs434ZiEiTJi6QM2SNIOYnxIzKQnQ"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://sbanh.com/e/7hregqe8w6fy"],
+          "servers": [
+            { "server": "https://sbanh.com/e/7hregqe8w6fy" },
+            {
+              "server": "https://mega.nz/embed/0HkmlBpQ!Y-4Db2JVxoxxgTKwi2XSY4OuyeM4a820G66WY1e861E"
+            },
+            { "server": "https://www.4shared.com/web/embed/file/OOyCnh7Yfa/" },
+            { "server": "https://play.cdngo.me/hd.php?code=24g9wby7o6uk" },
+            { "server": "https://vadbam.com/embed-2y8jgdo56on1.html" },
+            { "server": "https://sbanh.com/e/fkrp8fhd5dhl" },
+            {
+              "server": "https://mega.nz/embed/QfU2kJpL!TcspgDoCkb-tMUaI-9hLq8E9g37AURBRmUHFIS7ixb0"
             }
           ]
         }
@@ -24090,6 +24297,25 @@
             { "server": "https://sbanh.com/e/iylasdus88v0" },
             {
               "server": "https://mega.nz/embed/cakHFABD!CMZh7iVZMAYvtvYkbhsAsiwhw_5RZIknyphgYCRlfIk"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://sbanh.com/e/lue5x6hurstr"],
+          "servers": [
+            { "server": "https://sbanh.com/e/lue5x6hurstr" },
+            {
+              "server": "https://mega.nz/embed/xC1A2YSZ!527yLTH207ilerNY4duTxcTbqZXJ6y4FXesEduEqZcs"
+            },
+            { "server": "https://www.4shared.com/web/embed/file/ToxIvP9uku/" },
+            { "server": "https://moshahda.net/embed-7mif0hcewy1o.html" },
+            { "server": "https://sbanh.com/e/1lldqzvt1uxy" },
+            { "server": "https://vadbam.com/embed-qbr0dolmw1ub.html" },
+            {
+              "server": "https://mega.nz/embed/VC8EjTiI!Tm3AtQHQBM1utEDkz4lQEIzEfzw6r2r6vnOOU6ZZ8_M"
             }
           ]
         }
