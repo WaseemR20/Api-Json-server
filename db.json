@@ -35568,6 +35568,618 @@
       ]
     },
     {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/en2X3XWGiUwZFe9pH9r06Si3Nbh.jpg",
+      "first_air_date": "2021-06-27",
+      "genre_ids": [16, 35, 10759],
+      "id": 100281,
+      "name": "Moriarty the Patriot",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "憂国のモリアーティ",
+      "overview": "In the late 19th century, the British Empire nobility reigns while its working class suffers at their hands. Sympathetic to their plight, William James Moriarty wants to topple it all. Frustrated by the systemic inequity, Moriarty strategizes to fix the entire nation. Not even consulting detective Sherlock Holmes can stand in his way. It’s time for crime to revolutionize the world!",
+      "popularity": 36.687,
+      "poster_path": "https://image.tmdb.org/t/p/original/gzZMbLDqd2LpPNuYlnidN0bzcVY.jpg",
+      "vote_average": 8.263,
+      "vote_count": 114,
+      "trailer": "https://www.youtube.com/watch?v=YA_zLUnLaQM&ab_channel=EMOTIONLabelChannel",
+      "overview_ar": "يعيش ويليام جيمس موريارتي ، الابن الثاني لأسرة موريارتي ، كنبل عادي بينما يعمل أيضًا مستشارًا لعامة الناس لمساعدتهم وحل مشاكلهم. ومع ذلك ، تكمن في أعماقه الرغبة في تدمير الهيكل الحالي الذي يهيمن على المجتمع البريطاني ومن يستفيد منه.",
+      "number_of_episodes_ar": "24 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episodes 24",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Animation", "name_ar": "الرسوم المتحركة" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=1"
+            },
+            { "server": "https://sbanh.com/e/0yc6f6nh41j8.html" },
+            { "server": "https://slwatch.co/e/Gm80z55JLEPzr1xW" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/10/xyB1KXcJX1OupBPkr6BI_27_2faf020867dd2e51911d433825c35cea_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://mega.nz/embed/JkkUmZhD#lix7rqJ9hjRxpAWf4rs2gX0mdujQC1SZpt5TNYFAmJc"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=2"
+            },
+            { "server": "https://sbanh.com/e/vhr80xsevoa2.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/10/Xw4g1tORknzHJaBsYS6m_27_909e9ca12e35bee59c6fbf91fc40bd20_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://mega.nz/embed/QxkWmZwL#H4IEFU6BYNJFA_S2b2ADQhpvIBwV51gdyqWYxcoOEwI"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/10/Xw4g1tORknzHJaBsYS6m_27_909e9ca12e35bee59c6fbf91fc40bd20_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=3"
+            },
+            { "server": "https://sbanh.com/e/y3t9q8leegfp.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/10/oqFC73x7ehoJyVYQFrfo_27_bb09b8a7821ba625e8e6de741e622f19_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://mega.nz/embed/d48A2LQJ#mAZzapI0mMqmEaG-xQVHQcN_-bTdS-NJ4Vt13VrROeQ"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/10/oqFC73x7ehoJyVYQFrfo_27_bb09b8a7821ba625e8e6de741e622f19_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=4"
+            },
+            { "server": "https://sbanh.com/e/xeatzcsxja7t.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/11/zWDHcjCaWjNvh6htDe9I_04_81cec170a782f6fe95d29d7a0f3bc5a3_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://mega.nz/embed/Mk0ETJaI#y_Z2H9rxXmRm_H_g2HGdqKPTihvlRNL51ZklXnd1zoo"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=5"
+            },
+            { "server": "https://sbanh.com/e/8rcml03pnjxe.html" },
+            { "server": "https://slwatch.co/e/j57gDmvg01Pz26Xb" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/11/LKLPWdSzFnBkihUgwqD9_13_4f07267cbb644729a1079955d67c03c2_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/11/LKLPWdSzFnBkihUgwqD9_13_4f07267cbb644729a1079955d67c03c2_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=6"
+            },
+            { "server": "https://sbanh.com/e/nc1nylel8li4.html" },
+            { "server": "https://slwatch.co/e/padWzjBeN6Mz9NyA" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/7HuympbZOSxQjmN9SK7w_06_ea07db9539d4e13fd6eec5980ec82654_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/7HuympbZOSxQjmN9SK7w_06_ea07db9539d4e13fd6eec5980ec82654_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=7"
+            },
+            { "server": "https://sbanh.com/e/1kgtlvvggjl0.html" },
+            { "server": "https://slwatch.co/e/270kn3GoQKEn8Wo6" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/XmuML2oSuLyWw59LgsXp_06_503889959b46de61cd31945a92c2b35c_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/XmuML2oSuLyWw59LgsXp_06_503889959b46de61cd31945a92c2b35c_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=8"
+            },
+            { "server": "https://sbanh.com/e/magyo9k40tck.html" },
+            { "server": "https://slwatch.co/e/j57gDmvgb1Wz26Xb" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/KUZ3135rxcNgnm1Q2ZOX_08_7048f41f85ab0aded0756824f4bfc808_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/KUZ3135rxcNgnm1Q2ZOX_08_7048f41f85ab0aded0756824f4bfc808_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=9"
+            },
+            { "server": "https://sbanh.com/e/70vja8evpvmo.html" },
+            { "server": "https://slwatch.co/e/vb6NnJyxAo0lPOkZ" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/O7R9WwVnAXPSen1JIABe_09_4f060e8c16d7199677d7f597e345015b_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/O7R9WwVnAXPSen1JIABe_09_4f060e8c16d7199677d7f597e345015b_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=10"
+            },
+            { "server": "https://sbanh.com/e/zg90z69rvzbj.html" },
+            { "server": "https://slwatch.co/e/AkQpz93N4VjnRdN6" },
+            { "server": "https://vadbam.com/embed-0c2icp8dg8u7.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/aaXjTLY6Duz1Ui7ed3dU_24_299bdd4eb567b9b55c58d5ba86beb3a6_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/aaXjTLY6Duz1Ui7ed3dU_24_299bdd4eb567b9b55c58d5ba86beb3a6_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=11"
+            },
+            { "server": "https://sbanh.com/e/1m4ro95eh5nl.html" },
+            { "server": "https://slwatch.co/e/AkQpz93N4ojnRdN6" },
+            { "server": "https://vadbam.com/embed-88c7tixk7twz.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/1hyPdHKFFXJx5CMVm5Ma_25_0890a6b9a682939e8582ac0a5cb28e96_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2020/12/1hyPdHKFFXJx5CMVm5Ma_25_0890a6b9a682939e8582ac0a5cb28e96_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=12"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=12"
+            },
+            { "server": "https://sbanh.com/e/aeksucfych80.html" },
+            { "server": "https://slwatch.co/e/OEbPDaQNvaWD3M1k" },
+            { "server": "https://vadbam.com/embed-c2kopfy66t5o.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/cz8yW5NVYOqMnXaFkfXk_11_bbf42dbafd5fa8ebca22c6f9861ecd41_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/cz8yW5NVYOqMnXaFkfXk_11_bbf42dbafd5fa8ebca22c6f9861ecd41_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=12"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=13"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=13"
+            },
+            { "server": "https://sbanh.com/e/i8mmvvg1d0ww.html" },
+            { "server": "https://slwatch.co/e/AkQpz93N4ZanRdN6" },
+            { "server": "https://vadbam.com/embed-ukajhyxt3z1d.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/vIbHD3ojreFreAj1rj2l_11_cd791a76fd09cb67d7b147fe5c2ccce3_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/vIbHD3ojreFreAj1rj2l_11_cd791a76fd09cb67d7b147fe5c2ccce3_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=13"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=14"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=14"
+            },
+            { "server": "https://sbanh.com/e/rvbreiiw513g.html" },
+            { "server": "https://slwatch.co/e/8K02DPkmB6XnygB1" },
+            { "server": "https://vadbam.com/embed-gntn1lh9jv49.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/2UV1vLJg8SLhfKKeLEvn_11_0aa782a40531a277e34a2c8af139244a_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/2UV1vLJg8SLhfKKeLEvn_11_0aa782a40531a277e34a2c8af139244a_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=14"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "episodeId": "Episode15",
+          "name": "Episode 15",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=15"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=15"
+            },
+            { "server": "https://sbanh.com/e/y3wgqelend21.html" },
+            { "server": "https://slwatch.co/e/YvAyz2GN6B0lg9kL" },
+            { "server": "https://vadbam.com/embed-yzhh8gts09gr.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/m4mFX77BerykuIUPe1nk_11_9502bb21dbdb9c5cb45d64403850e2ef_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/m4mFX77BerykuIUPe1nk_11_9502bb21dbdb9c5cb45d64403850e2ef_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=15"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "episodeId": "Episode16",
+          "name": "Episode 16",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=16"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=16"
+            },
+            { "server": "https://sbanh.com/e/3rw8hkz31654.html" },
+            { "server": "https://slwatch.co/e/RLg7lX8JGAel2QAe" },
+            { "server": "https://vadbam.com/embed-f6fj7vpwnfds.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/IXavdNQqQmYBYLYYupwT_11_2ccab83e54058838044085164a4dd0e5_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/IXavdNQqQmYBYLYYupwT_11_2ccab83e54058838044085164a4dd0e5_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=16"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "episodeId": "Episode17",
+          "name": "Episode 17",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=17"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=17"
+            },
+            { "server": "https://sbanh.com/e/jlb43uzcdy3i.html" },
+            { "server": "lihttps://slwatch.co/e/rJmXD0keRa0nGg8ok" },
+            { "server": "https://vadbam.com/embed-7rresn2ah2zm.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/mEcu4TlGCCj1dfmV9eLz_11_3f4732fc0e050312972c7a8c1ae54296_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/mEcu4TlGCCj1dfmV9eLz_11_3f4732fc0e050312972c7a8c1ae54296_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=17"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "episodeId": "Episode18",
+          "name": "Episode 18",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=18"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=18"
+            },
+            { "server": "https://sbanh.com/e/tt0esz9k2khk.html" },
+            { "server": "https://slwatch.co/e/vJ41zYNE68AlwA3g" },
+            { "server": "https://vadbam.com/embed-j31on0p7xzda.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/jFpLM5eTtuP42QvIpO6S_11_6480d6fa90f31b11349139a1ee5f1522_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/jFpLM5eTtuP42QvIpO6S_11_6480d6fa90f31b11349139a1ee5f1522_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=18"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "episodeId": "Episode19",
+          "name": "Episode 19",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=19"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=19"
+            },
+            { "server": "https://sbanh.com/e/jc01x3pgmlq9.html" },
+            { "server": "https://slwatch.co/e/AkQpz93N4GAnRdN6" },
+            { "server": "https://vadbam.com/embed-34evvn0md5uc.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/axHopaOfipTEsozw1aBH_11_7df2994d26de7df49f39ab96b127f487_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/axHopaOfipTEsozw1aBH_11_7df2994d26de7df49f39ab96b127f487_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=19"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "episodeId": "Episode20",
+          "name": "Episode 20",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=20"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=20"
+            },
+            { "server": "https://sbanh.com/e/aupgikifa43s.html" },
+            { "server": "https://slwatch.co/e/vJ41zYNE6M7lwA3g" },
+            { "server": "https://vadbam.com/embed-1kq49kvbrqy3.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/XErQSdpQO8RVOGFOcpfQ_11_0eecb3538846edd67380d225191b6203_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/XErQSdpQO8RVOGFOcpfQ_11_0eecb3538846edd67380d225191b6203_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=20"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "episodeId": "Episode21",
+          "name": "Episode 21",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=21"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=21"
+            },
+            { "server": "https://sbanh.com/e/k6f52o6p1730.html" },
+            { "server": "https://slwatch.co/e/AQ9qzxNX7Rdn4mME" },
+            { "server": "https://vadbam.com/embed-6ycd5b0135yo.html" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/CKTLtR4KK8HQ5SZLwt9O_11_30f2e7f403278daf3d2f7fa97dace44b_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/CKTLtR4KK8HQ5SZLwt9O_11_30f2e7f403278daf3d2f7fa97dace44b_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=21"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "episodeId": "Episode22",
+          "name": "Episode 22",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=22"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=22"
+            },
+            { "server": "https://sbanh.com/e/tbfrgd7a1jno.html" },
+            { "server": "https://upvideo.to/e/pbrtxb3eenav" },
+            { "server": "https://vadbam.com/embed-8dqx6622pu05.html" },
+            { "server": "https://slwatch.co/e/0rwmD7pok8bzRaZ8" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/nHzGt9Xim1eWSIfTZ9oX_17_c65c0c580a409bb50fefb553b7c5ec0d_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/nHzGt9Xim1eWSIfTZ9oX_17_c65c0c580a409bb50fefb553b7c5ec0d_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=22"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "episodeId": "Episode23",
+          "name": "Episode 23",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=23"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=23"
+            },
+            { "server": "https://sbanh.com/e/3yhq8iuy4hae.html" },
+            { "server": "https://upvideo.to/e/emgr0umitfyv" },
+            { "server": "https://vadbam.com/embed-1ftqnfz9hc1g.html" },
+            { "server": "https://slwatch.co/e/r8WdlWmeR8jDjx4q" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/TMYIj4jcT4WYAkkFMQcu_23_e2f59624a95def7a31901c75381661f4_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/TMYIj4jcT4WYAkkFMQcu_23_e2f59624a95def7a31901c75381661f4_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=23"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "episodeId": "Episode24",
+          "name": "Episode 24",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=24"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=100281&s=1&e=24"
+            },
+            { "server": "https://sbanh.com/e/c4jocsen0afc.html" },
+            { "server": "https://upvideo.to/e/76wpmt3bhz3b" },
+            { "server": "https://vadbam.com/embed-msz3ozma6m5m.html" },
+            { "server": "https://slwatch.co/e/MqN9nG3mrvbngxeA" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/YEZ9vPMsLxxTmHoArJa3_30_ea9aca84e4cd5f2a8e45b81a24113b64_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2021/06/YEZ9vPMsLxxTmHoArJa3_30_ea9aca84e4cd5f2a8e45b81a24113b64_video_720p_converted.mp4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt12831098&s=1&e=24"
+            }
+          ]
+        },
+        {
+          "id": "OV1",
+          "episodeId": "Ova1",
+          "name": "OVA 1",
+          "server1": ["https://sbanh.com/e/er6aewiy0in1.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/er6aewiy0in1.html" },
+            { "server": "https://upvideo.to/e/i1mhjv8yvw8j" },
+            { "server": "https://vadbam.com/embed-d1gdpj1q8eyl.html" },
+            { "server": "https://slwatch.co/e/Gm80z55JPRjzr1xW" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2022/08/hDlvBUAmueO9TC6IrgZm_09_cc87b0255ebdfda8bfb755ed767a9957_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2022/08/hDlvBUAmueO9TC6IrgZm_09_cc87b0255ebdfda8bfb755ed767a9957_video_720p_converted.mp4"
+            }
+          ]
+        },
+        {
+          "id": "OV2",
+          "episodeId": "Ova2",
+          "name": "OVA 2",
+          "server1": ["https://sbanh.com/e/fba0mznyduoc.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/fba0mznyduoc.html" },
+            { "server": "https://upvideo.to/e/szgrqrghx3cn" },
+            { "server": "https://vadbam.com/embed-2c2r3uuumfhc.html" },
+            { "server": "https://slwatch.co/e/gNXKzZOJQeYlEk6P" },
+            {
+              "server": "https://fansubs.tv/upload/videos/2022/08/HDMpdtMFl2p7Y143gzHJ_09_bd44c914a46345761e1f71fb886d2a94_video_1080p_converted.mp4"
+            },
+            {
+              "server": "https://fansubs.tv/upload/videos/2022/08/HDMpdtMFl2p7Y143gzHJ_09_bd44c914a46345761e1f71fb886d2a94_video_720p_converted.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://image.tmdb.org/t/p/original/eGAOc17X55kIVjhPhflRbi8DrgF.jpg",
       "first_air_date": "2022-06-06",
       "genre_ids": [10766, 35, 18],
