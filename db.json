@@ -1403,6 +1403,131 @@
     },
     {
       "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/trvBpyiWtAUXeys2Muevf8i1bhO.jpg",
+      "genre_ids": [18],
+      "id": 595586,
+      "imdb_id": "tt10192406",
+      "original_language": "en",
+      "original_title": "Causeway",
+      "overview": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin to forge an unexpected bond.",
+      "popularity": 36.593,
+      "poster_path": "https://image.tmdb.org/t/p/original/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg",
+      "release_date": "2022-10-28",
+      "title": "Causeway",
+      "video": false,
+      "vote_average": 7.133,
+      "vote_count": 30,
+      "age": "R",
+      "age_ar": "R",
+      "overview_ar": "يعاني جندي أمريكي من إصابة دماغية أثناء القتال في أفغانستان ويكافح من أجل التكيف مع الحياة في وطنه في نيو أورلينز. عندما تلتقي بالميكانيكي المحلي جيمس ، يبدأ الزوجان في تكوين رابطة غير متوقعة.",
+      "trailer": "https://www.youtube.com/watch?v=VojBOTd6Euo&ab_channel=AppleTV",
+      "genres": [{ "name": "Drama", "name_ar": "دراما" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=595586"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=595586" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10192406"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Causeway&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/2Ldxg98mkVbhJtmTH6W48Nq5LhO.jpg",
+      "genre_ids": [28, 12, 9648, 35, 80],
+      "id": 497582,
+      "imdb_id": "tt7846844",
+      "original_language": "en",
+      "original_title": "Enola Holmes",
+      "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "popularity": 112.874,
+      "poster_path": "https://image.tmdb.org/t/p/original/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+      "release_date": "2020-09-23",
+      "title": "Enola Holmes",
+      "video": false,
+      "vote_average": 7.33,
+      "vote_count": 4734,
+      "age": "13+",
+      "age_ar": "+13",
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/wSTC9we8gyBbuQNJBWhvMfpKVpQ.png",
+      "overview_ar": "أثناء بحثها عن والدتها المفقودة، تستغل المراهقة الجريئة “إينولا هولمز“ مهارتها في التحري للتفوق على أخيها الأكبر “شيرلوك“ ومساعدة لورد هارب.",
+      "trailer": "https://www.youtube.com/watch?v=1d0Zf9sXlHk&ab_channel=Netflix",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=497582"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=497582" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt7846844" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Enola%20Holmes&year=2020"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/rjlG7C5GZfXutoVoE3BJaYGUhk4.jpg",
+      "genre_ids": [28, 12, 9648, 35, 80],
+      "id": 829280,
+      "imdb_id": "tt14641788",
+      "original_language": "en",
+      "original_title": "Enola Holmes 2",
+      "overview": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.",
+      "popularity": 215.699,
+      "poster_path": "https://image.tmdb.org/t/p/original/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+      "release_date": "2022-11-04",
+      "title": "Enola Holmes 2",
+      "video": false,
+      "vote_average": 8.095,
+      "vote_count": 137,
+      "type": "Netflix",
+      "age": "13+",
+      "age_ar": "+13",
+      "logo": "https://www.themoviedb.org/t/p/original/fNXV4ChldDPYjKiBbG1GoiHjuB0.png",
+      "overview_ar": "الآن محققة مقابل استئجار مثل شقيقها سيئ السمعة ، تتولى إنولا هولمز أول قضية رسمية لها للعثور على فتاة مفقودة ، حيث تشعل شرارات مؤامرة خطيرة لغزا يتطلب مساعدة الأصدقاء - وشيرلوك نفسه - لكشفه.",
+      "trailer": "https://www.youtube.com/watch?v=KKXNmYoPkx0&ab_channel=Netflix",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Adventure", "name_ar": "مغامرة" },
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=829280"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=829280" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14641788"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Enola%20Holmes%202&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/pkLegAR3G5T63B2Xz2ijbD1BAm8.jpg",
       "genre_ids": [27, 53, 28, 12, 80, 9648, 18, 10752],
       "id": 927341,
@@ -5121,9 +5246,287 @@
     },
     {
       "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/yknasAMOThRi4J3WNJZztM3Wgm6.jpg",
+      "genre_ids": [35, 10749],
+      "id": 1022206,
+      "imdb_id": "tt22091698",
+      "original_language": "pt",
+      "original_title": "Esposa de Aluguel",
+      "overview": "To fulfill his mother’s dying wish and avoid being removed from her will, an inflexible bachelor hires an actress to play his fiancée.",
+      "popularity": 270.73,
+      "poster_path": "https://image.tmdb.org/t/p/original/6l6qR3JGf1WLJAwwYgIQPR5rLKz.jpg",
+      "release_date": "2022-10-11",
+      "title": "Someone Borrowed",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 62,
+      "type": "Netflix",
+      "age": "18+",
+      "logo": "https://occ-0-2773-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZjwD1lCrfzUgCoyVJaO2MEQZeKGac1VeIH5FC_N1SwKP_8IH6SWOp11CKq_nMnbUybXP-Ykaw6HGUnb-QnO1X64KHFg8d2Xzok0EwKyGtxdJ9S1hhPrvbCDeUgerhOkhy0z9BQOsj1HAHXImKTyOTpfWaCWEOXziLJxrqquqas9PV82jBaMzQ.png?r=40e",
+      "overview_ar": "لتحقيق آخر أمنيات والدته المحتضرة وليتجنّب حرمانه من الميراث، يوظّف شابّ متمسّك بالعزوبية ممثلةً كي تؤدّي دور خطيبته.",
+      "trailer": "https://www.youtube.com/watch?v=_SuUb1qq2hU&ab_channel=TrailerTime",
+      "genres": [
+        { "name": "Romance", "name_ar": "رومانسي" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=1022206"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=1022206" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt22091698" },
+            { "server": "https://www.2embed.to/embed/title/movie?title=Someone%20Borrowed&year=2022" }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/u6WzMRpTkGzIlfsPNtDfIBfEy9z.jpg",
+      "genre_ids": [18, 53, 9648],
+      "id": 848791,
+      "imdb_id": "tt11897478",
+      "original_language": "en",
+      "original_title": "The Stranger",
+      "overview": "Two strangers strike up a conversation on a long journey. One is a suspect in an unsolved missing person’s case and the other an undercover operative on his trail. Their uneasy friendship becomes the core of this tightly wrought thriller, which is based on the true story of one of the largest investigations and undercover operations in Australia.",
+      "popularity": 1225.195,
+      "poster_path": "https://image.tmdb.org/t/p/original/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg",
+      "release_date": "2022-10-06",
+      "title": "The Stranger",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 88,
+      "type": "Netflix",
+      "age": "15+",
+      "logo": "https://www.themoviedb.org/t/p/original/awipqTcDhVFPR7Lw1WLZEMzkCiV.png",
+      "overview_ar": "يشكّل شرطي متخفٍّ علاقة وطيدة مليئة بالعواطف مع مشتبه به في جريمة قتل أثناء محاولة كسب ثقته وانتزاع اعتراف منه.",
+      "trailer": "https://www.youtube.com/watch?v=umIeYcQLABg&ab_channel=Netflix",
+      "genres": [
+        { "name": "Crime", "name_ar": "جريمة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Thriller", "name_ar": "إثارة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=848791"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=848791" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11897478"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Stranger&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/iHc14vucwUMl6WuvQa4iPfoEdy9.jpg",
+      "genre_ids": [18, 53, 9648],
+      "id": 799546,
+      "imdb_id": "tt4595186",
+      "original_language": "en",
+      "original_title": "Luckiest Girl Alive",
+      "overview": "A successful woman in New York City finds her life upended when she is forced to confront a dark truth that threatens to unravel her meticulously crafted life.",
+      "popularity": 194.039,
+      "poster_path": "https://image.tmdb.org/t/p/original/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg",
+      "release_date": "2022-09-30",
+      "title": "Luckiest Girl Alive",
+      "video": false,
+      "vote_average": 6.658,
+      "vote_count": 415,
+      "type": "Netflix",
+      "age": "18+",
+      "logo": "https://occ-0-2773-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXoekE76CoOW5bszEpCarxmxYxy_KxZPBDr4VZY6skQuAKWkGb045Ke9NYLpKWEcX5yPSfRtWZFzQMy1odh57HDRzRI_W15blQ_IMPEo0FVlUvHRDVzeHHTeYYA5fdwxXYq76epB-4DTnHBEigcb1pB792X55rThi8cJs9gZPdoCItSDklKG5w.png?r=22a",
+      "overview_ar": "تبدأ الحياة المثالية التي بنَتها كاتبة في مدينة “نيويورك“ بالانهيار عندما يجبرها فيلم وثائقي عن جريمة حقيقية على مواجهة ماضيها المروع في المدرسة الثانوية.",
+      "trailer": "https://www.youtube.com/watch?v=B_XUlbPW-eY&ab_channel=Netflix",
+      "genres": [
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=799546"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=799546" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt4595186" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Luckiest%20Girl%20Alive&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/dcwHej42i8HAmtUCgKE6dsuig9o.jpg",
+      "genre_ids": [18],
+      "id": 340027,
+      "imdb_id": "tt3704700",
+      "original_language": "en",
+      "original_title": "Brain on Fire",
+      "overview": "Susannah Cahalan, an up-and-coming journalist at the New York Post becomes plagued by voices in her head and seizures, causing a rapid descent into insanity.",
+      "popularity": 20.82,
+      "poster_path": "https://image.tmdb.org/t/p/original/ulOCM9UYjiXxggjDBtNmGTmsJDA.jpg",
+      "release_date": "2017-02-22",
+      "title": "Brain on Fire",
+      "video": false,
+      "vote_average": 7.105,
+      "vote_count": 1231,
+      "type": "Netflix",
+      "age": "PG-13",
+      "overview_ar": "سوزانا كاهالان ، الصحفية الصاعدة في نيويورك بوست ، تعاني من أصوات في رأسها ونوبات صرع ، مما يتسبب في انزلاقها السريع إلى الجنون.",
+      "trailer": "https://www.youtube.com/watch?v=VZn6G0M9wNs&ab_channel=Netflix",
+      "genres": [{ "name": "Drama", "name_ar": "دراما" }],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=340027"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=340027" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt3704700" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Brain%20on%20Fire&year=2017"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/u1KFDIP64LjG3iD1dbSRBSDNyge.jpg",
+      "genre_ids": [27, 53, 9648],
+      "id": 960875,
+      "imdb_id": "tt12683756",
+      "original_language": "es",
+      "original_title": "Jaula",
+      "overview": "After a couple finds a traumatized child of unknown origins, wife Paula must decipher the girl's strange behaviors to unlock her identity and dark past.",
+      "popularity": 386.943,
+      "poster_path": "https://image.tmdb.org/t/p/original/ifxAT8LVbSCxAi290VplTwbEQNh.jpg",
+      "release_date": "2022-09-09",
+      "title": "The Chalk Line",
+      "video": false,
+      "vote_average": 6.241,
+      "vote_count": 85,
+      "type": "Netflix",
+      "logo": "https://occ-0-2773-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABScX8i6AgamHk-JqzfGd1BUlxZyTMWa8mS1xzMmUesYq8yIvsXf2_-uBOyh9qh1mN903JlZ-bbJObsRYn1SvJgUM6kIX0qp7hwaGvnrF-11C1-Pa7IO3_0lbUz3Xuhyva3AFMpsyXbdxe6rwFBOqYhJF5kX2JgS21cbDCyEetacMqxnuu4gdHQ.png?r=d83",
+      "age": "16+",
+      "overview_ar": "بعد أن يجد الزوجان طفلًا مصابًا بصدمة نفسية مجهولة الأصول ، يتعين على الزوجة باولا فك رموز السلوكيات الغريبة للفتاة لإلغاء تأمين هويتها وماضيها المظلم.",
+      "trailer": "https://www.youtube.com/watch?v=CrulSOKR9iQ&ab_channel=Netflix%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "genres": [
+        { "name": "Horror", "name_ar": "رعب" },
+        { "name": "Thriller", "name_ar": "إثارة" },
+        { "name": "Mystery", "name_ar": "غموض" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=960875"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=960875" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt12683756"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Chalk%20Line&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/rV0xrSgkOQj2EpiG8n16VHHJeg3.jpg",
+      "genre_ids": [80, 18, 9648],
+      "id": 541134,
+      "imdb_id": "tt4273800",
+      "original_language": "en",
+      "original_title": "The Good Nurse",
+      "overview": "Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth in this gripping thriller based on true events.",
+      "popularity": 484.677,
+      "poster_path": "https://image.tmdb.org/t/p/original/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg",
+      "release_date": "2022-10-19",
+      "title": "The Good Nurse",
+      "video": false,
+      "type": "Netflix",
+      "vote_average": 7.163,
+      "vote_count": 346,
+      "age": "16+",
+      "logo": "https://www.themoviedb.org/t/p/original/75zxuMh7j69uItKB84B2m5sK5Pq.png",
+      "overview_ar": "تشك ممرضة في أن زميلتها مسؤولة عن سلسلة من وفيات المرضى الغامضة ، وتخاطر بحياتها للكشف عن الحقيقة في هذا الفيلم المثير القائم على أحداث حقيقية.",
+      "trailer": "https://www.youtube.com/watch?v=e0DQevX-GZs&ab_channel=Netflix",
+      "genres": [
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Crime", "name_ar": "جريمة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=541134"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=541134" },
+            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt4273800" },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Good%20Nurse&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8YBzWhLaZx19116h9zgEJFelkmK.jpg",
+      "genre_ids": [10749, 18, 35],
+      "id": 962232,
+      "imdb_id": "tt16027944",
+      "original_language": "pt",
+      "original_title": "Depois do Universo",
+      "overview": "While waiting for a kidney transplant, a young pianist finds an unexpected connection with her doctor — and the courage to fulfill her musical dreams.",
+      "popularity": 496.966,
+      "poster_path": "https://image.tmdb.org/t/p/original/AlAP6WRSBuf5cP8OgpHTF45BPUp.jpg",
+      "release_date": "2022-10-27",
+      "title": "Beyond the Universe",
+      "video": false,
+      "vote_average": 7.812,
+      "vote_count": 70,
+      "age": "18+",
+      "overview_ar": "أثناء انتظار عملية زرع الكلى ، تجد عازفة بيانو شابة علاقة غير متوقعة بطبيبها - والشجاعة لتحقيق أحلامها الموسيقية.",
+      "trailer": "https://www.youtube.com/watch?v=8OkqLOe_mZI&ab_channel=NetflixBrasil",
+      "genres": [
+        { "name": "Romance", "name_ar": "رومانسي" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=962232"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=962232" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt16027944"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Beyond%20the%20Universe&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/mVNPfpydornVe4H4UCIk7WevWjf.jpg",
       "genre_ids": [27, 9648],
       "id": 882598,
+      "imdb_id": "tt15474916",
       "original_language": "en",
       "original_title": "Smile",
       "overview": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
@@ -5134,7 +5537,30 @@
       "video": false,
       "vote_average": 5.5,
       "vote_count": 13,
-      "page": 10
+      "age": "R",
+      "logo": "https://www.themoviedb.org/t/p/original/l5KX3fMFhFYanCxvKYLf0rtTlAr.png",
+      "overview_ar": "بعد مشاهدة حادث غريب وصادم يتعلق بمريض ، تبدأ الدكتورة روز كوتر في تجربة أحداث مخيفة لا تستطيع تفسيرها. عندما يبدأ الرعب الساحق في السيطرة على حياتها ، يجب على روز مواجهة ماضيها المقلق من أجل البقاء على قيد الحياة والهروب من واقعها الجديد المرعب.",
+      "trailer": "https://www.youtube.com/watch?v=BcDK7lkzzsU&ab_channel=ParamountPictures",
+      "genres": [
+        { "name": "Horror", "name_ar": "رعب" },
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Thriller", "name_ar": "إثارة" }
+      ],
+      "play": [
+        {
+          "server1": ["https://www.2embed.to/embed/tmdb/movie?id=882598"],
+          "servers": [
+            { "server": "https://www.2embed.to/embed/tmdb/movie?id=882598" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15474916"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Smile&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -25529,6 +25955,20 @@
               "server": "https://mega.nz/embed/sfVjTTzR!xu52yf68kQaDcLzgboBjMgj2xBF16pbk7_hZtioSVuE"
             }
           ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["link"],
+          "servers": [
+            { "server": "link" },
+            { "server": "https://mega.nz/embed/TcJhkCAJ#GIlzgbjPqyndpRJARZJUAUXLQTUef9nkZi0CS_gqKkw" },
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "link" },
+            { "server": "https://drive.google.com/file/d/16zPrK6kZd5qqP9xlXm5TklAFXVyjqXEN/preview" }
+          ]
         }
       ]
     },
@@ -36166,7 +36606,9 @@
           "server1": ["https://sbanh.com/e/fba0mznyduoc.html"],
           "servers": [
             { "server": "https://sbanh.com/e/fba0mznyduoc.html" },
-            { "server": "https://upvideo.to/e/szgrqrghx3cn" },
+            {
+              "server": "https://upvideo.to/e/szgrqrghx3cn?key=91a8f7d9r0jnkznsq90"
+            },
             { "server": "https://vadbam.com/embed-2c2r3uuumfhc.html" },
             { "server": "https://slwatch.co/e/gNXKzZOJQeYlEk6P" },
             {
