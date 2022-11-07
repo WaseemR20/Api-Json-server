@@ -5274,8 +5274,12 @@
           "server1": ["https://www.2embed.to/embed/tmdb/movie?id=1022206"],
           "servers": [
             { "server": "https://www.2embed.to/embed/tmdb/movie?id=1022206" },
-            { "server": "https://www.2embed.to/embed/imdb/movie?id=tt22091698" },
-            { "server": "https://www.2embed.to/embed/title/movie?title=Someone%20Borrowed&year=2022" }
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt22091698"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Someone%20Borrowed&year=2022"
+            }
           ],
           "name": "Watch"
         }
@@ -25839,6 +25843,143 @@
       ]
     },
     {
+      "backdrop_path": "https://images4.alphacoders.com/924/924878.jpg",
+      "first_air_date": "2014-07-07",
+      "genre_ids": [16, 35],
+      "id": 61379,
+      "name": "Monthly Girls' Nozaki-kun",
+      "origin_country": ["JP"],
+      "original_language": "ja",
+      "original_name": "月刊少女野崎くん",
+      "overview": "High school student Chiyo Sakura has a crush on schoolmate Umetarō Nozaki, but when she confesses her love to him, he mistakes her for a fan and gives her an autograph. When she says that she always wants to be with him, he invites her to his house and has her help on some drawings. Chiyo discovers that Nozaki is actually a renowned shōjo manga artist named Sakiko Yumeno. She then agrees to be his assistant in order to get closer to him. As they work on his manga Let's Fall in Love (恋しよっ), they encounter other schoolmates who assist them or serve as inspirations for characters in the stories.",
+      "popularity": 17.017,
+      "poster_path": "https://image.tmdb.org/t/p/original/maPv22inKIcyfOCil3wrWiyJ7gC.jpg",
+      "vote_average": 7.179,
+      "vote_count": 70,
+      "trailer": "https://www.youtube.com/watch?v=8FGsSpcZ-FI&feature=emb_title&ab_channel=HanabeeEntertainment",
+      "overview_ar": "تشيو ساكورا ، طالبة في المدرسة الثانوية ، معجبة بزميلتها في المدرسة Umetarō Nozaki ، ولكن عندما تعترف بحبها له ، يخطئها في أنها معجب ويعطيها توقيعًا. عندما تقول إنها تريد أن تكون دائمًا معه ، يدعوها إلى منزله ويساعدها في بعض الرسومات. يكتشف Chiyo أن Nozaki هو في الواقع فنان شوجو مانغا مشهور اسمه Sakiko Yumeno. ثم توافق على أن تكون مساعدته من أجل الاقتراب منه. أثناء عملهم على المانجا الخاصة به Let's Fall in Love (恋 し よ っ) ، يواجهون زملاء آخرين في المدرسة يساعدونهم أو يعملون كمصدر إلهام لشخصيات في القصص.",
+      "number_of_episodes_ar": "12 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Animation", "name_ar": "رسوم المتحركة" },
+        { "name": "Comedy", "name_ar": "كوميديا" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://sbanh.com/e/3vclsdvyw0jy.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/3vclsdvyw0jy.html" },
+            { "server": "https://upvideo.to/e/pou0ilhhbhra" },
+            { "server": "https://slwatch.co/e/aNdbzkZ3Lo8D8JjB" }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://sbanh.com/e/8tdl02gw028k.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/8tdl02gw028k.html" },
+            { "server": "https://upvideo.to/e/ettzpu24jgx8" },
+            { "server": "https://slwatch.co/e/j57gDmvg8L3z26Xb" }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://sbanh.com/e/xwkxtas2c5eo.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/xwkxtas2c5eo.html" },
+            { "server": "https://upvideo.to/e/cn19nrgf6epi" },
+            { "server": "https://slwatch.co/e/vJ41zYNEm16lwA3g" }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://sbanh.com/e/htp5ko8xvmud.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/htp5ko8xvmud.html" },
+            { "server": "https://upvideo.to/e/fgpzqlrsljaw" },
+            { "server": "https://slwatch.co/e/8K02DPkaamwnygB1" }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://sbanh.com/e/5jgfq13cfls8.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/5jgfq13cfls8.html" },
+            { "server": "https://upvideo.to/e/aga7h1oz6tsx" },
+            { "server": "https://slwatch.co/e/rJmXD0kxx7WnGg8o" }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://sbanh.com/e/ylgczjf3zfz0.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/ylgczjf3zfz0.html" },
+            { "server": "https://upvideo.to/e/anifimj5n6qx" },
+            { "server": "https://slwatch.co/e/LvgezwvZpo8Dbp8E" }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://sbanh.com/e/1tair5uhzbd1.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/1tair5uhzbd1.html" },
+            { "server": "https://upvideo.to/e/xt4npxtqbssf" },
+            { "server": "https://slwatch.co/e/AoNaDdvEpGQlmZg5" }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://sbanh.com/e/2xisny0jj1ok.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/2xisny0jj1ok.html" },
+            { "server": "https://upvideo.to/e/i6inmdkmhmfs" },
+            { "server": "https://slwatch.co/e/padWzjB5KPrz9NyA" }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://sbanh.com/e/wrorrcpfw8lk.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/wrorrcpfw8lk.html" },
+            { "server": "https://upvideo.to/e/6egupfdju4f7" },
+            { "server": "https://slwatch.co/e/b95OD11AZ7kD4GdE" }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://sbanh.com/e/k2113q40mq06.html"],
+          "servers": [
+            { "server": "https://sbanh.com/e/k2113q40mq06.html" },
+            { "server": "https://upvideo.to/e/oigf1iskbdjy" },
+            { "server": "https://slwatch.co/e/NGePnbXEqEgzQqrY" }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://images4.alphacoders.com/116/1165712.jpg",
       "first_air_date": "2022-10-9",
       "genre_ids": [16, 10759],
@@ -25960,14 +26101,27 @@
           "id": 5,
           "episodeId": "Episode5",
           "name": "Episode 5",
-          "server1": ["link"],
+          "server1": [
+            "https://cdn.jwplayer.com/players/LDLd91Ug-BI2JS0Mm.html"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "https://mega.nz/embed/TcJhkCAJ#GIlzgbjPqyndpRJARZJUAUXLQTUef9nkZi0CS_gqKkw" },
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "https://drive.google.com/file/d/16zPrK6kZd5qqP9xlXm5TklAFXVyjqXEN/preview" }
+            {
+              "server": "https://cdn.jwplayer.com/players/LDLd91Ug-BI2JS0Mm.html"
+            },
+            { "server": "https://sbanh.com/e/a78kfyrz5rco.html" },
+            { "server": "https://slwatch.co/e/r8WdlWmVqpwDjx4q" },
+            { "server": "https://upvideo.to/e/q76w8kkkwlfc" },
+            { "server": "https://vadbam.com/embed-h2kh3avh5zmz.html" },
+            { "server": "https://cdn.jwplayer.com/previews/LDLd91Ug-BI2JS0Mm" },
+            {
+              "server": "https://cdn.jwplayer.com/videos/LDLd91Ug-mEuGg2Fx.mp4"
+            },
+            {
+              "server": "https://mega.nz/embed/TcJhkCAJ#GIlzgbjPqyndpRJARZJUAUXLQTUef9nkZi0CS_gqKkw"
+            },
+            {
+              "server": "https://drive.google.com/file/d/16zPrK6kZd5qqP9xlXm5TklAFXVyjqXEN/preview"
+            }
           ]
         }
       ]
@@ -40873,6 +41027,172 @@
       ]
     },
     {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/rpTpgiwj63N2f6HnB5SKhei5N80.jpg",
+      "first_air_date": "2022-10-28",
+      "genre_ids": [18, 9648],
+      "id": 83659,
+      "imdb_id": "tt8415836",
+      "name": "Guillermo del Toro's Cabinet of Curiosities",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Guillermo del Toro's Cabinet of Curiosities",
+      "overview": "Bizarre nightmares unfold in eight tales of terror in this visually stunning, spine-tingling horror collection curated by Guillermo del Toro.",
+      "popularity": 1045.014,
+      "poster_path": "https://image.tmdb.org/t/p/original/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg",
+      "vote_average": 8.198,
+      "vote_count": 192,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/atw87ahCrP805sDHe1BJnHgMmas.png",
+      "trailer": "https://www.youtube.com/watch?v=E3E1URhCR60&ab_channel=Netflix",
+      "overview_ar": "تتكشف كوابيس غريبة في ثماني حكايات رعب في مجموعة رعب مذهلة بصريًا ، تنميل في العمود الفقري برعاية غييرمو ديل تورو.",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Mystery", "name_ar": "غموض" },
+        { "name": "Drama", "name_ar": "دراما" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83659&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Guillermo%20del%20Toro%27s%20Cabinet%20of%20Curiosities&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8415836&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://image.tmdb.org/t/p/original/rSPI0pQ9iHjv0hQMbv0UYeDlfCI.jpg",
       "first_air_date": "2022-06-23",
       "genre_ids": [18],
@@ -40954,6 +41274,472 @@
             },
             { "server": "https://vidshar.org/embed-3bjnhen93sa1.html" },
             { "server": "link" }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg",
+      "first_air_date": "2018-10-12",
+      "genre_ids": [10765, 10765, 18],
+      "id": 75450,
+      "name": "Titans",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Titans",
+      "overview": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+      "popularity": 419.161,
+      "poster_path": "https://www.themoviedb.org/t/p/original/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg",
+      "vote_average": 8.062,
+      "vote_count": 2169,
+      "logo": "https://www.themoviedb.org/t/p/original/6wzKYZ86v52UMojvRJFBhTleZmV.png",
+      "trailer": "https://www.youtube.com/watch?v=6ttU1iKSpdA&ab_channel=HBOMax",
+      "overview_ar": "يتشكل فريق التايتنز من أبطال خارقين شباب، بقيادة نايت وينق (روبن سابقا) لمحاربة الشر والمخاطر الأخرى.",
+      "number_of_episodes_ar": "11 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 11",
+      "season_number": "Season 1",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=1&e=11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/t9oVY5SiK8YzNoi6O8XLTOvR6Je.jpg",
+      "first_air_date": "2019-09-05",
+      "genre_ids": [10765, 10765, 18],
+      "id": "75450Season2",
+      "name": "Titans S2",
+      "origin_country": ["US"],
+      "original_language": "en",
+      "original_name": "Titans",
+      "overview": "In season two, following the aftermath of their encounter with Trigon, Dick Grayson reforms the Titans. Under his supervision in their new home at Titans Tower, Rachel, Gar and Jason Todd train together to hone their hero abilities and work together as a team. They are joined by Hank Hall and Dawn Granger aka Hawk and Dove and Donna Troy aka Wonder Girl. Although these original Titans attempt to transition into a regular life, when old enemies resurface everyone must come together to take care of unfinished business.",
+      "popularity": 419.161,
+      "poster_path": "https://www.themoviedb.org/t/p/original/yKpLY1zL4RvgjpXSKohqt1AhybJ.jpg",
+      "vote_average": 8.062,
+      "vote_count": 2169,
+      "logo": "https://www.themoviedb.org/t/p/original/6psqBmZhXMNL1XVPt62Ey2bEF94.png",
+      "trailer": "https://www.youtube.com/watch?v=lULgyPaGRLg&ab_channel=DC",
+      "overview_ar": "في الموسم الثاني ، بعد لقاءهم مع تريجون ، قام ديك غرايسون بإصلاح جبابرة. تحت إشرافه في منزلهم الجديد في برج Titans ، تتدرب Rachel و Gar و Jason Todd معًا لصقل قدراتهم البطل والعمل معًا كفريق واحد. انضم إليهم هانك هول وداون جرانجر الملقب بهوك ودوف ودونا تروي الملقب بـ Wonder Girl. على الرغم من أن هؤلاء العمالقة الأصليين يحاولون الانتقال إلى حياة عادية ، عندما يعاود الأعداء القدامى الظهور ، يجب على الجميع أن يجتمعوا معًا لرعاية الأعمال غير المكتملة.",
+      "number_of_episodes_ar": "13 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episode 13",
+      "season_number": "Season 2",
+      "genres": [
+        { "name": "Action", "name_ar": "حركة" },
+        { "name": "Drama", "name_ar": "دراما" },
+        { "name": "Science Fiction", "name_ar": "خيال علمي" }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=1"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=2"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=3"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=4"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=5"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=6"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=7"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=8"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=9"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=10"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=11"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=12"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=12"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=13"],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75450&s=2&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=titans&year=2018&s=2&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt1043813&s=2&e=13"
+            }
           ]
         }
       ]
