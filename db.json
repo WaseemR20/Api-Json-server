@@ -35622,17 +35622,21 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=16"
             },
             {
-              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=16"
+              "server": "https://cdn.jwplayer.com/players/01fQsiN8-Gg4XYXea.html"
             },
             {
-              "server": "https://moshahda.net/embed-nigv0f204bkq.html"
+              "server": "https://sbanh.com/e/ipzb5kmroh5q.html"
+            },
+            {
+              "server": "https://cdn.jwplayer.com/previews/01fQsiN8-Gg4XYXea"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=16"
             },
             {
               "server": "https://www.4shared.com/web/embed/file/gib9f7gXku/"
             },
-            {
-              "server": "https://dood.pm/e/5hafk0a5zzyh"
-            },
+           
             {
               "server": "https://vadbam.com/embed-tltub2hftbkz.html"
             },
@@ -37070,6 +37074,20 @@
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt12063450&s=1&e=2"
             }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": ["https://cdn.jwplayer.com/players/AIBNteWd-Gg4XYXea.html"],
+          "servers": [
+            { "server": "https://cdn.jwplayer.com/players/AIBNteWd-Gg4XYXea.html" },
+            { "server": "https://sbanh.com/e/svm8r4omb36f.html" },
+            { "server": "https://upvideo.to/e/bcbsxwmrxcun" },
+            { "server": "https://cdn.jwplayer.com/previews/AIBNteWd-Gg4XYXea" },
+            { "server": "https://vadbam.com/embed-gi80vuhgbtof.html" },
+            { "server": "https://highload.to/e/hhfrwwvi03tq/" }
           ]
         }
       ]
