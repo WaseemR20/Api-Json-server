@@ -26897,6 +26897,7 @@
           "server1": ["https://sbanh.com/e/3vclsdvyw0jy.html"],
           "servers": [
             { "server": "https://sbanh.com/e/3vclsdvyw0jy.html" },
+            { "server": "https://cdn.jwplayer.com/players/nKZ8zHjA-BI2JS0Mm.html" },
             { "server": "https://upvideo.to/e/pou0ilhhbhra" },
             { "server": "https://slwatch.co/e/aNdbzkZ3Lo8D8JjB" }
           ]
@@ -26908,6 +26909,7 @@
           "server1": ["https://sbanh.com/e/8tdl02gw028k.html"],
           "servers": [
             { "server": "https://sbanh.com/e/8tdl02gw028k.html" },
+            { "server": "https://cdn.jwplayer.com/players/MOEc6fnz-BI2JS0Mm.html" },
             { "server": "https://upvideo.to/e/ettzpu24jgx8" },
             { "server": "https://slwatch.co/e/j57gDmvg8L3z26Xb" }
           ]
@@ -26919,6 +26921,7 @@
           "server1": ["https://sbanh.com/e/xwkxtas2c5eo.html"],
           "servers": [
             { "server": "https://sbanh.com/e/xwkxtas2c5eo.html" },
+            { "server": "https://cdn.jwplayer.com/players/6KoSCcsO-BI2JS0Mm.html" },
             { "server": "https://upvideo.to/e/cn19nrgf6epi" },
             { "server": "https://slwatch.co/e/vJ41zYNEm16lwA3g" }
           ]
@@ -26930,6 +26933,7 @@
           "server1": ["https://sbanh.com/e/htp5ko8xvmud.html"],
           "servers": [
             { "server": "https://sbanh.com/e/htp5ko8xvmud.html" },
+            { "server": "https://cdn.jwplayer.com/players/XHkER9Z6-BI2JS0Mm.html" },
             { "server": "https://upvideo.to/e/fgpzqlrsljaw" },
             { "server": "https://slwatch.co/e/8K02DPkaamwnygB1" }
           ]
@@ -26941,6 +26945,7 @@
           "server1": ["https://sbanh.com/e/5jgfq13cfls8.html"],
           "servers": [
             { "server": "https://sbanh.com/e/5jgfq13cfls8.html" },
+            { "server": "https://cdn.jwplayer.com/players/qhsCssCg-BI2JS0Mm.html" },
             { "server": "https://upvideo.to/e/aga7h1oz6tsx" },
             { "server": "https://slwatch.co/e/rJmXD0kxx7WnGg8o" }
           ]
@@ -26952,6 +26957,7 @@
           "server1": ["https://sbanh.com/e/ylgczjf3zfz0.html"],
           "servers": [
             { "server": "https://sbanh.com/e/ylgczjf3zfz0.html" },
+            { "server": "https://cdn.jwplayer.com/players/Klf097qT-Gg4XYXea.html" },
             { "server": "https://upvideo.to/e/anifimj5n6qx" },
             { "server": "https://slwatch.co/e/LvgezwvZpo8Dbp8E" }
           ]
@@ -26963,6 +26969,7 @@
           "server1": ["https://sbanh.com/e/1tair5uhzbd1.html"],
           "servers": [
             { "server": "https://sbanh.com/e/1tair5uhzbd1.html" },
+            { "server": "https://cdn.jwplayer.com/players/GzcEF6uT-Gg4XYXea.html" },
             { "server": "https://upvideo.to/e/xt4npxtqbssf" },
             { "server": "https://slwatch.co/e/AoNaDdvEpGQlmZg5" }
           ]
@@ -26974,6 +26981,7 @@
           "server1": ["https://sbanh.com/e/2xisny0jj1ok.html"],
           "servers": [
             { "server": "https://sbanh.com/e/2xisny0jj1ok.html" },
+            { "server": "https://cdn.jwplayer.com/players/jrSgLd3l-Gg4XYXea.html" },
             { "server": "https://upvideo.to/e/i6inmdkmhmfs" },
             { "server": "https://slwatch.co/e/padWzjB5KPrz9NyA" }
           ]
@@ -26985,6 +26993,7 @@
           "server1": ["https://sbanh.com/e/wrorrcpfw8lk.html"],
           "servers": [
             { "server": "https://sbanh.com/e/wrorrcpfw8lk.html" },
+            { "server": "https://cdn.jwplayer.com/players/7YOlzBYK-Gg4XYXea.html" },
             { "server": "https://upvideo.to/e/6egupfdju4f7" },
             { "server": "https://slwatch.co/e/b95OD11AZ7kD4GdE" }
           ]
@@ -26996,8 +27005,31 @@
           "server1": ["https://sbanh.com/e/k2113q40mq06.html"],
           "servers": [
             { "server": "https://sbanh.com/e/k2113q40mq06.html" },
+            { "server": "https://cdn.jwplayer.com/players/46hGsgYJ-Gg4XYXea.html" },
             { "server": "https://upvideo.to/e/oigf1iskbdjy" },
             { "server": "https://slwatch.co/e/NGePnbXEqEgzQqrY" }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": ["https://cdn.jwplayer.com/players/lXVQ226p-Gg4XYXea.html"],
+          "servers": [
+            { "server": "https://cdn.jwplayer.com/players/lXVQ226p-Gg4XYXea.html" },
+            { "server": "link" },
+            { "server": "link" }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": ["https://cdn.jwplayer.com/players/3DjQbmsa-Gg4XYXea.html"],
+          "servers": [
+            { "server": "https://cdn.jwplayer.com/players/3DjQbmsa-Gg4XYXea.html" },
+            { "server": "link" },
+            { "server": "link" }
           ]
         }
       ]
