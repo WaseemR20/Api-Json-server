@@ -20663,7 +20663,7 @@
       ]
     },
     {
-      "backdrop_path": "https://images8.alphacoders.com/896/896260.png",
+      "backdrop_path": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABX8RzJplGxEYt8ZAnXKePaUHYGHpt65f6Ey_pGEB4fK_cdQTO94S3Qb-wXJmQ88Lb1hcCpkPFt-kJguY7Y1z7K86ZS4qNY78q9Tw.jpg",
       "first_air_date": "2018-01-11",
       "genre_ids": [
         16,
@@ -20681,6 +20681,8 @@
       "popularity": 43.315,
       "poster_path": "https://www.themoviedb.org/t/p/original/ImvHbM4GsJJykarnOzhtpG6ax6.jpg",
       "type": "Netflix",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABW45x_ZhDr4Wx-7TZV7tYQOb3ghXSOkchVY8cjC_-vgOZ0eLzXsnbZMK2rcdvtQ6eC9vhK-mXmcp9igQe8-X-D12AlRQtcAAIicI2sC-LPFNiB8NcBAdaSsfeW3aoB6GpGAPl_Lb2ZDieWPTucOWzGDPS8r7zEE4J7uyhzh-9KOgLAGxu0jdew.png?r=69e",
+      "logo_ar": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVAbVi3YQUi7L-Z1xajN2BhUpzxjYPghYpWrF5hR3AlaW5bWfOyx_WsyRjcAmyMw8TMYBhA7Y6DeiJakZZQxVlQ-U1fRH8ROT64BVTKZwruskQpnNoIcBpDERrU6NV_BMDBCJgwZIXyRlaY2rkRkP-Rft8pOkueDVdaCRxsBJVpuJPPf6VcJKw.png?r=69e",
       "vote_average": 8.649,
       "vote_count": 600,
       "trailer": "https://www.youtube.com/watch?v=BUfSen2rYQs&ab_channel=NetflixAnime",
@@ -33842,7 +33844,7 @@
         18
       ],
       "id": 123876,
-      "name": "Komi-san wa, Comyushou desu",
+      "name": "Komi Can't Communicate",
       "origin_country": [
         "JP"
       ],
@@ -33880,17 +33882,31 @@
           "id": 1,
           "episodeId": "Episode1",
           "name": "Episode 1",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=1"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=1"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=1"
             },
-            { "server": "https://cdn.jwplayer.com/players/PGiOVISA-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/vozyentr5duh" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/j57gDmvjWEMz26Xb" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/PGiOVISA-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/vozyentr5duh"
+            },
+            {
+              "server": "https://sblongvu.com/e/of1q59a6mgg8.html"
+            },
+            {
+              "server": "https://slwatch.co/e/j57gDmvjWEMz26Xb"
+            },
+            {
+              "server": "https://highload.to/e/34rccekrt94t"
+            },
+            {
+              "server": "https://embedo.co/e/m4jjdahawyxg"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=1"
             }
@@ -33900,17 +33916,31 @@
           "id": 2,
           "episodeId": "Episode2",
           "name": "Episode 2",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=2"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=2"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=2"
             },
-            { "server": "https://cdn.jwplayer.com/players/90NkKNMi-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/wvourtatsrg1" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/OEbPDaQJY6AD3M1k" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/90NkKNMi-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/wvourtatsrg1"
+            },
+            {
+              "server": "https://sblongvu.com/e/cnv6oes6pkr1.html"
+            },
+            {
+              "server": "https://slwatch.co/e/OEbPDaQJY6AD3M1k"
+            },
+            {
+              "server": "https://highload.to/e/96dwtluywie5"
+            },
+            {
+              "server": "https://embedo.co/e/wkaudlq194ee"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=2"
             }
@@ -33920,17 +33950,31 @@
           "id": 3,
           "episodeId": "Episode3",
           "name": "Episode 3",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=3"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=3"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=3"
             },
-            { "server": "https://cdn.jwplayer.com/players/S7DJBVuF-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/nd85i1uc1dck" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/vBgrD8GNMK8nMZ64" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/S7DJBVuF-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/nd85i1uc1dck"
+            },
+            {
+              "server": "https://sblongvu.com/e/npd2smbrte8h.html"
+            },
+            {
+              "server": "https://slwatch.co/e/vBgrD8GNMK8nMZ64"
+            },
+            {
+              "server": "https://highload.to/e/shetzxdaxbjb"
+            },
+            {
+              "server": "https://embedo.co/e/ronruzgc7rmu"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=3"
             }
@@ -33940,17 +33984,31 @@
           "id": 4,
           "episodeId": "Episode4",
           "name": "Episode 4",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=4"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=4"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=4"
             },
-            { "server": "https://cdn.jwplayer.com/players/uAHqVgJx-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/rnmdmuf71xa1" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/WwyJnL91QxvDMbPa" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/uAHqVgJx-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/rnmdmuf71xa1"
+            },
+            {
+              "server": "https://sblongvu.com/e/ew64o5et0jo1.html"
+            },
+            {
+              "server": "https://slwatch.co/e/WwyJnL91QxvDMbPa"
+            },
+            {
+              "server": "https://highload.to/e/fs8dbcoicuog"
+            },
+            {
+              "server": "https://embedo.co/e/yibw4bootenu"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=4"
             }
@@ -33960,17 +34018,31 @@
           "id": 5,
           "episodeId": "Episode5",
           "name": "Episode 5",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=5"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=5"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=5"
             },
-            { "server": "https://cdn.jwplayer.com/players/dowxQTMy-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/gslmqy8vktuj" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/AQ9qzxNQ1ydn4mME" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/dowxQTMy-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/gslmqy8vktuj"
+            },
+            {
+              "server": "https://sblongvu.com/e/di862rqdsc72.html"
+            },
+            {
+              "server": "https://slwatch.co/e/AQ9qzxNQ1ydn4mME"
+            },
+            {
+              "server": "https://highload.to/e/rrripeepe5uu"
+            },
+            {
+              "server": "https://embedo.co/e/i3fas7wlsgwo"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=5"
             }
@@ -33980,17 +34052,31 @@
           "id": 6,
           "episodeId": "Episode6",
           "name": "Episode 6",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=6"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=6"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=6"
             },
-            { "server": "https://cdn.jwplayer.com/players/hJncQBOs-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/oo3scgn7eeub" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/qwo9ly13pKRlrWvP" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/hJncQBOs-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/oo3scgn7eeub"
+            },
+            {
+              "server": "https://sblongvu.com/e/as3i6d958zc9.html"
+            },
+            {
+              "server": "https://slwatch.co/e/qwo9ly13pKRlrWvP"
+            },
+            {
+              "server": "https://highload.to/e/wk2fpmvxkay0"
+            },
+            {
+              "server": "https://embedo.co/e/lugxni0rxutq"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=6"
             }
@@ -34000,17 +34086,31 @@
           "id": 7,
           "episodeId": "Episode7",
           "name": "Episode 7",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=7"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=7"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=7"
             },
-            { "server": "https://cdn.jwplayer.com/players/umuzUxpf-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/cyuyjepg0kor" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/LMEmnAk1oNYzgPvq" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/umuzUxpf-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/cyuyjepg0kor"
+            },
+            {
+              "server": "https://sblongvu.com/e/jmsiv58mvp2e.html"
+            },
+            {
+              "server": "https://slwatch.co/e/LMEmnAk1oNYzgPvq"
+            },
+            {
+              "server": "https://highload.to/e/1hxhlay6ul1s"
+            },
+            {
+              "server": "https://embedo.co/e/vddr5x5x1tjy"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=7"
             }
@@ -34020,17 +34120,31 @@
           "id": 8,
           "episodeId": "Episode8",
           "name": "Episode 8",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=8"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=8"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=8"
             },
-            { "server": "https://cdn.jwplayer.com/players/jK7FeJ3l-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/uzuai5shqgbh" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/kEL0lpYZpjynavXV" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/jK7FeJ3l-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/uzuai5shqgbh"
+            },
+            {
+              "server": "https://sblongvu.com/e/8utftdeak5ce.html"
+            },
+            {
+              "server": "https://slwatch.co/e/kEL0lpYZpjynavXV"
+            },
+            {
+              "server": "https://highload.to/e/7hoyxpmicxvb"
+            },
+            {
+              "server": "https://embedo.co/e/a8ezeyzzmb6z"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=8"
             }
@@ -34040,17 +34154,31 @@
           "id": 9,
           "episodeId": "Episode9",
           "name": "Episode 9",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=9"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=9"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=9"
             },
-            { "server": "https://cdn.jwplayer.com/players/D3gTYWgd-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/wqklby8ptxzo" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/qwo9ly13pbvlrWvP" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/D3gTYWgd-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/wqklby8ptxzo"
+            },
+            {
+              "server": "https://sblongvu.com/e/24ccnr3c6di1.html"
+            },
+            {
+              "server": "https://slwatch.co/e/qwo9ly13pbvlrWvP"
+            },
+            {
+              "server": "https://highload.to/e/vhwglf3jljnc"
+            },
+            {
+              "server": "https://embedo.co/e/dkky3as66bwu"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=9"
             }
@@ -34060,17 +34188,31 @@
           "id": 10,
           "episodeId": "Episode10",
           "name": "Episode 10",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=10"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=10"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=10"
             },
-            { "server": "https://cdn.jwplayer.com/players/nNLaE39D-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/lirbpwh3lzlr" },
-            { "server": "link" },
-            { "server": "lihttps://slwatch.co/e/Gm80z552ppKzr1xWnk" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/nNLaE39D-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/lirbpwh3lzlr"
+            },
+            {
+              "server": "https://sblongvu.com/e/uxu6wfec0fq9.html"
+            },
+            {
+              "server": "lihttps://slwatch.co/e/Gm80z552ppKzr1xWnk"
+            },
+            {
+              "server": "https://highload.to/e/y5uybc5yorxz"
+            },
+            {
+              "server": "https://embedo.co/e/t91chd788m7h"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=10"
             }
@@ -34080,17 +34222,31 @@
           "id": 11,
           "episodeId": "Episode11",
           "name": "Episode 11",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=11"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=11"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=11"
             },
-            { "server": "https://cdn.jwplayer.com/players/UIrpcJsc-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/gf3ijohbfnrw" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/WwyJnL91QQeDMbPa" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/UIrpcJsc-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/gf3ijohbfnrw"
+            },
+            {
+              "server": "https://sblongvu.com/e/xxoskc6puqgo.html"
+            },
+            {
+              "server": "https://slwatch.co/e/WwyJnL91QQeDMbPa"
+            },
+            {
+              "server": "https://highload.to/e/4ohryvjyfihu"
+            },
+            {
+              "server": "https://embedo.co/e/e5pwx0wfjusr"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=11"
             }
@@ -34100,17 +34256,31 @@
           "id": 12,
           "episodeId": "Episode12",
           "name": "Episode 12",
-          "server1": ["https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=12"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=12"
+          ],
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/tv?id=123876&s=1&e=12"
             },
-            { "server": "https://cdn.jwplayer.com/players/w9hk5DV9-Gg4XYXea.html" },
-            { "server": "https://upvideo.to/e/ghj3qvktlmlx" },
-            { "server": "link" },
-            { "server": "https://slwatch.co/e/BQe7lBo3v1bn59bO" },
-            { "server": "link" },
-            { "server": "link" },
+            {
+              "server": "https://cdn.jwplayer.com/players/w9hk5DV9-Gg4XYXea.html"
+            },
+            {
+              "server": "https://upvideo.to/e/ghj3qvktlmlx"
+            },
+            {
+              "server": "https://sblongvu.com/e/96myvrc5dygf.html"
+            },
+            {
+              "server": "https://slwatch.co/e/BQe7lBo3v1bn59bO"
+            },
+            {
+              "server": "https://highload.to/e/fuxrycvjyn8e"
+            },
+            {
+              "server": "https://embedo.co/e/1yac9sfetscb"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt14626352&s=1&e=12"
             }
@@ -34836,6 +35006,1255 @@
       ]
     },
     {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/sVepiHYpQRnNvOpyWUIBy7n6azy.jpg",
+      "first_air_date": "2018-03-02",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 77529,
+      "name": "B: The Beginning",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "B: The Beginning",
+      "overview": "In a world powered by advanced technology, crime and action unfold in the archipelagic nation of Cremona. Genius investigator Keith Flick rejoins the royal police force just as serial killer “B” emerges. Mysterious youth Koku may be an ally, or a target.",
+      "popularity": 22.283,
+      "poster_path": "https://image.tmdb.org/t/p/original/ouigEf38GDHsH5U46J7iwNUBqIN.jpg",
+      "vote_average": 7.8,
+      "vote_count": 131,
+      "type": "Netflix",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABX5sexJMVw_WyyX68oSLzqx7QaRzIshYRcrClFgwzjKJh5qsnvkhng6rEYLO9WFjDZrBcp9NfufOzvauh9QS6pVYkpozLaUJo4-Pl5I8vBx8c1nFvpfGXR1rK1Qn4KZvfux-TC0H9BOF0KD6iVogxL6iPfGderT1nVi9yXg5jZSSksXsDVcjUA.png?r=d7b",
+      "trailer": "https://www.youtube.com/watch?v=FMxaCRLuRlQ",
+      "overview_ar": "في عالم مدعوم بالتكنولوجيا المتقدمة ، تتكشف الجريمة والعمل في دولة كريمونا الأرخبيلية. المحقق العبقري كيث فليك ينضم مجددًا إلى قوة الشرطة الملكية تمامًا كما ظهر القاتل المتسلسل ”B”. قد يكون الشاب الغامض كوكو حليفا أو هدفا.",
+      "number_of_episodes_ar": "12 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "name": "Action & Adventure",
+          "name_ar": "حركة & مغامرة"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=11"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=12"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=1&e=12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/sVepiHYpQRnNvOpyWUIBy7n6azy.jpg",
+      "first_air_date": "2021-03-18",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": "77529_Season_2",
+      "name": "B: The Beginning S2",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "B: The Beginning",
+      "overview": "When Keith is abducted and a friend from Koku’s past resurfaces, Killer B returns and everyone is pulled into a conspiracy involving the crown.",
+      "popularity": 22.283,
+      "poster_path": "https://image.tmdb.org/t/p/original/8PWEr5FQQwLf1i7JNo9JLpMW95M.jpg",
+      "vote_count": 131,
+      "type": "Netflix",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABX5sexJMVw_WyyX68oSLzqx7QaRzIshYRcrClFgwzjKJh5qsnvkhng6rEYLO9WFjDZrBcp9NfufOzvauh9QS6pVYkpozLaUJo4-Pl5I8vBx8c1nFvpfGXR1rK1Qn4KZvfux-TC0H9BOF0KD6iVogxL6iPfGderT1nVi9yXg5jZSSksXsDVcjUA.png?r=d7b",
+      "trailer": "https://www.youtube.com/watch?v=FMxaCRLuRlQ",
+      "overview_ar": "عندما يتم اختطاف ”كيث” وعودة صديق من Koku إلى السطح ، يعود Killer B وينجذب الجميع إلى مؤامرة تتضمن التاج.",
+      "number_of_episodes_ar": "6 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episode 6",
+      "season_number": "Season 2",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "name": "Action & Adventure",
+          "name_ar": "حركة & مغامرة"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=77529&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=B:%20The%20Beginning&year=2018&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7944664&s=2&e=6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/cT0o6RFi36TkMFG1wWyTyGb2jrR.jpg",
+      "first_air_date": "2021-02-25",
+      "genre_ids": [
+        16,
+        9648,
+        10759
+      ],
+      "id": 112163,
+      "name": "High-Rise Invasion",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "天空侵犯",
+      "overview": "High-school girl Yuri suddenly finds herself on the rooftop of a high-rise building. She's trapped in a bizarre world surrounded by skyscrapers, where a masked man cracked open a man's head with an axe before her eyes. Finding a way to survive this bizarre world, find her beloved brother, and escape becomes her top priority, but she is beset by danger not just from the mysterious Masks, which possess both inhuman strength and cruelty, but other survivors turned cruel or desparate by the insanity of the high-rise world.",
+      "popularity": 35.814,
+      "poster_path": "https://image.tmdb.org/t/p/original/5uXaWe0LXTpBQVBBXL1ynae1DED.jpg",
+      "vote_average": 8.437,
+      "vote_count": 638,
+      "type": "Netflix",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWdR_XC5NCFSHto-zBDSJAhopM5cctZkQ6G1GEJaB-7qdj89y8UBybaMV3BDWAkXdP38EomVHHW3vQGZnXc2qFPVhTEtxim1BpYgbnz1GK82tqhaNcd0IsvM-ZAWYuuYxIS07Bab61PO4-S6C-G0nRDVf7APAkua9FoGlzEJbYMJxqG6S0zJ9w.png?r=b6b",
+      "trailer": "https://www.youtube.com/watch?v=hVzG_1yI62M",
+      "overview_ar": "وجدت الفتاة في المدرسة الثانوية يوري نفسها فجأة على سطح مبنى شاهق. إنها محاصرة في عالم غريب تحيط به ناطحات السحاب ، حيث قام رجل ملثم بفتح رأس رجل بفأس أمام عينيها. إيجاد طريقة للبقاء على قيد الحياة في هذا العالم الغريب ، والعثور على شقيقها الحبيب ، والهروب يصبح على رأس أولوياتها ، لكنها محفوفة بالمخاطر ليس فقط من الأقنعة الغامضة ، التي تمتلك القوة اللاإنسانية والقسوة ، ولكن الناجين الآخرين أصبحوا قاسيين أو يائسين بسبب جنون العالم الشاهق.",
+      "number_of_episodes_ar": "12 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        },
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=11"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=12"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=112163&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=High-Rise%20Invasion&year=2021&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13352232&s=1&e=12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/moI1fOrXKak8RIXaLHRozkoIh4Y.jpg",
+      "first_air_date": "2020-01-14",
+      "genre_ids": [
+        16,
+        10765,
+        18
+      ],
+      "id": 85940,
+      "name": "7SEEDS",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "7SEEDS",
+      "overview": "Shy Natsu awakens as part of a group chosen to ensure the survival of humanity. Together, they have to survive on a changed Earth.",
+      "popularity": 39.478,
+      "poster_path": "https://image.tmdb.org/t/p/original/eeGRd3ENc9vetozwDDMhl9S7l3G.jpg",
+      "vote_average": 8.1,
+      "vote_count": 166,
+      "type": "Netflix",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfQ4eqY07mDCjIZ5nNLzQ7aipFyAqQ3KOkTDFj0LrEpfws3iyBQ1Nfh4AvEu7JN17nAzjWJMGuBN_0f-Y5MEzYHpSSUu_-4N-YpJc2lR7QL3pGHaFNYc0LsycPGEum32Z7XnkWksWZxq8BQUBqll-2LTxw_Wcql28BP_Snmlkkl1xNjXfPpNbw.png?r=401",
+      "trailer": "https://www.youtube.com/watch?v=XRZvxqPO9sE",
+      "overview_ar": "تستيقظ “ناتسو“ الخجولة لتجد نفسها ضمن مجموعة تم اختيارها لضمان بقاء البشريّة، وسيكون عليهم العمل معًا للنجاة على أرض متغيرة.",
+      "number_of_episodes_ar": "12 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=11"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=12"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=1&e=12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/moI1fOrXKak8RIXaLHRozkoIh4Y.jpg",
+      "first_air_date": "2020-03-26",
+      "genre_ids": [
+        16,
+        10765,
+        18
+      ],
+      "id": "85940_Part_2",
+      "name": "7SEEDS Part 2",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "7SEEDS",
+      "overview": "Shy Natsu awakens as part of a group chosen to ensure the survival of humanity. Together, they have to survive on a changed Earth.",
+      "popularity": 39.478,
+      "poster_path": "https://image.tmdb.org/t/p/original/wIq3km87VeO8N9riziieJYaTbvw.jpg",
+      "vote_count": 166,
+      "type": "Netflix",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfQ4eqY07mDCjIZ5nNLzQ7aipFyAqQ3KOkTDFj0LrEpfws3iyBQ1Nfh4AvEu7JN17nAzjWJMGuBN_0f-Y5MEzYHpSSUu_-4N-YpJc2lR7QL3pGHaFNYc0LsycPGEum32Z7XnkWksWZxq8BQUBqll-2LTxw_Wcql28BP_Snmlkkl1xNjXfPpNbw.png?r=401",
+      "trailer": "https://www.youtube.com/watch?v=XRZvxqPO9sE",
+      "overview_ar": "تستيقظ “ناتسو“ الخجولة لتجد نفسها ضمن مجموعة تم اختيارها لضمان بقاء البشريّة، وسيكون عليهم العمل معًا للنجاة على أرض متغيرة.",
+      "number_of_episodes_ar": "12 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 2",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=11"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=12"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85940&s=2&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=7seeds&year=2019&s=2&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9348718&s=2&e=12"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://images4.alphacoders.com/116/1165712.jpg",
       "first_air_date": "2022-10-9",
       "genre_ids": [
@@ -35017,6 +36436,34 @@
             },
             {
               "server": "https://mega.nz/embed/sWF3FRDS!bB6aA1tXTUF-V62HJ3tXCo87tAOo70uE7q8aT_5SOG0"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://mega.nz/embed/GQ5QFZAC#VtbJendcCBZN5TBkDbPoJR2jX10Xvxy0FETP4wqovwo"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/GQ5QFZAC#VtbJendcCBZN5TBkDbPoJR2jX10Xvxy0FETP4wqovwo"
+            },
+            {
+              "server": "https://sblongvu.com/e/q10ngti3gg2o.html"
+            },
+            {
+              "server": "https://upvideo.to/e/ot38isguul4u"
+            },
+            {
+              "server": "https://vadbam.com/embed-irmmmfcbgwmr.html"
+            },
+            {
+              "server": "https://highload.to/e/3x4ttilltd5n"
+            },
+            {
+              "server": "https://embedo.co/e/869yjbdsfe8q"
             }
           ]
         }
@@ -48413,26 +49860,6 @@
       "vote_count": 2
     },
     {
-      "backdrop_path": "https://image.tmdb.org/t/p/original/1DmAeDIAN6nvVpgTqiurDPUwuj7.jpg",
-      "first_air_date": "2021-01-22",
-      "genre_ids": [
-        10765,
-        18
-      ],
-      "id": 97175,
-      "name": "Fate: The Winx Saga",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Fate: The Winx Saga",
-      "overview": "The coming-of-age journey of five fairies attending Alfea, a magical boarding school in the Otherworld where they must learn to master their powers while navigating love, rivalries, and the monsters that threaten their very existence.",
-      "popularity": 375.319,
-      "poster_path": "https://image.tmdb.org/t/p/original/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
-      "vote_average": 8.3,
-      "vote_count": 1070
-    },
-    {
       "backdrop_path": "https://www.themoviedb.org/t/p/original/yDra4fvpFH6JubOm6yqBAnGA2QS.jpg",
       "first_air_date": "2014-03-19",
       "genre_ids": [
@@ -52930,6 +54357,2205 @@
             },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt4786824&s=5&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/u1h7s7rNKwi614yVzvrmDCZ2ATy.jpg",
+      "first_air_date": "2022-09-16",
+      "genre_ids": [
+        18
+      ],
+      "id": 158865,
+      "imdb_id": "tt21631058",
+      "name": "Blind",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "Blind",
+      "overview": "A homicide squad detective, suspected of serial murder, searches for the real culprit.",
+      "popularity": 43.593,
+      "poster_path": "https://image.tmdb.org/t/p/original/dJ8egkMVuFMtwsHDX6zonwxH2xx.jpg",
+      "vote_average": 7.625,
+      "vote_count": 8,
+      "logo": "https://www.themoviedb.org/t/p/original/azjeBpR1355BfCzAdjfUiWCSdvN.png",
+      "trailer": "https://www.youtube.com/watch?v=BNZtzqUEhcc",
+      "overview_ar": "تتبع أحداث الدراما أشخاص عاديون أصبحوا ظلماً ضحايا لجرائم مختلفة والجناة ومن يحاولون القبض عليهم.",
+      "number_of_episodes_ar": "16 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 16",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=11"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=12"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=12"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=13"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=13"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=14"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=14"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "episodeId": "Episode15",
+          "name": "Episode 15",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=15"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=15"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "episodeId": "Episode16",
+          "name": "Episode 16",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=16"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=158865&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Blind&year=2022&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21631058&s=1&e=16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/oQIvHy1nfNhCxYwPtid6bOl2Pwp.jpg",
+      "first_air_date": "2016-05-13",
+      "genre_ids": [
+        18,
+        35,
+        10751
+      ],
+      "id": 66434,
+      "imdb_id": "tt5689030",
+      "name": "Dear My Friends",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "디어 마이 프렌즈",
+      "overview": "Life is ever-delightful — and ever-challenging — for a group of friends in their twilight years as they rediscover themselves through love and family.",
+      "popularity": 8.313,
+      "poster_path": "https://image.tmdb.org/t/p/original/gd92xOqc4AmHjPlkfOZc62JNoOy.jpg",
+      "vote_average": 7.5,
+      "vote_count": 6,
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYmWt3jhDGt6iEFRmLolyAybLRmDAHrBo8bTZGT5WsxjUvPBcROk6KTs-Msqb6If5oxV6EL5AXkOcXHt_lgdN-1gs2zniPkBwiWUbfuROtNc.png?r=dcd",
+      "trailer": "https://www.youtube.com/watch?v=cR0BIjnW68E",
+      "overview_ar": "تزخر الحياة بالمتعة والتحديات التي لا تُحصى في نظر هؤلاء الأصدقاء الذين يعيشون خريف عمرهم، حيث يُعيدون اكتشاف أنفسهم من خلال الحبّ والعائلة.",
+      "number_of_episodes_ar": "16 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 16",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=11"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=11"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=12"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=12"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=12"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "episodeId": "Episode13",
+          "name": "Episode 13",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=13"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=13"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=13"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=14"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=14"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=14"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "episodeId": "Episode15",
+          "name": "Episode 15",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=15"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=15"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=15"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "episodeId": "Episode16",
+          "name": "Episode 16",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=16"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=66434&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Dear%20My%20Friends&year=2016&s=1&e=16"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt5689030&s=1&e=16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/1DmAeDIAN6nvVpgTqiurDPUwuj7.jpg",
+      "first_air_date": "2021-01-22",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 97175,
+      "imdb_id": "tt8179402",
+      "name": "Fate: The Winx Saga",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Fate: The Winx Saga",
+      "overview": "The coming-of-age journey of five fairies attending Alfea, a magical boarding school in the Otherworld where they must learn to master their powers while navigating love, rivalries, and the monsters that threaten their very existence.",
+      "popularity": 180.386,
+      "poster_path": "https://image.tmdb.org/t/p/original/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
+      "vote_average": 8.279,
+      "vote_count": 1139,
+      "type": "Netflix",
+      "overview_ar": "رحلة قادمة من العمر ، لخمس جنيات يحضرن ألفيا وهي مدرسة داخلية سحرية في العالم الآخر حيث يجب أن يتعلمن إتقان قواهن أثناء التنقل في الحب والمنافسات والوحوش التي تهدد وجودهن.",
+      "trailer": "https://www.youtube.com/watch?v=dfXRud1AIiw",
+      "number_of_episodes_ar": "6 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 6",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=1&e=6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/1DmAeDIAN6nvVpgTqiurDPUwuj7.jpg",
+      "first_air_date": "2022-09-16",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": "97175_Season_2",
+      "imdb_id": "tt8179402",
+      "name": "Fate: The Winx Saga S2",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Fate: The Winx Saga",
+      "overview": "The coming-of-age journey of five fairies attending Alfea, a magical boarding school in the Otherworld where they must learn to master their powers while navigating love, rivalries, and the monsters that threaten their very existence.",
+      "popularity": 180.386,
+      "poster_path": "https://image.tmdb.org/t/p/original/pJDHmxahzldWiMlxRvlJGYT9e0F.jpg",
+      "vote_average": 8.279,
+      "vote_count": 1139,
+      "type": "Netflix",
+      "overview_ar": "رحلة قادمة من العمر ، لخمس جنيات يحضرن ألفيا وهي مدرسة داخلية سحرية في العالم الآخر حيث يجب أن يتعلمن إتقان قواهن أثناء التنقل في الحب والمنافسات والوحوش التي تهدد وجودهن.",
+      "trailer": "https://www.youtube.com/watch?v=YlNEvyjEWLQ",
+      "number_of_episodes_ar": "7 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episode 7",
+      "season_number": "Season 2",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=97175&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Fate:%20The%20Winx%20Saga&year=2021&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8179402&s=2&e=7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/1OTITGQ8yqerNEiwnHqpA7pD8Aq.jpg",
+      "first_air_date": "2020-02-07",
+      "genre_ids": [
+        10765,
+        18,
+        9648
+      ],
+      "id": 86423,
+      "imdb_id": "tt3007572",
+      "name": "Locke & Key",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Locke & Key",
+      "overview": "Three siblings who move into their ancestral estate after their father's gruesome murder discover their new home's magical keys, which must be used in their stand against an evil creature who wants the keys and their powers.",
+      "popularity": 57.8,
+      "poster_path": "https://image.tmdb.org/t/p/original/lKhF0QX724VS2QqBzSZ4KJif3Ny.jpg",
+      "vote_average": 7.991,
+      "vote_count": 957,
+      "type": "Netflix",
+      "overview_ar": "ينتقل ثلاثة أشقّاء مع والدتهم إلى منزل أسلافهم بعد مقتل والدهم، حيث يعثرون على مفاتيح سحريّة تمتلك قوًى خارقة، وتكشف عن أسرار خفيّة.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZiyyVs3DsFdJ13ar0yId8kaXQ_xoTsOSdFNv1QWtuJDzwQ3ggTsXFAzUpKk4e_Xl-Qu2vASuyvJlZWi7_6IW0BQXjSJcUQ3qrjUelHo05e-xn1Wf-vjNht_-Phx1mLCYQ-iz_OQ1VuXIvU9NnnELlBsfRIHhWyx_L2SA4bMBbSB70g7e9jc7A.png?r=7be",
+      "trailer": "https://www.youtube.com/watch?v=_EonRi0yQOE",
+      "number_of_episodes_ar": "10 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 10",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=1&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+      "first_air_date": "2021-10-22",
+      "genre_ids": [
+        10765,
+        18,
+        9648
+      ],
+      "id": "86423_Season_2",
+      "imdb_id": "tt3007572",
+      "name": "Locke & Key S2",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Locke & Key",
+      "overview": "With danger lurking closer than they know, Tyler, Kinsey and Bode unlock more family secrets as they dig deeper into the power and mystery of the keys.",
+      "popularity": 57.8,
+      "poster_path": "https://image.tmdb.org/t/p/original/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
+      "vote_average": 7.991,
+      "vote_count": 957,
+      "type": "Netflix",
+      "overview_ar": "مع اقتراب الخطر أكثر مما يعرفون ، يفتح تايلر وكينزي وبود المزيد من الأسرار العائلية بينما يتعمقون في قوة المفاتيح وغموضها.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZiyyVs3DsFdJ13ar0yId8kaXQ_xoTsOSdFNv1QWtuJDzwQ3ggTsXFAzUpKk4e_Xl-Qu2vASuyvJlZWi7_6IW0BQXjSJcUQ3qrjUelHo05e-xn1Wf-vjNht_-Phx1mLCYQ-iz_OQ1VuXIvU9NnnELlBsfRIHhWyx_L2SA4bMBbSB70g7e9jc7A.png?r=7be",
+      "trailer": "https://www.youtube.com/watch?v=_EonRi0yQOE",
+      "number_of_episodes_ar": "10 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episode 10",
+      "season_number": "Season 2",
+      "genres": [
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=2&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=2&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/wVj1LlOIoW7Dxj1Bq8WhbJqhUXy.jpg",
+      "first_air_date": "2022-08-10",
+      "genre_ids": [
+        10765,
+        18,
+        9648
+      ],
+      "id": "86423_Season_3",
+      "imdb_id": "tt3007572",
+      "name": "Locke & Key S3",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Locke & Key",
+      "overview": "Three siblings who move into their ancestral estate after their father's gruesome murder discover their new home's magical keys, which must be used in their stand against an evil creature who wants the keys and their powers.",
+      "popularity": 57.8,
+      "poster_path": "https://image.tmdb.org/t/p/original/iMIIo8HgtsMEFeZ2SGKrRmA0Atk.jpg",
+      "vote_average": 7.991,
+      "vote_count": 957,
+      "type": "Netflix",
+      "overview_ar": "ينتقل ثلاثة أشقّاء مع والدتهم إلى منزل أسلافهم بعد مقتل والدهم، حيث يعثرون على مفاتيح سحريّة تمتلك قوًى خارقة، وتكشف عن أسرار خفيّة.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZiyyVs3DsFdJ13ar0yId8kaXQ_xoTsOSdFNv1QWtuJDzwQ3ggTsXFAzUpKk4e_Xl-Qu2vASuyvJlZWi7_6IW0BQXjSJcUQ3qrjUelHo05e-xn1Wf-vjNht_-Phx1mLCYQ-iz_OQ1VuXIvU9NnnELlBsfRIHhWyx_L2SA4bMBbSB70g7e9jc7A.png?r=7be",
+      "trailer": "https://www.youtube.com/watch?v=_EonRi0yQOE",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 3",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 3",
+      "genres": [
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=86423&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt3007572&s=3&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/uzUPwWSAheYKdavFCcod9M6y2rf.jpg",
+      "first_air_date": "2020-07-16",
+      "genre_ids": [
+        10765,
+        10759
+      ],
+      "id": 85720,
+      "imdb_id": "tt8210856",
+      "name": "Cursed",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Cursed",
+      "overview": "In this fresh take on the Arthurian legend, teenager Nimue joins forces with mercenary Arthur on a quest to find Merlin and deliver an ancient sword.",
+      "popularity": 42.346,
+      "poster_path": "https://image.tmdb.org/t/p/original/wrLC5kx0nEq9U0MyJD7dnOT6m5F.jpg",
+      "vote_average": 7.345,
+      "vote_count": 798,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/4F3OdKLlCdxIb4Wc8CIHRKe19In.png",
+      "trailer": "https://www.youtube.com/watch?v=xLTdy6PfotA",
+      "overview_ar": "تواجه ساحرة مراهقة تُدعى نيموي آرثر الصغيرة في سعيها للعثور على سيف قوي وقديم.",
+      "number_of_episodes_ar": "10 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 10",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Action & Adventure",
+          "name_ar": "حركة & مغامرة"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt8210856&s=1&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/xmdPqPgk0Ur6BT30nma2vzV46Dw.jpg",
+      "first_air_date": "2021-04-23",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 85720,
+      "imdb_id": "tt2403776",
+      "name": "Shadow and Bone",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Shadow and Bone",
+      "overview": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might finally unite her country. But as she struggles to hone her power, dangerous forces plot against her. Thugs, thieves, assassins and saints are at war now, and it will take more than magic to survive.",
+      "popularity": 28.348,
+      "poster_path": "https://image.tmdb.org/t/p/original/mrVoyDFiDSqfH4mkoRtccOv2vwh.jpg",
+      "vote_average": 8.122,
+      "vote_count": 889,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/xpI8zzpseWTyoflaRf74gfpbcQA.png",
+      "trailer": "https://www.youtube.com/watch?v=b1WHQTbJ7vE",
+      "overview_ar": "تتآمر قوى الظلام ضدّ “ألينا ستاركوف“، رسّامة الخرائط اليتيمة، حين تطلق العنان لقوّتها الخارقة التي قد تغيّر مصير عالمها الذي مزّقته الحروب.",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Shadow%20and%20Bone&year=2021&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt2403776&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/bJDJb5NLokHVVtFMQ4jTEijwKI5.jpg",
+      "first_air_date": "2022-10-28",
+      "genre_ids": [
+        10765,
+        10759,
+        9648
+      ],
+      "id": 210235,
+      "imdb_id": "tt13649396",
+      "name": "The Bastard Son & the Devil Himself",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Bastard Son & the Devil Himself",
+      "overview": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world — and his powers.",
+      "popularity": 54.086,
+      "poster_path": "https://image.tmdb.org/t/p/original/46l1cPG3tXd4WxRf7lPmVY9TAwm.jpg",
+      "vote_average": 7.258,
+      "vote_count": 31,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/h99S0caA9JNhEfXjawu5Ws5GHdb.png",
+      "trailer": "https://www.youtube.com/watch?v=xDc_iartATY",
+      "overview_ar": "يَعلق مصير ابن ساحر دماء سيّئ السمعة، ارتكب مذبحة مروّعة، بين عشيرتين متناحرتين… لكنّه يحاول أن يجد مكانه في هذا العالم، وأن يكتشف قواه.",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Action & Adventure",
+          "name_ar": "حركة & مغامرة"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=210235&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13649396&s=1&e=8"
             }
           ]
         }
