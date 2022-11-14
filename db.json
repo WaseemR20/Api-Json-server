@@ -55964,6 +55964,567 @@
       ]
     },
     {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/jeGWGcS2OrCvwFh3NBb3KxX7OZY.jpg",
+      "first_air_date": "2020-05-01",
+      "genre_ids": [
+        35
+      ],
+      "id": 98177,
+      "imdb_id": "tt10982034",
+      "name": "Trying",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Trying",
+      "overview": "All Nikki and Jason want is a baby—the one thing they can’t have. So they decide to adopt. With their dysfunctional friends, screwball families, and chaotic lives, will the adoption panel agree that they’re ready to be parents?",
+      "popularity": 16.586,
+      "poster_path": "https://image.tmdb.org/t/p/original/hF3twh1IzZYPoagGVJyI5gOxMuE.jpg",
+      "vote_average": 7.9,
+      "vote_count": 45,
+      "type": "Apple",
+      "overview_ar": "كل ما يريده نيكي وجيسون هو طفل - الشيء الوحيد الذي لا يمكنهم إنجابه. لذلك قرروا التبني. مع أصدقائهم المختلين، وعائلاتهم، وحياتهم الفوضوية، هل ستوافق لجنة التبني على أنهم مستعدون ليكونوا آباء ؟",
+      "trailer": "https://www.youtube.com/watch?v=nGA_6WTD3vM",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/jeGWGcS2OrCvwFh3NBb3KxX7OZY.jpg",
+      "first_air_date": "2021-05-21",
+      "genre_ids": [
+        35
+      ],
+      "id": "98177_Season_2",
+      "imdb_id": "tt10982034",
+      "name": "Trying S2",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Trying",
+      "overview": "Having been approved by the adoption panel, Nikki and Jason now find that matching with a child is not as easy as they thought...",
+      "popularity": 16.586,
+      "poster_path": "https://image.tmdb.org/t/p/original/cRMpyWmKinhFQe83iTIk828INuE.jpg",
+      "vote_average": 7.9,
+      "vote_count": 45,
+      "type": "Apple",
+      "overview_ar": "بعد أن تمت الموافقة عليه من قبل لجنة التبني ، وجد نيكي وجيسون الآن أن التطابق مع الطفل ليس بالسهولة التي اعتقداها ...",
+      "trailer": "https://www.youtube.com/watch?v=HNPKSSqOa9Y",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 2",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=2&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=2&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/jeGWGcS2OrCvwFh3NBb3KxX7OZY.jpg",
+      "first_air_date": "2021-05-21",
+      "genre_ids": [
+        35
+      ],
+      "id": "98177_Season_3",
+      "imdb_id": "tt10982034",
+      "name": "Trying S3",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Trying",
+      "overview": "Season three picks up with Nikki and Jason waking up as new parents to two children they are still getting to know. Now they just have to keep hold of them, which proves to be trickier than they initially thought. Thrown straight into the parental deep end, Nikki and Jason’s relationships with each other and with their nearest and dearest are tested as they desperately try to navigate the ups and downs of parenting — while hanging onto their kids, and their sanity.",
+      "popularity": 16.586,
+      "poster_path": "https://image.tmdb.org/t/p/original/zZH9gyfCf33IBB1La8sDmteAxQN.jpg",
+      "vote_average": 7.9,
+      "vote_count": 45,
+      "type": "Apple",
+      "overview_ar": "يبدأ الموسم الثالث مع نيكي وجيسون يستيقظان كوالدين جديدين لطفلين ما زالا يتعرفان عليهما. الآن عليهم فقط الاحتفاظ بها ، وهو ما يثبت أنه أكثر تعقيدًا مما كانوا يعتقدون في البداية. تم اختبار علاقات نيكي وجيسون مع بعضهما البعض ومع أقربهم وأعزهم ، نظرًا لأنهم يحاولون يائسًا التغلب على تقلبات الأبوة والأمومة - بينما يتشبثون بأطفالهم وسلامة عقلهم.",
+      "trailer": "https://www.youtube.com/watch?v=nA_ZPEqjDSY",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 3",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 3",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=tt10982034&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=trying&year=2020&s=3&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10982034&s=3&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "backdrop_path": "https://image.tmdb.org/t/p/original/uzUPwWSAheYKdavFCcod9M6y2rf.jpg",
       "first_air_date": "2020-07-16",
       "genre_ids": [
