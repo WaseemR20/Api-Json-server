@@ -33880,7 +33880,7 @@
       "popularity": 52.785,
       "poster_path": "https://image.tmdb.org/t/p/original/dfGf0Ti3BEKpBpVCVtEXKTjQjNR.jpg",
       "vote_average": 7.877,
-"vote_count": 57,
+      "vote_count": 57,
       "trailer": "https://www.youtube.com/watch?v=J8BU9EeKio4",
       "overview_ar": "القصة تدور في ليكو ريكو مقهى على الطراز الياباني في منطقة وسط المدينة القديمة في طوكيو يأخذ المقهى طلبات للحصول على أي شيء من القهوة اللذيذة إلى الحلويات السكرية وربما أشياء إضافية مثل التعامل مع الأطفال والمفاوضات التجارية ونصائح الحب أو حوارات حول الزومبي والوحوش العملاقة والمزيد «بغض النظر عما تطلب سنقدمه…!",
       "number_of_episodes_ar": "13 حلقة",
@@ -33897,150 +33897,269 @@
           "name": "Comedy",
           "name_ar": "كوميديا"
         },
-        { "name": "Action & Adventure", "name_ar":"حركة & مغامرة" }
+        {
+          "name": "Action & Adventure",
+          "name_ar": "حركة & مغامرة"
+        }
       ],
       "episodes": [
         {
           "id": 1,
           "episodeId": "Episode1",
           "name": "Episode 1",
-          "server1": ["https://sblanh.com/e/yv26655fyior"],
+          "server1": [
+            "https://sblanh.com/e/yv26655fyior"
+          ],
           "servers": [
-            { "server": "https://sblanh.com/e/yv26655fyior" },
-            { "server": "https://s205.vidboo.org/6jmnv2opviazsalriueahjpdjlttkoa6jksymkp44rxm67pey724nvwnu3da/v.mp4" },
-            { "server": "https://sblanh.com/e/poxxvm6gdslz" }
+            {
+              "server": "https://sblanh.com/e/yv26655fyior"
+            },
+            {
+              "server": "https://s205.vidboo.org/6jmnv2opviazsalriueahjpdjlttkoa6jksymkp44rxm67pey724nvwnu3da/v.mp4"
+            },
+            {
+              "server": "https://sblanh.com/e/poxxvm6gdslz"
+            }
           ]
         },
         {
           "id": 2,
           "episodeId": "Episode2",
           "name": "Episode 2",
-          "server1": ["https://sblanh.com/e/k6bukunphtip"],
+          "server1": [
+            "https://sblanh.com/e/k6bukunphtip"
+          ],
           "servers": [
-            { "server": "https://sblanh.com/e/k6bukunphtip" },
-            { "server": "https://vadbam.com/embed-eae30russ0t0.html" },
-            { "server": "https://sblanh.com/e/wes9518zly8i" }
+            {
+              "server": "https://sblanh.com/e/k6bukunphtip"
+            },
+            {
+              "server": "https://vadbam.com/embed-eae30russ0t0.html"
+            },
+            {
+              "server": "https://sblanh.com/e/wes9518zly8i"
+            }
           ]
         },
         {
           "id": 3,
           "episodeId": "Episode3",
           "name": "Episode 3",
-          "server1": ["link"],
+          "server1": [
+            "https://upvideo.to/e/jcyx0he79wtk"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "https://upvideo.to/e/jcyx0he79wtk"
+            },
+            {
+              "server": "https://sblongvu.com/e/ffgln4zgz024.html"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "https://vadbam.com/embed-4i4up0llsseq.html"
+            }
           ]
         },
         {
           "id": 4,
           "episodeId": "Episode4",
           "name": "Episode 4",
-          "server1": ["link"],
+          "server1": [
+            "https://upvideo.to/e/rqnl1wcfekmw"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "https://upvideo.to/e/rqnl1wcfekmw"
+            },
+            {
+              "server": "https://sblongvu.com/e/4mnsd6i8gv2q.html"
+            },
+            {
+              "server": "https://s203.vidboo.org/6jmnw2jkviazsalriukahyxqi3sguknc6mqa4xz5wh2z52sxd3iovlb2uala/v.mp4"
+            },
+            {
+              "server": "https://sblanh.com/e/rw0nqppmijpd"
+            }
           ]
         },
         {
           "id": 5,
           "episodeId": "Episode5",
           "name": "Episode 5",
-          "server1": ["link"],
+          "server1": [
+            "https://upvideo.to/e/nvhfhbryd6tm"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "https://upvideo.to/e/nvhfhbryd6tm"
+            },
+            {
+              "server": "https://sblongvu.com/e/bx1gmmgc73aq.html"
+            },
+            {
+              "server": "https://sblanh.com/e/lliyxw7b6h9k"
+            },
+            {
+              "server": "https://sblanh.com/e/yuce24wffeyp"
+            },
+            {
+              "server": "https://s206.vidboo.org/6jmn3g7bvmazsalriunqh6pgl4rbmrnx7cxjm4wwhmif2nicxrkes2jhgeqa/v.mp4"
+            }
           ]
         },
         {
           "id": 6,
           "episodeId": "Episode6",
           "name": "Episode 6",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         },
         {
           "id": 7,
           "episodeId": "Episode7",
           "name": "Episode 7",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         },
         {
           "id": 8,
           "episodeId": "Episode8",
           "name": "Episode 8",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         },
         {
           "id": 9,
           "episodeId": "Episode9",
           "name": "Episode 9",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         },
         {
           "id": 10,
           "episodeId": "Episode10",
           "name": "Episode 10",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         },
         {
           "id": 11,
           "episodeId": "Episode11",
           "name": "Episode 11",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         },
         {
           "id": 12,
           "episodeId": "Episode12",
           "name": "Episode 12",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         },
         {
           "id": 13,
           "episodeId": "Episode13",
           "name": "Episode 13",
-          "server1": ["link"],
+          "server1": [
+            "link"
+          ],
           "servers": [
-            { "server": "link" },
-            { "server": "link" },
-            { "server": "link" }
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            },
+            {
+              "server": "link"
+            }
           ]
         }
       ]
