@@ -1791,6 +1791,65 @@
     },
     {
       "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+      "genre_ids": [
+        18,
+        53,
+        878
+      ],
+      "id": 405774,
+      "imdb_id": "tt2737304",
+      "original_language": "en",
+      "original_title": "Bird Box",
+      "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+      "popularity": 45.724,
+      "poster_path": "https://image.tmdb.org/t/p/original/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "release_date": "2018-12-13",
+      "title": "Bird Box",
+      "video": false,
+      "vote_average": 6.868,
+      "vote_count": 8621,
+      "type": "Netflix",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQWvBP7Nas7AAF_5dbX2EpgngEdpm1Wgal3Z2AzKk-PHWn6yARyUq-8nbDWwrmNXXDcA8WMUe5XFopJvCyrqlOljRJicJC_Dj7YhAJmB74yMlkyKa9rBDyKDdT6VFWg_dnqIHPF3apr-U8uvEk0ScILgtKQU3swVKA57ZUAfMM62rpnxCCM4wQ.png?r=600",
+      "age": "18+",
+      "overview_ar": "عندما تدمر قوة غامضة سكان العالم، هناك شيء واحد مؤكد: إذا رأيت هذه القوة، فسوف تقتل نفسك. في مواجهة المجهول، تجد مالوري الحب والأمل، وبداية جديدة.",
+      "trailer": "https://www.youtube.com/watch?v=o2AsIXSh2xo",
+      "genres": [
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=405774"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=405774"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt2737304"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Bird%20Box&year=2018"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/trvBpyiWtAUXeys2Muevf8i1bhO.jpg",
       "genre_ids": [
         18
@@ -1804,6 +1863,7 @@
       "poster_path": "https://image.tmdb.org/t/p/original/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg",
       "release_date": "2022-10-28",
       "title": "Causeway",
+      "type": "Netflix",
       "video": false,
       "vote_average": 7.133,
       "vote_count": 30,
@@ -8517,13 +8577,72 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/vq7TCblq7UfbT9DDOAqZKtlMkik.jpg",
+      "genre_ids": [
+        18,
+        878,
+        53
+      ],
+      "id": 619264,
+      "imdb_id": "tt8228288",
+      "original_language": "es",
+      "original_title": "El hoyo",
+      "overview": "A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity.",
+      "popularity": 36.166,
+      "poster_path": "https://image.tmdb.org/t/p/original/8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg",
+      "release_date": "2019-11-08",
+      "title": "The Platform",
+      "video": false,
+      "vote_average": 6.997,
+      "vote_count": 5730,
+      "logo": "https://www.themoviedb.org/t/p/original/s0eF5zmI7B9Cq1eakqJi4URKFuG.png",
+      "age": "17+",
+      "overview_ar": "ينزل لوح الطعام في السجن طابقًا بعد الآخر، فيأكل النزلاء في الأعلى بشراهة تاركين مَن هم دونهم يتضوّرون جوعًا ويأسًا... لكنّ التمرّد وشيك.",
+      "trailer": "https://www.youtube.com/watch?v=RlfooqeZcdY",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=619264"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=619264"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt8228288"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Platform&year=2019"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/icWg7FV0WdlQd1NAGxlBJ0ecpvi.jpg",
       "genre_ids": [
         27,
         9648,
         53
       ],
       "id": 423108,
+      "imdb_id": "tt7069210",
       "original_language": "en",
       "original_title": "The Conjuring: The Devil Made Me Do It",
       "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
@@ -8533,7 +8652,43 @@
       "title": "The Conjuring: The Devil Made Me Do It",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 4716
+      "vote_count": 4716,
+      "age": "16+",
+      "overview_ar": "في إطار من الرعب والغموض، تدور أحداث العمل حول عودة (لورين) وزوجها (إيد) الخبيران الروحانيان من أجل حل لغز جديد في عالم الشياطين المروعة والمنازل المسكونة .",
+      "trailer": "https://www.youtube.com/watch?v=h9Q4zZS2v1k",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=423108"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=423108"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt7069210"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Conjuring:%20The%20Devil%20Made%20Me%20Do%20It&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -11522,12 +11677,13 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/c1npwhc10yJTjYaJttFMj74ALfP.jpg",
       "genre_ids": [
         27,
         53
       ],
       "id": 138843,
+      "imdb_id": "tt1457767",
       "original_language": "en",
       "original_title": "The Conjuring",
       "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
@@ -11537,17 +11693,109 @@
       "title": "The Conjuring",
       "video": false,
       "vote_average": 7.5,
-      "vote_count": 9774
+      "vote_count": 9774,
+      "logo": "https://www.themoviedb.org/t/p/original/5qjvxFhRZtvm4mcV90X9QNYLZVj.png",
+      "age": "16+",
+      "overview_ar": "تدور القصة في إطار رعب عن إيد وارين (باتريك ويلسون)، وزوجته لورين (فيرا فارميجا)، اللذين يعملان كمحققين في الخوارق الطبيعية ويحوزان على شهرة عالمية، تطلب مساعدتهما أسرة روجر (رون ليفينجستون)؛ حيث تتعرض للترهيب من قوى الظلام في مزرعة منعزلة، وبينما يضطران لمواجهة كيان شيطاني قوي، تقع عائلة وارين في أكثر الحالات رعباً في حياتهما..",
+      "trailer": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=138843"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=138843"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt1457767"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Conjuring&year=2013"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/rBWF1zHdU2abEfmhAoLMr3PUJC5.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/k4ofiSDIouhJTiDpD5YpkxXivZo.jpg",
+      "genre_ids": [
+        878,
+        18,
+        27
+      ],
+      "id": 447332,
+      "imdb_id": "tt6644200",
+      "original_language": "en",
+      "original_title": "A Quiet Place",
+      "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+      "popularity": 77.064,
+      "poster_path": "https://image.tmdb.org/t/p/original/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "release_date": "2018-04-03",
+      "title": "A Quiet Place",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 4757,
+      "logo": "https://www.themoviedb.org/t/p/original/cEOMwvFIwf6PFnvwcSP2FTuq2Zi.png",
+      "age": "14+",
+      "overview_ar": "تُجبر عائلة على العيش في صمت مختبئة من مخلوقات تصطاد بالصوت.",
+      "trailer": "https://www.youtube.com/watch?v=WR7cc5t7tv8",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=447332"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=447332"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt6644200"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=A%20Quiet%20Place&year=2018"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/AsqUSUqXrK8JfH8WEQnCXVbIAv6.jpg",
       "genre_ids": [
         878,
         53,
         27
       ],
       "id": 520763,
+      "imdb_id": "tt8332922",
       "original_language": "en",
       "original_title": "A Quiet Place Part II",
       "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
@@ -11557,7 +11805,44 @@
       "title": "A Quiet Place Part II",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 4757
+      "vote_count": 4757,
+      "logo": "https://www.themoviedb.org/t/p/original/mW57XCyvRZP61Om9fVYC6xH9hTx.png",
+      "age": "14+",
+      "overview_ar": "تستكمل العائلة رحلتها في العالم المروع، حيث يعيش الجميع في صمت خوفًا على حياتهم، ولكن تظهر بارقة الأمل بالعثور على أهم سلاح وهو نقطة ضعف المخلوقات المرعبة في مكان هادئ.",
+      "trailer": "https://www.youtube.com/watch?v=BpdDN9d9Jio",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=520763"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=520763"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt8332922"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=A%20Quiet%20Place%20Part%20II&year=2021"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -14610,12 +14895,13 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/4mfFtlGeInPrQVm1hpv7th02yjx.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/sWHlCeJ2RunM5eq3FYA4VuTUNqY.jpg",
       "genre_ids": [
         27,
         53
       ],
       "id": 259693,
+      "imdb_id": "tt3065204",
       "original_language": "en",
       "original_title": "The Conjuring 2",
       "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
@@ -14625,7 +14911,40 @@
       "title": "The Conjuring 2",
       "video": false,
       "vote_average": 7.3,
-      "vote_count": 7088
+      "vote_count": 7088,
+      "logo": "https://www.themoviedb.org/t/p/original/cjUE0nmgPsCENYSXLFvlSbzV7BL.png",
+      "age": "16+",
+      "overview_ar": "تسافر لورين وإد وارين إلى شمال لندن لمساعدة أم عزباء تربي أربعة أطفال بمفردها في منزل ابتليت به الأرواح الخبيثة.",
+      "trailer": "https://www.youtube.com/watch?v=VFsmuRPClr4",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=259693"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=259693"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt3065204"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=The%20Conjuring%202&year=2016"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -17303,6 +17622,7 @@
         10749
       ],
       "id": 800939,
+      "imdb_id": "tt14109724",
       "original_language": "en",
       "original_title": "Ticket to Paradise",
       "overview": "A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.",
@@ -17312,7 +17632,178 @@
       "title": "Ticket to Paradise",
       "video": false,
       "vote_average": 6.7,
-      "vote_count": 93
+      "vote_count": 93,
+      "age": "13+",
+      "overview_ar": "في إطار من الكوميديا والرومانسية، يتناول العمل قصة زوجين منفصلين يقرران السفر إلى بالي واللحقاء بابنتهما قبل الزواج وارتكاب الخطأ ذاته الذي قام به والديها منذ 25 عامًا.",
+      "trailer": "https://www.youtube.com/watch?v=hkP4tVTdsz8",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=800939"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=800939"
+            },
+            {
+              "server": "https://filemoon.sx/e/3vprhjkn3h7j/v.mp4"
+            },
+            {
+              "server": "https://sblongvu.com/e/szlr83s3suy7.html"
+            },
+            {
+              "server": "https://upvideo.to/e/zqwoywti47dw"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14109724"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Ticket%20to%20Paradise&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/wizYHZzSr0wJmB3Oo6LTFaP4HzY.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10749
+      ],
+      "id": 707103,
+      "imdb_id": "tt12374656",
+      "original_language": "en",
+      "original_title": "Emily",
+      "overview": "Tells the imagined life of one of the world’s most famous authors, Emily Brontë, as she finds her voice and writes the literary classic Wuthering Heights, and explores the relationships that inspired her – her raw, passionate sisterhood with Charlotte and Anne; her first aching, forbidden love for Weightman and her care for her maverick brother whom she idolises.",
+      "popularity": 21.088,
+      "poster_path": "https://image.tmdb.org/t/p/original/tgVBMIiJczfBWINRRd9yxE8ESln.jpg",
+      "release_date": "2022-10-14",
+      "title": "Emily",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 8,
+      "logo": "https://www.themoviedb.org/t/p/original/zu5qlNgVUpDWVmhRRZymB0wVYY9.png",
+      "age": "R",
+      "overview_ar": "تخبرنا عن الحياة المتخيلة لواحدة من أشهر المؤلفين في العالم ، إميلي برونتي ، وهي تجد صوتها وتكتب الكتاب الأدبي الكلاسيكي Wuthering Heights ، وتستكشف العلاقات التي ألهمتها - أخوتها الخام والعاطفة مع شارلوت وآن ؛ أول حبها المؤلم الممنوع لـ Weightman ورعايتها لأخيها المنشق الذي تعشقه.",
+      "trailer": "https://www.youtube.com/watch?v=xaL90sMAzbY",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=707103"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=707103"
+            },
+            {
+              "server": "https://filemoon.sx/e/ayfoy6xm5i2w/v.mp4"
+            },
+            {
+              "server": "https://sblongvu.com/e/s81au57xm1rp.html"
+            },
+            {
+              "server": "https://upvideo.to/e/zxyopdinqwr2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt12374656"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=Emily&year=2022"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8SKOYP0ukOCAixubONgTpWcMCKA.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 1022256,
+      "imdb_id": "tt21819250",
+      "type": "Apple",
+      "original_language": "en",
+      "original_title": "Selena Gomez: My Mind & Me",
+      "overview": "After years in the limelight, Selena Gomez achieves unimaginable stardom. But just as she reaches a new peak, an unexpected turn pulls her into darkness. This uniquely raw and intimate documentary spans her six-year journey into a new light.",
+      "popularity": 258.945,
+      "poster_path": "https://image.tmdb.org/t/p/original/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
+      "release_date": "2022-11-04",
+      "title": "Selena Gomez: My Mind & Me",
+      "video": false,
+      "vote_average": 8.681,
+      "vote_count": 124,
+      "logo": "https://www.themoviedb.org/t/p/original/canWO6sqmlKJM38ad9OdGtaaLeF.png",
+      "age": "14+",
+      "overview_ar": "بعد سنوات من الأضواء ، تحقق سيلينا غوميز نجومية لا يمكن تصورها. ولكن بمجرد أن تصل إلى ذروة جديدة ، فإن منعطفا غير متوقع يسحبها إلى الظلام. يمتد هذا الفيلم الوثائقي الفريد من نوعه والخام والحميم على طول رحلتها التي استمرت ست سنوات إلى ضوء جديد.",
+      "trailer": "https://www.youtube.com/watch?v=of32sI9jw5Q",
+      "genres": [
+        {
+          "name": "Music",
+          "name_ar": "موسيقى"
+        },
+        {
+          "name": "Documentary",
+          "name_ar": "وثائقي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1022256"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1022256"
+            },
+            {
+              "server": "https://filemoon.sx/e/he5czllopm84/v.mp4"
+            },
+            {
+              "server": "https://sblongvu.com/e/e78d8g3zasin.html"
+            },
+            {
+              "server": "https://upvideo.to/e/avzr3yrqndup"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt21819250"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/movie?title=ssss"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -31546,6 +32037,34 @@
               "server": "https://embedo.co/e/h0hilwkegyz5"
             }
           ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://upvideo.to/e/ndfemegtagqk"
+          ],
+          "servers": [
+            {
+              "server": "https://upvideo.to/e/ndfemegtagqk"
+            },
+            {
+              "server": "https://sblongvu.com/e/vkk9uy0eemco.html"
+            },
+            {
+              "server": "https://filemoon.sx/e/kn084c4t81ml/_Mugi__Chainsaw_Man_-_06__1080p_.mp4"
+            },
+            {
+              "server": "https://embedo.co/e/kc1ynazjipel"
+            },
+            {
+              "server": "https://vadbam.com/embed-d73tl0h7wjem.html"
+            },
+            {
+              "server": "https://highload.to/e/dczvzfns73bu"
+            }
+          ]
         }
       ]
     },
@@ -34015,17 +34534,20 @@
           "episodeId": "Episode6",
           "name": "Episode 6",
           "server1": [
-            "link"
+            "https://sblongvu.com/e/jckf3ti6y7jg.html"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://sblongvu.com/e/jckf3ti6y7jg.html"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/dzsvqabclvf2"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/6u4735qiqufc"
+            },
+            {
+              "server": "https://slwatch.co/e/qwo9ly11qxLlrWvP"
             }
           ]
         },
@@ -34034,17 +34556,20 @@
           "episodeId": "Episode7",
           "name": "Episode 7",
           "server1": [
-            "link"
+            "https://sblongvu.com/e/dwhr0e97skwt.html"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://sblongvu.com/e/dwhr0e97skwt.html"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/h2znkb8fi4a6"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/gsq43fv1zd0x"
+            },
+            {
+              "server": "https://slwatch.co/e/GWaolEGGL1JDdPVQ"
             }
           ]
         },
@@ -34053,17 +34578,20 @@
           "episodeId": "Episode8",
           "name": "Episode 8",
           "server1": [
-            "link"
+            "https://sblongvu.com/e/2x1h7v8c07mw.html"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://sblongvu.com/e/2x1h7v8c07mw.html"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/rounnbcsvnhb"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/5dn9pypi2cec"
+            },
+            {
+              "server": "https://slwatch.co/e/MqN9nG33VP2ngxeA"
             }
           ]
         },
@@ -34072,17 +34600,20 @@
           "episodeId": "Episode9",
           "name": "Episode 9",
           "server1": [
-            "link"
+            "https://sblongvu.com/e/lykwyrjlhipc.html"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://sblongvu.com/e/lykwyrjlhipc.html"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/qf25wn0dux2s"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/seyf6uw5yatb"
+            },
+            {
+              "server": "https://slwatch.co/e/LMEmnAkjA5XzgPvq"
             }
           ]
         },
@@ -34091,17 +34622,20 @@
           "episodeId": "Episode10",
           "name": "Episode 10",
           "server1": [
-            "link"
+            "https://sblongvu.com/e/mbmnmv6mtet7.html"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://sblongvu.com/e/mbmnmv6mtet7.html"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/eqn9eoupzzfd"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/500o86ssyave"
+            },
+            {
+              "server": "https://slwatch.co/e/j57gDmvEWGMz26Xb"
             }
           ]
         },
@@ -34110,17 +34644,20 @@
           "episodeId": "Episode11",
           "name": "Episode 11",
           "server1": [
-            "link"
+            "https://sblongvu.com/e/drkfr1snwpsd.html"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://sblongvu.com/e/drkfr1snwpsd.html"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/swrurddvjtel"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/pl174yw4j60t"
+            },
+            {
+              "server": "https://slwatch.co/e/vb6NnJydML1lPOkZ"
             }
           ]
         },
@@ -34129,17 +34666,20 @@
           "episodeId": "Episode12",
           "name": "Episode 12",
           "server1": [
-            "link"
+            "https://sblongvu.com/e/jty93whw9019.html"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://sblongvu.com/e/jty93whw9019.html"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/khojiro2gr2a"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/c33nsxe0r1ss"
+            },
+            {
+              "server": "https://slwatch.co/e/AQ9qzxNy13dn4mME"
             }
           ]
         },
@@ -34148,17 +34688,258 @@
           "episodeId": "Episode13",
           "name": "Episode 13",
           "server1": [
-            "link"
+            "https://slwatch.co/e/vBgrD8GKj0PnMZ64"
           ],
           "servers": [
             {
-              "server": "link"
+              "server": "https://slwatch.co/e/vBgrD8GKj0PnMZ64"
             },
             {
-              "server": "link"
+              "server": "https://upvideo.to/e/fvdvn2kmwvyi"
             },
             {
-              "server": "link"
+              "server": "https://filemoon.sx/e/scmxf31gan0x"
+            },
+            {
+              "server": "https://embedo.co/e/h4ppdvedtfvy"
+            },
+            {
+              "server": "https://sblongvu.com/e/bfx9ncbdb8il.html"
+            },
+            {
+              "server": "https://highload.to/e/exjjqrb330bg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/ivOuQhw5OiWiF0wX4nAovoT8xB5.jpg",
+      "first_air_date": "2018-10-12",
+      "genre_ids": [
+        9648,
+        18
+      ],
+      "id": 72844,
+      "imdb_id": "tt6763664",
+      "name": "The Haunting of Hill House",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Haunting of Hill House",
+      "overview": "The Crains, a fractured family, confront haunting memories of their old home and the terrifying events that drove them from it.",
+      "popularity": 68.801,
+      "poster_path": "https://image.tmdb.org/t/p/original/38PkhBGRQtmVx2drvPik3F42qHO.jpg",
+      "vote_average": 8.149,
+      "vote_count": 1673,
+      "type": "Netflix",
+      "overview_ar": "تنتقل أسرة مُفكّكة سريعًا ما بين الماضي والحاضر، ويواجه أفرادها ذكريات مُخيفة عن منزلهم القديم والأحداث المُرعبة التي أبعدتهم عنه.",
+      "logo": "https://www.themoviedb.org/t/p/original/5cTtEEZVPahCKxSGZoEeZ2F5Ww3.png",
+      "trailer": "https://www.youtube.com/watch?v=cxeiY2W03Mc",
+      "age": "18+",
+      "number_of_episodes_ar": "10 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 10",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=72844&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=The%20Haunting%20of%20Hill%20House&year=2018&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=10"
             }
           ]
         }
@@ -47778,6 +48559,31 @@
             },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=18"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=19"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=19"
+            },
+            {
+              "server": "https://sblongvu.com/e/367cqgozg0mt.html"
+            },
+            {
+              "server": "https://filemoon.sx/e/ezktdr6bx5nk/v.mp4"
+            },
+            {
+              "server": "https://upvideo.to/e/z9wbrsqcngj9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=19"
             }
           ]
         }
