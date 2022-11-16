@@ -32214,6 +32214,108 @@
               "server": "https://sbanh.com/e/u42iqoh82xvn"
             }
           ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://sbanh.com/e/a932gqnaw62p"
+          ],
+          "servers": [
+            {
+              "server": "https://sbanh.com/e/a932gqnaw62p"
+            },
+            {
+              "server": "https://mega.nz/embed/JDE00IIT!ZpfxUhPyU8QjdPmmHj4EA6eKt92upAzXVHFU5OJibAY"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3909396925146"
+            },
+            {
+              "server": "https://vadbam.com/embed-cj88vuts66if.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/tdG_8HKEjq/"
+            },
+            {
+              "server": "https://sbanh.com/e/mpzg1ac9bvno"
+            },
+            {
+              "server": "https://mega.nz/embed/gW8XWIID!8TLLtT-j-Gp-6hbkigRbM9uM_01RNkYOqfS0PnMf9Fw"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=o3bkx1nz7noe"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=o3bkx1nz7noe"
+            },
+            {
+              "server": "https://mega.nz/embed/MO1FHCoS!TVYrhQT9Mz8I-Xbz3fou9M9tD2dxmsP0E6poGdj2sP8"
+            },
+            {
+              "server": "https://sbanh.com/e/9e5pvq72u53e"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3941593844442"
+            },
+            {
+              "server": "https://vadbam.com/embed-6aorlf3sig6w.html"
+            },
+            {
+              "server": "https://sbanh.com/e/9het2ekikgny"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3941560355546"
+            },
+            {
+              "server": "https://mega.nz/embed/VW1zVCwZ!PoS7WWnkIDRCukguYN246G_BATZceBY3Ypy6-mLWFCs"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=gitm0vwipefx"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=gitm0vwipefx"
+            },
+            {
+              "server": "https://sblongvu.com/e/zznkea0cdki4"
+            },
+            {
+              "server": "https://mega.nz/embed/NbNHhRqY!AZdH8PZ549r_fjFE_lBpCqlEdVRV9EL78v51nE8kNyM"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3987810159322"
+            },
+            {
+              "server": "https://sblongvu.com/e/1pb3m1mnj3aj"
+            },
+            {
+              "server": "https://vadbam.com/embed-qp3z1smwmc6k.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/iiJ2DzCwge/"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3987752159962"
+            },
+            {
+              "server": "https://mega.nz/embed/MTdGlSyY!5uNczcKHvtcFMzhsvYHGCjHC4PORWsMcUgWopghPZcQ"
+            }
+          ]
         }
       ]
     },
@@ -32848,6 +32950,37 @@
             },
             {
               "server": "https://mega.nz/embed/5WFiDRwA!IYIH4nGeVJcF0AsrVO0qz5kk-swWqgOVEZMfxWNzf0I"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=tin9g5iprwfn"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=tin9g5iprwfn"
+            },
+            {
+              "server": "https://mega.nz/embed/YCVUjSAR!B7_SuIJRC-iFxqER7UGZQnJqLfx80tqx1vFMAMULuV8"
+            },
+            {
+              "server": "https://sblongvu.com/e/ib7i7glc3tw9"
+            },
+            {
+              "server": "https://vadbam.com/embed-q0sl7wllx3ej.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/RoowV60Qku/"
+            },
+            {
+              "server": "https://sblongvu.com/e/doxki1qwnvwc"
+            },
+            {
+              "server": "https://mega.nz/embed/QKUyAYwA!kMnd8CYf7hMUlLcslDH2z65E_8NMbIuCXRoFbWUZHWo"
             }
           ]
         }
@@ -34940,6 +35073,635 @@
             },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt6763664&s=1&e=10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/gPKfi8LWohOPMjvjEpYbVldMGAN.jpg",
+      "first_air_date": "2022-04-05",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 195990,
+      "name": "Love Flops",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "恋愛フロップス",
+      "overview": "Asahi Kashiwagi lives the typical life of an average high school student — until the day a TV fortune teller’s predictions come true one after another, culminating in a series of risqué encounters! Destiny seemingly draws five beautiful girls into Asahi’s path, and soon he finds himself fielding not one, not two, but five love confessions. Asahi will need to follow his heart to find the perfect love for him, or else his love fortunes may end in one epic flail and flop.",
+      "popularity": 68.811,
+      "poster_path": "https://image.tmdb.org/t/p/original/wO6NOsZTHsCVkNjynAQKCjV5A4S.jpg",
+      "vote_average": 7.5,
+      "vote_count": 4,
+      "trailer": "https://www.youtube.com/watch?v=XC1val6Psks",
+      "overview_ar": "يعيش أساهي كاشيواجي الحياة النموذجية لطالب متوسط في المدرسة الثانوية-حتى اليوم الذي تتحقق فيه تنبؤات عراف التلفزيون واحدة تلو الأخرى ، وبلغت ذروتها في سلسلة من المواجهات الخطرة! يبدو أن القدر يجذب خمس فتيات جميلات إلى طريق أساهي, وسرعان ما يجد نفسه لا يرسل واحدة, ليس اثنين, لكن خمسة اعترافات حب. سوف اساهي تحتاج إلى اتباع قلبه للعثور على الحب المثالي بالنسبة له, وإلا قد تنتهي حظوظ حبه في المدراس ملحمة واحدة والتخبط.",
+      "number_of_episodes_ar": "12 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Animation",
+          "name_ar": "رسوم المتحركة"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://mega.nz/embed/d0czBLra!vpqtLB91SdWoHrKHXoAtclRrR2XcOHHD3NYMauM8Pis"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/d0czBLra!vpqtLB91SdWoHrKHXoAtclRrR2XcOHHD3NYMauM8Pis"
+            },
+            {
+              "server": "https://sbanh.com/e/fopmkryepiiq"
+            },
+            {
+              "server": "https://vadbam.com/embed-yoboamihu42n.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/seBLZDWCfa/"
+            },
+            {
+              "server": "https://sbanh.com/e/r9rx8n30487y"
+            },
+            {
+              "server": "https://mega.nz/embed/Fl1hQbCR!8US9RjdrlKp8CB-YLbpulNKwbHIaDTJytxmGdWADG_Y"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://mega.nz/embed/xPchCSIL!uSapbLR8gZLqw1I_U7vyimqdprFOL0h1xFdFursWxIM"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/xPchCSIL!uSapbLR8gZLqw1I_U7vyimqdprFOL0h1xFdFursWxIM"
+            },
+            {
+              "server": "https://sbanh.com/e/hetapdeahoz4"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3835125369562"
+            },
+            {
+              "server": "https://vadbam.com/embed-qh9187xf85c6.html"
+            },
+            {
+              "server": "https://sbanh.com/e/z1uwizxkgf62"
+            },
+            {
+              "server": "https://mega.nz/embed/UWNjBagZ!bcyqbYAgwpgzkkFVO_zrQU1rQZqAlwc_R-xB8PwUrxA"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://cdngo.me/video/9327969053c0068dd9e07c529866b94d"
+          ],
+          "servers": [
+            {
+              "server": "https://cdngo.me/video/9327969053c0068dd9e07c529866b94d"
+            },
+            {
+              "server": "https://mega.nz/embed/VX0lVQbT!P-jnVo2-e6g9jnjj1Et5CgEc_d5P0K7YWeHobOsJ75k"
+            },
+            {
+              "server": "https://sbanh.com/e/ffi7wgxyt0t9"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3878217255642"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/cKVR03P8ge/"
+            },
+            {
+              "server": "https://vadbam.com/embed-pe1eu5u7rk2o.html"
+            },
+            {
+              "server": "https://sbanh.com/e/u36wenqzzff1"
+            },
+            {
+              "server": "https://mega.nz/embed/JPMixYKT!oZ1aSrW0wvzq5rCzZ1N3bBhvkakOs_ixIxCoLVW9bdk"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=8ekjilu7qvk9"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=8ekjilu7qvk9"
+            },
+            {
+              "server": "https://mega.nz/embed/gS9ByRRR!4g1NMBYu05yqGle2ADv766333r8XDCgEdkOvq0Vm6nQ"
+            },
+            {
+              "server": "https://sbanh.com/e/c9tnsm72qhyr"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3913451834074"
+            },
+            {
+              "server": "https://vadbam.com/embed-jz0opkqqfo0m.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/DRHTfC_age/"
+            },
+            {
+              "server": "https://sbanh.com/e/x3a8z4mja8vz"
+            },
+            {
+              "server": "https://mega.nz/embed/VCd3HbiT!tYq5ICS5BfGiOSr1aTKxgSDkD3QwAbN3VED2UER799Y"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://cdngo.me/video/d9dbc51dc534921589adf460c85cd824"
+          ],
+          "servers": [
+            {
+              "server": "https://cdngo.me/video/d9dbc51dc534921589adf460c85cd824"
+            },
+            {
+              "server": "https://mega.nz/embed/9Sk2mJwQ!ch3-8sPCb9BKpSaFiXk6SB4T5gdvN-lKTHWtmPpc6XQ"
+            },
+            {
+              "server": "https://sbanh.com/e/s6juel3j05mi"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3944218495706"
+            },
+            {
+              "server": "https://vadbam.com/embed-m0cj0v2qekc0.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/M1jkZylmjq/"
+            },
+            {
+              "server": "https://sbanh.com/e/ezyt8el8173a"
+            },
+            {
+              "server": "https://mega.nz/embed/dH003DpB!McJXVqwERXTx3o8_clpy3qF4UWEQek1d8qpsOtwODOY"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=8zc5vb8ilpje"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=8zc5vb8ilpje"
+            },
+            {
+              "server": "https://mega.nz/embed/dG9zhZ7A!yVzDfrfNBBYUG8xhYuHPd6bhlNr9dTzCBiR6Gl68Kx0"
+            },
+            {
+              "server": "https://sblongvu.com/e/c2uvxy7fcvz5"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3988710492890"
+            },
+            {
+              "server": "https://vadbam.com/embed-im1ljdsypmxl.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/277-Groxfa/"
+            },
+            {
+              "server": "https://sblongvu.com/e/jghg1swcyqy4"
+            },
+            {
+              "server": "https://mega.nz/embed/wHs1DRjB!1fX62XXsqdntn7D4wtpI4FdRipDF21149PINV-YAmsc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://www.themoviedb.org/t/p/original/jkW2dLC3KVmLQAk4UzBtwvRh0HD.jpg",
+      "first_air_date": "2022-04-05",
+      "genre_ids": [
+        16,
+        10765
+      ],
+      "id": 136763,
+      "name": "I'm Quitting Heroing",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "勇者、辞めます",
+      "overview": "After saving humanity from the despicable Demon King, Leo Demonhart does not earn a hero’s standing. Instead, he is regarded with suspicion and hostility by those he fought to protect. Treated as a pariah with nowhere else to turn, exiled Leo seeks a position in the army of his former nemesis! But the army is not what it once was before its defeat at Leo’s hands, so to maintain his new position, Leo must whip the forces back into fighting shape.",
+      "popularity": 43.012,
+      "poster_path": "https://image.tmdb.org/t/p/original/oflTB7Ddzw2lCBEADGQCkjp17OW.jpg",
+      "vote_average": 7.1,
+      "vote_count": 21,
+      "trailer": "https://www.youtube.com/watch?v=nI_g4vTknpE&t=8s",
+      "overview_ar": "قصة انمي Yuusha, Yamemasu حيث بعد إنقاذ العالم، أصبح البطل الأقوى “ليو” شخصًا غير مرغوب فيه في عالم بشري مسالم، فقد كان قويا جدا. تم نفيه، ليبدأ البحث عن وظيفة في جيش ملك الشياطين، الذي هزمه وهو بحاجة إلى إعادة بناء. واجه الجيش العديد من المشاكل، الكثير من الأعمال للقيام بها، والمشاكل المالية، وغير ذالك… بدأ “ليو” في تحسين الأمور باستخدام قوته. عندما يلتقي “ليو” مع “إيكيدنا” مرة أخرى، يسألها عن سبب غزوها للعالم البشري. وهنا سيعرف قصة غير متوقعة…!",
+      "number_of_episodes_ar": "12 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 12",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Animation",
+          "name_ar": "رسوم المتحركة"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://mega.nz/embed/NN0hkbBI!qpWgmpJVs-xkH92PzPgglEEB03UDBNz_TnUADLVnK-k"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/NN0hkbBI!qpWgmpJVs-xkH92PzPgglEEB03UDBNz_TnUADLVnK-k"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-4jl7b7gneg61.html"
+            },
+            {
+              "server": "https://sblanh.com/e/wvw1v4xx9963"
+            },
+            {
+              "server": "https://vadbam.com/embed-mvrotvtug0ph.html"
+            },
+            {
+              "server": "https://sblanh.com/e/mu0hkxq5p99r"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-61etazv5x57i.html"
+            },
+            {
+              "server": "https://mega.nz/embed/BddlHbAZ!Shtna4aRRJbG5qS-pDbjMVVxH2AlN3pVwdpYVcAOIYc"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.mp4upload.com/embed-kl6fezs6vjgk.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-kl6fezs6vjgk.html"
+            },
+            {
+              "server": "https://sblanh.com/e/qxua095jpnvi"
+            },
+            {
+              "server": "https://vadbam.com/embed-ygxwr3pkrsij.html"
+            },
+            {
+              "server": "https://sblanh.com/e/li8mccxoi34s"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-mcktaj3s68oe.html"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.mp4upload.com/embed-n4syrp8t8mmw.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-n4syrp8t8mmw.html"
+            },
+            {
+              "server": "https://sblanh.com/e/fl5a3xnz24pl"
+            },
+            {
+              "server": "https://vadbam.com/embed-zs611l9epbms.html"
+            },
+            {
+              "server": "https://sblanh.com/e/z7fba0z25h52"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-pzznkzjk5wq3.html"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.mp4upload.com/embed-el25lfxprpp1.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-el25lfxprpp1.html"
+            },
+            {
+              "server": "https://sblanh.com/e/hpvuyooy9huo"
+            },
+            {
+              "server": "https://vadbam.com/embed-9dvoyjonnc18.html"
+            },
+            {
+              "server": "https://sblanh.com/e/3ds3svfh6bql"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-wx23hgup8vwz.html"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.mp4upload.com/embed-s78g74yxruz9.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-s78g74yxruz9.html"
+            },
+            {
+              "server": "https://sblanh.com/e/yc8z3ci76mo5"
+            },
+            {
+              "server": "https://vadbam.com/embed-cik0chd8eyy7.html"
+            },
+            {
+              "server": "https://sblanh.com/e/71a0mv69d2yh"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-3jqmi8po1jpu.html"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://sblanh.com/e/hthcn5zamiji"
+          ],
+          "servers": [
+            {
+              "server": "https://sblanh.com/e/hthcn5zamiji"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-5a3vrj6hwwi1.html"
+            },
+            {
+              "server": "https://vadbam.com/embed-w9p100lzjyfx.html"
+            },
+            {
+              "server": "https://sblanh.com/e/v47wy9azy0tg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.mp4upload.com/embed-wyjvgjpa2nmw.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-wyjvgjpa2nmw.html"
+            },
+            {
+              "server": "https://sblanh.com/e/lodki58z4x27"
+            },
+            {
+              "server": "https://vadbam.com/embed-fc6v7tu67l7z.html"
+            },
+            {
+              "server": "https://sblanh.com/e/8bkul48l7472"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-8p703gf0p92l.html"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.mp4upload.com/embed-dbt54k7vgke3.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-dbt54k7vgke3.html"
+            },
+            {
+              "server": "https://sblanh.com/e/0econw5l6i9p"
+            },
+            {
+              "server": "https://s192.vidboo.org/6jmn2cjbvqazsalriu7ah2vvkutonwmtaygw255bxt3pw6d54ww7zwuyfq3q/v.mp4"
+            },
+            {
+              "server": "https://sblanh.com/e/qyqeg3pjjt8v"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-jn07m2iesczn.html"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.mp4upload.com/embed-06ufa62fl39h.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-06ufa62fl39h.html"
+            },
+            {
+              "server": "https://sblanh.com/e/efghzzkd599u"
+            },
+            {
+              "server": "https://vadbam.com/embed-kp9ilkuwgyqo.html"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-gensnyipmggk.html"
+            },
+            {
+              "server": "https://sblanh.com/e/xoa6bhzqmtji"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.mp4upload.com/embed-0bahvv5475qg.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-0bahvv5475qg.html"
+            },
+            {
+              "server": "https://sblanh.com/e/8jt05t6ks1lm"
+            },
+            {
+              "server": "https://vadbam.com/embed-xg34aoxjbkt7.html"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-7apvam6bf58f.html"
+            },
+            {
+              "server": "https://sblanh.com/e/owj0vzc5yt1n"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "episodeId": "Episode11",
+          "name": "Episode 11",
+          "server1": [
+            "https://www.mp4upload.com/embed-lnd8vxaj2b0f.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-lnd8vxaj2b0f.html"
+            },
+            {
+              "server": "https://sblanh.com/e/omm050wuo4bg"
+            },
+            {
+              "server": "https://vadbam.com/embed-xihze94iyvq7.html"
+            },
+            {
+              "server": "https://sblanh.com/e/ye1pa6mo9j1n"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-10324gwxfnmy.html"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "episodeId": "Episode12",
+          "name": "Episode 12",
+          "server1": [
+            "https://www.mp4upload.com/embed-r6f89arsa2zi.html"
+          ],
+          "servers": [
+            {
+              "server": "https://www.mp4upload.com/embed-r6f89arsa2zi.html"
+            },
+            {
+              "server": "https://sblanh.com/e/7vqwolnewyet"
+            },
+            {
+              "server": "https://vadbam.com/embed-yquon71hf9fg.html"
+            },
+            {
+              "server": "https://www.mp4upload.com/embed-v7at3c5zlk1b.html"
+            },
+            {
+              "server": "https://sblanh.com/e/b2x7k8ptzp60"
+            }
+          ]
+        },
+        {
+          "id": "OV1",
+          "episodeId": "Ova1",
+          "name": "Special 1",
+          "server1": [
+            "https://mega.nz/embed/tGEAlaQI!mnukal9YX1qRVOQygQfKVb66iV4ItGijBM_QOBWjCiQ"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/tGEAlaQI!mnukal9YX1qRVOQygQfKVb66iV4ItGijBM_QOBWjCiQ"
+            },
+            {
+              "server": "https://sbanh.com/e/4grwjilj6vze"
+            },
+            {
+              "server": "https://vadbam.com/embed-072j4xdg4yk1.html"
+            },
+            {
+              "server": "https://sbanh.com/e/vdb4ouontxlu"
+            },
+            {
+              "server": "https://mega.nz/embed/kP9kyAaD!GgjweCvT9dudg5BlvK3AYciw5sYouZ8KQFLxL9duFTM"
+            }
+          ]
+        },
+        {
+          "id": "OV2",
+          "episodeId": "Ova2",
+          "name": "Special 2",
+          "server1": [
+            "https://mega.nz/embed/8e9TECCJ!SHU4Qw7Ragy2MM6-sAljpIYDzGSl39UXjOriYZPoNpI"
+          ],
+          "servers": [
+            {
+              "server": "https://mega.nz/embed/8e9TECCJ!SHU4Qw7Ragy2MM6-sAljpIYDzGSl39UXjOriYZPoNpI"
+            },
+            {
+              "server": "https://sbanh.com/e/7y63niynrqaj"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/3824282503898"
+            },
+            {
+              "server": "https://vadbam.com/embed-ac8ivrh79wlr.html"
+            },
+            {
+              "server": "https://sbanh.com/e/algs6rbibg07"
+            },
+            {
+              "server": "https://mega.nz/embed/kOMnhZDQ!JOSKGNNGEBz-sFQGTqEbRKtZ8IMcD_BJZmd7-hGjN3o"
             }
           ]
         }
@@ -48015,6 +48777,1268 @@
       "poster_path": "https://image.tmdb.org/t/p/original/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "vote_average": 8.4,
       "vote_count": 2931
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg",
+      "first_air_date": "2020-10-23",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 93785,
+      "imdb_id": "tt9184986",
+      "name": "Barbarians",
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Barbaren",
+      "overview": "Three people's fates are interwoven in the Battle of the Teutoburg Forest in 9 A.D., during which Germanic warriors halt the spread of the Roman Empire.",
+      "popularity": 84.135,
+      "poster_path": "https://image.tmdb.org/t/p/original/trfHliK2hhw2xOJVztHqKylyzrD.jpg",
+      "vote_average": 7.397,
+      "vote_count": 462,
+      "type": "Netflix",
+      "overview_ar": "يجد جندي روماني نفسه ممزّقًا بين إمبراطورية قوية نشأ في كَنفها وبين شعبه القبَلي، فتسفر ولاءاته المتضاربة عن صدام تاريخي ملحمي.",
+      "logo": "https://www.themoviedb.org/t/p/original/c7lgJWODlnGC3SCsvjpnXHf7iFI.png",
+      "trailer": "https://www.youtube.com/watch?v=-cA7kwBSUaU",
+      "age": "18+",
+      "number_of_episodes_ar": "6 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 6",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Action & Adventure",
+          "name_ar": "حركة & مغامرة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=1&e=6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/DjqhwZnmXahBX3PYEm3sbDBFcy.jpg",
+      "first_air_date": "2022-10-21",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": "93785_II",
+      "imdb_id": "tt9184986",
+      "name": "Barbarians II",
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Barbaren",
+      "overview": "A year after Varus' defeat, a new Roman general gets settled in Germania as Ari seeks to become king of all the tribes — but a rival stands in his way.",
+      "popularity": 84.135,
+      "poster_path": "https://image.tmdb.org/t/p/original/tAsyFKxSTC7wG3fIBz5diTnvyVj.jpg",
+      "vote_average": 7.397,
+      "vote_count": 462,
+      "type": "Netflix",
+      "overview_ar": "بعد عام من هزيمة فاروس ، استقر جنرال روماني جديد في جرمانيا حيث يسعى آري إلى أن يصبح ملكًا لجميع القبائل - لكن منافسًا يقف في طريقه.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXFz7WfWJKoKsNO0jJglqb9fSeRpCxrL2DHw7NdK1-XJJiexmJdI0h4K-gudWxiCW6jKSXlqEAoNQTgegF-Iby0eG0pl7g1tApewyWxnl3KzvQbORkW8CPEM76bNytERrxGFN_7RA61qFnAk76xskzDIUgw82VBdviMKo6LoR14VvhrIRwEzvw.png?r=20d",
+      "trailer": "https://www.youtube.com/watch?v=-dZZHvYYSCFw",
+      "age": "18+",
+      "number_of_episodes_ar": "6 حلقة",
+      "season_number_ar": "الموسم 2",
+      "number_of_episodes": "Episode 6",
+      "season_number": "Season 2",
+      "genres": [
+        {
+          "name": "Action & Adventure",
+          "name_ar": "حركة & مغامرة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=2&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=2&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=2&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=2&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=2&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=93785&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Barbarians&year=2020&s=2&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9184986&s=2&e=6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/6H7eS2peOKEzsmhUYxzpnLpNgSV.jpg",
+      "first_air_date": "2022-06-03",
+      "genre_ids": [
+        18
+      ],
+      "id": 202010,
+      "imdb_id": "tt13323566",
+      "name": "As the Crow Flies",
+      "origin_country": [
+        "TR"
+      ],
+      "original_language": "tr",
+      "original_name": "Kus uçusu",
+      "overview": "A young fan maneuvers her way into a seasoned anchor's newsroom but soon confronts the dark side of ambition, envy and the desire to be seen.",
+      "popularity": 8.494,
+      "poster_path": "https://image.tmdb.org/t/p/original/67tnyxNt6TkNmAIPkBemqPABTw7.jpg",
+      "vote_average": 7.25,
+      "vote_count": 36,
+      "type": "Netflix",
+      "overview_ar": "تشقّ معجبة شابّة طريقها إلى غرفة أخبار مذيعة مخضرمة، لكنّها سرعان ما تواجه الجانب المظلم للطموح والحسد والرغبة في الشهرة وتلقّي الاهتمام.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABV1LRm1OYNvrwuuvK0LxtjXu3i_LjRQGgs8EyrFPO2VH-f-ezPY4VmvsKPmu3ge58Fka9nJnNHvQc6LoDFZHvbDONdmZ_KVd7eDvsgzSBnHP8Ve1qFlst1x7y8al3lNh2sZU0KyP3evmGEhOgpJJUdwObrxsoaR5KOLMARuX1mIZCrYg4WGaKA.png?r=7b4",
+      "trailer": "https://www.youtube.com/watch?v=VY_vTWAdffA",
+      "age": "16+",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=202010&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=As%20the%20Crow%20Flies&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13323566&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/yWQ9AaOEC3fOiyMYFuidNFNbe5W.jpg",
+      "first_air_date": "2022-08-10",
+      "genre_ids": [
+        10764
+      ],
+      "id": 206075,
+      "imdb_id": "tt21107788",
+      "name": "Instant Dream Home",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Instant Dream Home",
+      "overview": "A team of rapid-fire renovators takes big risks and makes painstaking plans to transform families' homes from top to bottom in just 12 hours.",
+      "popularity": 3.371,
+      "poster_path": "https://image.tmdb.org/t/p/original/tBzQZIa5qqn8pDcakGO9At9f92d.jpg",
+      "vote_average": 5.5,
+      "vote_count": 2,
+      "type": "Netflix",
+      "overview_ar": "يتحمل فريق من مُجددي الحرائق السريعة مخاطر كبيرة ويضع خططًا مضنية لتحويل منازل العائلات من أعلى إلى أسفل في غضون 12 ساعة فقط.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWGpKEHfklgasyDWKJLHLRVijXQwOL4f3DkSZEZRqS1kb-3x2DQaBheN0rmln1quEHpeeyKSD8HsD_iMPb6sSw3utB83v8tKVm2PLT_Kk_x32-Hr4HWBYBGaqBLubPeVX-5uY-HFnKBqHxCnGiBn4vGkeAQPp_7gkODsTNu1FHjtn8Gr6-KgXg.png?r=e97",
+      "trailer": "https://www.youtube.com/watch?v=XyJRl54zJdU",
+      "age": "5+",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Reality",
+          "name_ar": "واقع"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=206075&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Instant%20Dream%20Home&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt21107788&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/eK8UA5kOPhLR0pgKG1cfMv61WI4.jpg",
+      "first_air_date": "2021-08-12",
+      "genre_ids": [
+        18
+      ],
+      "id": 88516,
+      "imdb_id": "tt10183912",
+      "name": "AlRawabi School for Girls",
+      "origin_country": [
+        "JO"
+      ],
+      "original_language": "ar",
+      "original_name": "مدرسة الروابي للبنات",
+      "overview": "The bullied outcasts at prestigious Al Rawabi School for Girls plot a series of risky takedowns to get back at their tormentors.",
+      "popularity": 9.699,
+      "poster_path": "https://image.tmdb.org/t/p/original/fP4tqF73imWZ6ZKyk6VDigQZV2p.jpg",
+      "vote_average": 7.453,
+      "vote_count": 468,
+      "type": "Netflix",
+      "overview_ar": "تتّحد طالبات مهمّشات في مدرسة “الروابي” للبنات لمواجهة شلّة من المتنمّرات، فيضعن خططًا جريئة لمحاسبة كلّ واحدة منهنّ.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABax0hjj4d7b3BaIyetnhPalJFcZRZEvQ_NeSSadLQRMMK9nfzp9SClpUfkcvWhJlSrz6oXy08AdVPezq2taWv_nK50Zv_CblRSiUjNukDn-2rlA08gl6w9TWrVLbSyvY20tn1ujDZmt6uS1jvCYbw2ZADRJ8EFZ8JRSCacIcYiuMQas6SE2yCA.png?r=279",
+      "trailer": "https://www.youtube.com/watch?v=xxKnhO7Nq7I",
+      "age": "15+",
+      "number_of_episodes_ar": "6 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 6",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=AlRawabi%20School%20for%20Girls&year=2021&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10183912&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=AlRawabi%20School%20for%20Girls&year=2021&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10183912&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=AlRawabi%20School%20for%20Girls&year=2021&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10183912&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=AlRawabi%20School%20for%20Girls&year=2021&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10183912&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=AlRawabi%20School%20for%20Girls&year=2021&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10183912&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=88516&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=AlRawabi%20School%20for%20Girls&year=2021&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt10183912&s=1&e=6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/bQbBrYlhVyd0Oh5rUvPOykHuwve.jpg",
+      "first_air_date": "2022-07-14",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 108296,
+      "imdb_id": "tt9660182",
+      "name": "Resident Evil",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Resident Evil",
+      "overview": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets. Based on the horror franchise.",
+      "popularity": 140.779,
+      "poster_path": "https://image.tmdb.org/t/p/original/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
+      "vote_average": 6.08,
+      "vote_count": 332,
+      "type": "Netflix",
+      "overview_ar": "في إطار من الرعب والخيال العلمي، تدور الأحداث بعد عدة عقود من اكتشاف فايروس تي، حيث يتسبب اكتشاف جديد في كشف أسرارا مظلمة حول منظمة أمبريلا.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABbGxuPsbO_pIN54guGO6Sq1BSE1veghuHMfGbLVAr8jbiMFK90qXSJdYZRDo2ywQX3jbvjgqCS-fsbDA1t1xstScyHGnhZXunLssNXGSpQEhFPnlxXZfJ4cCggfgzawceOrR90CgBUgi5KjB7RVCod5274pYuMjVhyP3lREvCPlyZoZvzJivcw.png?r=30e",
+      "trailer": "https://www.youtube.com/watch?v=uIdjcDTc9Vk",
+      "age": "16+",
+      "number_of_episodes_ar": "8 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 8",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=108296&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Resident%20Evil&year=2022&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt9660182&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "backdrop_path": "https://image.tmdb.org/t/p/original/yv5oliNUwu82JT1XUbz1WSKm18E.jpg",
+      "first_air_date": "2021-10-01",
+      "genre_ids": [
+        18
+      ],
+      "id": 111141,
+      "imdb_id": "tt11337908",
+      "name": "Maid",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Maid",
+      "overview": "After fleeing an abusive relationship, a young mother finds a job cleaning houses and fights to provide a better future for her child.",
+      "popularity": 43.498,
+      "poster_path": "https://image.tmdb.org/t/p/original/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+      "vote_average": 7.959,
+      "vote_count": 470,
+      "type": "Netflix",
+      "overview_ar": "بعدما تلوذ أمّ شابّة بالفرار من علاقة مسيئة، تجد عملًا في تنظيف المنازل بينما تواصل كفاحها لإعالة طفلتها وبناء مستقبل أفضل لهما.",
+      "logo": "https://occ-0-769-299.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABX7VheWMwzwd7TKD1pbQRMaTELkHA4ae0ERMDYd0XbHo9JIDRb7gOE0UkJpM2eaRIda8MvPUqWf5h0gFGeFkH_6jNoZfmpsSRPzDVn8dnEPjwy_P6ngQ5IPZcMbF3QhGG2IU8hVkqUKZScHoAiRf1krAKNByD621l38Tfs9lSj7_IocJvtLiJg.png?r=da0",
+      "trailer": "https://www.youtube.com/watch?v=cLd0dN25i5g",
+      "age": "14+",
+      "number_of_episodes_ar": "10 حلقة",
+      "season_number_ar": "الموسم 1",
+      "number_of_episodes": "Episode 10",
+      "season_number": "Season 1",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "episodes": [
+        {
+          "id": 1,
+          "episodeId": "Episode1",
+          "name": "Episode 1",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=1"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=1"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "episodeId": "Episode2",
+          "name": "Episode 2",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=2"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=2"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "episodeId": "Episode3",
+          "name": "Episode 3",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=3"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=3"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=4"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=4"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=5"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=5"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "episodeId": "Episode6",
+          "name": "Episode 6",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=6"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=6"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=7"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=7"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=8"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=8"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=9"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=9"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=10"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=111141&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/title/tv?title=Maid&year=2021&s=1&e=10"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt11337908&s=1&e=10"
+            }
+          ]
+        }
+      ]
     },
     {
       "backdrop_path": "https://images8.alphacoders.com/123/1231206.jpg",
