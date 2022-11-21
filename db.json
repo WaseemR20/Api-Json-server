@@ -772,6 +772,18 @@
               "server": "https://www.2embed.to/embed/tmdb/movie?id=610150"
             },
             {
+              "server": "https://mega.nz/embed/9Pd0VLBA!0xjo7tDlUibVIgEsrZZcmTT4YJAIDN4cQu9DoozdTLY"
+            },
+            {
+              "server": "https://sblanh.com/e/vihvunsfkhyu"
+            },
+            {
+              "server": "https://vadbam.com/embed-z7qx9dxk1apn.html"
+            },
+            {
+              "server": "https://sblanh.com/e/zd8psk4k6tth"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt14614892"
             }
           ],
@@ -7491,6 +7503,12 @@
             {
               "server": "https://www.2embed.to/embed/tmdb/movie?id=882598"
             },
+            {"server": "https://vidhd.fun/embed-jcbf37fpdgx2.html"},
+            {"server": "https://gostream.pro/embed-l719ipbui6dy.html"},
+            {"server": "https://gostream.pro/embed-wc0owdfzxgo4.html"},
+            {"server": "https://www.linkbox.to/player.html?id=fp3gm0000hzn"},
+            {"server": "https://vadbam.com/embed-7d6lipaux8lx.html"},
+            {"server": "https://vidshar.org/embed-lzcvev7atz5a.html"},
             {
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt15474916"
             },
@@ -31909,6 +31927,21 @@
               "server": "https://mega.nz/embed/8bNTlBoa!49qCfEpJqZ3ESxUw_wh_ibVztN93OBRtUigo2pXYzWs"
             }
           ]
+        },
+        {
+          "id": 4,
+          "episodeId": "Episode4",
+          "name": "Episode 4",
+          "server1": ["https://play.cdngo.me/hd.php?code=tn9vimnhezg0"],
+          "servers": [
+            { "server": "https://play.cdngo.me/hd.php?code=tn9vimnhezg0" },
+            { "server": "https://mega.nz/embed/9KdlxZ5R!fg7uRKmiptMwyUq3_xAPRodvk6k9v146BIchAocxRZo" },
+            { "server": "https://www.ok.ru/videoembed/4011030678234" },
+            { "server": "https://sblongvu.com/e/sdm2fi59596n" },
+            { "server": "https://vadbam.com/embed-tk5x02b2fqgu.html" },
+            { "server": "https://sblongvu.com/e/x2e2ihsyxlfb" },
+            { "server": "https://mega.nz/embed/BTlhiaAK!Ntl9SXFluIPCN7eealCT3qnWjATF-gU_Mqx41TUqF98" }
+          ]
         }
       ]
     },
@@ -33832,11 +33865,11 @@
           "episodeId": "Episode6",
           "name": "Episode 6",
           "server1": [
-            "https://mega.nz/embed/iQRi3J7S#jDYY8M4rFKIJwMAVVCM8j7Y0nODGxVRFZgLFdamI3KU"
+            "https://mega.nz/embed/yYJyHBwL#jv5ZxBpJWcXcWkitXuADjOTUM3q4zp_fHGYdbV7siV8"
           ],
           "servers": [
             {
-              "server": "https://mega.nz/embed/iQRi3J7S#jDYY8M4rFKIJwMAVVCM8j7Y0nODGxVRFZgLFdamI3KU"
+              "server": "https://mega.nz/embed/yYJyHBwL#jv5ZxBpJWcXcWkitXuADjOTUM3q4zp_fHGYdbV7siV8"
             },
             {
               "server": "https://cdn.jwplayer.com/players/cCMn36Vc-Wl3Q5wx3.html"
@@ -40222,6 +40255,21 @@
               "server": "https://embedo.co/e/869yjbdsfe8q"
             }
           ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://play.cdngo.me/hd.php?code=ajtkrsirqthx"],
+          "servers": [
+            { "server": "https://play.cdngo.me/hd.php?code=ajtkrsirqthx" },
+            { "server": "https://mega.nz/embed/4PFGUbLQ!4YULKk02h72Y4oEbxI56p00dXEBbzwrRYnQNfcSn87k" },
+            { "server": "https://sblongvu.com/e/qt9mtrvdv7e4" },
+            { "server": "https://www.ok.ru/videoembed/4012791040730" },
+            { "server": "https://vadbam.com/embed-3mc2tdjm4xuj.html" },
+            { "server": "https://sblongvu.com/e/24rfivto43ku" },
+            { "server": "https://mega.nz/embed/BP8EHQ7C!b244n9EFn_hbPjsERAOZSWtzMO0nj19r9j84CykbxpI" }
+          ]
         }
       ]
     },
@@ -40641,6 +40689,21 @@
             {
               "server": "https://mega.nz/embed/oeUUjKQZ!NDLa9VnbDL5zHHh5Sl3vGEks2TIwteQK-IUz52omeo0"
             }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": ["https://play.cdngo.me/hd.php?code=holvm91apev5"],
+          "servers": [
+            { "server": "https://play.cdngo.me/hd.php?code=holvm91apev5" },
+            { "server": "https://mega.nz/embed/pSFxBaAa!eAqIoXJa08hKuXDj9oWu-gjHOohMNp5mW4Ib3SyyCDI" },
+            { "server": "https://sblongvu.com/e/jqyqrs31xmoc" },
+            { "server": "https://vadbam.com/embed-k4efya66w08u.html" },
+            { "server": "https://www.4shared.com/web/embed/file/zoWw7X8Djq/" },
+            { "server": "https://sblongvu.com/e/cy41sv0foo1q" },
+            { "server": "https://mega.nz/embed/JSEHTZBT!8q8PnBS15rQySUuUkIYvp26CCWkMAS1tkBn-Nf_NFNA" }
           ]
         }
       ]
@@ -52724,6 +52787,25 @@
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=19"
             }
           ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [ "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=20"],
+          "servers": [
+            { "server":  "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=20" },
+            { "server": "https://play.cdngo.me/hd.php?code=z8b2s50zn30m" },
+            { "server": "https://mega.nz/embed/USNhwbCS!bys8JqNgPXw5ydNKNqMDAoosHfySlnuxBeDq4eSijlY" },
+            { "server": "https://www.ok.ru/videoembed/4011884153562" },
+            { "server": "https://sblongvu.com/e/ewf4uc9d2lsh" },
+            { "server": "https://vadbam.com/embed-irk5zgwx6fch.html" },
+            { "server": "https://sblongvu.com/e/dj2tf0svvx28" },
+            { "server": "https://mega.nz/embed/seUiQRbC!e5fUdeoovp_tCOCQaQagIZCGbUKrRaqmKqkd-9UJ-Gg" },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=20"
+            }
+          ]
         }
       ]
     },
@@ -54645,6 +54727,22 @@
             {
               "server": "https://highload.to/e/a4gbukdz3z9s"
             }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": ["https://play.cdngo.me/hd.php?code=phzqua1zgs6d"],
+          "servers": [
+            { "server": "https://play.cdngo.me/hd.php?code=phzqua1zgs6d" },
+            { "server": "https://mega.nz/embed/5GUSBAbD!M839-O-49yg2vUN14jMNoKu9pD6N1wwbev_lqfvj96o" },
+            { "server": "https://sblongvu.com/e/uaohl50bifq4" },
+            { "server": "https://www.ok.ru/videoembed/4015573175002" },
+            { "server": "https://vadbam.com/embed-sfs2mkgq65c6.html" },
+            { "server": "https://www.4shared.com/web/embed/file/58j0SOfkku/" },
+            { "server": "https://sblongvu.com/e/sze071anzfpa" },
+            { "server": "https://mega.nz/embed/RXUTEBAC!tm7qKjFOfkOAFBGDqlWfOCRWAIgapYd-cGTypEoJVd0" }
           ]
         }
       ]
