@@ -2051,6 +2051,734 @@
     },
     {
       "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/hSO9533O8q4wbuvcvzuqeoCfbXb.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 854239,
+      "imdb_id": "tt4960748",
+      "original_language": "en",
+      "original_title": "Till",
+      "overview": "The true story of Mamie Till Mobley’s relentless pursuit of justice for her 14 year old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi.",
+      "popularity": 40.045,
+      "poster_path": "https://image.tmdb.org/t/p/original/eemXvyp8Dfdhf3fcKatwNbxbB7R.jpg",
+      "release_date": "2022-10-14",
+      "title": "Till",
+      "video": false,
+      "vote_average": 7.55,
+      "vote_count": 30,
+      "age": "13+",
+      "overview_ar": "في إطار من الدراما التاريخية، يتناول العمل السيرة الذاتية لإيميت لويس تيل، وإرث والدته التي سعت لتحقيق العدالة من أجل ابنها المحكوم عليه بالسجن.",
+      "trailer": "https://www.youtube.com/watch?v=rkQi6GBwmSA&ab_channel=MGM",
+      "genres": [
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=854239"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=854239"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Till/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Till/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Till/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Till/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Till/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-akcn7hb00znd.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3h58000i1a"
+            },
+            {
+              "server": "https://vadbam.com/embed-jnxmto6aqjqb.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-5tg49777nrv3.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt4960748"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        80,
+        18,
+        10749
+      ],
+      "id": 705996,
+      "imdb_id": "tt12477480",
+      "original_language": "ko",
+      "original_title": "헤어질 결심",
+      "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man’s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
+      "popularity": 107.001,
+      "poster_path": "https://image.tmdb.org/t/p/original/N0rskx91Eh6aWjvBybeY6epNic.jpg",
+      "release_date": "2022-06-29",
+      "title": "Decision to Leave",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 311,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/cwcgXazjTH7qV6QfZwLBXHgZ2Ea.png",
+      "age": "NR",
+      "overview_ar": "يلتقي محقق أثناء تحقيقه في وفاة غامضة لرجل في الجبال بأرملة الرجل المتوفي فيبدأ بالتقرب منها والاهتمام فيها رغم الشكوك التي تحوم حولها.",
+      "trailer": "https://www.youtube.com/watch?v=Bmoy73lhs-s&ab_channel=MUBI",
+      "genres": [
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        },
+        {
+          "name": "Crime",
+          "name_ar": "جريمة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=705996"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=705996"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Decision%20to%20Leave/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Decision%20to%20Leave/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Decision%20to%20Leave/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Decision%20to%20Leave/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Decision%20to%20Leave/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-ijzqyeyjjvg7.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3gi0000si0"
+            },
+            {
+              "server": "https://vadbam.com/embed-ifb0ui644eq1.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-63biv0n76w1w.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt12477480"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/rfnmMYuZ6EKOBvQLp2wqP21v7sI.jpg",
+      "genre_ids": [
+        878,
+        35,
+        12
+      ],
+      "id": 774752,
+      "imdb_id": "tt13623136",
+      "original_language": "en",
+      "original_title": "The Guardians of the Galaxy Holiday Special",
+      "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+      "popularity": 385.42,
+      "poster_path": "https://image.tmdb.org/t/p/original/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+      "release_date": "2022-11-25",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "video": false,
+      "vote_average": 7.497,
+      "vote_count": 350,
+      "type": "Marvel",
+      "logo": "https://www.themoviedb.org/t/p/original/npB9HZfF6L7YH3rtTB547fwIIpt.png",
+      "age": "13+",
+      "overview_ar": "يعود ستار لورد وروكيت ومانتيس وجروت ودراكس من جديد، حيث يقضي حراس المجرة معًا عطلة رأس السنة بشكل مختلف.",
+      "trailer": "https://www.youtube.com/watch?v=OYhFFQl4fLs&ab_channel=MarvelEntertainment",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=774752"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=774752"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Guardians%20of%20the%20Galaxy%20Holiday%20Special/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Guardians%20of%20the%20Galaxy%20Holiday%20Special/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Guardians%20of%20the%20Galaxy%20Holiday%20Special/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Guardians%20of%20the%20Galaxy%20Holiday%20Special/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Guardians%20of%20the%20Galaxy%20Holiday%20Special/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-cl0p8xfe34dw.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3hcw00285k"
+            },
+            {
+              "server": "https://vadbam.com/embed-3qix9i8yx0ms.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-vku4m25ktrbd.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt13623136"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/sO2lS83zsLTw7BqNmyoO09AT76U.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "id": 1018403,
+      "imdb_id": "tt21958986",
+      "original_language": "en",
+      "original_title": "Tom and Jerry Snowman's Land",
+      "overview": "It’s time to chase that holiday spirit with Tom and Jerry! With magic in the air, Jerry and his nephew, Tuffy, make a snow mouse that miraculously comes to life! To keep their new friend, Larry the snow mouse from melting, Tuffy and Jerry must race him to the fabled Snowman’s Village. In hot pursuit, Tom and devious Dr. Doublevay have their own plans for Larry’s magic.",
+      "popularity": 1289.662,
+      "poster_path": "https://image.tmdb.org/t/p/original/effgnqJMX2lXvXhKlJt7Pm1TkcU.jpg",
+      "release_date": "2022-09-06",
+      "title": "Tom and Jerry Snowman's Land",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 13,
+      "logo": "https://www.themoviedb.org/t/p/original/tbA9rPxKhJZG6rJmfPq8H0qQa2F.png",
+      "age": "G",
+      "overview_ar": "مع وجود سحر في الهواء ، يصنع جيري وابن أخيه `توفي` فأرًا ينبض بالحياة بأعجوبة. للحفاظ على صديقهم الجديد `لاري` فأر الثلج من الذوبان ، يجب على` توفي` و `جيري` أن يركباها إلى قرية الرجل الثلجي الأسطورية.",
+      "trailer": "https://www.youtube.com/watch?v=7eIivLasAkM&ab_channel=WarnerBros.Entertainment",
+      "genres": [
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        },
+        {
+          "name": "Animation",
+          "name_ar": "رسوم متحركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1018403"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1018403"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Tom%20and%20Jerry%20Snowmans%20Land/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Tom%20and%20Jerry%20Snowmans%20Land/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Tom%20and%20Jerry%20Snowmans%20Land/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Tom%20and%20Jerry%20Snowmans%20Land/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Tom%20and%20Jerry%20Snowmans%20Land/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-o7y6yu8136qm.html"
+            },
+            {
+              "server": "https://vadbam.com/embed-m742aoxs54bn.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-vfopdyu4t3f8.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt21958986"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8b1hJPDDUdX9NBeE6ukEY8Q5b8E.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1022164,
+      "imdb_id": "tt20113586",
+      "original_language": "de",
+      "original_title": "Sachertorte",
+      "overview": "Karl meets Nini at a Berlin train station: it is love at first sight. But the few hours they spend together before she travels back to Vienna end in a mishap in which Karl loses her phone number. He decides to move to the Austrian capital to find his dream woman again.",
+      "popularity": 7.868,
+      "poster_path": "https://image.tmdb.org/t/p/original/2b0fduX9GDkGspUIW53nfNK0n2y.jpg",
+      "release_date": "2022-09-24",
+      "title": "Sachertorte",
+      "video": false,
+      "vote_average": 7.083,
+      "vote_count": 6,
+      "type": "Amazon",
+      "age": "8+",
+      "overview_ar": "يعلق كارل حياته في برلين فقط لينتظر كل يوم في الساعة 3 مساءً من أجل حب حياته في Caf Sacher في فيينا ولكن أحيانًا يحدث الحب لك وأنت مشغول في انتظاره",
+      "trailer": "https://www.youtube.com/watch?v=hobywYG76wY&ab_channel=AmazonPrimeVideoDeutschland",
+      "genres": [
+        {
+          "id": 10749,
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "id": 35,
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1022164"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1022164"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Sachertorte/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Sachertorte/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Sachertorte/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Sachertorte/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Sachertorte/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-ygxy3v9mw45m.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3gw00015w7"
+            },
+            {
+              "server": "https://vadbam.com/embed-emyyvzyhysvz.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-pu8dk4aogdn5.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt20113586"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/6tAYyCxF0T5oUIH95zMBC3X3W5T.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14,
+        18
+      ],
+      "id": 668461,
+      "imdb_id": "tt13320662",
+      "original_language": "en",
+      "original_title": "Slumberland",
+      "overview": "A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.",
+      "popularity": 1569.265,
+      "poster_path": "https://image.tmdb.org/t/p/original/f18kgonrgr8YvEuvshExS4XBGL8.jpg",
+      "release_date": "2022-11-16",
+      "title": "Slumberland",
+      "video": false,
+      "vote_average": 7.903,
+      "vote_count": 274,
+      "type": "Netflix",
+      "logo_ar": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSZH6zCw8vTfb2VVUUTAPYKnP5XZ5V64mTzusdK-BdZxLPNYM_9xPSpJodOhloILS43cRDURogSsNMMT9lLvUGosEgpsAKIppVCI7279BV35DS_qy3LVRWP8EEWb7tEn2hVWWe0xH4xmHiwuH_dXLe_SfEi20e6xJUMDbvwSEXtUmD289hFanA.png?r=d08",
+      "logo": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZhRIbphYxnvrOHDhGNEqOnO3UtFGYJ4ZkSdd3qGQe9WLbdwM51GjNY9IjBDf1DQP2qFG5MJsovZcJvapQ401jCgKukRP89fHON187bGIi4sh-GlJJTtFmFbMqodJSVVxjisM_76a4hPwK5lJ2cnjbxgmWCvujL5ZdMzi-ufpANh9wHoKpqY8g.png?r=63e",
+      "age": "10+",
+      "overview_ar": "تكتشف فتاة صغيرة خريطة سرية لعالم الأحلام في سلمبرلاند ، وبمساعدة خارج عن القانون غريب الأطوار ، تعبر الأحلام وتهرب من الكوابيس ، على أمل أن تتمكن من رؤية والدها الراحل مرة أخرى.",
+      "trailer": "https://www.youtube.com/watch?v=FBnkVJslRGo&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        },
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=668461"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=668461"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Slumberland/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Slumberland/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Slumberland/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Slumberland/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Slumberland/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-nuokx7163ec9.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3gu8000j0o"
+            },
+            {
+              "server": "https://vadbam.com/embed-y3wm89ujv810.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-nvon6baiodft.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt13320662"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/mchDEPh1fkID8nq8IONAGQeiPJg.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "id": 338958,
+      "imdb_id": "tt1596342",
+      "original_language": "en",
+      "original_title": "Disenchanted",
+      "overview": "Disillusioned with life in the city, feeling out of place in suburbia, and frustrated that her happily ever after hasn’t been so easy to find, Giselle turns to the magic of Andalasia for help. Accidentally transforming the entire town into a real-life fairy tale and placing her family’s future happiness in jeopardy, she must race against time to reverse the spell and determine what happily ever after truly means to her and her family.",
+      "popularity": 2650.603,
+      "poster_path": "https://image.tmdb.org/t/p/original/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg",
+      "release_date": "2022-11-16",
+      "title": "Disenchanted",
+      "video": false,
+      "vote_average": 7.377,
+      "vote_count": 407,
+      "type": "Disney",
+      "logo": "https://www.themoviedb.org/t/p/original/s8H6ysnghobsEi4PClDAQjUmMsl.png",
+      "age": "6+",
+      "overview_ar": "بخيبة أمل من الحياة في المدينة ، والشعور بعدم الراحة في الضواحي ، والإحباط لأن سعادتها لم يكن من السهل العثور عليها ، تلجأ جيزيل إلى سحر الأندلس طلبًا للمساعدة. بتحويل البلدة بأكملها عن طريق الخطأ إلى قصة خيالية واقعية وتعرض سعادة عائلتها المستقبلية للخطر ، يجب أن تسابق مع الزمن لعكس التعويذة وتحديد ما تعنيه السعادة الأبدية حقًا لها ولعائلتها.",
+      "trailer": "https://www.youtube.com/watch?v=dRuwjZJ-DQw&ab_channel=WaltDisneyStudios",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        },
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=338958"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=338958"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Disenchanted/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Disenchanted/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Disenchanted/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Disenchanted/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Disenchanted/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-ihnghxj6l1au.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3guc0001sr"
+            },
+            {
+              "server": "https://vadbam.com/embed-7lmq4j71i5n8.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-zbyu119kddm4.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt1596342"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/jzhEoEsfd83wpg0qO6RBfKNtgQL.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 934323,
+      "imdb_id": "tt11178402",
+      "original_language": "en",
+      "original_title": "Mickey: The Story of a Mouse",
+      "overview": "Mickey Mouse is one of the most enduring symbols in our history. Those three simple circles take on meaning for virtually everyone on the planet. So ubiquitous in our lives that he can seem invisible, Mickey is something we all share, with unique memories and feelings. Over the course of his nearly century-long history, Mickey functions like a mirror, reflecting our personal and cultural values back at us. \"Mickey: The Story of a Mouse\" explores Mickey's significance, getting to the core of what Mickey's cultural impact says about each of us and about our world.",
+      "popularity": 18.382,
+      "poster_path": "https://image.tmdb.org/t/p/original/cYHE9FdgXBFUWvWaIKsDHODDOTS.jpg",
+      "release_date": "2022-03-19",
+      "title": "Mickey: The Story of a Mouse",
+      "video": false,
+      "vote_average": 7.284,
+      "vote_count": 37,
+      "type": "Disney",
+      "logo": "https://www.themoviedb.org/t/p/original/dzeADfu6YCCR9YVi4FHWapcw9GD.png",
+      "age": "10+",
+      "overview_ar": "ميكي ماوس هو أحد أكثر الرموز ديمومة في تاريخنا. تكتسب هذه الدوائر الثلاث البسيطة معنى لكل شخص على هذا الكوكب تقريبًا. موجود في كل مكان في حياتنا لدرجة أنه يمكن أن يبدو غير مرئي ، ميكي شيء نتشاركه جميعًا ، بذكريات ومشاعر فريدة. على مدار ما يقرب من قرن من الزمان من تاريخه ، يعمل ميكي مثل المرآة ، مما يعكس قيمنا الشخصية والثقافية التي تعود إلينا. يستكشف فيلم `ميكي: قصة فأر` أهمية ميكي ، ويصل إلى جوهر ما يقوله تأثير ميكي الثقافي عن كل واحد منا وعن عالمنا.",
+      "trailer": "https://www.youtube.com/watch?v=HJ6iehLtmtY&ab_channel=DisneyPlus",
+      "genres": [
+        {
+          "name": "Documentary",
+          "name_ar": "وثائقي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=934323"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=934323"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Mickey%20The%20Story%20of%20a%20Mouse/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Mickey%20The%20Story%20of%20a%20Mouse/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Mickey%20The%20Story%20of%20a%20Mouse/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Mickey%20The%20Story%20of%20a%20Mouse/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Mickey%20The%20Story%20of%20a%20Mouse/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-spetpd8a7mjx.html"
+            },
+            {
+              "server": "https://vadbam.com/embed-11ypyixh77wq.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-oaj5r22gtexi.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11178402"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/93TnUBURXN6X4YpRomjgpGButYZ.jpg",
+      "genre_ids": [
+        10770,
+        10751
+      ],
+      "id": 1023795,
+      "imdb_id": "tt22028876",
+      "original_language": "en",
+      "original_title": "Best in Snow",
+      "overview": "A festive holiday special, hosted by Tituss Burgess, featuring teams from around the world transported to a magical snowy village, Snowdome, and thrown into a spirited competition to compete for the title of Best in Snow.",
+      "popularity": 11.009,
+      "poster_path": "https://image.tmdb.org/t/p/original/sZ2NEMzcDAGM42BP3TYPzzmoRFO.jpg",
+      "release_date": "2022-11-18",
+      "title": "Best in Snow",
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1,
+      "type": "Disney",
+      "age": "PG",
+      "overview_ar": "عطلة احتفالية خاصة ، يستضيفها Tituss Burgess ، تضم فرقًا من جميع أنحاء العالم تم نقلها إلى قرية ثلجية سحرية ، Snowdome ، وألقيت في منافسة حماسية للتنافس على لقب Best in Snow.",
+      "trailer": "https://www.youtube.com/watch?v=mrDe05g1bLU&ab_channel=DisneyPlus",
+      "genres": [
+        {
+          "name": "TV Movie",
+          "name_ar": "فيلم تلفزيوني"
+        },
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1023795"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1023795"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Best%20in%20Snow/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Best%20in%20Snow/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Best%20in%20Snow/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Best%20in%20Snow/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Best%20in%20Snow/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-oznw1ui7we2r.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3guc000e0a"
+            },
+            {
+              "server": "https://vidshar.org/embed-1hwczj8yroip.html"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/pkLegAR3G5T63B2Xz2ijbD1BAm8.jpg",
       "genre_ids": [
         27,
@@ -6481,16 +7209,81 @@
         12
       ],
       "id": 436270,
+      "imdb_id": "tt6443346",
       "original_language": "en",
       "original_title": "Black Adam",
       "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods and imprisoned just as quickly Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
-      "popularity": 252.681,
+      "popularity": 15314.93,
       "poster_path": "https://image.tmdb.org/t/p/original/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg",
       "release_date": "2022-10-19",
       "title": "Black Adam",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 7.273,
+      "vote_count": 2111,
+      "logo": "https://www.themoviedb.org/t/p/original/x7xe0iHRZ0zLVAIJPiBDDwixsuv.png",
+      "age": "PG-13",
+      "overview_ar": "يتناول العمل قصة شخصية من شخصيات عالم (Shazam)، وهي بلاك آدم، وهو الرجل الذي وقف محايدًا ما بين كونه بطلًا أو شريرًا، كما أنه يتمتع بقدرات سحرية غير عادية.",
+      "trailer": "https://www.youtube.com/watch?v=mkomfZHG5q4&ab_channel=WarnerBros.Pictures",
+      "genres": [
+        {
+          "name": "Action",
+          "name_ar": "حركة"
+        },
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=436270"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=436270"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Black%20Adam/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Black%20Adam/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Black%20Adam/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Black%20Adam/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Black%20Adam/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-sjzuaca9gbql.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-o3gu53gs3bgq.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3h4s0001c8"
+            },
+            {
+              "server": "https://vadbam.com/embed-9is1smwyh7d8.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-9gw2qa16gjfy.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt6443346"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -7503,12 +8296,24 @@
             {
               "server": "https://www.2embed.to/embed/tmdb/movie?id=882598"
             },
-            {"server": "https://vidhd.fun/embed-jcbf37fpdgx2.html"},
-            {"server": "https://gostream.pro/embed-l719ipbui6dy.html"},
-            {"server": "https://gostream.pro/embed-wc0owdfzxgo4.html"},
-            {"server": "https://www.linkbox.to/player.html?id=fp3gm0000hzn"},
-            {"server": "https://vadbam.com/embed-7d6lipaux8lx.html"},
-            {"server": "https://vidshar.org/embed-lzcvev7atz5a.html"},
+            {
+              "server": "https://vidhd.fun/embed-jcbf37fpdgx2.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-l719ipbui6dy.html"
+            },
+            {
+              "server": "https://gostream.pro/embed-wc0owdfzxgo4.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3gm0000hzn"
+            },
+            {
+              "server": "https://vadbam.com/embed-7d6lipaux8lx.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-lzcvev7atz5a.html"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt15474916"
             },
@@ -14470,20 +15275,65 @@
       "video": false,
       "vote_average": 6.2,
       "vote_count": 11,
+      "overview_ar": "في إطار من المغامرات والكوميديا، يتناول العمل قصة تمساح استثنائي يعيش في مدينة نيويورك الأمريكية وسط البشر.",
       "logo": "https://www.themoviedb.org/t/p/original/4zA1KJ1IUI1bVyg8mTzgXbA4EAw.png",
       "trailer": "https://www.youtube.com/watch?v=kSHecHtkXAc&ab_channel=SonyPicturesEntertainment",
       "genres": [
         {
-          "id": 35,
-          "name": "Comedy"
+          "name": "Comedy",
+          "name_ar": "كوميديا"
         },
         {
-          "id": 10751,
-          "name": "Family"
+          "name": "Family",
+          "name_ar": "عائلة"
         },
         {
           "id": 10402,
-          "name": "Music"
+          "name": "Music",
+          "name_ar": "موسيقى"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=830784"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=830784"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Crocodile/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Crocodile/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Crocodile/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Crocodile/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Crocodile/e/videojs.html"
+            },
+            {
+              "server": "https://vidhd.fun/embed-f74j8i0lqbo1.html"
+            },
+            {
+              "server": "https://www.linkbox.to/player.html?id=fp3h4s000o7f"
+            },
+            {
+              "server": "https://vadbam.com/embed-7icekl4yumrz.html"
+            },
+            {
+              "server": "https://vidshar.org/embed-qmokmma9m9vz.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14668630"
+            }
+          ],
+          "name": "Watch"
         }
       ]
     },
@@ -21250,13 +22100,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=1"
             },
             {
+              "server": "https://filemoon.sx/e/9e8xeb01tndj"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=1"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/gpNgUEhX-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/gpNgUEhX-BI2JS0Mm"
             },
             {
               "server": "https://www.solidfiles.com/e/M2GW5qNZW8Gmz"
@@ -21278,13 +22125,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=2"
             },
             {
+              "server": "https://filemoon.sx/e/0otsng1zo5wp"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=2"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/k40P27xT-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/k40P27xT-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/sJsC3aRT#yxjVTM6nQ8ZUkmicJQJ1_cKEu6xb3keiH0OmitGk-WU"
@@ -21306,13 +22150,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=3"
             },
             {
+              "server": "https://filemoon.sx/e/0trhdwwbcy1e"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=3"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/WV5S2TqV-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/WV5S2TqV-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/1U8gVSQS#6q2H16ervVKRfcT4yff7wlg0t6G7_8lmRDyx2cMVqDs"
@@ -21337,13 +22178,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=4"
             },
             {
+              "server": "https://filemoon.sx/e/7rnjre66xj43"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=4"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/feKhd7lD-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/feKhd7lD-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/Zd9E3aoA#9LjBh5rg_AeqW37FP7i1TM9ZzDyKOUsLluKZuNImoJA"
@@ -21365,13 +22203,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=5"
             },
             {
+              "server": "https://filemoon.sx/e/fkwvr9trx2zz"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=5"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/0CJyjk14-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/0CJyjk14-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/tVsmmCbS#yXlxCdYqsAU0ONix-08LrAuDaT8zSgFhyFjWEiZEKZU"
@@ -21390,13 +22225,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=6"
             },
             {
+              "server": "https://filemoon.sx/e/a6qltur4a3ry"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=6"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/gkKzG7OR-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/gkKzG7OR-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/xUlmzKTL#4yqA5EguPL85IAaVT3qLQlQKEfLiX7WujlvR38T-04E"
@@ -21421,13 +22253,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=7"
             },
             {
+              "server": "https://filemoon.sx/e/qchyog3a6j52"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=7"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/Xg7w7hNS-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/Xg7w7hNS-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/NQtmUSzD#PBiHaB_QKUhQMw0iHgkXgTDCxSAEsNUYNwHXA-kORdU"
@@ -21452,13 +22281,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=8"
             },
             {
+              "server": "https://filemoon.sx/e/yc7i326m2onf"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=8"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/arAVm7AH-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/arAVm7AH-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/ZNk21SqR#XgYziOKT5c3iO4afBRqwXfnYNz5QKUYuCjajDGwnmZI"
@@ -21477,13 +22303,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=9"
             },
             {
+              "server": "https://filemoon.sx/e/l4pz6clt5v6y"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=9"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/0MCH9J92-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/0MCH9J92-BI2JS0Mm"
             },
             {
               "server": "https://www.solidfiles.com/e/Na2VdeAzNW4N8"
@@ -21505,13 +22328,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=10"
             },
             {
+              "server": "https://filemoon.sx/e/7ybm4zjqqz2f"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=10"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/HdEDthaN-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/HdEDthaN-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/cZl2TajD#oC-2GQb89z2kQ3JMs8PIRSHm1QQuIvM3VAvhqYuC_GU"
@@ -21530,13 +22350,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=11"
             },
             {
+              "server": "https://filemoon.sx/e/y5r3gj0d0r49"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=11"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/7QeuzcIw-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/7QeuzcIw-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/xQ1m0SCC#0jksCgPICOrK2NU-uQqd_yiWPi3ptDaViquQOppGoUQ"
@@ -21558,13 +22375,10 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=12"
             },
             {
+              "server": "https://filemoon.sx/e/o03gf82uesn5"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=12"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/players/eKCEyp8C-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/eKCEyp8C-BI2JS0Mm"
             },
             {
               "server": "https://mega.nz/embed/cIt0ECpA#jtWEpA7sUSxDFaI8MbjytJM3qiFfVpHicft-ZUiJwIk"
@@ -21586,13 +22400,35 @@
               "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=13"
             },
             {
+              "server": "https://filemoon.sx/e/hmzmyijb1f2i"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=13"
             },
             {
-              "server": "https://cdn.jwplayer.com/players/bO0aRl6N-BI2JS0Mm.html"
+              "server": "https://mega.nz/embed/4d82RSTb#bjcTw3siH8yzNs_RFF7KPw56PjkApJYYuBkiEKdNUew"
             },
             {
-              "server": "https://cdn.jwplayer.com/previews/bO0aRl6N-BI2JS0Mm"
+              "server": "https://www.solidfiles.com/e/vDLNwZA3g2aRX"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "episodeId": "Episode14",
+          "name": "Episode 14",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=14"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=75214&s=1&e=14"
+            },
+            {
+              "server": "https://filemoon.sx/e/wfo368z6xjbm"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt7078180&s=1&e=14"
             },
             {
               "server": "https://mega.nz/embed/4d82RSTb#bjcTw3siH8yzNs_RFF7KPw56PjkApJYYuBkiEKdNUew"
@@ -31932,15 +32768,62 @@
           "id": 4,
           "episodeId": "Episode4",
           "name": "Episode 4",
-          "server1": ["https://play.cdngo.me/hd.php?code=tn9vimnhezg0"],
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=tn9vimnhezg0"
+          ],
           "servers": [
-            { "server": "https://play.cdngo.me/hd.php?code=tn9vimnhezg0" },
-            { "server": "https://mega.nz/embed/9KdlxZ5R!fg7uRKmiptMwyUq3_xAPRodvk6k9v146BIchAocxRZo" },
-            { "server": "https://www.ok.ru/videoembed/4011030678234" },
-            { "server": "https://sblongvu.com/e/sdm2fi59596n" },
-            { "server": "https://vadbam.com/embed-tk5x02b2fqgu.html" },
-            { "server": "https://sblongvu.com/e/x2e2ihsyxlfb" },
-            { "server": "https://mega.nz/embed/BTlhiaAK!Ntl9SXFluIPCN7eealCT3qnWjATF-gU_Mqx41TUqF98" }
+            {
+              "server": "https://play.cdngo.me/hd.php?code=tn9vimnhezg0"
+            },
+            {
+              "server": "https://mega.nz/embed/9KdlxZ5R!fg7uRKmiptMwyUq3_xAPRodvk6k9v146BIchAocxRZo"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/4011030678234"
+            },
+            {
+              "server": "https://sblongvu.com/e/sdm2fi59596n"
+            },
+            {
+              "server": "https://vadbam.com/embed-tk5x02b2fqgu.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/x2e2ihsyxlfb"
+            },
+            {
+              "server": "https://mega.nz/embed/BTlhiaAK!Ntl9SXFluIPCN7eealCT3qnWjATF-gU_Mqx41TUqF98"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "episodeId": "Episode5",
+          "name": "Episode 5",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=8c3pav2opju1"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=8c3pav2opju1"
+            },
+            {
+              "server": "https://sblongvu.com/e/vehb32ajsmk9"
+            },
+            {
+              "server": "https://mega.nz/embed/1LV2QZpZ!8XLzbHGZmRmDhGIHF3laczrbv_cUsGvrRoukRcEqmXA"
+            },
+            {
+              "server": "https://vadbam.com/embed-j1viol5r34f6.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/oTzrbjepku/"
+            },
+            {
+              "server": "https://sblongvu.com/e/d9etmxdxcxlt"
+            },
+            {
+              "server": "https://mega.nz/embed/JP00gTZT!e8Gr0icciS1pK6W82B_zogu76vPzlAMQyUiPe5DsqcA"
+            }
           ]
         }
       ]
@@ -32177,6 +33060,68 @@
             },
             {
               "server": "https://highload.to/e/dczvzfns73bu"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "episodeId": "Episode7",
+          "name": "Episode 7",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=cme1n7afn78i"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=cme1n7afn78i"
+            },
+            {
+              "server": "https://mega.nz/embed/MelGXIqb!_4bxeTzIHevfZOPWxfKgXcUCWX9xCfkDIdjxMK_rvIU"
+            },
+            {
+              "server": "https://sblongvu.com/e/0q6czhzz3rhp"
+            },
+            {
+              "server": "https://vadbam.com/embed-79hegclhcwzd.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/mc9tlp6Xge/"
+            },
+            {
+              "server": "https://sblongvu.com/e/dzggm9l33qdq"
+            },
+            {
+              "server": "https://mega.nz/embed/5aU1GYxA!H8G7OERtD8LFS-7qZPwc7C6RUXKPlmB1vt4N46_6Wsc"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=c3e5n281lu6q"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=c3e5n281lu6q"
+            },
+            {
+              "server": "https://mega.nz/embed/UXN3QIJQ!Eg20e1i-3fHGH-KuPVWIpmEGMeBuW341f56GJKbpNts"
+            },
+            {
+              "server": "https://sblongvu.com/e/qky293t4aztu"
+            },
+            {
+              "server": "https://vadbam.com/embed-v2cmq0vywdvz.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/afLxXPaBfa/"
+            },
+            {
+              "server": "https://sblongvu.com/e/6y1z9pqlzh7z"
+            },
+            {
+              "server": "https://mega.nz/embed/QO0zhLJK!XzaDfySReCk_pxewC-bijA2RD9zFmkFLaxJTkNFHxoA"
             }
           ]
         }
@@ -33922,6 +34867,62 @@
             },
             {
               "server": "https://mega.nz/embed/1SUF0RIA!DzCDjBPASkXRBluLOPChIu51QL5leHQ3B2-UFNlgSZ8"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=qanq2k0onf8c"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=qanq2k0onf8c"
+            },
+            {
+              "server": "https://sblongvu.com/e/6fwziqitvbzh"
+            },
+            {
+              "server": "https://mega.nz/embed/JbN21Kaa!vuIiWriKToOyCsf2tDMhkC0C1jH4AqYtktqsSqnYNZA"
+            },
+            {
+              "server": "https://vadbam.com/embed-f6t6rivhv2u7.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/2hgdz6nx25he"
+            },
+            {
+              "server": "https://mega.nz/embed/EHEBwBSJ!ZzKcKFTV9k6ISKMzaLU3_W17PSw0-omGa8tOF-zHpqI"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=6h14q17vuji9"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=6h14q17vuji9"
+            },
+            {
+              "server": "https://sblongvu.com/e/9ji7f5q817lf"
+            },
+            {
+              "server": "https://mega.nz/embed/0f0EzbrL!1hvHcvC7hS_mbcU2isJ66eb2vvB_hKId0ub7GkwLq_w"
+            },
+            {
+              "server": "https://vadbam.com/embed-unpsrytlf96e.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/zrl7iihvbgnb"
+            },
+            {
+              "server": "https://mega.nz/embed/4H0gQTjQ!KI4J72a4nKQGOwzIC_gJez8zjsUIG3RvP-IdbdZeUzY"
             }
           ]
         }
@@ -40260,15 +41261,62 @@
           "id": 7,
           "episodeId": "Episode7",
           "name": "Episode 7",
-          "server1": ["https://play.cdngo.me/hd.php?code=ajtkrsirqthx"],
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=ajtkrsirqthx"
+          ],
           "servers": [
-            { "server": "https://play.cdngo.me/hd.php?code=ajtkrsirqthx" },
-            { "server": "https://mega.nz/embed/4PFGUbLQ!4YULKk02h72Y4oEbxI56p00dXEBbzwrRYnQNfcSn87k" },
-            { "server": "https://sblongvu.com/e/qt9mtrvdv7e4" },
-            { "server": "https://www.ok.ru/videoembed/4012791040730" },
-            { "server": "https://vadbam.com/embed-3mc2tdjm4xuj.html" },
-            { "server": "https://sblongvu.com/e/24rfivto43ku" },
-            { "server": "https://mega.nz/embed/BP8EHQ7C!b244n9EFn_hbPjsERAOZSWtzMO0nj19r9j84CykbxpI" }
+            {
+              "server": "https://play.cdngo.me/hd.php?code=ajtkrsirqthx"
+            },
+            {
+              "server": "https://mega.nz/embed/4PFGUbLQ!4YULKk02h72Y4oEbxI56p00dXEBbzwrRYnQNfcSn87k"
+            },
+            {
+              "server": "https://sblongvu.com/e/qt9mtrvdv7e4"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/4012791040730"
+            },
+            {
+              "server": "https://vadbam.com/embed-3mc2tdjm4xuj.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/24rfivto43ku"
+            },
+            {
+              "server": "https://mega.nz/embed/BP8EHQ7C!b244n9EFn_hbPjsERAOZSWtzMO0nj19r9j84CykbxpI"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=j9zfk42ampmb"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=j9zfk42ampmb"
+            },
+            {
+              "server": "https://mega.nz/embed/dTsAnJJR!yIlXyzDrKe0MMayDTsmKKOROR9JJkUNRmiDWE-luB8o"
+            },
+            {
+              "server": "https://sblongvu.com/e/7ww6sexscaj7"
+            },
+            {
+              "server": "https://vadbam.com/embed-2cjnxuqshrfc.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/xdRxua1djq/"
+            },
+            {
+              "server": "https://sblongvu.com/e/vq23ki2luupb"
+            },
+            {
+              "server": "https://mega.nz/embed/AXFyiYYa!DB5QGNTix8Dd5fY2lt0PYF-8R-7LvUZ5dgvph185oqw"
+            }
           ]
         }
       ]
@@ -40695,15 +41743,59 @@
           "id": 7,
           "episodeId": "Episode7",
           "name": "Episode 7",
-          "server1": ["https://play.cdngo.me/hd.php?code=holvm91apev5"],
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=holvm91apev5"
+          ],
           "servers": [
-            { "server": "https://play.cdngo.me/hd.php?code=holvm91apev5" },
-            { "server": "https://mega.nz/embed/pSFxBaAa!eAqIoXJa08hKuXDj9oWu-gjHOohMNp5mW4Ib3SyyCDI" },
-            { "server": "https://sblongvu.com/e/jqyqrs31xmoc" },
-            { "server": "https://vadbam.com/embed-k4efya66w08u.html" },
-            { "server": "https://www.4shared.com/web/embed/file/zoWw7X8Djq/" },
-            { "server": "https://sblongvu.com/e/cy41sv0foo1q" },
-            { "server": "https://mega.nz/embed/JSEHTZBT!8q8PnBS15rQySUuUkIYvp26CCWkMAS1tkBn-Nf_NFNA" }
+            {
+              "server": "https://play.cdngo.me/hd.php?code=holvm91apev5"
+            },
+            {
+              "server": "https://mega.nz/embed/pSFxBaAa!eAqIoXJa08hKuXDj9oWu-gjHOohMNp5mW4Ib3SyyCDI"
+            },
+            {
+              "server": "https://sblongvu.com/e/jqyqrs31xmoc"
+            },
+            {
+              "server": "https://vadbam.com/embed-k4efya66w08u.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/zoWw7X8Djq/"
+            },
+            {
+              "server": "https://sblongvu.com/e/cy41sv0foo1q"
+            },
+            {
+              "server": "https://mega.nz/embed/JSEHTZBT!8q8PnBS15rQySUuUkIYvp26CCWkMAS1tkBn-Nf_NFNA"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://cdngo.me/video/c7e30c4f80e9452d40245385c6572936"
+          ],
+          "servers": [
+            {
+              "server": "https://cdngo.me/video/c7e30c4f80e9452d40245385c6572936"
+            },
+            {
+              "server": "https://mega.nz/embed/seVjFDyS!bm6TG4TmXt2nrlD1svv7ms_C7f3I1yN3qjinXK7_LOk"
+            },
+            {
+              "server": "https://sblongvu.com/e/tcj8wtcz9fhh"
+            },
+            {
+              "server": "https://vadbam.com/embed-3q9olyyxbzkx.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/kcg5anq99cih"
+            },
+            {
+              "server": "https://mega.nz/embed/wW9jlZZC!nE8UlovlAjHDrb7agBUKLhrnl543rYKTlEFS7spKL_E"
+            }
           ]
         }
       ]
@@ -52792,18 +53884,67 @@
           "id": 8,
           "episodeId": "Episode8",
           "name": "Episode 8",
-          "server1": [ "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=20"],
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=20"
+          ],
           "servers": [
-            { "server":  "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=20" },
-            { "server": "https://play.cdngo.me/hd.php?code=z8b2s50zn30m" },
-            { "server": "https://mega.nz/embed/USNhwbCS!bys8JqNgPXw5ydNKNqMDAoosHfySlnuxBeDq4eSijlY" },
-            { "server": "https://www.ok.ru/videoembed/4011884153562" },
-            { "server": "https://sblongvu.com/e/ewf4uc9d2lsh" },
-            { "server": "https://vadbam.com/embed-irk5zgwx6fch.html" },
-            { "server": "https://sblongvu.com/e/dj2tf0svvx28" },
-            { "server": "https://mega.nz/embed/seUiQRbC!e5fUdeoovp_tCOCQaQagIZCGbUKrRaqmKqkd-9UJ-Gg" },
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=20"
+            },
+            {
+              "server": "https://play.cdngo.me/hd.php?code=z8b2s50zn30m"
+            },
+            {
+              "server": "https://mega.nz/embed/USNhwbCS!bys8JqNgPXw5ydNKNqMDAoosHfySlnuxBeDq4eSijlY"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/4011884153562"
+            },
+            {
+              "server": "https://sblongvu.com/e/ewf4uc9d2lsh"
+            },
+            {
+              "server": "https://vadbam.com/embed-irk5zgwx6fch.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/dj2tf0svvx28"
+            },
+            {
+              "server": "https://mega.nz/embed/seUiQRbC!e5fUdeoovp_tCOCQaQagIZCGbUKrRaqmKqkd-9UJ-Gg"
+            },
             {
               "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=20"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=toa6r5s94sdx"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=toa6r5s94sdx"
+            },
+            {
+              "server": "https://mega.nz/embed/tXVFiZBS!PeA19-l7ykTChVI1z-vdqlcHj6f1zUjzq0SFod7glqI"
+            },
+            {
+              "server": "https://sblongvu.com/e/zyljqxledvh5"
+            },
+            {
+              "server": "https://vadbam.com/embed-sce6dw8fdmrc.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/2TpKntiYge/"
+            },
+            {
+              "server": "https://sblongvu.com/e/ir182b7b83l4"
+            },
+            {
+              "server": "https://mega.nz/embed/1b0TRQAI!QQ85pU9TtCSnUcZoD8PHxwQgR3vE0CGjM9F-8BEjDYk"
             }
           ]
         }
@@ -54733,16 +55874,34 @@
           "id": 5,
           "episodeId": "Episode5",
           "name": "Episode 5",
-          "server1": ["https://play.cdngo.me/hd.php?code=phzqua1zgs6d"],
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=phzqua1zgs6d"
+          ],
           "servers": [
-            { "server": "https://play.cdngo.me/hd.php?code=phzqua1zgs6d" },
-            { "server": "https://mega.nz/embed/5GUSBAbD!M839-O-49yg2vUN14jMNoKu9pD6N1wwbev_lqfvj96o" },
-            { "server": "https://sblongvu.com/e/uaohl50bifq4" },
-            { "server": "https://www.ok.ru/videoembed/4015573175002" },
-            { "server": "https://vadbam.com/embed-sfs2mkgq65c6.html" },
-            { "server": "https://www.4shared.com/web/embed/file/58j0SOfkku/" },
-            { "server": "https://sblongvu.com/e/sze071anzfpa" },
-            { "server": "https://mega.nz/embed/RXUTEBAC!tm7qKjFOfkOAFBGDqlWfOCRWAIgapYd-cGTypEoJVd0" }
+            {
+              "server": "https://play.cdngo.me/hd.php?code=phzqua1zgs6d"
+            },
+            {
+              "server": "https://mega.nz/embed/5GUSBAbD!M839-O-49yg2vUN14jMNoKu9pD6N1wwbev_lqfvj96o"
+            },
+            {
+              "server": "https://sblongvu.com/e/uaohl50bifq4"
+            },
+            {
+              "server": "https://www.ok.ru/videoembed/4015573175002"
+            },
+            {
+              "server": "https://vadbam.com/embed-sfs2mkgq65c6.html"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/58j0SOfkku/"
+            },
+            {
+              "server": "https://sblongvu.com/e/sze071anzfpa"
+            },
+            {
+              "server": "https://mega.nz/embed/RXUTEBAC!tm7qKjFOfkOAFBGDqlWfOCRWAIgapYd-cGTypEoJVd0"
+            }
           ]
         }
       ]
