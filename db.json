@@ -1981,6 +1981,698 @@
     },
     {
       "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/chJTNb6u8gItptWayvRKLhHVyrH.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 497828,
+      "imdb_id": "tt7322224",
+      "original_language": "en",
+      "original_title": "Triangle of Sadness",
+      "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged captain. What first appeared Instagrammable ends catastrophically, leaving the survivors stranded on a desert island and fighting for survival.",
+      "popularity": 104.2,
+      "poster_path": "https://image.tmdb.org/t/p/original/fgy78BLl0gk8OzTWHZyGrSlIEON.jpg",
+      "release_date": "2022-09-23",
+      "title": "Triangle of Sadness",
+      "video": false,
+      "vote_average": 7.624,
+      "vote_count": 326,
+      "age": "17+",
+      "overview_ar": "تمت دعوة زوجين من عارضات الأزياء المشاهير في رحلة بحرية فاخرة للأثرياء ، بقيادة قبطان مختل. ما ظهر لأول مرة على Instagrammable ينتهي بشكل كارثي ، تاركًا الناجين تقطعت بهم السبل في جزيرة صحراوية ويقاتلون من أجل البقاء.",
+      "trailer": "https://www.youtube.com/watch?v=VDvfFIZQIuQ&ab_channel=NEON",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=497828"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=497828"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Triangle%20of%20Sadness/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Triangle%20of%20Sadness/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Triangle%20of%20Sadness/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Triangle%20of%20Sadness/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Triangle%20of%20Sadness/e/Anime.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt7322224"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/bfYDeFDmoweRdmTt0ifHPOMgNXV.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 972545,
+      "imdb_id": "tt14179942",
+      "original_language": "en",
+      "original_title": "Good Night Oppy",
+      "overview": "The inspirational true story of Opportunity, a rover that was sent to Mars for a 90-day mission but ended up surviving for 15 years. Follow Opportunity’s groundbreaking journey on Mars and the remarkable bond forged between a robot and her humans millions of miles away.",
+      "popularity": 29.075,
+      "poster_path": "https://image.tmdb.org/t/p/original/7DTWN79hsN5AZEhW8w4SOquSI4D.jpg",
+      "release_date": "2022-11-04",
+      "title": "Good Night Oppy",
+      "video": false,
+      "vote_average": 7.429,
+      "vote_count": 14,
+      "type": "Amazon",
+      "logo": "https://www.themoviedb.org/t/p/original/gixZXetV8SYYsICq38bwJctpRVJ.png",
+      "age": "PG",
+      "overview_ar": "القصة الحقيقية الملهمة لـ Opportunity ، مركبة الجوالة التي أُرسلت إلى المريخ في مهمة مدتها 90 يومًا ولكن انتهى بها الأمر بالبقاء على قيد الحياة لمدة 15 عامًا. تابع رحلة Opportunity الرائدة على المريخ والعلاقة الرائعة التي نشأت بين الروبوت وبشرها على بعد ملايين الأميال.",
+      "trailer": "https://www.youtube.com/watch?v=W4t58Yruhds&ab_channel=PrimeVideo",
+      "genres": [
+        {
+          "name": "Documentary",
+          "name_ar": "وثائقي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=972545"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=972545"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Good%20Night%20Oppy/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Good%20Night%20Oppy/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Good%20Night%20Oppy/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Good%20Night%20Oppy/e/Plyr.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Good%20Night%20Oppy/e/Anime.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14179942"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/7gP3aNkDHIOwAxX7Uoy19TaqAyz.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1040599,
+      "imdb_id": "tt22892896",
+      "original_language": "en",
+      "original_title": "Ghislaine Maxwell: Filthy Rich",
+      "overview": "Stories from survivors frame this documentary detailing the sex-trafficking trial of Ghislaine Maxwell, a socialite and accomplice of Jeffrey Epstein.",
+      "popularity": 36.204,
+      "poster_path": "https://image.tmdb.org/t/p/original/i9vl0FxtPQaiTOMRoKYhEuu9xw3.jpg",
+      "release_date": "2022-11-25",
+      "title": "Ghislaine Maxwell: Filthy Rich",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 9,
+      "type": "Netflix",
+      "logo": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABTk4JMab0wK5VT2Vt49UwFJ6hbPVUy70sL9E2rcmE2gw7XpXv7chew_6CSJmx3Rc1_tsR1dtFtmfC84T-cjIn6nsBFL6WL4Ewi7VdL1TOj3FojYGX5eNhIECkv9MGroN-jDqmkI06penqGG4WNW8zXz2HL-q5o-ZSA9XdBeBkuyS7pxfaMvfYA.png?r=7af",
+      "age": "17+",
+      "overview_ar": "تؤطر قصص من الناجين هذا الفيلم الوثائقي الذي يشرح بالتفصيل محاكمة الاتجار بالجنس لغيسلين ماكسويل ، وهي ناشطة اجتماعية وشريكة لجيفري إبستين.",
+      "trailer": "https://www.youtube.com/watch?v=-j0rjlfmDx4&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Documentary",
+          "name_ar": "وثائقي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1040599"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1040599"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Ghislaine%20Maxwell%20Filthy%20Rich/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Ghislaine%20Maxwell%20Filthy%20Rich/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Ghislaine%20Maxwell%20Filthy%20Rich/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Ghislaine%20Maxwell%20Filthy%20Rich/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Ghislaine%20Maxwell%20Filthy%20Rich/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt22892896"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/vOeYe5nyY7nP8pJ3gs0PINvRSqe.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 717682,
+      "imdb_id": "tt10356564",
+      "original_language": "en",
+      "original_title": "The Other Me",
+      "overview": "The life of a young architect is thrown into turmoil when he's diagnosed with a rare eye disease. As his condition worsens, he questions his life and career choices, and his relationship to his frustrated wife becomes more strained.",
+      "popularity": 3.281,
+      "poster_path": "https://image.tmdb.org/t/p/original/bpsLrj06dNoL6TEqy3aDO7n5Ruk.jpg",
+      "release_date": "2022-02-04",
+      "title": "The Other Me",
+      "video": false,
+      "vote_average": 4.4,
+      "vote_count": 6,
+      "age": "15+",
+      "overview_ar": "تتعرض حياة مهندس معماري شاب إلى حالة من الاضطراب عندما يتم تشخيص إصابته بمرض نادر في العين. مع تدهور حالته ، يشكك في حياته وخياراته المهنية ، وتصبح علاقته بزوجته المحبطة أكثر توتراً.",
+      "trailer": "https://www.youtube.com/watch?v=5MrLsGCq9mI&ab_channel=JoBloHorrorMovies",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=717682"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=717682"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Other%20Me/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Other%20Me/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Other%20Me/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Other%20Me/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Other%20Me/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10356564"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/ubtLuy2SsC7q0BIewPPOGeQVtlN.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 799375,
+      "imdb_id": "tt21819228",
+      "original_language": "en",
+      "original_title": "Stutz",
+      "overview": "In candid conversations with actor Jonah Hill, leading psychiatrist Phil Stutz explores his early life experiences and unique, visual model of therapy.",
+      "popularity": 47.056,
+      "poster_path": "https://image.tmdb.org/t/p/original/uOiJmotRM12wsgfwiEXsp3AErdU.jpg",
+      "release_date": "2022-11-14",
+      "title": "Stutz",
+      "video": false,
+      "vote_average": 7.548,
+      "vote_count": 31,
+      "type": "Netflix",
+      "logo": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABU1bDONs1nauvBOJp9KKUUXMpkG0rq4lHfBljjDGWB5Kyh6qlk-NzC2tqdeHsvrbU92QlCctAe9-TnZiBP1RInmK7x2_D0xg6HXW0J662A0c3eZChBJeg2-vcDbIYWAaUpBVLm2cFWexDc-KO6HX1Hqn_MMiMkj8XWgwQdlkka4IQ0c--uMAnQ.png?r=6be",
+      "age": "15+",
+      "overview_ar": "في محادثات صريحة مع الممثل جوناه هيل ، يستكشف الطبيب النفسي الرائد فيل ستوتز تجارب حياته المبكرة ونموذج علاجي مرئي فريد.",
+      "trailer": "https://www.youtube.com/watch?v=UKCmefQdplI&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Documentary",
+          "name_ar": "وثائقي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=799375"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=799375"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Stutz/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Stutz/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Stutz/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Stutz/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Stutz/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt21819228"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/729a5iDNxr5l2Zbc8lcwndlJavN.jpg",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 844396,
+      "imdb_id": "tt7339862",
+      "original_language": "en",
+      "original_title": "The Friendship Game",
+      "overview": "A group of teens in a small town come across a strange object that tests their loyalties to each other with increasingly destructive consequences the deeper into the game they go.",
+      "popularity": 639.703,
+      "poster_path": "https://image.tmdb.org/t/p/original/qXaJkaVTNMhrOylFi6xrWnBQGE8.jpg",
+      "release_date": "2022-11-11",
+      "title": "The Friendship Game",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 9,
+      "age": "12+",
+      "overview_ar": "تصادف مجموعة من المراهقين في بلدة صغيرة شيئًا غريبًا يختبر ولائهم لبعضهم البعض مع عواقب مدمرة بشكل متزايد كلما تعمقوا في اللعبة.",
+      "trailer": "https://www.youtube.com/watch?v=docg91waIlg&ab_channel=MovieTrailersSource",
+      "genres": [
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        },
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=844396"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=844396"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Friendship%20Game/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Friendship%20Game/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Friendship%20Game/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Friendship%20Game/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Friendship%20Game/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt7339862"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/mIrNZQw4u9fpGyllxoYEmQrdYR5.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 782936,
+      "imdb_id": "tt11212572",
+      "original_language": "en",
+      "original_title": "Nocebo",
+      "overview": "A fashion designer hires a nanny from the Philippines to assist her in caring for her family while she is suffering from what she believes is a tick-related illness. The nanny uses traditional Filipino folk healing techniques to help her, but in the process of doing so, she uncovers a horrifying truth about why she is there and why her employer is actually sick.",
+      "popularity": 28.381,
+      "poster_path": "https://image.tmdb.org/t/p/original/7aQIyXUDqVAPJQzm5BPaW8jbzCu.jpg",
+      "release_date": "2022-11-03",
+      "title": "Nocebo",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 3,
+      "age": "16+",
+      "overview_ar": "تستأجر مصممة أزياء مربية من الفلبين لمساعدتها في رعاية أسرتها بينما هي تعاني مما تعتقد أنه مرض مرتبط بالقراد. تستخدم المربية تقنيات الشفاء الشعبية الفلبينية التقليدية لمساعدتها ، ولكن أثناء القيام بذلك ، تكتشف حقيقة مروعة حول سبب وجودها وسبب مرض صاحب عملها بالفعل.",
+      "trailer": "https://www.youtube.com/watch?v=5eWX2NNvDm0&ab_channel=MovieCoverage",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=782936"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=782936"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Nocebo/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Nocebo/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Nocebo/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Nocebo/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Nocebo/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11212572"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/giveZjQGE4Pn3kJvsTn7uHqLjZS.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 615952,
+      "imdb_id": "tt10343028",
+      "original_language": "en",
+      "original_title": "Armageddon Time",
+      "overview": "In 1980, Queens, New York, a young Jewish boy befriends a rebellious African-American classmate to the disapproval of his privileged family and begins to reckon with growing up in a world of inequality and prejudice.",
+      "popularity": 109.222,
+      "poster_path": "https://image.tmdb.org/t/p/original/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg",
+      "release_date": "2022-10-28",
+      "title": "Armageddon Time",
+      "video": false,
+      "vote_average": 6.934,
+      "vote_count": 91,
+      "logo": "https://www.themoviedb.org/t/p/original/htBrXACNdJP2ffgoKUND0OTrDmW.png",
+      "age": "17+",
+      "overview_ar": "في عام 1980 ، في كوينز ، نيويورك ، يصادق صبي يهودي صغير زميلًا أمريكيًا من أصل أفريقي متمرّد في الفصل لاستنكار عائلته المتميزة ويبدأ في التفكير في نشأته في عالم من عدم المساواة والتحيز.",
+      "trailer": "https://www.youtube.com/watch?v=ZKLu3t-G9Do&ab_channel=FocusFeatures",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=615952"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=615952"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Armageddon%20Time/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Armageddon%20Time/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Armageddon%20Time/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Armageddon%20Time/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Armageddon%20Time/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10343028"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/1mSODFbYJyLE33O8pS9ppJPF81K.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1044043,
+      "imdb_id": "tt18082726",
+      "original_language": "es",
+      "original_title": "El Guau",
+      "overview": "Chema has a mission: to date Claudia, the attractive new girl at his school, and lose his virginity. Can he fulfill his dream before graduating?",
+      "popularity": 278.296,
+      "poster_path": "https://image.tmdb.org/t/p/original/gMhd8XnmOjf8BSDhJ0QPjny72h4.jpg",
+      "release_date": "2022-11-23",
+      "title": "Who's a Good Boy?",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 3,
+      "type": "Netflix",
+      "logo": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABRYe1DDohpVoyC4N35gAUi9cchs1ZsA248rfebYiVUTh_6x4tUh1SBTzQv-6svmfl0WZZLTXQBwgUxqCciJJ05CZuvpxHL2_lMC-8GJEmwobEZ_ZpkwejXO8Hex-vg_x_aZAVvG7YdI7uAdCS01BSXx1Y6JzzSQtWz6mJzX3aTOLzHCnXAWBeQ.png?r=40e",
+      "age": "+18",
+      "overview_ar": "لدى `تشيما` مهمة تتلخص في مواعدة` كلاوديا` الفتاة الجديدة الجذابة في مدرسته ، وفقدان عذريته. فهل تحقيق حلمه قبل التخرج؟",
+      "trailer": "https://www.youtube.com/watch?v=AmOheoEWjt4&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1044043"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1044043"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Whos%20a%20Good%20Boy/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Whos%20a%20Good%20Boy/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Whos%20a%20Good%20Boy/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Whos%20a%20Good%20Boy/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/Whos%20a%20Good%20Boy/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt18082726"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/kP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 736918,
+      "imdb_id": "tt13007592",
+      "original_language": "en",
+      "original_title": "The Noel Diary",
+      "overview": "Cleaning out his childhood home at Christmas, a novelist meets a woman searching for her birth mother. Will an old diary unlock their pasts — and hearts?",
+      "popularity": 392.143,
+      "poster_path": "https://image.tmdb.org/t/p/original/j7bu4lMcGs7pjsAPQ3E4WOMFBNW.jpg",
+      "release_date": "2022-11-24",
+      "title": "The Noel Diary",
+      "video": false,
+      "vote_average": 6.73,
+      "vote_count": 89,
+      "type": "Netflix",
+      "logo": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABeEXDI3g6U9yxIeUDCe3DdlxHz6_HTpF7YqEIcRVyj7eA9uXVw3x2XVycpsP1wKEP-xqnXSXFgyioQsUVz3saOai3qm4fLc-McknjQQpZTvRcKYk51ACkeNKA2kOlbrLyn45Kd1JQCzbufu6vGHrr0beEId8a0_oveeMXatkme7Zbinkwhhrvw.png?r=f51",
+      "age": "13+",
+      "overview_ar": "يلتقي روائي بامرأة تبحث عن أمّها الحقيقية أثناء عمله على ترتيب منزل طفولته خلال عيد الميلاد المجيد… فهل يمكن لمذكّرات قديمة أن تفشي أسرار ماضيهما ومشاعرهما أيضًا؟",
+      "trailer": "https://www.youtube.com/watch?v=asH6ny4ILzM&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=736918"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=736918"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Noel%20Diary/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Noel%20Diary/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Noel%20Diary/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Noel%20Diary/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Noel%20Diary/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt13007592"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/3t0DcVPuW9JRtc1CWnh1ktCKrrO.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 1023803,
+      "imdb_id": "tt22028912",
+      "original_language": "en",
+      "original_title": "The Hip Hop Nutcracker",
+      "overview": "Features Rev Run as he brings audiences on a hip-hop reimagining of The Nutcracker ballet set in NYC.",
+      "popularity": 207.666,
+      "poster_path": "https://image.tmdb.org/t/p/original/iqOGxcKViTtU7pwC24xUb1bDslw.jpg",
+      "release_date": "2022-11-25",
+      "title": "The Hip Hop Nutcracker",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 2,
+      "type": "Disney",
+      "logo": "https://www.themoviedb.org/t/p/original/4inhv4JQ3BkQRZ9HRqe2MVFW15u.png",
+      "age": "PG",
+      "overview_ar": "تنطلق `ماريا-كلارا` في مغامرة الأعياد كي تعيد والديها إلى أحدهما قبل منتصف الليل.",
+      "trailer": "https://www.youtube.com/watch?v=SRDGQZHsiGg&ab_channel=DisneyPlus",
+      "genres": [
+        {
+          "name": "Music",
+          "name_ar": "موسيقى"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1023803"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1023803"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Hip%20Hop%20Nutcracker/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Hip%20Hop%20Nutcracker/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Hip%20Hop%20Nutcracker/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Hip%20Hop%20Nutcracker/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/1/The%20Hip%20Hop%20Nutcracker/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt22028912"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/rjlG7C5GZfXutoVoE3BJaYGUhk4.jpg",
       "genre_ids": [
         28,
@@ -8252,6 +8944,633 @@
     },
     {
       "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/6wRgIFT4gyGDYycuSJSHdBGlGnW.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 457232,
+      "imdb_id": "tt5533370",
+      "original_language": "en",
+      "original_title": "Lamborghini: The Man Behind the Legend",
+      "overview": "Follow the launch of Lamborghini’s career as a manufacturer of tractors, a creator of military vehicles during World War II, and the designer of Lamborghini cars, which he launched in 1963 as the high-end sports car company Automobili Lamborghini.",
+      "popularity": 35.65,
+      "poster_path": "https://image.tmdb.org/t/p/original/RKgnYLhCNGCUkrhiCRrs40rEHe.jpg",
+      "release_date": "2022-11-18",
+      "title": "Lamborghini: The Man Behind the Legend",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 39,
+      "age": "17+",
+      "overview_ar": "تابع انطلاق مسيرة لامبورغيني المهنية كشركة مصنعة للجرارات ، ومبتكر للمركبات العسكرية خلال الحرب العالمية الثانية ، ومصمم سيارات لامبورغيني ، والتي أطلقها في عام 1963 كشركة السيارات الرياضية الراقية أوتوموبيلي لامبورغيني.",
+      "trailer": "https://www.youtube.com/watch?v=kzqwRxorvKE&ab_channel=LionsgateMovies",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=457232"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=457232"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Lamborghini%20The%20Man%20Behind%20the%20Legend/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Lamborghini%20The%20Man%20Behind%20the%20Legend/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Lamborghini%20The%20Man%20Behind%20the%20Legend/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Lamborghini%20The%20Man%20Behind%20the%20Legend/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Lamborghini%20The%20Man%20Behind%20the%20Legend/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt5533370"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/fwnXTIWQl1Ky6CgcWMBhkn9uV3g.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 817758,
+      "imdb_id": "tt14444726",
+      "original_language": "en",
+      "original_title": "TÁR",
+      "overview": "Renowned musician Lydia Tár is days away from recording the symphony that will elevate her career. When all elements seem to conspire against her, Lydia's adopted daughter Petra becomes an integral emotional support for her struggling mother.",
+      "popularity": 62.935,
+      "poster_path": "https://image.tmdb.org/t/p/original/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "release_date": "2022-10-07",
+      "title": "TÁR",
+      "video": false,
+      "vote_average": 7.582,
+      "vote_count": 55,
+      "age": "R",
+      "overview_ar": "على بعد أيام قليلة من تسجيل الموسيقي الشهير ليديا تار السيمفونية التي سترفع من مستوى مسيرتها المهنية. عندما يبدو أن جميع العناصر تتآمر ضدها ، تصبح بترا ابنة ليديا بالتبني دعمًا عاطفيًا متكاملًا لوالدتها التي تكافح.",
+      "trailer": "https://www.youtube.com/watch?v=Na6gA1RehsU&ab_channel=FocusFeatures",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Music",
+          "name_ar": "موسيقى"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=817758"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=817758"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Tár/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Tár/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Tár/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Tár/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Tár/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14444726"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/gZ8rZCuZ6I2ilZNjRYDkLw7XBWM.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 762895,
+      "imdb_id": "tt12164416",
+      "original_language": "en",
+      "original_title": "Manifest West",
+      "overview": "A coming of age story told through the eyes of a young girl whose family spirals out of control after they decide to live off the grid.",
+      "popularity": 11.791,
+      "poster_path": "https://image.tmdb.org/t/p/original/lAxUEIHjzqYcatkYKKEOudJW2mA.jpg",
+      "release_date": "2022-11-11",
+      "title": "Manifest West",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 4,
+      "age": "R",
+      "overview_ar": "قصة عن بلوغ سن الرشد تُروى بعيون فتاة صغيرة خرجت عائلتها عن نطاق السيطرة بعد أن قرروا العيش خارج الشبكة.",
+      "trailer": "https://www.youtube.com/watch?v=Np9AO5b2Ng4&ab_channel=MovieTrailersSource",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=762895"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=762895"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Manifest%20West/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Manifest%20West/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Manifest%20West/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Manifest%20West/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Manifest%20West/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt12164416"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 632856,
+      "imdb_id": "tt10999120",
+      "original_language": "en",
+      "original_title": "Spirited",
+      "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
+      "popularity": 489.931,
+      "poster_path": "https://image.tmdb.org/t/p/original/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+      "release_date": "2022-11-10",
+      "title": "Spirited",
+      "video": false,
+      "vote_average": 7.287,
+      "vote_count": 162,
+      "type": "Apple",
+      "age": "13+",
+      "overview_ar": "في كل ليلة عيد الميلاد ، يختار شبح هدية عيد الميلاد روحًا مظلمة واحدة ليتم إصلاحها من خلال زيارة من ثلاثة أرواح. لكن هذا الموسم اختار البخيل الخطأ. يقلب كلينت بريجز الطاولة على مضيفه الشبحي حتى يجد الحاضر نفسه يعيد فحص ماضيه وحاضره ومستقبله.",
+      "trailer": "https://www.youtube.com/watch?v=tnAJntI3NNs&ab_channel=AppleTV",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=632856"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=632856"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Spirited/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Spirited/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Spirited/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Spirited/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Spirited/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10999120"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/pN4PWj3Nxn0YOkNK1EwOT1OW35v.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 820880,
+      "imdb_id": "tt14397058",
+      "original_language": "en",
+      "original_title": "Aisha",
+      "overview": "Aisha, a young Nigerian woman seeking asylum in Ireland, is floundering in a maze of social services and bureaucracy. As her situation becomes increasingly dire, Aisha struggles to maintain hope and dignity against the looming threat of deportation.",
+      "popularity": 5.939,
+      "poster_path": "https://image.tmdb.org/t/p/original/n0tXekc9HOwju6meGAWBrEO84zQ.jpg",
+      "release_date": "2022-11-17",
+      "title": "Aisha",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 2,
+      "age": "13+",
+      "overview_ar": "عائشة ، شابة نيجيرية تطلب اللجوء في أيرلندا ، تتخبط في متاهة من الخدمات الاجتماعية والبيروقراطية. مع تدهور وضعها بشكل متزايد ، تكافح عائشة للحفاظ على الأمل والكرامة ضد خطر الترحيل الذي يلوح في الأفق.",
+      "trailer": "https://www.youtube.com/watch?v=blmRskDTt6M&ab_channel=WildCardDistribution",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=820880"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=820880"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Aisha/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Aisha/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Aisha/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Aisha/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Aisha/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14397058"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/4AT2EM0wOkDB6kuClleU6ElIHyl.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 579496,
+      "imdb_id": "tt7461272",
+      "original_language": "en",
+      "original_title": "Call Jane",
+      "overview": "A married woman with an unwanted pregnancy lives in a time in America where she can't get a legal abortion and works with a group of suburban women to find help.",
+      "popularity": 18.781,
+      "poster_path": "https://image.tmdb.org/t/p/original/n3oV6065tgYpukAjLxSbWcfqdg9.jpg",
+      "release_date": "2022-10-27",
+      "title": "Call Jane",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 20,
+      "type": "Amazon",
+      "age": "R",
+      "overview_ar": "تعيش امرأة متزوجة تحمل حملًا غير مرغوب فيه في وقت في أمريكا حيث لا تستطيع إجراء عملية إجهاض قانونية وتعمل مع مجموعة من نساء الضواحي للحصول على المساعدة.",
+      "trailer": "https://www.youtube.com/watch?v=ySpqyKqxOWc&ab_channel=PrimeVideoAU%26NZ",
+      "genres": [
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=579496"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=579496"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Call%20Jane/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Call%20Jane/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Call%20Jane/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Call%20Jane/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Call%20Jane/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt7461272"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/fw3ohYsVQDYASmjEr9ZZuvTB4rL.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 802372,
+      "imdb_id": "tt9071456",
+      "original_language": "en",
+      "original_title": "The People We Hate at the Wedding",
+      "overview": "A dysfunctional family that can't seem to get along and get it together reluctantly reunites for a family wedding. As their many skeletons are wrenched from the closet, it turns out to be just what this singular family needs to reconnect.",
+      "popularity": 135.752,
+      "poster_path": "https://image.tmdb.org/t/p/original/kQZKw9jetOInPPdSZgbKFxJALHc.jpg",
+      "release_date": "2022-11-17",
+      "title": "The People We Hate at the Wedding",
+      "video": false,
+      "vote_average": 6.246,
+      "vote_count": 59,
+      "type": "Amazon",
+      "age": "16+",
+      "overview_ar": "عائلة مختلة وظيفيًا لا يبدو أنها تتماشى وتجتمع معًا على مضض من أجل حفل زفاف عائلي. نظرًا لأن العديد من الهياكل العظمية تم انتزاعها من الخزانة ، فقد تبين أنها مجرد ما تحتاجه هذه العائلة الفردية لإعادة الاتصال.",
+      "trailer": "https://www.youtube.com/watch?v=mXeS6ELErIs&ab_channel=PrimeVideo",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=802372"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=802372"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20People%20We%20Hate%20at%20the%20Weddin/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20People%20We%20Hate%20at%20the%20Weddin/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20People%20We%20Hate%20at%20the%20Weddin/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20People%20We%20Hate%20at%20the%20Weddin/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20People%20We%20Hate%20at%20the%20Weddin/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt9071456"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/tP5PwKwDxnFu6FpM2hOWyqjf6Qy.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 823766,
+      "imdb_id": "tt9288822",
+      "original_language": "en",
+      "original_title": "The Wonder",
+      "overview": "Haunted by her past, a nurse travels from England to a remote Irish village in 1862 to investigate a young girl's supposedly miraculous fast.",
+      "popularity": 151.383,
+      "poster_path": "https://image.tmdb.org/t/p/original/4dX1LPGuZG0FSoP9y9SyDKLYicy.jpg",
+      "release_date": "2022-11-02",
+      "title": "The Wonder",
+      "video": false,
+      "vote_average": 6.743,
+      "vote_count": 251,
+      "type": "Netflix",
+      "logo": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABW7IiUPZOGmvSP7ni1ngi1lUNGruSP3Ga1ngKyp6NV_Z6U66BaUUtzn-mwpOEGaA-J0QQ2ozen8A0xu_SwZ15n2fCeN3J5EnmB5MoPMKV9yyLlU5alBneT_w-mY3newlGWfLxIOENI-rpoh6s2A03cpcnnZBJL0EhUCi7Ysv906Pqp5zR3j60w.png?r=acf",
+      "age": "18+",
+      "overview_ar": "في عام 1862، تسافر ممرّضة يطاردها ماضيها من إنجلترا إلى قرية أيرلندية نائية للتحقق من مزاعم حول صوم فتاة صغيرة عن الأكل بأعجوبة.",
+      "trailer": "https://www.youtube.com/watch?v=htybz7XscIY&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=823766"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=823766"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Wonder/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Wonder/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Wonder/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Wonder/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/The%20Wonder/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt9288822"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8gtogcxiWiODHR4BMscTsHplbH9.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 913129,
+      "imdb_id": "tt13316790",
+      "original_language": "sv",
+      "original_title": "Ur spår",
+      "overview": "A mid-age hipster in Stockholm is a training freak and trains for the 90 km ski race Vasaloppet. His sister is the opposite, no job, drinks but has a daughter. Suddenly secrets reveals and promises are made.",
+      "popularity": 13.903,
+      "poster_path": "https://image.tmdb.org/t/p/original/4yV6DjHg9ALJaopXlktvXphh9xR.jpg",
+      "release_date": "2022-01-28",
+      "title": "Off Track",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 23,
+      "type": "Netflix",
+      "logo": "https://occ-0-55-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABcWksGKZ7YWwjSSAf9iB05-_aWV0RfyCRK664hFNy8a4TBnZKrAkXfiVyExVErTTz6rTpvfXnAQTPjjJR0L6MDeXTkT6pI1yM-s4q_Bt9QNaHxv_X9hlCnnw4DaUlcXqtmNnnIIGYdSvaPnEiOPtjVoEnk2OO-dgzQnwyB7jSotizE9_GjA9cw.png?r=647",
+      "age": "18+",
+      "overview_ar": "في نوبة من اليأس ، تعدّ أمّ عزباء مُحبطة العدّة وتحاول المشاركة في سباق `فاسا` للتزلج مع شقيقها الذي يسعى نحو الكمال ... إلى حدّ ما.",
+      "trailer": "https://www.youtube.com/watch?v=Jinr-r1Bp1s&ab_channel=Netflix%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=913129"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=913129"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt13316790"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/p9R163gjE6Z5g4eWY1qnvU4vbW2.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 888321,
+      "imdb_id": "tt11992694",
+      "original_language": "de",
+      "original_title": "Corsage",
+      "overview": "A fictional account of one year in the life of Empress Elisabeth of Austria. On Christmas Eve 1877, Elisabeth, once idolized for her beauty, turns 40 and is officially deemed an old woman; she starts trying to maintain her public image.",
+      "popularity": 21.018,
+      "poster_path": "https://image.tmdb.org/t/p/original/dWvkUmd6EfYKJvpaw3kqwBLQ8jg.jpg",
+      "release_date": "2022-07-07",
+      "title": "Corsage",
+      "video": false,
+      "vote_average": 6.605,
+      "vote_count": 19,
+      "age": "NR",
+      "overview_ar": "سرد خيالي لمدة عام واحد في حياة الإمبراطورة إليزابيث في النمسا. عشية عيد الميلاد عام 1877 ، أصبحت إليزابيث ، التي كانت معبودة بجمالها ، تبلغ من العمر 40 عامًا وتعتبر رسميًا امرأة عجوز. بدأت في محاولة الحفاظ على صورتها العامة.",
+      "trailer": "https://www.youtube.com/watch?v=P7LpMtLRe2E&ab_channel=IFCFilms",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=888321"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=888321"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Corsage/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Corsage/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Corsage/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Corsage/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Corsage/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11992694"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "https://image.tmdb.org/t/p/original/mVNPfpydornVe4H4UCIk7WevWjf.jpg",
       "genre_ids": [
         27,
@@ -8263,7 +9582,7 @@
       "original_title": "Smile",
       "overview": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
       "popularity": 212.178,
-      "poster_path": "https://image.tmdb.org/t/p/original/hiaeZKzwsk4y4atFhmncO5KRxeT.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/original/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
       "release_date": "2022-09-23",
       "title": "Smile",
       "video": false,
@@ -8295,6 +9614,21 @@
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/movie?id=882598"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Smile/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Smile/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Smile/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Smile/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Smile/e/Plyr.html"
             },
             {
               "server": "https://vidhd.fun/embed-jcbf37fpdgx2.html"
@@ -18589,6 +19923,21 @@
           "servers": [
             {
               "server": "https://www.2embed.to/embed/tmdb/movie?id=707103"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Emily/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Emily/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Emily/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Emily/e/Anime.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/Emily/e/Plyr.html"
             },
             {
               "server": "https://filemoon.sx/e/ayfoy6xm5i2w/v.mp4"
@@ -33917,6 +35266,65 @@
               "server": "https://mega.nz/embed/MDkjTYaS!Y29zGRG4LFjsCYuaLz4LoqMSnEq8j8X0vN8O8lZaGE8"
             }
           ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=c648zak73dev"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=c648zak73dev"
+            },
+            {
+              "server": "https://mega.nz/embed/9TUmCb4T!TiYSDp0LyjDRcV85pXvud0cX3D3MOiqNJJubJnLvnD0"
+            },
+            {
+              "server": "https://sblongvu.com/e/kno9s0av9jpi"
+            },
+            {
+              "server": "https://vadbam.com/embed-fk3dovm3j05f.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/ks7ahxwa3eh4"
+            },
+            {
+              "server": "https://mega.nz/embed/QK1EHZgA!NaafhrPQWFJ9ZiFEAZgPd2ulY0gltu6K28aA2HTaYrQ"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=gqynsabx3fmy"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=gqynsabx3fmy"
+            },
+            {
+              "server": "https://sblongvu.com/e/70p06cbn4dx7"
+            },
+            {
+              "server": "https://mega.nz/embed/ISlkiQ6T!A2Ph9hDNeW4SOmqzMEXNPzFIqUjXAK4MEvCDkLZqzXc"
+            },
+            {
+              "server": "https://www.4shared.com/web/embed/file/KE56nUgIge/"
+            },
+            {
+              "server": "https://sblongvu.com/e/l0fu8q61rhbu"
+            },
+            {
+              "server": "https://vadbam.com/embed-htovnq1qxo3u.html"
+            },
+            {
+              "server": "https://mega.nz/embed/kTMzWK7B!uDr4NL0YmDv5FAjkm53afh23RmLeuPFhhdb5bvZ9A64"
+            }
+          ]
         }
       ]
     },
@@ -34620,6 +36028,62 @@
             },
             {
               "server": "https://mega.nz/embed/tOMSXR6B!SVhCqthcqMdc3tMYBoQTore0-WBzQAtainx5h23M4tw"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "episodeId": "Episode8",
+          "name": "Episode 8",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=j3r2jt0wuajr"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=j3r2jt0wuajr"
+            },
+            {
+              "server": "https://mega.nz/embed/pP8SFJLL!SUWSKhnZ7_T5BPCCFkL3snVPgl0ZJG4w73RfV6y8PXY"
+            },
+            {
+              "server": "https://sblongvu.com/e/she925m3celp"
+            },
+            {
+              "server": "https://vadbam.com/embed-1ghmqwfvf6zi.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/gcyqrgkona5x"
+            },
+            {
+              "server": "https://mega.nz/embed/tClmCJrS!Nz7hK2s9FM7ejj7sjT5XjSLuV5CJ22XUXggxU6UtPoA"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "episodeId": "Episode9",
+          "name": "Episode 9",
+          "server1": [
+            "https://play.cdngo.me/hd.php?code=hfparj74qn40"
+          ],
+          "servers": [
+            {
+              "server": "https://play.cdngo.me/hd.php?code=hfparj74qn40"
+            },
+            {
+              "server": "https://sblongvu.com/e/f7487lj3ae8z"
+            },
+            {
+              "server": "https://mega.nz/embed/JD9TlawD!kmU0q4CrsSTjmUzGg8awII3HzjpCspJbdeZDlM-PAFk"
+            },
+            {
+              "server": "https://vadbam.com/embed-86htiqyi2n2q.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/5d98rkdqek4x"
+            },
+            {
+              "server": "https://mega.nz/embed/BWViQJhZ!Vv1DLYUSXziwgqNoabbnbobg1TJMqD1O_AqNU39JNkw"
             }
           ]
         }
@@ -63817,7 +65281,7 @@
         10765,
         10759
       ],
-      "id": 85720,
+      "id": 83125,
       "imdb_id": "tt8210856",
       "name": "Cursed",
       "origin_country": [
@@ -63854,11 +65318,11 @@
           "episodeId": "Episode1",
           "name": "Episode 1",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=1"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=1"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=1"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=1"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=1"
@@ -63873,11 +65337,11 @@
           "episodeId": "Episode2",
           "name": "Episode 2",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=2"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=2"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=2"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=2"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=2"
@@ -63892,11 +65356,11 @@
           "episodeId": "Episode3",
           "name": "Episode 3",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=3"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=3"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=3"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=3"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=3"
@@ -63911,11 +65375,11 @@
           "episodeId": "Episode4",
           "name": "Episode 4",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=4"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=4"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=4"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=4"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=4"
@@ -63930,11 +65394,11 @@
           "episodeId": "Episode5",
           "name": "Episode 5",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=5"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=5"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=5"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=5"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=5"
@@ -63949,11 +65413,11 @@
           "episodeId": "Episode6",
           "name": "Episode 6",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=6"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=6"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=6"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=6"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=6"
@@ -63968,11 +65432,11 @@
           "episodeId": "Episode7",
           "name": "Episode 7",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=7"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=7"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=7"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=7"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=7"
@@ -63987,11 +65451,11 @@
           "episodeId": "Episode8",
           "name": "Episode 8",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=8"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=8"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=8"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=8"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=8"
@@ -64006,11 +65470,11 @@
           "episodeId": "Episode9",
           "name": "Episode 9",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=9"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=9"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=9"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=9"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=9"
@@ -64025,11 +65489,11 @@
           "episodeId": "Episode10",
           "name": "Episode 10",
           "server1": [
-            "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=10"
+            "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=10"
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/tv?id=85720&s=1&e=10"
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=83125&s=1&e=10"
             },
             {
               "server": "https://www.2embed.to/embed/title/tv?title=Cursed&year=2020&s=1&e=10"
