@@ -4080,19 +4080,14 @@
       "popularity": 564.528,
       "poster_path": "https://image.tmdb.org/t/p/original/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
       "release_date": "2022-06-15",
-<<<<<<< HEAD
       "vote_average": 7.2,
       "vote_count": 2135,
       "title": "Lightyear",
       "age": "6+",
-=======
-      "title": "Lightyear",
->>>>>>> origin
       "type": "Disney",
       "video": false,
       "genres": [
         {
-<<<<<<< HEAD
           "name": "Animation",
           "name_ar": "رسوم متحركة"
         },
@@ -4111,31 +4106,10 @@
         {
           "name": "Science & Fiction",
           "name_ar": "خيال علمي"
-=======
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 28,
-          "name": "Action"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        },
-        {
-          "id": 10751,
-          "name": "Family"
-        },
-        {
-          "id": 878,
-          "name": "Science Fiction"
->>>>>>> origin
         }
       ],
       "play": [
         {
-<<<<<<< HEAD
           "server1": [
             "https://www.2embed.to/embed/tmdb/movie?id=718789"
           ],
@@ -4163,29 +4137,10 @@
             },
             {
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt10298810"
-=======
-          "id": 233557,
-          "server1": [
-            "https://cdn.jwplayer.com/players/vAXgM7wc-BI2JS0Mm.html"
-          ],
-          "servers": [
-            {
-              "server": "https://cdn.jwplayer.com/players/vAXgM7wc-BI2JS0Mm.html"
-            },
-            {
-              "server": "https://cdn.jwplayer.com/previews/vAXgM7wc-BI2JS0Mm"
-            },
-            {
-              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10298810"
-            },
-            {
-              "server": "https://www.2embed.to/embed/tmdb/movie?id=718789"
->>>>>>> origin
             }
           ],
           "name": "Watch"
         }
-<<<<<<< HEAD
       ]
     },
     {
@@ -4748,11 +4703,6 @@
           "name": "Watch"
         }
       ]
-=======
-      ],
-      "vote_average": 7.2,
-      "vote_count": 2135
->>>>>>> origin
     },
     {
       "adult": false,
@@ -6321,7 +6271,6 @@
       "title": "The Gray Man",
       "video": false,
       "vote_average": 7,
-<<<<<<< HEAD
       "vote_count": 2122,
       "type": "Netflix",
       "logo": "https://occ-0-769-56.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWQ83gIKK64F0Vw8_a85ONbVFSVdIXXE9zhzVTDCZmKNQWob9lbl35dHF71BCJcNK_GTTRguNHDsteCv5jMFtlA0Pup_mpkaNZ-iC0-DclogncWEuh0gOfNtXiE_KoUQopkxCDrN3uU_oUP7_H_mbV1Z02lokBjEE-xm29X1dqKLcg5rECr6yw.png?r=ab6",
@@ -6781,9 +6730,6 @@
           "name": "Watch"
         }
       ]
-=======
-      "vote_count": 2122
->>>>>>> origin
     },
     {
       "adult": false,
@@ -7686,10 +7632,7 @@
       "vote_count": 328,
       "overview_ar": "مستوحى من قصة حقيقية لعائلة اعتقدت أنها ممسوسة بالأرواح ، هذا الفيلم يتبع امرأة يجب أن تحمي طفلها من اللعنة. تحذير: هذا مقطع فيديو ملعون ، قد يحتوي على مخاطر معينة لمشاهدتها. بالنسبة لهؤلاء من يجرؤ على المتابعة ، يرجى حل لغز لعنة ابنتي معي",
       "trailer": "https://www.youtube.com/watch?v=HnyNZdcL_GY&ab_channel=NetflixAsia",
-<<<<<<< HEAD
       "age": "16+",
-=======
->>>>>>> origin
       "genres": [
         {
           "name": "Horror",
@@ -7706,7 +7649,6 @@
               "server": "https://www.2embed.to/embed/tmdb/movie?id=864370"
             },
             {
-<<<<<<< HEAD
               "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/3/Incantation/e/jwplayer.html"
             },
             {
@@ -7725,8 +7667,6 @@
               "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/3/Incantation/e/Plyr.html"
             },
             {
-=======
->>>>>>> origin
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt18968540"
             },
             {
@@ -7739,7 +7679,6 @@
     },
     {
       "adult": false,
-<<<<<<< HEAD
       "backdrop_path": "https://image.tmdb.org/t/p/original/5HgmYfCGZRtx0PnQxDTg3Djqrrd.jpg",
       "genre_ids": [
         80
@@ -7802,8 +7741,6 @@
     },
     {
       "adult": false,
-=======
->>>>>>> origin
       "backdrop_path": "https://image.tmdb.org/t/p/original/vkjsoMF86dJIv6Sgtd4CcuR8kzh.jpg",
       "genre_ids": [
         16,
@@ -8994,32 +8931,6 @@
     },
     {
       "adult": false,
-<<<<<<< HEAD
-=======
-      "backdrop_path": "https://image.tmdb.org/t/p/original/baf8eep8af9y7ekjN9X1OW9y01V.jpg",
-      "genre_ids": [
-        28,
-        14,
-        9648,
-        878,
-        35,
-        12
-      ],
-      "id": 601796,
-      "original_language": "ko",
-      "original_title": "외계+인 1부",
-      "overview": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.",
-      "popularity": 254.703,
-      "poster_path": "https://image.tmdb.org/t/p/original/qHXTUUJ3Rsxw67Ns75u6RdGNaMJ.jpg",
-      "release_date": "2022-07-20",
-      "title": "Alienoid",
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 47
-    },
-    {
-      "adult": false,
->>>>>>> origin
       "backdrop_path": "https://image.tmdb.org/t/p/original/d5jp6mzN7opDqw4vIlpF7Sh2bLP.jpg",
       "genre_ids": [
         27,
@@ -10181,7 +10092,6 @@
     },
     {
       "adult": false,
-<<<<<<< HEAD
       "backdrop_path": "https://image.tmdb.org/t/p/original/53BC9F2tpZnsGno2cLhzvGprDYS.jpg",
       "genre_ids": [
         14,
@@ -10326,8 +10236,6 @@
     },
     {
       "adult": false,
-=======
->>>>>>> origin
       "backdrop_path": "https://image.tmdb.org/t/p/original/fwnXTIWQl1Ky6CgcWMBhkn9uV3g.jpg",
       "genre_ids": [
         18,
@@ -10808,24 +10716,6 @@
               "server": "https://www.2embed.to/embed/tmdb/movie?id=913129"
             },
             {
-<<<<<<< HEAD
-=======
-              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/videojs.html"
-            },
-            {
-              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/jwplayer.html"
-            },
-            {
-              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/MediaElement.html"
-            },
-            {
-              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/Anime.html"
-            },
-            {
-              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/2/AAAA/e/Plyr.html"
-            },
-            {
->>>>>>> origin
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt13316790"
             }
           ],
@@ -10835,7 +10725,6 @@
     },
     {
       "adult": false,
-<<<<<<< HEAD
       "backdrop_path": "https://image.tmdb.org/t/p/original/e2PR1y4qp7xVfSbwO2b2KdKwqzD.jpg",
       "genre_ids": [
         10751,
@@ -11118,8 +11007,6 @@
     },
     {
       "adult": false,
-=======
->>>>>>> origin
       "backdrop_path": "https://image.tmdb.org/t/p/original/p9R163gjE6Z5g4eWY1qnvU4vbW2.jpg",
       "genre_ids": [
         18,
@@ -14814,25 +14701,16 @@
         878
       ],
       "id": 887357,
-<<<<<<< HEAD
       "imdb_id": "tt20192230",
       "original_language": "en",
       "original_title": "Green Lantern: Beware My Power",
       "overview": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn't come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
       "popularity": 79.041,
       "poster_path": "https://image.tmdb.org/t/p/original/jU8Y6JXoj163MmOCzrT9C85MRTC.jpg",
-=======
-      "original_language": "en",
-      "original_title": "Green Lantern: Beware My Power",
-      "overview": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn't come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
-      "popularity": 152.713,
-      "poster_path": "https://image.tmdb.org/t/p/original/nS41LN1m2HYvVotvgOTcbPW2cjL.jpg",
->>>>>>> origin
       "release_date": "2022-07-12",
       "title": "Green Lantern: Beware My Power",
       "video": false,
       "vote_average": 7.2,
-<<<<<<< HEAD
       "vote_count": 104,
       "age": "13+",
       "overview_ar": "القناص البحري جون ستيوارت الذي تم تسريحه مؤخرًا يقف عند مفترق طرق في حياته ، وهو أمر معقد فقط من خلال تلقيه حلقة من خارج كوكب الأرض تمنحه قوى الفانوس الأخضر للأرض. لسوء الحظ ، الحلبة لا تأتي مع تعليمات - لكنها تأتي مع أمتعة ، مثل حشد من القتلة بين الكواكب عازمين على القضاء على كل فانوس أخضر في الكون. الآن ، بمساعدة سهم أخضر و آدم سترينج و هوك جيرل، يجب أن يسافر هذا الجندي المتردد إلى قلب حرب المجرة ران / ثاناغار وينجح بطريقة ما حيث فشلت جميع فانوس أخضر الأخرى.",
@@ -15417,9 +15295,6 @@
           "name": "Watch"
         }
       ]
-=======
-      "vote_count": 104
->>>>>>> origin
     },
     {
       "adult": false,
@@ -77887,8 +77762,4 @@
       "name": "Western"
     }
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin
