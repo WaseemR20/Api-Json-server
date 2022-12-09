@@ -61510,6 +61510,40 @@
               "server": "https://mega.nz/embed/1b0TRQAI!QQ85pU9TtCSnUcZoD8PHxwQgR3vE0CGjM9F-8BEjDYk"
             }
           ]
+        },
+        {
+          "id": 10,
+          "episodeId": "Episode10",
+          "name": "Episode 10",
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=22"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/tv?id=120089&s=1&e=22"
+            },
+            {
+              "server": "https://play.cdngo.me/hd.php?code=r8bu7mkk6ys4"
+            },
+            {
+              "server": "https://sblongvu.com/e/xgysqlo5nsh4"
+            },
+            {
+              "server": "https://mega.nz/embed/RedgWJqQ!oSgmyTtCf7tLGHk-RNZ5YpR352cPYBc1GI8ce6-KGz8"
+            },
+            {
+              "server": "https://vadbam.com/embed-t7mlhznu6ibp.html"
+            },
+            {
+              "server": "https://sblongvu.com/e/lgp7v1suiit8"
+            },
+            {
+              "server": "https://mega.nz/embed/4SNTAbCY!-M2UiaOhwsptQy0Kn6oUaGqmrwhZoS97v9dMg27rPOg"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/tv?id=tt13706018&s=1&e=22"
+            }
+          ]
         }
       ]
     },
