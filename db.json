@@ -7427,6 +7427,7 @@
       "video": false,
       "logo": "https://www.themoviedb.org/t/p/original/haibnO2TycgulXD1Fj7b94L9m9E.png",
       "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4&ab_channel=WarnerBros.Pictures",
+      "age": "14+",
       "genres": [
         {
           "name": "Crime",
@@ -7452,6 +7453,24 @@
               "server": "https://www.2embed.to/embed/tmdb/movie?id=414906"
             },
             {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Batman/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Batman/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Batman/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Batman/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Batman/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Batman/e/Plyr.html"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt1877830"
             }
           ],
@@ -7460,6 +7479,559 @@
       ],
       "vote_average": 7.7,
       "vote_count": 6333
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/tIds7fMYe3PMEbN0xuVgtiDpZ7Y.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 837881,
+      "imdb_id": "tt14807308",
+      "original_language": "en",
+      "original_title": "She Said",
+      "overview": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation — a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+      "popularity": 170.455,
+      "poster_path": "https://image.tmdb.org/t/p/original/b2g0XtMU4zH2URSkx62n1aWTXTV.jpg",
+      "release_date": "2022-11-17",
+      "title": "She Said",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 105,
+      "age": "15+",
+      "overview_ar": "قام مراسلتا نيويورك تايمز ميجان توهي وجودي كانتور بكسر واحدة من أهم القصص في جيل واحد - قصة ساعدت في إطلاق حركة #MeToo وحطمت عقودًا من الصمت حول موضوع الاعتداء الجنسي في هوليوود.",
+      "trailer": "https://www.youtube.com/watch?v=i5pxUQecM3Y&ab_channel=UniversalPictures",
+      "genres": [
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=837881"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=837881"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/She%20Said/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/She%20Said/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/She%20Said/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/She%20Said/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/She%20Said/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/She%20Said/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14807308"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/seLQqtsl9VtS55zTPFsa1gQHOwJ.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 896633,
+      "imdb_id": "tt15711284",
+      "original_language": "en",
+      "original_title": "Adele One Night Only",
+      "overview": "A primetime special with performances from the superstar including Adele’s first new material in six years plus her chart-topping hits. The special will also feature an exclusive interview with Adele by Oprah Winfrey from her rose garden, in Adele’s first televised wide-ranging conversation.",
+      "popularity": 6.178,
+      "poster_path": "https://image.tmdb.org/t/p/original/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg",
+      "release_date": "2021-11-14",
+      "title": "Adele One Night Only",
+      "video": false,
+      "vote_average": 8.103,
+      "vote_count": 39,
+      "age": "L",
+      "overview_ar": "خاص في أوقات الذروة مع عروض من النجمة بما في ذلك أول مادة جديدة لـ أديل منذ ست سنوات بالإضافة إلى أغانيها التي تصدرت المخططات. سيشمل العرض الخاص أيضًا مقابلة حصرية مع أديل من قبل أوبرا وينفري من حديقة الورود الخاصة بها ، في أول محادثة متلفزة واسعة النطاق لأديل.",
+      "genres": [
+        {
+          "name": "Documentary",
+          "name_ar": "وثائقي"
+        },
+        {
+          "name": "Music",
+          "name_ar": "موسيقى"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=896633"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=896633"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Adele%20One%20Night%20Only/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Adele%20One%20Night%20Only/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Adele%20One%20Night%20Only/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Adele%20One%20Night%20Only/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Adele%20One%20Night%20Only/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Adele%20One%20Night%20Only/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15711284"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://occ-0-3872-38.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABertyWsaSQhIfC4nvbk1DUUWqIR9UNkXkB_vW6q0N1an2EIjr1zlJ2j-oasB4xl8A7-KOJEHn-Lckz49MPkYJPhSZQ4Hozt0zzJO.jpg?r=4f1",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 873126,
+      "imdb_id": "tt15229674",
+      "original_language": "it",
+      "original_title": "Il mio nome è vendetta",
+      "overview": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+      "popularity": 2156.511,
+      "poster_path": "https://image.tmdb.org/t/p/original/7l3war94J4tRyWUiLAGokr3ViF2.jpg",
+      "release_date": "2022-11-30",
+      "title": "My Name Is Vendetta",
+      "video": false,
+      "vote_average": 6.882,
+      "vote_count": 186,
+      "type": "Netflix",
+      "logo": "https://occ-0-3872-38.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABR_snYl7dUuEcfvCzyzkPugzvAo6j0vp-5qzXlewQPexQcsSaREF58sLQSzyPCTnUyAqKOVbKibHRs2G9cKfff0T0aveaptPSqcr25VJPPZy2w9Kx8S1dhdwfC6j-t3Cm5h0qOWR89F2BNXwBy16N_X5_nMQvHOmoTECjf0EKfIrkKMtSMvkcA.png?r=18f",
+      "age": "18+",
+      "overview_ar": "بعد أن قتل أعداء قدامى عائلته ، يهرب منفذ مافيا سابق وابنته المشاكسة إلى ميلانو ، حيث يختبئون أثناء التخطيط للانتقام.",
+      "trailer": "https://www.youtube.com/watch?v=mKRYPFKQdZg&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Action",
+          "name_ar": "حركة"
+        },
+        {
+          "name": "Crime",
+          "name_ar": "جريمة"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=873126"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=873126"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/My%20Name%20Is%20Vendetta/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/My%20Name%20Is%20Vendetta/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/My%20Name%20Is%20Vendetta/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/My%20Name%20Is%20Vendetta/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/My%20Name%20Is%20Vendetta/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/My%20Name%20Is%20Vendetta/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15229674"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/WqN2eD2R2GOGds5iiZDJcHh7JS.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1028938,
+      "imdb_id": "tt21950514",
+      "original_language": "en",
+      "original_title": "A Hollywood Christmas",
+      "overview": "Jessica, a young, up-and-coming filmmaker in Hollywood has made a name for herself directing Christmas movies. But when handsome network executive Christopher shows up threatening to halt production on her latest movie, Jessica’s assistant, Reena, points out the irony: Jessica isn’t just trying to save her Christmas movie, she’s actually living in one. Jessica must now juggle all the classic tropes—her actors falling in and out of love, a wayward elf dog, and her own stirring romantic feelings for her perceived nemesis—in order to get her movie and her life to their happy endings.",
+      "popularity": 83.65,
+      "poster_path": "https://image.tmdb.org/t/p/original/f8D6dobydMiuabqRDQi0598ghc4.jpg",
+      "release_date": "2022-12-01",
+      "title": "A Hollywood Christmas",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 24,
+      "age": "8+",
+      "overview_ar": "صنعت جيسيكا ، المخرجة الشابة الصاعدة في هوليوود ، اسمًا لنفسها في إخراج أفلام الكريسماس. ولكن عندما ظهر كريستوفر المدير التنفيذي الوسيم للشبكة مهددًا بوقف إنتاج فيلمها الأخير ، أشارت رينا ، مساعدة جيسيكا ، إلى المفارقة: جيسيكا لا تحاول فقط إنقاذ فيلم عيد الميلاد الخاص بها ، إنها تعيش بالفعل في فيلم واحد. يجب على جيسيكا الآن التوفيق بين جميع الاستعارات الكلاسيكية - وقع ممثلوها في الحب وخرجوا منه ، وكلب قزم ضال ، ومشاعرها الرومانسية المؤثرة لخصمها المتصور - من أجل نقل فيلمها وحياتها إلى نهاياتهم السعيدة.",
+      "trailer": "https://www.youtube.com/watch?v=UpZXbCbJ6M0&ab_channel=HBOMax",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1028938"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1028938"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Hollywood%20Christmas/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Hollywood%20Christmas/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Hollywood%20Christmas/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Hollywood%20Christmas/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Hollywood%20Christmas/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Hollywood%20Christmas/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt21950514"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/kjB0qu9BYuhU2K34w2MBxVArZ2B.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1017339,
+      "imdb_id": "tt21906206",
+      "original_language": "en",
+      "original_title": "Hotel for the Holidays",
+      "overview": "The stories of an ensemble of staff and guests at the charming Hotel Fontaine in New York City during Christmastime. The work and personal life of Georgia — an ambitious young woman and the manager of the high-end hotel — become entangled when she is caught between the charming hotel chef Luke and a sophisticated ex-prince staying at the hotel.",
+      "popularity": 7.285,
+      "poster_path": "https://image.tmdb.org/t/p/original/1NOG8uPLzqLrpf5H5PZH658VjP1.jpg",
+      "release_date": "2022-12-01",
+      "title": "Hotel for the Holidays",
+      "video": false,
+      "vote_average": 6.667,
+      "vote_count": 3,
+      "type": "Amazon",
+      "age": "15+",
+      "overview_ar": "قصص مجموعة من الموظفين والضيوف في فندق فونتين الساحر في مدينة نيويورك خلال فترة عيد الميلاد. العمل والحياة الشخصية لجورجيا - شابة طموحة ومديرة الفندق الراقي - أصبحت متورطة عندما علقت بين طاهي الفندق الساحر لوك وأمير سابق متطور يقيم في الفندق.",
+      "trailer": "https://www.youtube.com/watch?v=WP8vBw2SrTo&ab_channel=AmazonFreevee",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1017339"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1017339"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hotel%20for%20the%20Holidays/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hotel%20for%20the%20Holidays/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hotel%20for%20the%20Holidays/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hotel%20for%20the%20Holidays/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hotel%20for%20the%20Holidays/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hotel%20for%20the%20Holidays/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt21906206"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/sWLlgUVsmwir6jf9XmzbTRdrtrB.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 898308,
+      "imdb_id": "tt15745226",
+      "original_language": "en",
+      "original_title": "Darby and the Dead",
+      "overview": "After Darby Harper suffered a near-death experience as a child, she gained the ability to see ghosts. To combat the existential boredom of high school, she runs a side business counseling local spirits in her spare time. When an unexpected occurrence happens between Darby and Capri, the most popular girl at her high school, Darby reluctantly agrees to help her and in the process learns how to fit in with the living world again.",
+      "popularity": 14.198,
+      "poster_path": "https://image.tmdb.org/t/p/original/v1mtYW0qShlS3YFy10D8GqTk6LI.jpg",
+      "release_date": "2022-12-02",
+      "title": "Darby and the Dead",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 7,
+      "type": "Hulu",
+      "logo": "https://www.themoviedb.org/t/p/original/xCDK8tZDRtb9PAovQ0WIf4RgieC.png",
+      "age": "13+",
+      "overview_ar": "بعد أن عانت داربي هاربر من الاقتراب من الموت عندما كانت طفلة ، اكتسبت القدرة على رؤية الأشباح. لمكافحة الملل الوجودي في المدرسة الثانوية ، تدير شركة جانبية لتقديم المشورة للأرواح المحلية في أوقات فراغها. عندما يحدث حدث غير متوقع بين داربي وكابري ، الفتاة الأكثر شهرة في مدرستها الثانوية ، توافق داربي على مضض على مساعدتها وتتعلم في هذه العملية كيفية التكيف مع العالم الحي مرة أخرى.",
+      "trailer": "https://www.youtube.com/watch?v=B34KREZ-r0E&ab_channel=20thCenturyStudios",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=898308"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=898308"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Darby%20and%20the%20Dead/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Darby%20and%20the%20Dead/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Darby%20and%20the%20Dead/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Darby%20and%20the%20Dead/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Darby%20and%20the%20Dead/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Darby%20and%20the%20Dead/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15745226"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/na1PcH5MfVKZa84ObX8dzmGkxil.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 865559,
+      "imdb_id": "tt21994906",
+      "original_language": "en",
+      "original_title": "Your Christmas Or Mine?",
+      "overview": "Students Hayley and James are young and in love. After saying goodbye for Christmas at a London train station, they both make the same mad split-second decision to swap trains and surprise each other. Passing each other in the station, they are completely unaware that they have just swapped Christmases.",
+      "popularity": 106.481,
+      "poster_path": "https://image.tmdb.org/t/p/original/A806wuTGJECDh9krhQAhnieQcLr.jpg",
+      "release_date": "2022-12-02",
+      "title": "Your Christmas Or Mine?",
+      "video": false,
+      "vote_average": 6.62,
+      "vote_count": 54,
+      "type": "Amazon",
+      "age": "16+",
+      "overview_ar": "في الليلة السابقة لعشيّة عيد الميلاد، يودّع (جيمس) و(هيلي) أحدهما الآخر في محطة قطارات (مارليبون)، لكن يدركان أنهما لن يتحملا الافتراق طوال عيد الميلاد، فيتخذ كل منهما القرار المندفع ذاته وهو أن يفاجيء الآخر، حيث يقطع كل منهما المحطة ويركب قطار الآخر دون أن يخبره، ثم يبدأ الثلج في الهطول ليدرك كل منهما أنه حبيس في منزل عائلة الآخر حتى انتهاء عيد الميلاد، فهل سيصمد حبهما بينما تظهر أسرارهما الكبر؟",
+      "trailer": "https://www.youtube.com/watch?v=ObRmLzY3ulA&ab_channel=AmazonPrimeVideoUK",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=865559"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=865559"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Your%20Christmas%20Or%20Mine/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Your%20Christmas%20Or%20Mine/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Your%20Christmas%20Or%20Mine/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Your%20Christmas%20Or%20Mine/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Your%20Christmas%20Or%20Mine/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Your%20Christmas%20Or%20Mine/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt21994906"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/2T92w8l2iTnyG9jwOmIWfM9thRV.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 1045944,
+      "imdb_id": "tt23546646",
+      "original_language": "en",
+      "original_title": "The Boss Baby: Christmas Bonus",
+      "overview": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+      "popularity": 1573.095,
+      "poster_path": "https://image.tmdb.org/t/p/original/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
+      "release_date": "2022-12-06",
+      "title": "The Boss Baby: Christmas Bonus",
+      "video": false,
+      "vote_average": 6.635,
+      "vote_count": 78,
+      "type": "Netflix",
+      "logo": "https://occ-0-3872-38.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABTfBB0yMqCcINLcaT9bbXgaj4s3rA0x63vv3EAYo6etKZg4vEmsv5udZ2leNX198vMMrrAtLiiD0Putt1uLUHCowjgxzCAb5_WKdU3ibumIj65dbH4MUOeeymG8CB2zz7HMfIxLAxzcwg2j-cRH_memiZLY8zLyr0YsY94Z46mSjwAJcW2tClQ.png?r=677",
+      "age": "7+",
+      "overview_ar": "تتّخذ عشية عيد الميلاد منعطفًا مفاجئًا حين يتبادل `الطفل الزعيم` الأماكن مع أحد أقزام `سانتا` عن طريق الخطأ ويَعلق في `القطب الشمالي`.",
+      "trailer": "https://www.youtube.com/watch?v=WOstju2gg4w&ab_channel=TheBossBaby",
+      "genres": [
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        },
+        {
+          "name": "Animation",
+          "name_ar": "رسوم متحركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1045944"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1045944"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Boss%20Baby%20Christmas%20Bonus/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Boss%20Baby%20Christmas%20Bonus/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Boss%20Baby%20Christmas%20Bonus/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Boss%20Baby%20Christmas%20Bonus/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Boss%20Baby%20Christmas%20Bonus/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Boss%20Baby%20Christmas%20Bonus/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt23546646"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -10661,6 +11233,7 @@
       "title": "Where the Crawdads Sing",
       "overview_ar": "في إطار من الدراما والغموض، يتناول العمل قصة امرأة ترعرعت في مستنقعات وأعماق الجنوب، حيث تصبح المشتبه به الرئيسي في جريمة قتل رجل كانت تعرفه يومًا ما.",
       "video": false,
+      "age": "14+",
       "vote_average": 7.7,
       "vote_count": 390,
       "trailer": "https://www.youtube.com/watch?v=PY3808Iq0Tg&ab_channel=SonyPicturesEntertainment",
@@ -10685,7 +11258,25 @@
           ],
           "servers": [
             {
-              "server": "https://www.2embed.to/embed/tmdb/movie?id=588108"
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=682507"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Where%20the%20Crawdads%20Sing/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Where%20the%20Crawdads%20Sing/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Where%20the%20Crawdads%20Sing/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Where%20the%20Crawdads%20Sing/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Where%20the%20Crawdads%20Sing/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Where%20the%20Crawdads%20Sing/e/Plyr.html"
             },
             {
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt9411972"
@@ -13283,16 +13874,990 @@
         99
       ],
       "id": 1025169,
+      "imdb_id": "tt22029210",
       "original_language": "th",
       "original_title": "13 หมูป่า: เรื่องเล่าจากในถ้ำ",
       "overview": "In this compelling documentary, members of the Thai youth soccer team tell their stories of getting trapped in Tham Luang Cave in 2018 — and surviving.",
-      "popularity": 265.188,
+      "popularity": 131.532,
       "poster_path": "https://image.tmdb.org/t/p/original/jQb1UjOdc2DsU4SqDebrVH8dHvC.jpg",
       "release_date": "2022-10-05",
       "title": "The Trapped 13: How We Survived The Thai Cave",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 4
+      "vote_average": 6.5,
+      "vote_count": 9,
+      "type": "Netflix",
+      "logo": "https://occ-0-56-55.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfyHceaR9fWMAM0m30Fi3BSsTt7pSUritTZJg40QB9zFv9E_AjjLMfasJOm9xqWq0stKn4_3W1MHkAGxyGKl3x08PJ1CQN5nJOoBSDQPv00XM8OCs0I3UoZNOwv1P9OpOypOymxBF4JsHA88LbRdgLOK-fEseu4aH6wEVuMtsS6s5aSmhvH4GA.png?r=24f",
+      "age": "13+",
+      "overview_ar": "في هذا الفيلم الوثائقي المقنع ، يروي أعضاء فريق كرة القدم للشباب التايلاندي قصصهم عن الوقوع في شرك كهف ثام لوانغ في عام 2018 والبقاء على قيد الحياة.",
+      "trailer": "https://www.youtube.com/watch?v=VX-K0ipfPhU&ab_channel=NetflixAsia",
+      "genres": [
+        {
+          "name": "Documentary",
+          "name_ar": "وثائقي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1025169"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1025169"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Trapped%2013%20How%20We%20Survived%20The%20Thai%20Cave/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Trapped%2013%20How%20We%20Survived%20The%20Thai%20Cave/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Trapped%2013%20How%20We%20Survived%20The%20Thai%20Cave/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Trapped%2013%20How%20We%20Survived%20The%20Thai%20Cave/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Trapped%2013%20How%20We%20Survived%20The%20Thai%20Cave/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Trapped%2013%20How%20We%20Survived%20The%20Thai%20Cave/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt22029210"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/3G8xATwPSnkvkxFGquKnG2xobp7.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 884363,
+      "imdb_id": "tt15686024",
+      "original_language": "es",
+      "original_title": "Togo",
+      "overview": "Togo just wants to watch his neighbors' homes, wash their cars and clean up their sidewalks. But the drug traffickers want more from him.",
+      "popularity": 172.087,
+      "poster_path": "https://image.tmdb.org/t/p/original/5YZ8JKV8i437z6O4YQ2IEzcSlsD.jpg",
+      "release_date": "2022-10-05",
+      "title": "Togo",
+      "video": false,
+      "vote_average": 6.527,
+      "vote_count": 56,
+      "type": "Netflix",
+      "logo": "https://occ-0-56-55.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQkylPWPt1ACkFTsVwXOMK5Ko8qAyKQo55mnBgsIwDOsjKT2BAintOBqjyApOURmfAheKI7bqBHkoNZ2A4dm2_TuzRe1rnAYVEOjorSzwwUjGTGNjX14YrLUCQWyQapK5t6WioJUlLYcvdSzeL3ejfn8KRSFt3KeTehnHYmwMIlmi4uu-LM-kw.png?r=2bf",
+      "age": "16+",
+      "overview_ar": "لا يريد توغو سوى مراقبة منازل جيرانه ، وغسل سياراتهم وتنظيف أرصفةهم. لكن تجار المخدرات يريدون منه المزيد.",
+      "trailer": "https://www.youtube.com/watch?v=RzgRwvch-W4&ab_channel=NetflixLatinoam%C3%A9rica",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Crime",
+          "name_ar": "جريمة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=884363"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=884363"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Togo/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Togo/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Togo/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Togo/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Togo/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Togo/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15686024"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/cWhblDAsXwQYPPo6LtxbRKCA1vC.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        14
+      ],
+      "id": 937753,
+      "imdb_id": "tt13446128",
+      "original_language": "th",
+      "original_title": "บุพเพสันนิวาส ๒",
+      "overview": "Destined couple, Bhop and Gaysorn, have their love and beliefs challenged in the midst of savage threats during the expansion of colonial rule.",
+      "popularity": 5.024,
+      "poster_path": "https://image.tmdb.org/t/p/original/lkKf3i4jmxKENBX5qsdMIQOUnRh.jpg",
+      "release_date": "2022-07-28",
+      "title": "Love Destiny: The Movie",
+      "video": false,
+      "vote_average": 5.833,
+      "vote_count": 6,
+      "age": "12+",
+      "overview_ar": "يواجه الزوجان المُقَدَّران ، `` بوب '' و''غيسورن '' ، تحديًا في حبهما ومعتقداتهما وسط التهديدات الوحشية أثناء توسع الحكم الاستعماري.",
+      "trailer": "https://www.youtube.com/watch?v=4OKGemq3cJs&ab_channel=GDH",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=937753"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=937753"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Love%20Destiny%20The%20Movie/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Love%20Destiny%20The%20Movie/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Love%20Destiny%20The%20Movie/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Love%20Destiny%20The%20Movie/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Love%20Destiny%20The%20Movie/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Love%20Destiny%20The%20Movie/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt13446128"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/zm0KiOrYCVjTP5V4lnJDdxs3eXy.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1042984,
+      "imdb_id": "tt23556786",
+      "original_language": "pt",
+      "original_title": "Um Natal Cheio de Graça",
+      "overview": "After discovering a betrayal, Carlinhos takes a fun stranger to accompany him on Christmas. But Graça proves to be a madwoman capable of bringing the traditional family home down.",
+      "popularity": 120.889,
+      "poster_path": "https://image.tmdb.org/t/p/original/iHRphB4zfPTuUHVrbO2vTmCLuHO.jpg",
+      "release_date": "2022-11-30",
+      "title": "Christmas Full of Grace",
+      "video": false,
+      "vote_average": 5.907,
+      "vote_count": 27,
+      "type": "Netflix",
+      "logo": "https://occ-0-56-55.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWOLetNLzAK6KKiWP5pDCA2OLrYjwNE90Lp_NdfWVF80w7znXzoQBQz3EvDBk2UqxCe2EZgFeXw3hpOgcSCiEzzCHrAC-osAdVh2HNVW9y5oHntpSSJs0pk3t95IkKBguzpyUrCSERLs59T7F239rYPEr4k695sFKi39cjxJ-movbAc5GaXdXw.png?r=36f",
+      "age": "18+",
+      "overview_ar": "بعد اكتشاف خيانة ، يصطحب `` كارلينهوس '' شخصًا غريبًا ممتعًا لمرافقته في عيد الميلاد. لكن أثبتت Graça أنها امرأة مجنونة قادرة على إعادة الأسرة التقليدية إلى المنزل.",
+      "trailer": "https://www.youtube.com/watch?v=cIKplo6bOvU&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1042984"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1042984"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Christmas%20Full%20of%20Grace/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Christmas%20Full%20of%20Grace/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Christmas%20Full%20of%20Grace/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Christmas%20Full%20of%20Grace/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Christmas%20Full%20of%20Grace/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Christmas%20Full%20of%20Grace/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt23556786"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/nih3Mi0eHfHZVkIzee34ImGMGNj.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 670497,
+      "imdb_id": "tt11125636",
+      "original_language": "fr",
+      "original_title": "Yakari : La Grande Aventure",
+      "overview": "With his tribe's move to follow the migrating bison, Yakari, the little Sioux boy, sets out on his own to follow the trail of Little Thunder, a wild mustang said to be untameable. Travelling far from home and deep into the territory of the terrible cougarskins, Yakari and Little Thunder undertake a great adventure and find their way back home.",
+      "popularity": 5.108,
+      "poster_path": "https://image.tmdb.org/t/p/original/3S0SmnNcEcnUDl0XAX3W2pm5G6J.jpg",
+      "release_date": "2020-08-12",
+      "title": "Yakari: A Spectacular Journey",
+      "video": false,
+      "vote_average": 5.857,
+      "vote_count": 35,
+      "age": "4+",
+      "overview_ar": "مع تحرك قبيلته لمتابعة البيسون المهاجر ، ينطلق ياكاري ، الصبي الصغير من سيوكس ، بمفرده لمتابعة مسار الرعد الصغير ، وهو موستانج بري يقال إنه لا يمكن ترويضه. يسافر ياكاري وليتل ثاندر بعيدًا عن المنزل وفي عمق أراضي الكوجارسكينز الرهيبة ، ويخوضان مغامرة رائعة ويجدان طريقهما إلى الوطن.",
+      "trailer": "https://www.youtube.com/watch?v=KnDFOyIhMsQ&ab_channel=BACFILMSINTERNATIONAL",
+      "genres": [
+        {
+          "name": "Animation",
+          "name_ar": "رسوم متحركة"
+        },
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=670497"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=670497"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Yakari%20A%20Spectacular%20Journey/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Yakari%20A%20Spectacular%20Journey/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Yakari%20A%20Spectacular%20Journey/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Yakari%20A%20Spectacular%20Journey/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Yakari%20A%20Spectacular%20Journey/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Yakari%20A%20Spectacular%20Journey/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11125636"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8h2Ok2eo4YrQLoDfsOZF3TM7aJp.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 633515,
+      "imdb_id": "tt10521092",
+      "original_language": "nl",
+      "original_title": "De Slag om de Schelde",
+      "overview": "November 1944. On the flooded isle of Walcheren, Zeeland, thousands of Allied soldiers are battling the German army. Three young lives become inextricably connected. A Dutch boy fighting for the Germans, an English glider pilot and a girl from Zeeland connected to the resistance against her will, are forced to make crucial choices that impact both their own freedom and the freedom of others.",
+      "popularity": 17.898,
+      "poster_path": "https://image.tmdb.org/t/p/original/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+      "release_date": "2021-06-05",
+      "title": "The Forgotten Battle",
+      "video": false,
+      "vote_average": 7.125,
+      "vote_count": 493,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/jjELluHSvC9USZZUA8txJhPKKzC.png",
+      "age": "16+",
+      "overview_ar": "نوفمبر 1944. في جزيرة Walcheren ، زيلاند التي غمرتها الفيضانات ، كان الآلاف من جنود الحلفاء يقاتلون الجيش الألماني. ترتبط حياة ثلاثة شبان ارتباطًا وثيقًا. يُجبر فتى هولندي يقاتل من أجل الألمان ، وطيار طائرة شراعية إنجليزية وفتاة من زيلاند على صلة بالمقاومة ضد إرادتها ، على اتخاذ خيارات حاسمة تؤثر على حريتهم وحرية الآخرين.",
+      "trailer": "https://www.youtube.com/watch?v=bGiR5ZiEWkM&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "War",
+          "name_ar": "حرب"
+        },
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=633515"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=633515"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Forgotten%20Battle/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Forgotten%20Battle/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Forgotten%20Battle/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Forgotten%20Battle/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Forgotten%20Battle/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Forgotten%20Battle/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10521092"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        80
+      ],
+      "id": 511809,
+      "imdb_id": "tt3581652",
+      "original_language": "en",
+      "original_title": "West Side Story",
+      "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+      "popularity": 21.438,
+      "poster_path": "https://image.tmdb.org/t/p/original/lnUxSldaVI0mYCCf2akyQpbTFgr.jpg",
+      "release_date": "2021-12-08",
+      "title": "West Side Story",
+      "video": false,
+      "vote_average": 7.097,
+      "vote_count": 1130,
+      "logo": "https://www.themoviedb.org/t/p/original/uKLXF5IuD9EAfjIsny1kca1og6F.png",
+      "age": "13+",
+      "overview_ar": "يقع شابان من عصابات مدينة نيويورك المتنافسة في الحب ، لكن التوترات بين أصدقائهما تتصاعد نحو المأساة.",
+      "trailer": "https://www.youtube.com/watch?v=A5GJLwWiYSg&ab_channel=20thCenturyStudios",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Crime",
+          "name_ar": "جريمة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=511809"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=511809"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/West%20Side%20Story/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/West%20Side%20Story/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/West%20Side%20Story/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/West%20Side%20Story/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/West%20Side%20Story/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/West%20Side%20Story/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt3581652"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/zfQ7mAiAgm4fkfXHZXHISxtnTT7.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 556574,
+      "imdb_id": "tt8503618",
+      "original_language": "en",
+      "original_title": "Hamilton",
+      "overview": "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
+      "popularity": 20.768,
+      "poster_path": "https://image.tmdb.org/t/p/original/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "release_date": "2020-07-03",
+      "title": "Hamilton",
+      "video": false,
+      "vote_average": 8.28,
+      "vote_count": 1061,
+      "type": "Disney",
+      "logo": "https://www.themoviedb.org/t/p/original/kheKq9qF2RDKyLFpuZzc4Pt14VQ.png",
+      "age": "11+",
+      "overview_ar": "تقديم حكاية الأب المؤسس الأمريكي ألكسندر هاملتون ، هذه النسخة المصورة من ضربة برودواي الأصلية المحطمة هي قصة أمريكا آنذاك ، والتي ترويها أمريكا الآن.",
+      "trailer": "https://www.youtube.com/watch?v=DSCKfXpAGHc&ab_channel=WaltDisneyStudios",
+      "genres": [
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=556574"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=556574"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hamilton/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hamilton/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hamilton/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hamilton/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hamilton/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Hamilton/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt8503618"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/ztYJhsucLoWFgkMAFae35NVxlGE.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 617653,
+      "imdb_id": "tt4244994",
+      "original_language": "en",
+      "original_title": "The Last Duel",
+      "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+      "popularity": 59.337,
+      "poster_path": "https://image.tmdb.org/t/p/original/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "release_date": "2021-10-13",
+      "title": "The Last Duel",
+      "video": false,
+      "vote_average": 7.494,
+      "vote_count": 2563,
+      "logo": "https://www.themoviedb.org/t/p/original/8oqXkU3RjTOrlQPrfji4daHieZj.png",
+      "age": "17+",
+      "overview_ar": "يعلن الملك تشارلز السادس أن الفارس جان دي كاروجيس يحسم خلافه مع ملاكه ، جاك لو جريس ، بتحديه في مبارزة.",
+      "trailer": "https://www.youtube.com/watch?v=mgygUwPJvYk&ab_channel=20thCenturyStudios",
+      "genres": [
+        {
+          "name": "History",
+          "name_ar": "تاريخ"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Action",
+          "name_ar": "حركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=617653"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=617653"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Last%20Duel/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Last%20Duel/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Last%20Duel/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Last%20Duel/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Last%20Duel/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Last%20Duel/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt4244994"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/zhp1Ab08vvc1UuntYdXyhBqMSxC.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 820446,
+      "imdb_id": "tt11703710",
+      "original_language": "en",
+      "original_title": "Downton Abbey: A New Era",
+      "overview": "The Crawley family goes on a grand journey to the south of France to uncover the mystery of the dowager countess's newly inherited villa.",
+      "popularity": 22.299,
+      "poster_path": "https://image.tmdb.org/t/p/original/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "release_date": "2022-04-27",
+      "title": "Downton Abbey: A New Era",
+      "video": false,
+      "vote_average": 7.18,
+      "vote_count": 264,
+      "logo": "https://www.themoviedb.org/t/p/original/cfEMRzdizXlz2hxxeWis9IR88zu.png",
+      "age": "13+",
+      "overview_ar": "تذهب عائلة كرولي في رحلة كبيرة إلى جنوب فرنسا للكشف عن سر الفيلا الموروثة حديثًا للكونتيسة الأرملة.",
+      "trailer": "https://www.youtube.com/watch?v=wN0Spmq610Q&ab_channel=FocusFeatures",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=820446"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=820446"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Downton%20Abbey%20A%20New%20Era/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Downton%20Abbey%20A%20New%20Era/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Downton%20Abbey%20A%20New%20Era/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Downton%20Abbey%20A%20New%20Era/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Downton%20Abbey%20A%20New%20Era/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Downton%20Abbey%20A%20New%20Era/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11703710"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8nM4zbEBumEYzSPEGab8PCYHnPN.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 597208,
+      "imdb_id": "tt7740496",
+      "original_language": "en",
+      "original_title": "Nightmare Alley",
+      "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
+      "popularity": 61.844,
+      "poster_path": "https://image.tmdb.org/t/p/original/tgnZxc8PxbwKFJvlTxew9jpYFZo.jpg",
+      "release_date": "2021-12-02",
+      "title": "Nightmare Alley",
+      "video": false,
+      "vote_average": 7.023,
+      "vote_count": 2155,
+      "logo": "https://www.themoviedb.org/t/p/original/2281UKckCbl5g7Cw5k8e5LViUsm.png",
+      "age": "16+",
+      "overview_ar": "رجل كرنفال طموح يتمتع بموهبة التلاعب بالناس ببضع كلمات مختارة جيدًا يتواصل مع طبيبة نفسية أكثر خطورة منه.",
+      "trailer": "https://www.youtube.com/watch?v=Q81Yf46Oj3s&ab_channel=SearchlightPictures",
+      "genres": [
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        },
+        {
+          "name": "Crime",
+          "name_ar": "جريمة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=597208"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=597208"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nightmare%20Alley/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nightmare%20Alley/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nightmare%20Alley/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nightmare%20Alley/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nightmare%20Alley/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nightmare%20Alley/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt7740496"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/4Tz8V8aRim8cFgKEWprSUjBy8tY.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 776503,
+      "imdb_id": "tt10366460",
+      "original_language": "en",
+      "original_title": "CODA",
+      "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+      "popularity": 50.627,
+      "poster_path": "https://image.tmdb.org/t/p/original/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "release_date": "2021-08-11",
+      "title": "CODA",
+      "video": false,
+      "vote_average": 8.013,
+      "vote_count": 1616,
+      "type": "Apple",
+      "logo": "",
+      "age": "13+",
+      "overview_ar": "بصفتها كودا (طفل الصم البالغين) ، فإن روبي هي الشخص الوحيد السمعي في عائلتها الصم. عندما تتعرض أعمال صيد الأسماك الخاصة بالعائلة للتهديد ، تجد روبي نفسها ممزقة بين السعي وراء حبها للموسيقى وخوفها من التخلي عن والديها.",
+      "trailer": "https://www.youtube.com/watch?v=0pmfrE1YL4I&ab_channel=AppleTV",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Music",
+          "name_ar": "موسيقى"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=776503"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=776503"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/CODA/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/CODA/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/CODA/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/CODA/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/CODA/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/CODA/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10366460"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/g9qUF1N8D7oTJOAUYmHPBqLRCyx.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749,
+        10770
+      ],
+      "id": 1029208,
+      "imdb_id": "tt22302170",
+      "original_language": "en",
+      "original_title": "This Is Christmas",
+      "overview": "Follow Adam and Emma on their daily commute from the village of Langton to London, where they meet the same passengers every day. One morning, Adam breaks the unspoken taboo of talking to strangers on a train and invites the entire carriage to hold their own Christmas party together.",
+      "popularity": 8.5,
+      "poster_path": "https://image.tmdb.org/t/p/original/xCbmauk51911Sd5aSkDCYivhwDy.jpg",
+      "release_date": "2022-12-04",
+      "title": "This Is Christmas",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 5,
+      "age": "13+",
+      "overview_ar": "اتبع آدم وإيما في تنقلاتهم اليومية من قرية لانجتون إلى لندن ، حيث يلتقون نفس الركاب كل يوم. في صباح أحد الأيام ، كسر آدم المحظورات غير المعلنة المتمثلة في التحدث إلى الغرباء في القطار ودعا العربة بأكملها لإقامة حفلة عيد الميلاد الخاصة بهم معًا.",
+      "trailer": "https://www.youtube.com/watch?v=fFNteX1Jefo&ab_channel=SkyCinema",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1029208"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1029208"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/This%20is%20Christmas/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/This%20is%20Christmas/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/This%20is%20Christmas/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/This%20is%20Christmas/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/This%20is%20Christmas/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/This%20is%20Christmas/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt22302170"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/a1rNNeOeDHaktKfTfj93HyLZMMt.jpg",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 880313,
+      "imdb_id": "tt15189534",
+      "original_language": "es",
+      "original_title": "La ira de Dios",
+      "overview": "Convinced the tragic deaths of her loved ones were orchestrated by a famous novelist she worked for, Luciana turns to a journalist to expose her truth.",
+      "popularity": 43.279,
+      "poster_path": "https://image.tmdb.org/t/p/original/lFhxNXEK0UpXXqSbhba83Zhl2uk.jpg",
+      "release_date": "2022-06-15",
+      "title": "The Wrath of God",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 138,
+      "type": "Netflix",
+      "logo": "https://occ-0-56-55.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABY71sqfkknef0nAA2lcpi12_9jTdMxzQi-Lx5Jj9j0lNN4-UjJHzz7XmxU1lgD3crtUMEhPy9fneBnwaJXq83jx99KcMO1ILwxCWtZ78DjiPzJuxQYCrRfjHLTcBTOEG1u5iCmN8P-KUog46ltGWDmdEtgiDWmyydrqnTsgkIYxx0Uv9uRwX4g.png?r=e77",
+      "age": "18+",
+      "overview_ar": "مقتنعة بأن الوفاة المأساوية لأحبائها كانت مدبرة من قبل روائية شهيرة كانت تعمل لديها ، تلجأ لوسيانا إلى صحفي لكشف حقيقتها.",
+      "trailer": "https://www.youtube.com/watch?v=rCl3iDhNdms&ab_channel=NetflixLatinoam%C3%A9rica",
+      "genres": [
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=880313"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=880313"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Wrath%20of%20God/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Wrath%20of%20God/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Wrath%20of%20God/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Wrath%20of%20God/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Wrath%20of%20God/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Wrath%20of%20God/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15189534"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -14350,23 +15915,148 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/1Nn2aBWB1x91GmvFm9F5SM2nQl3.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12
+      ],
+      "id": 297761,
+      "imdb_id": "tt1386697",
+      "original_language": "en",
+      "original_title": "Suicide Squad",
+      "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+      "popularity": 48.443,
+      "poster_path": "https://image.tmdb.org/t/p/original/xFw9RXKZDvevAGocgBK0zteto4U.jpg",
+      "release_date": "2016-08-03",
+      "title": "Suicide Squad",
+      "video": false,
+      "vote_average": 5.914,
+      "vote_count": 19357,
+      "logo": "https://www.themoviedb.org/t/p/original/1PdKIF7QjiBctS60bPoCXexnVtb.png",
+      "age": "16+",
+      "overview_ar": "تدور احداث الفيلم حول الفرقة الانتحارية وهم مجموعة من الأشخاص المسجونين الأكثر شرا على الأرض حينما يعقدوا معاهدات مع الحكومة الفاسدة من اجل تنفيذ مهام شديدة الخطورة وبمقابل ذلك تحصل الفرقة الانتحارية على الأمان والحماية بالسجن وبعض المزايا الأخرى.",
+      "trailer": "https://www.youtube.com/watch?v=CmRih_VtVAs&ab_channel=WarnerBros.Pictures",
+      "genres": [
+        {
+          "name": "Action",
+          "name_ar": "حركة"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=297761"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=297761"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Suicide%20Squad/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Suicide%20Squad/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Suicide%20Squad/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Suicide%20Squad/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Suicide%20Squad/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Suicide%20Squad/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt1386697"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
       "genre_ids": [
         28,
         35,
         12
       ],
       "id": 436969,
+      "imdb_id": "tt6334354",
       "original_language": "en",
       "original_title": "The Suicide Squad",
       "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
-      "popularity": 208.64,
+      "popularity": 136.289,
       "poster_path": "https://image.tmdb.org/t/p/original/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
       "release_date": "2021-07-28",
       "title": "The Suicide Squad",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 6659
+      "vote_average": 7.607,
+      "vote_count": 6809,
+      "age": "16+",
+      "overview_ar": "يقرر كل من اﻷشرار العتاة هارلي كوين وبلودسبورت وبيسميكر ومعهم مجموعة من المحتالين في سجن بيل ريف أن ينضموا إلى مجموعة مهمات سرية وغامضة في جزيرة بعيدة.",
+      "trailer": "https://www.youtube.com/watch?v=eg5ciqQzmK0&ab_channel=WarnerBros.Pictures",
+      "genres": [
+        {
+          "name": "Action",
+          "name_ar": "حركة"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=436969"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=436969"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Suicide%20Squad/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Suicide%20Squad/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Suicide%20Squad/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Suicide%20Squad/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Suicide%20Squad/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Suicide%20Squad/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt6334354"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -14960,23 +16650,431 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/zplzc6jxO3SK7Pa4yxVoRY5VflT.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/A47h1rxAmmhBoQidIH9pnBXCR2Y.jpg",
       "genre_ids": [
         14,
-        35,
-        12
+        12,
+        35
       ],
       "id": 425909,
+      "imdb_id": "tt4513678",
       "original_language": "en",
       "original_title": "Ghostbusters: Afterlife",
       "overview": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
-      "popularity": 181.088,
+      "popularity": 88.561,
       "poster_path": "https://image.tmdb.org/t/p/original/xCTn3IA729UuyvB4rY65fiOOzUv.jpg",
       "release_date": "2021-11-11",
       "title": "Ghostbusters: Afterlife",
       "video": false,
+      "vote_average": 7.554,
+      "vote_count": 3339,
+      "logo": "https://www.themoviedb.org/t/p/original/2KrYDwVq8n3YYnLTZuS9dY2Xmh7.png",
+      "age": "10+",
+      "overview_ar": "عندما تصل أم عزباء وطفلاها إلى بلدة صغيرة ، يبدؤون في اكتشاف علاقتهم بصائدي الأشباح الأصليين والإرث السري الذي تركه جدهم وراءه.",
+      "trailer": "https://www.youtube.com/watch?v=ahZFCF--uRY&ab_channel=SonyPicturesEntertainment",
+      "genres": [
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=425909"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=425909"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghostbusters%20Afterlife/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghostbusters%20Afterlife/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghostbusters%20Afterlife/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghostbusters%20Afterlife/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghostbusters%20Afterlife/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghostbusters%20Afterlife/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt4513678"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/4XKqxgjRJs3YtH5j1Eli5y6gtno.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 542178,
+      "imdb_id": "tt8847712",
+      "original_language": "en",
+      "original_title": "The French Dispatch",
+      "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+      "popularity": 27.346,
+      "poster_path": "https://image.tmdb.org/t/p/original/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "release_date": "2021-10-21",
+      "title": "The French Dispatch",
+      "video": false,
+      "vote_average": 7.172,
+      "vote_count": 1828,
+      "logo": "https://www.themoviedb.org/t/p/original/uH5DzM0VdMoyEI49B0uc694pkmY.png",
+      "age": "15+",
+      "overview_ar": "يطرح طاقم إحدى المجلات الأمريكية التي تتخذ من فرنسا مقراً لها العدد الأخير ، بقصص تظهر فيها فنان حكم عليه بالسجن المؤبد ، وأعمال شغب طلابية ، وخطف حل بواسطة طاهٍ.",
+      "trailer": "https://www.youtube.com/watch?v=TcPk2p0Zaw4&ab_channel=SearchlightPictures",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=542178"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=542178"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20French%20Dispatch/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20French%20Dispatch/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20French%20Dispatch/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20French%20Dispatch/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20French%20Dispatch/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20French%20Dispatch/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt8847712"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/zzTuJFKS5jSoZ2PvzVwFnR0yHsn.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 660120,
+      "imdb_id": "tt10370710",
+      "original_language": "no",
+      "original_title": "Verdens verste menneske",
+      "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
+      "popularity": 24.705,
+      "poster_path": "https://image.tmdb.org/t/p/original/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+      "release_date": "2021-10-13",
+      "title": "The Worst Person in the World",
+      "video": false,
       "vote_average": 7.6,
-      "vote_count": 3228
+      "vote_count": 723,
+      "age": "16+",
+      "overview_ar": "سجلات لأربع سنوات من حياة جولي ، وهي امرأة شابة تتنقل في المياه المضطربة لحياتها العاطفية وتكافح للعثور على مسار حياتها المهنية ، مما دفعها إلى إلقاء نظرة واقعية على من هي حقًا.",
+      "trailer": "https://www.youtube.com/watch?v=55M5ZgAqbWo&ab_channel=NEON",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=660120"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=660120"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Worst%20Person%20in%20the%20World/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Worst%20Person%20in%20the%20World/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Worst%20Person%20in%20the%20World/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Worst%20Person%20in%20the%20World/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Worst%20Person%20in%20the%20World/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Worst%20Person%20in%20the%20World/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10370710"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/c5iPQhmZaq8eC8duhPTN373duEr.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 890980,
+      "imdb_id": "tt13229894",
+      "original_language": "es",
+      "original_title": "Los renglones torcidos de Dios",
+      "overview": "Alice Gould, a private investigator, pretends to be mentally ill in order to enter a psychiatric hospital and gather evidence for the case she is working on: the death of a patient in unclear circumstances.",
+      "popularity": 357.734,
+      "poster_path": "https://image.tmdb.org/t/p/original/hB2VqiLDiHAyLdZ1dlXIGqDJy06.jpg",
+      "release_date": "2022-10-06",
+      "title": "God's Crooked Lines",
+      "video": false,
+      "vote_average": 7.507,
+      "vote_count": 139,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/trWTCnu0u7t7AMyyIHMgpKSGfW0.png",
+      "age": "15+",
+      "overview_ar": "تتظاهر أليس جولد ، المحققة الخاصة ، بأنها مريضة عقليًا من أجل دخول مستشفى للأمراض النفسية وجمع أدلة للقضية التي تعمل عليها: وفاة مريض في ظروف غامضة.",
+      "trailer": "https://www.youtube.com/watch?v=xzd7e4PHXEk&ab_channel=avids%7Cnetwork",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=890980"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=890980"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/God's%20Crooked%20Lines/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/God's%20Crooked%20Lines/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/God's%20Crooked%20Lines/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/God's%20Crooked%20Lines/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/God's%20Crooked%20Lines/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/God's%20Crooked%20Lines/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt13229894"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 646380,
+      "imdb_id": "tt11286314",
+      "original_language": "en",
+      "original_title": "Don't Look Up",
+      "overview": "Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.",
+      "popularity": 41.399,
+      "poster_path": "https://image.tmdb.org/t/p/original/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "release_date": "2021-12-07",
+      "title": "Don't Look Up",
+      "video": false,
+      "vote_average": 7.181,
+      "vote_count": 6289,
+      "type": "Netflix",
+      "logo": "https://occ-0-56-55.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSCt8xzHZ7gUwV1EMopc833QjMqD1g0uharFWXWtorF7-CMU2kIvnKrFwTorRm2AVYnJkVDKTL94VPdn8RHmdIjuzQS14WZH5HtY2x8JeFBsTAelCP8T7h8UE1nqcRxZKddDg1XOA3N4gILjJHqF5PLNbGw86eTT6zoBT5JU9-NvBl2MtGfWVQ.png?r=2e6",
+      "age": "18+",
+      "overview_ar": "يحاول اثنان من علماء الفلك الأمريكيين تحذير البشرية من اقتراب مذنب من شأنه القضاء على الحياة على كوكب الأرض.",
+      "trailer": "https://www.youtube.com/watch?v=SL9aJcqrtnw&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Science & Fiction",
+          "name_ar": "خيال علمي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=646380"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=646380"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Look%20Up/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Look%20Up/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Look%20Up/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Look%20Up/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Look%20Up/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Look%20Up/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11286314"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/f1azMRlp6YOLHf2PkzukyGPcpnX.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 718032,
+      "imdb_id": "tt11271038",
+      "original_language": "en",
+      "original_title": "Licorice Pizza",
+      "overview": "The story of Alana Kane and Gary Valentine running around and falling in love in the San Fernando Valley, 1973.",
+      "popularity": 31.0,
+      "poster_path": "https://image.tmdb.org/t/p/original/jD98aUKHQZNAmrk0wQQ9wmNQPnP.jpg",
+      "release_date": "2021-11-26",
+      "title": "Licorice Pizza",
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 1516,
+      "age": "15+",
+      "overview_ar": "قصة الانا كين و غاري فالنتين وهم يركضون ويقعون في الحب في وادي سان فرناندو ، 1973.",
+      "trailer": "https://www.youtube.com/watch?v=ofnXPwUPENo&ab_channel=MGM",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=718032"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=718032"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Licorice%20Pizza/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Licorice%20Pizza/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Licorice%20Pizza/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Licorice%20Pizza/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Licorice%20Pizza/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Licorice%20Pizza/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11271038"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -17622,24 +19720,139 @@
           "id": 14,
           "name": "Fantasy"
         }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/faRXxBVMadTD9hnUXgtlKiFgcJB.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1040263,
+      "imdb_id": "tt18450548",
+      "original_language": "tr",
+      "original_title": "Kal",
+      "overview": "Semih's girlfriend suddenly breaks up with him. In search of answers about their relationship, he must soon confront what he had long ignored.",
+      "popularity": 60.96,
+      "poster_path": "https://image.tmdb.org/t/p/original/9TN5ucb5t2CElp1i3LiHZXPSrgG.jpg",
+      "release_date": "2022-11-11",
+      "title": "Don't Leave",
+      "video": false,
+      "vote_average": 5.538,
+      "vote_count": 13,
+      "type": "Netflix",
+      "logo": "https://occ-0-56-55.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZc66mKpzlUIH35ZivLj7vuIuFyEluvS7wmvv11-ySlauxv-PMVyx2SnaVWH8p48vvhPdl_0GEhtSd2ZwJ3_yAZUwCnkwOUEE8-nDK7nxVefM4CMtfNFDMSoLNz1AO-S0m7JL1No2Pvd8E-KRRMTHdcesY8E1rm-NiX2zxF38vKEGJl6VJtxDQ.png?r=481",
+      "age": "16+",
+      "overview_ar": "صديقة سميح تنفصل عنه فجأة. بحثًا عن إجابات حول علاقتهما ، يجب عليه قريبًا مواجهة ما كان يتجاهله منذ فترة طويلة.",
+      "trailer": "https://www.youtube.com/watch?v=f-LKtOPn8U4&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
       ],
       "play": [
         {
           "server1": [
-            "http://127.0.0.1:26667/Edit/Movie/The%20Most%20Dangerous%20Game/e/cloudinary.html"
+            "https://www.2embed.to/embed/tmdb/movie?id=1040263"
           ],
           "servers": [
             {
-              "server": "http://127.0.0.1:26667/Edit/Movie/The%20Most%20Dangerous%20Game/e/cloudinary.html"
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1040263"
             },
             {
-              "server": "http://127.0.0.1:26667/Edit/Movie/The%20Most%20Dangerous%20Game/e/Plyr.html"
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Leave/e/2Jw.html"
             },
             {
-              "server": "link"
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Leave/e/videojs.html"
             },
             {
-              "server": "link"
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Leave/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Leave/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Leave/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Don't%20Leave/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt18450548"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/p6i44euUngks0ustIb6mGSBSwHc.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 828613,
+      "imdb_id": "tt14456350",
+      "original_language": "en",
+      "original_title": "About Fate",
+      "overview": "Two strangers believe in love but never seem to be able to find its true meaning. In a wild twist of events, fate puts each in the other's path on one stormy New Year's Eve.",
+      "popularity": 17.434,
+      "poster_path": "https://image.tmdb.org/t/p/original/fabZkaVHYJ67KbZx7oFoitauX34.jpg",
+      "release_date": "2022-09-08",
+      "title": "About Fate",
+      "video": false,
+      "vote_average": 7.14,
+      "vote_count": 43,
+      "type": "Amazon",
+      "age": "14+",
+      "overview_ar": "يؤمن شخصان غريبان بالحب ولكن لا يبدو أنهما قادرين على إيجاد معناه الحقيقي. في تطور جامح للأحداث ، يضع القدر كل منهما في طريق الآخر في ليلة رأس السنة الجديدة العاصفة.",
+      "trailer": "https://www.youtube.com/watch?v=BVtN9rwoGpw&ab_channel=MGM",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=828613"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=828613"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/About%20Fate/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/About%20Fate/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/About%20Fate/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/About%20Fate/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/About%20Fate/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/About%20Fate/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14456350"
             }
           ],
           "name": "Watch"
@@ -18119,18 +20332,19 @@
       "original_language": "en",
       "original_title": "Dune",
       "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
-      "popularity": 146.856,
+      "popularity": 93.339,
       "poster_path": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
       "release_date": "2021-09-08",
       "title": "Dune",
       "video": false,
-      "vote_average": 7.9,
-      "vote_count": 7825,
+      "vote_average": 7.832,
+      "vote_count": 8071,
+      "age": "13+",
       "overview_ar": "بول أتريدس ، شاب لامع وموهوب ولد في مصير عظيم يفوق إدراكه ، يجب أن يسافر إلى أخطر كوكب في الكون لضمان مستقبل عائلته وشعبه. بينما تنفجر القوى الخبيثة في صراع حول الإمداد الحصري للكوكب بأثمن مورد في الوجود - سلعة قادرة على إطلاق أعظم إمكانات البشرية - فقط أولئك الذين يمكنهم التغلب على خوفهم سيبقون على قيد الحياة.",
       "trailer": "https://www.youtube.com/watch?v=8g18jFHCLXk&ab_channel=WarnerBros.Pictures",
       "genres": [
         {
-          "name": "Science Fiction",
+          "name": "Science & Fiction",
           "name_ar": "خيال علمي"
         },
         {
@@ -18148,10 +20362,25 @@
               "server": "https://www.2embed.to/embed/tmdb/movie?id=438631"
             },
             {
-              "server": "https://www.2embed.to/embed/imdb/movie?id=tt1160419"
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Dune/e/2Jw.html"
             },
             {
-              "server": "https://www.2embed.to/embed/title/movie?title=Dune&year=2021"
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Dune/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Dune/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Dune/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Dune/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Dune/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt1160419"
             }
           ],
           "name": "Watch"
@@ -19310,23 +21539,304 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/18Eca3pEMrdk6GkmKWdf02jWpmo.jpg",
       "genre_ids": [
         12,
         28,
         53
       ],
       "id": 370172,
+      "imdb_id": "tt2382320",
       "original_language": "en",
       "original_title": "No Time to Die",
       "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
-      "popularity": 138.893,
+      "popularity": 90.841,
       "poster_path": "https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
       "release_date": "2021-09-29",
       "title": "No Time to Die",
       "video": false,
-      "vote_average": 7.4,
-      "vote_count": 4657
+      "vote_average": 7.442,
+      "vote_count": 4804,
+      "age": "14+",
+      "overview_ar": "ترك بوند الخدمة النشطة ويتمتع بحياة هادئة في جامايكا. لم يدم سلامه طويلاً عندما ظهر صديقه القديم فيليكس ليتر من وكالة المخابرات المركزية يطلب المساعدة. اتضح أن مهمة إنقاذ عالم مختطف أكثر غدرًا مما كان متوقعًا ، مما دفع بوند إلى مسار شرير غامض مسلح بتكنولوجيا جديدة خطيرة.",
+      "trailer": "https://www.youtube.com/watch?v=BIhNsAtPbPI&ab_channel=JamesBond007",
+      "genres": [
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        },
+        {
+          "name": "Action",
+          "name_ar": "حركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=370172"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=370172"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/No%20Time%20to%20Die/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/No%20Time%20to%20Die/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/No%20Time%20to%20Die/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/No%20Time%20to%20Die/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/No%20Time%20to%20Die/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/No%20Time%20to%20Die/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt2382320"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/ebPgSO4BqXS2iT0rDYqWBSBQWCc.jpg",
+      "genre_ids": [
+        10770,
+        35,
+        10749,
+        14
+      ],
+      "id": 996767,
+      "imdb_id": "tt18361702",
+      "original_language": "en",
+      "original_title": "A Holiday Spectacular",
+      "overview": "Set in 1958, follows Maggie who sneaks up to New York City to make her secret dream come true: dancing live on stage in the Christmas Spectacular at Radio City Music Hall, putting her high-society wedding plans on hold.",
+      "popularity": 5.474,
+      "poster_path": "https://image.tmdb.org/t/p/original/sVMkBrL3jqu0COYqwGn2xLoEWV.jpg",
+      "release_date": "2022-11-27",
+      "title": "A Holiday Spectacular",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 5,
+      "logo": "https://www.themoviedb.org/t/p/original/q9lXaLRuB0dcrLFl87139T9xFI5.png",
+      "age": "G",
+      "overview_ar": "تدور أحداث الفيلم في عام 1958 ، وتتبع ماجي التي تتسلل إلى مدينة نيويورك لتحقيق حلمها السري: الرقص على الهواء مباشرة على خشبة المسرح في عيد الميلاد المدهش في قاعة موسيقى راديو سيتى ، مما يضع خطط زفاف المجتمع الراقي في الانتظار.",
+      "trailer": "https://www.youtube.com/watch?v=1iPIp-slcPY&ab_channel=HallmarkChannel",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        },
+        {
+          "name": "TV Movie",
+          "name_ar": "فيلم تلفزيوني"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=996767"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=996767"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Holiday%20Spectacular/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Holiday%20Spectacular/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Holiday%20Spectacular/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Holiday%20Spectacular/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Holiday%20Spectacular/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/A%20Holiday%20Spectacular/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt18361702"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/6acxqMV6PmPpM2CpL471LHpcCc.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 576845,
+      "imdb_id": "tt9639470",
+      "original_language": "en",
+      "original_title": "Last Night in Soho",
+      "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+      "popularity": 38.817,
+      "poster_path": "https://image.tmdb.org/t/p/original/9BzKsxBZNlqyGSpvPFqK9kTJSPV.jpg",
+      "release_date": "2021-10-21",
+      "title": "Last Night in Soho",
+      "video": false,
+      "vote_average": 7.435,
+      "vote_count": 2198,
+      "age": "16+",
+      "overview_ar": "فتاة شابة ، شغوفة بتصميم الأزياء ، قادرة بشكل غامض على دخول الستينيات حيث تلتقي بمعبودها الرائع ، المغني المتمني. لكن لندن في الستينيات ليست كما تبدو ، ويبدو أن الوقت ينهار مع عواقب مشبوهة.",
+      "trailer": "https://www.youtube.com/watch?v=AcVnFrxjPjI&ab_channel=FocusFeatures",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Mystery",
+          "name_ar": "غموض"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=576845"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=576845"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Last%20Night%20in%20Soho/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Last%20Night%20in%20Soho/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Last%20Night%20in%20Soho/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Last%20Night%20in%20Soho/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Last%20Night%20in%20Soho/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Last%20Night%20in%20Soho/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt9639470"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/5pHR9fKN6oSUaCkFqHzxYR3A2Ry.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        16,
+        35,
+        12
+      ],
+      "id": 462650,
+      "imdb_id": "tt7042082",
+      "original_language": "en",
+      "original_title": "Puss in Book: Trapped in an Epic Tale",
+      "overview": "After tumbling into a magic storybook, Puss in Boots must fight, dance and romance his way through wild adventures as he searches for an escape.",
+      "popularity": 68.522,
+      "release_date": "2017-06-16",
+      "poster_path": "https://image.tmdb.org/t/p/original/sxqByjRM9SQ8SOO18IrAwjynJ62.jpg",
+      "title": "Puss in Book: Trapped in an Epic Tale",
+      "video": false,
+      "vote_average": 6.518,
+      "vote_count": 171,
+      "age": "7+",
+      "type": "Netflix",
+      "overview_ar": "بعد الانزلاق إلى قصة سحرية ، يجب على Puss in Boots القتال والرقص والرومانسية في طريقه عبر مغامرات برية بينما يبحث عن ملاذ.",
+      "trailer": "https://www.youtube.com/watch?v=RqrXhwS33yc&ab_channel=UniversalPictures",
+      "genres": [
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Animation",
+          "name_ar": "رسوم متحركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=462650"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=462650"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Puss%20in%20Book%20Trapped%20in%20an%20Epic%20Tale/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Puss%20in%20Book%20Trapped%20in%20an%20Epic%20Tale/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Puss%20in%20Book%20Trapped%20in%20an%20Epic%20Tale/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Puss%20in%20Book%20Trapped%20in%20an%20Epic%20Tale/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Puss%20in%20Book%20Trapped%20in%20an%20Epic%20Tale/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Puss%20in%20Book%20Trapped%20in%20an%20Epic%20Tale/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt7042082"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -20032,57 +22542,6 @@
       "video": false,
       "vote_average": 6.9,
       "vote_count": 1262
-    },
-    {
-      "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/1uhf2qYd7wBcOsTJ7Li1FcH672D.jpg",
-      "genre_ids": [
-        53,
-        18
-      ],
-      "id": 880313,
-      "imdb_id": "tt15189534",
-      "original_language": "es",
-      "original_title": "La ira de Dios",
-      "overview": "Convinced the tragic deaths of her loved ones were orchestrated by a famous novelist she worked for, Luciana turns to a journalist to expose her truth.",
-      "popularity": 140.495,
-      "poster_path": "https://image.tmdb.org/t/p/original/lFhxNXEK0UpXXqSbhba83Zhl2uk.jpg",
-      "release_date": "2022-06-15",
-      "title": "The Wrath of God",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 136,
-      "overview_ar": "مقتنعة بأن الموت المأساوي لأحبائها قد دبرته روائية شهيرة عملت لديها ، تلجأ لوسيانا إلى صحفي لتكشف حقيقتها",
-      "trailer": "https://www.youtube.com/watch?v=N5r5sK4-CU4&ab_channel=TopTrailersPlus",
-      "genres": [
-        {
-          "name": "Thriller",
-          "name_ar": "إثارة"
-        },
-        {
-          "name": "Drama",
-          "name_ar": "دراما"
-        }
-      ],
-      "play": [
-        {
-          "server1": [
-            "https://www.2embed.to/embed/tmdb/movie?id=880313"
-          ],
-          "servers": [
-            {
-              "server": "https://www.2embed.to/embed/tmdb/movie?id=880313"
-            },
-            {
-              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15189534"
-            },
-            {
-              "server": "https://www.2embed.to/embed/title/movie?title=The%20Wrath%20of%20God&year=2022"
-            }
-          ],
-          "name": "Watch"
-        }
-      ]
     },
     {
       "adult": false,
@@ -22368,24 +24827,29 @@
       "original_language": "en",
       "original_title": "The Outfit",
       "overview": "Leonard is an English tailor who used to craft suits on London’s world-famous Savile Row. After a personal tragedy, he’s ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.",
-      "popularity": 119.103,
+      "popularity": 60.711,
       "poster_path": "https://image.tmdb.org/t/p/original/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
       "release_date": "2022-03-03",
       "title": "The Outfit",
       "video": false,
-      "vote_average": 7.1,
-      "vote_count": 474,
+      "vote_average": 7.169,
+      "vote_count": 528,
       "logo": "https://www.themoviedb.org/t/p/original/85poUH6x9B4u8duUYzceweqqQ2O.png",
+      "age": "15+",
+      "overview_ar": "ليونارد هو خياط إنجليزي كان يصنع البدلات في سافيل رو المشهورة عالميًا في لندن. بعد مأساة شخصية ، انتهى به الأمر في شيكاغو ، حيث كان يدير متجرًا صغيرًا للخياطة في منطقة صعبة من المدينة حيث يصنع ملابس جميلة للأشخاص الوحيدين الذين يستطيعون تحمل تكاليفها: عائلة من رجال العصابات الأشرار.",
       "trailer": "https://www.youtube.com/watch?v=3UgJL23HxyU&ab_channel=FocusFeatures",
       "genres": [
         {
-          "name": "Crime"
+          "name": "Crime",
+          "name_ar": "جريمة"
         },
         {
-          "name": "Drama"
+          "name": "Thriller",
+          "name_ar": "إثارة"
         },
         {
-          "name": "Thriller"
+          "name": "Drama",
+          "name_ar": "دراما"
         }
       ],
       "play": [
@@ -22398,7 +24862,235 @@
               "server": "https://www.2embed.to/embed/tmdb/movie?id=799876"
             },
             {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Outfit/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Outfit/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Outfit/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Outfit/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Outfit/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Outfit/e/Plyr.html"
+            },
+            {
               "server": "https://www.2embed.to/embed/imdb/movie?id=tt14114802"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8hSx5b4YfD2dzvGtrE6mdXF0xrZ.jpg",
+      "genre_ids": [
+        35,
+        10402,
+        18
+      ],
+      "homepage": "https://therokuchannel.roku.com/lp/weird",
+      "id": 928344,
+      "imdb_id": "tt17076046",
+      "original_language": "en",
+      "original_title": "Weird: The Al Yankovic Story",
+      "overview": "Exploring every facet of ‘Weird Al’ Yankovic’s life, from his meteoric rise to fame with early hits like ‘Eat It’ and ‘Like a Surgeon’ to his torrid celebrity love affairs and famously depraved lifestyle, this biopic takes audiences on a truly unbelievable journey through Yankovic’s life and career, from gifted child prodigy to the greatest musical legend of all time.",
+      "popularity": 38.42,
+      "poster_path": "https://image.tmdb.org/t/p/original/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "release_date": "2022-09-08",
+      "title": "Weird: The Al Yankovic Story",
+      "video": false,
+      "vote_average": 6.877,
+      "vote_count": 122,
+      "logo": "https://www.themoviedb.org/t/p/original/fgt8sEpLiX5L1dfW8xSPsWWaGKw.png",
+      "age": "13+",
+      "overview_ar": "يتناول العمل السيرة الذاتية للمطرب آل ياكنوفيتش، بداية من صعوده إلى المجد ببعض الأغاني الناجحة مثل (Eat It) و(Like a Surgeon)، مرورًا بعلاقاته العاطفية وأسلوب حياته السيئ.",
+      "trailer": "https://www.youtube.com/watch?v=cCNKdJ2CIJk&ab_channel=alyankovic",
+      "genres": [
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Music",
+          "name_ar": "موسيقى"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=928344"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=928344"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Weird%20The%20Al%20Yankovic%20Story/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Weird%20The%20Al%20Yankovic%20Story/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Weird%20The%20Al%20Yankovic%20Story/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Weird%20The%20Al%20Yankovic%20Story/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Weird%20The%20Al%20Yankovic%20Story/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Weird%20The%20Al%20Yankovic%20Story/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt17076046"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/XgMh6yDdcHCjNUjcYLLPMUQIhm.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 965150,
+      "imdb_id": "tt19770238",
+      "original_language": "en",
+      "original_title": "Aftersun",
+      "overview": "At a fading vacation resort, 11-year-old Sophie treasures rare time together with her loving and idealistic father, Calum. Twenty years later, Sophie’s tender recollections of their last holiday become a powerful and heartrending portrait of their relationship.",
+      "popularity": 39.558,
+      "poster_path": "https://image.tmdb.org/t/p/original/yx3hS1sZIljZgZNTyt0ATmcs0PC.jpg",
+      "release_date": "2022-10-21",
+      "title": "Aftersun",
+      "video": false,
+      "vote_average": 8.032,
+      "vote_count": 61,
+      "age": "14+",
+      "overview_ar": "تتأمل صوفي في الفرح المشترك والحزن الخاص لعطلة أخذتها مع والدها قبل عشرين عاما. تملأ الذكريات الحقيقية والمتخيلة الفجوات بين لقطات ميني دف وهي تحاول التوفيق بين الأب الذي تعرفه والرجل الذي لم تعرفه.",
+      "trailer": "https://www.youtube.com/watch?v=vXKcWRu8K_U&ab_channel=MUBI",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=965150"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=965150"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Aftersun/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Aftersun/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Aftersun/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Aftersun/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Aftersun/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Aftersun/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt19770238"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        28
+      ],
+      "id": 49046,
+      "imdb_id": "tt1016150",
+      "original_language": "de",
+      "original_title": "Im Westen nichts Neues",
+      "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+      "popularity": 463.303,
+      "poster_path": "https://image.tmdb.org/t/p/original/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "release_date": "2022-10-07",
+      "title": "All Quiet on the Western Front",
+      "video": false,
+      "vote_average": 7.761,
+      "vote_count": 1117,
+      "type": "Netflix",
+      "logo": "https://occ-0-3872-38.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABcEZtusRgzulwZKAsulpi85KqPlKavbJa8uVcN9KC7v5I-ocVipC5clD8tSRQEs4-UlA___fwC3SCLiLu6IIDEQdAU6dufpLmzrbBfR_zl5Tp-YOsMDcLqxQD2FI5bnLnlsYfmTqOHjW4A7diiKH9gx9P7lzzJAlOB2sILd-SMRA7nS4tK7dVg.png?r=e11",
+      "age": "18+",
+      "overview_ar": "بول بومر وأصدقاؤه ألبرت ومولر، بتحريض من الأحلام الرومانسية للبطولة، يجندون طواعية في الجيش الألماني. مليئة بالإثارة والحماسة الوطنية، يسير الأولاد بحماس إلى حرب يؤمنون بها. لكن بمجرد وصولهم إلى الجبهة الغربية، اكتشفوا الرعب المدمر للروح في الحرب العالمية الأولى.",
+      "trailer": "https://www.youtube.com/watch?v=Ug1bqv3ch1s&ab_channel=NetflixDeutschland%2C%C3%96sterreichundSchweiz",
+      "genres": [
+        {
+          "name": "War",
+          "name_ar": "حرب"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Action",
+          "name_ar": "حركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=49046"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=49046"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/All%20Quiet%20on%20the%20Western%20Front/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/All%20Quiet%20on%20the%20Western%20Front/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/All%20Quiet%20on%20the%20Western%20Front/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/All%20Quiet%20on%20the%20Western%20Front/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/All%20Quiet%20on%20the%20Western%20Front/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/All%20Quiet%20on%20the%20Western%20Front/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt1016150"
             }
           ],
           "name": "Watch"
@@ -23550,22 +26242,409 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/7IwLNl9MJbj47pObu8xMDUbIesv.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/xFPoCs4MM6UsysZyJ9eiwU9YnGS.jpg",
       "genre_ids": [
         27,
         53
       ],
       "id": 676547,
+      "imdb_id": "tt9271672",
       "original_language": "en",
       "original_title": "Prey for the Devil",
       "overview": "In response to a global rise in demonic possessions, the Catholic Church reopens exorcism schools to train priests in the Rite of Exorcism. On this spiritual battlefield, an unlikely warrior rises: a young nun, Sister Ann. Thrust onto the spiritual frontline with fellow student Father Dante, Sister Ann finds herself in a battle for the soul of a young girl and soon realizes the Devil has her right where he wants her.",
-      "popularity": 122.363,
-      "poster_path": "https://image.tmdb.org/t/p/original/jXwYESgxqkXlYvoTyUTO2hqKK7T.jpg",
-      "release_date": "2022-10-26",
+      "popularity": 518.234,
+      "poster_path": "https://image.tmdb.org/t/p/original/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg",
+      "release_date": "2022-10-23",
       "title": "Prey for the Devil",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 6.233,
+      "vote_count": 118,
+      "age": "14+",
+      "overview_ar": "استجابةً لارتفاع عالمي في الممتلكات الشيطانية ، أعادت الكنيسة الكاثوليكية فتح مدارس طرد الأرواح الشريرة لتدريب الكهنة على طقوس طرد الأرواح الشريرة. في ساحة المعركة الروحية هذه ، ينهض محارب غير متوقع: راهبة شابة ، الأخت آن. اقتحمت الأخت آن خط المواجهة الروحي مع زميلها الطالب الأب دانتي ، وتجد نفسها في معركة من أجل روح فتاة صغيرة وسرعان ما تدرك أن الشيطان لها الحق في المكان الذي يريدها.",
+      "trailer": "https://www.youtube.com/watch?v=OkEnG6inG4c&ab_channel=LionsgateMovies",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=676547"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=676547"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Prey%20for%20the%20Devil/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Prey%20for%20the%20Devil/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Prey%20for%20the%20Devil/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Prey%20for%20the%20Devil/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Prey%20for%20the%20Devil/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Prey%20for%20the%20Devil/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt9271672"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/atmII0hn3iQe3IWMBmIb3cc8EJZ.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        27
+      ],
+      "id": 791177,
+      "imdb_id": "tt10168670",
+      "original_language": "en",
+      "original_title": "Bones and All",
+      "overview": "Abandoned by her father, a young woman embarks on a thousand-mile odyssey through the backroads of America where she meets a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
+      "popularity": 355.369,
+      "poster_path": "https://image.tmdb.org/t/p/original/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+      "release_date": "2022-11-18",
+      "title": "Bones and All",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 317,
+      "age": "16+",
+      "overview_ar": "بعد أن تخلى عنها والدها ، تنطلق امرأة شابة في رحلة طويلة عبر آلاف الأميال عبر الطرق الخلفية لأمريكا حيث تلتقي بعارض محروم من حقوقه. ولكن على الرغم من بذل قصارى جهدهم ، فإن كل الطرق تؤدي إلى ماضيهم المرعب وإلى موقف نهائي سيحدد ما إذا كان حبهم يمكن أن ينجو من الآخر.",
+      "trailer": "https://www.youtube.com/watch?v=0Nu7Z9AxGNg&ab_channel=MGM",
+      "genres": [
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=791177"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=791177"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Bones%20and%20All/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Bones%20and%20All/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Bones%20and%20All/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Bones%20and%20All/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Bones%20and%20All/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Bones%20and%20All/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10168670"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/6RCf9jzKxyjblYV4CseayK6bcJo.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 804095,
+      "imdb_id": "tt14208870",
+      "original_language": "en",
+      "original_title": "The Fabelmans",
+      "overview": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+      "popularity": 246.651,
+      "poster_path": "https://image.tmdb.org/t/p/original/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg",
+      "release_date": "2022-11-11",
+      "title": "The Fabelmans",
+      "video": false,
+      "vote_average": 7.727,
+      "vote_count": 66,
+      "age": "13+",
+      "overview_ar": "نشأ الشاب سامي فابلمان في حقبة ما بعد الحرب العالمية الثانية في ولاية أريزونا ، ويطمح لأن يصبح صانع أفلام مع بلوغه سن المراهقة ، لكنه سرعان ما يكتشف سرًا عائليًا محطمًا ويستكشف كيف يمكن أن تساعده قوة الأفلام في رؤية الحقيقة.",
+      "trailer": "https://www.youtube.com/watch?v=D1G2iLSzOe8&ab_channel=UniversalPictures",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=804095"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=804095"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Fabelmans/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Fabelmans/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Fabelmans/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Fabelmans/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Fabelmans/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Fabelmans/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14208870"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/aNzvd95YGOD9c2Pz4bVO6XVpvuV.jpg",
+      "genre_ids": [
+        27,
+        18
+      ],
+      "id": 843932,
+      "imdb_id": "tt10931784",
+      "original_language": "en",
+      "original_title": "Nanny",
+      "overview": "Aisha, an undocumented immigrant, lands a job as a nanny for a wealthy Manhattan couple. As she prepares for the arrival of the son she left behind in Senegal, a violent presence begins to invade both her dreams and her reality, threatening to destroy the American Dream she is painstakingly piecing together.",
+      "popularity": 12.851,
+      "poster_path": "https://image.tmdb.org/t/p/original/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg",
+      "release_date": "2022-11-23",
+      "title": "Nanny",
+      "video": false,
+      "vote_average": 5.818,
+      "vote_count": 11,
+      "type": "Amazon",
+      "age": "15+",
+      "overview_ar": "عائشة ، مهاجرة غير شرعية ، تحصل على وظيفة مربية لزوجين ثريين في مانهاتن. بينما تستعد لوصول الابن الذي تركته وراءها في السنغال ، بدأ وجود عنيف يغزو كل من أحلامها وواقعها ، مما يهدد بتدمير الحلم الأمريكي الذي تعمل عليه بشق الأنفس.",
+      "trailer": "https://www.youtube.com/watch?v=jW-XKkSC63k&ab_channel=PrimeVideo",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=843932"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=843932"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nanny/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nanny/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nanny/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nanny/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nanny/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Nanny/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt10931784"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/dKnejFHlxwHiVuIV8HMGAtWTCpp.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 674324,
+      "imdb_id": "tt11813216",
+      "original_language": "en",
+      "original_title": "The Banshees of Inisherin",
+      "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+      "popularity": 140.279,
+      "poster_path": "https://image.tmdb.org/t/p/original/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "release_date": "2022-10-21",
+      "title": "The Banshees of Inisherin",
+      "video": false,
+      "vote_average": 7.807,
+      "vote_count": 122,
+      "logo": "https://www.themoviedb.org/t/p/original/q2CBvq8HjLilmWkTqLnupQh4gbs.png",
+      "age": "15+",
+      "overview_ar": "يجد صديقان مدى الحياة نفسيهما في مأزق عندما ينهي أحدهما علاقته فجأة ، مما يؤدي إلى عواقب مقلقة لكليهما.",
+      "trailer": "https://www.youtube.com/watch?v=uRu3zLOJN2c&ab_channel=SearchlightPictures",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=674324"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=674324"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Banshees%20of%20Inisherin/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Banshees%20of%20Inisherin/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Banshees%20of%20Inisherin/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Banshees%20of%20Inisherin/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Banshees%20of%20Inisherin/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/The%20Banshees%20of%20Inisherin/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt11813216"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/dsWxCsAdsocMNQFbhe39ynAOhBa.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1049233,
+      "imdb_id": "tt23343786",
+      "original_language": "pl",
+      "original_title": "Plan lekcji",
+      "overview": "After a teacher dies, his best friend — a former cop — takes a job at the school where he worked to confront the gang he thinks was responsible.",
+      "popularity": 1408.054,
+      "poster_path": "https://image.tmdb.org/t/p/original/e4nR9m6nY7HpaaeiEL1ixaYqReq.jpg",
+      "release_date": "2022-11-23",
+      "title": "Lesson Plan",
+      "video": false,
+      "vote_average": 6.254,
+      "vote_count": 69,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/dhIvmXFjcid9n2daFpSHm5mEaDQ.png",
+      "age": "15+",
+      "overview_ar": "بعد وفاة مدرس ، حصل صديقه المقرب - شرطي سابق - على وظيفة في المدرسة حيث كان يعمل لمواجهة العصابة التي يعتقد أنها مسؤولة.",
+      "trailer": "https://www.youtube.com/watch?v=TNjiVgwQTFc&ab_channel=CineCronoTrailerITA",
+      "genres": [
+        {
+          "name": "Crime",
+          "name_ar": "جريمة"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1049233"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1049233"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lesson%20Plan/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lesson%20Plan/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lesson%20Plan/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lesson%20Plan/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lesson%20Plan/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lesson%20Plan/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt23343786"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
@@ -25448,7 +28527,7 @@
     },
     {
       "adult": false,
-      "backdrop_path": "https://image.tmdb.org/t/p/original/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/ei8cWMcGZ5lfvDsiBwhQsms1Ac4.jpg",
       "genre_ids": [
         27,
         9648,
@@ -25464,7 +28543,501 @@
       "title": "Barbarian",
       "video": false,
       "vote_average": 7.2,
-      "vote_count": 73
+      "vote_count": 73,
+      "age": "16+",
+      "overview_ar": "تنتقل شابة إلى إحدى المدن لأجل الحصول على وظيفة، ولكن بسبب خطأ ما تكتشف أن المنزل التي استأجرته تم تأجيره لرجل غريب آخر، وتضطر الفتاة للمبيت معه، ولكنها تكتشف أنها يجب عليها خشية المنزل أكثر من أي شيء آخر.",
+      "trailer": "https://www.youtube.com/watch?v=Dr89pmKrqkI&ab_channel=20thCenturyStudios",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Thriller",
+          "name_ar": "إثارة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=913290"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=913290"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Barbarian/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Barbarian/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Barbarian/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Barbarian/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Barbarian/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Barbarian/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt15791034"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/f652MzWbQQg99As6iybGcDU3y9p.jpg",
+      "genre_ids": [
+        10770,
+        35,
+        18
+      ],
+      "id": 1028541,
+      "imdb_id": "tt22247482",
+      "original_language": "en",
+      "original_title": "Three Wise Men and a Baby",
+      "overview": "Three brothers get the surprise of their lives when they are forced to work together to care for a baby over the holidays. As they slowly get the hang of things, they find themselves on unexpected journeys of self-discovery and begin to rebuild their relationships as brothers, as well as the damaged romantic and professional relationships in their respective lives…all while rediscovering their love of Christmas.",
+      "popularity": 7.095,
+      "poster_path": "https://image.tmdb.org/t/p/original/yR3hrMFIiczybGN7Y8wXMjmnPfz.jpg",
+      "release_date": "2022-11-19",
+      "title": "Three Wise Men and a Baby",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 10,
+      "age": "G",
+      "overview_ar": "يفاجأ ثلاثة أشقاء بحياتهم عندما يُجبرون على العمل معًا لرعاية طفل خلال الإجازات. عندما يتعودون ببطء على الأشياء ، يجدون أنفسهم في رحلات غير متوقعة لاكتشاف الذات ويبدأون في إعادة بناء علاقاتهم كأخوة ، بالإضافة إلى العلاقات الرومانسية والمهنية المتضررة في حياتهم الخاصة ... كل ذلك أثناء إعادة اكتشاف حبهم لعيد الميلاد.",
+      "trailer": "https://www.youtube.com/watch?v=7waiQkKDGD4&ab_channel=HallmarkChannel",
+      "genres": [
+        {
+          "name": "TV Movie",
+          "name_ar": "فيلم تلفزيوني"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1028541"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1028541"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Three%20Wise%20Men%20and%20a%20Baby/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Three%20Wise%20Men%20and%20a%20Baby/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Three%20Wise%20Men%20and%20a%20Baby/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Three%20Wise%20Men%20and%20a%20Baby/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Three%20Wise%20Men%20and%20a%20Baby/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Three%20Wise%20Men%20and%20a%20Baby/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt22247482"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/83izpuG6omQGfK5p2e9Ha3XdFRT.jpg",
+      "genre_ids": [
+        10770,
+        35,
+        18,
+        10749
+      ],
+      "id": 1027392,
+      "imdb_id": "tt20193354",
+      "original_language": "en",
+      "original_title": "Ghosts of Christmas Always",
+      "overview": "Katherine is a Ghost of Christmas Present and she must help one soul, Peter, rediscover his Christmas spirit. But this year has something unusual in store.",
+      "popularity": 2.559,
+      "poster_path": "https://image.tmdb.org/t/p/original/k0i2CXqOZF5JSp4qejxAxcehmnY.jpg",
+      "release_date": "2022-10-30",
+      "title": "Ghosts of Christmas Always",
+      "video": false,
+      "vote_average": 6.667,
+      "vote_count": 6,
+      "age": "G",
+      "overview_ar": "كاثرين هي شبح هدية عيد الميلاد وعليها أن تساعد روحًا واحدة ، بيتر ، لإعادة اكتشاف روح عيد الميلاد. لكن هذا العام لديه شيء غير عادي في المتجر.",
+      "trailer": "https://www.youtube.com/watch?v=yfMrW7mGFUg&ab_channel=HallmarkChannel",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "TV Movie",
+          "name_ar": "فيلم تلفزيوني"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1027392"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1027392"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghosts%20of%20Christmas%20Always/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghosts%20of%20Christmas%20Always/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghosts%20of%20Christmas%20Always/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghosts%20of%20Christmas%20Always/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghosts%20of%20Christmas%20Always/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Ghosts%20of%20Christmas%20Always/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt20193354"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/zCbYoH55wGokY4gDujlMEOUTUMI.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 814338,
+      "imdb_id": "tt14369780",
+      "original_language": "en",
+      "original_title": "Lady Chatterley's Lover",
+      "overview": "Unhappily married aristocrat Lady Chatterley begins a torrid affair — and falls deeply in love — with the gamekeeper on her husband's country estate.",
+      "popularity": 262.286,
+      "poster_path": "https://image.tmdb.org/t/p/original/aSgl2DxPG3DuQXoaHr500KeULmT.jpg",
+      "release_date": "2022-09-02",
+      "title": "Lady Chatterley's Lover",
+      "video": false,
+      "vote_average": 6.81,
+      "vote_count": 113,
+      "type": "Netflix",
+      "logo": "https://occ-0-3872-38.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABRhanYw8iA6s8bOcy7atd0vMU8DhY9MsemnxrsYRL-5FsT5XnEQg6sX-IQjrSDfLVPx-xZEBToGU9PbuxH_QP0k6oZQYqLGvh13ilPz72VNycKtFEtSNKTG0zgCcu09ZIexuKoQOKJHs0OgW8LhYRuBOYfdXPZWgcbn_HZn3gmZd72uIAapbag.png?r=d0d",
+      "age": "16+",
+      "overview_ar": "تبدأ الأرستقراطية المتزوجة المؤسفة `` ليدي تشاتيرلي '' علاقة عاطفية - وتقع في حب عميق - مع حارس الطرائد في عزبة زوجها الريفية.",
+      "trailer": "https://www.youtube.com/watch?v=ZOkXE3B0pDA&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Romance",
+          "name_ar": "رومانسي"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=814338"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=814338"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lady%20Chatterley's%20Lover/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lady%20Chatterley's%20Lover/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lady%20Chatterley's%20Lover/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lady%20Chatterley's%20Lover/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lady%20Chatterley's%20Lover/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Lady%20Chatterley's%20Lover/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt14369780"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/6e3ZSF423fOrszsCXw6EpHm4eHu.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        18
+      ],
+      "id": 1001865,
+      "imdb_id": "tt20917338",
+      "original_language": "en",
+      "original_title": "Scrooge: A Christmas Carol",
+      "overview": "On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past — and change the future — before time runs out.",
+      "popularity": 811.44,
+      "poster_path": "https://image.tmdb.org/t/p/original/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg",
+      "release_date": "2022-11-18",
+      "title": "Scrooge: A Christmas Carol",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 95,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/t3V3FMQgydB78otEKSHgLWBmzpz.png",
+      "age": "7+",
+      "overview_ar": "تدور الأحداث في عشية عيد الميلاد المفعم بالأجواء الباردة، حيث يصبح على البخيل إيبينيرز سكروج مواجهة ماضيه وتغيير مستقبله قبل فوات الأوان.",
+      "trailer": "https://www.youtube.com/watch?v=tZylTiyaWV8&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Fantasy",
+          "name_ar": "خيال"
+        },
+        {
+          "name": "Animation",
+          "name_ar": "رسوم متحركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=1001865"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=1001865"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Scrooge%20A%20Christmas%20Carol/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Scrooge%20A%20Christmas%20Carol/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Scrooge%20A%20Christmas%20Carol/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Scrooge%20A%20Christmas%20Carol/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Scrooge%20A%20Christmas%20Carol/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Scrooge%20A%20Christmas%20Carol/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt20917338"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/mrkoCdOG2HOqbpUbW59FDQCjKc6.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        35
+      ],
+      "id": 770254,
+      "imdb_id": "tt13575806",
+      "original_language": "en",
+      "original_title": "Back to the Outback",
+      "overview": "Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.",
+      "popularity": 59.035,
+      "poster_path": "https://image.tmdb.org/t/p/original/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg",
+      "release_date": "2021-12-03",
+      "title": "Back to the Outback",
+      "video": false,
+      "vote_average": 7.83,
+      "vote_count": 612,
+      "type": "Netflix",
+      "logo": "https://www.themoviedb.org/t/p/original/hkr0TZDIvBkIprzu38eBXqtwFX5.png",
+      "age": "8+",
+      "overview_ar": "تعبت من الحبس في منزل الزواحف حيث يحدق بها البشر وكأنهم وحوش ، تخطط مجموعة متناثرة من المخلوقات الأسترالية الأكثر فتكًا للهروب من حديقة حيواناتهم إلى المناطق النائية ، وهو المكان الذي يتناسبون فيه دون أن يتم الحكم عليهم.",
+      "trailer": "https://www.youtube.com/watch?v=dDNhtB7L8Lk&ab_channel=Netflix",
+      "genres": [
+        {
+          "name": "Family",
+          "name_ar": "عائلة"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        },
+        {
+          "name": "Comedy",
+          "name_ar": "كوميديا"
+        },
+        {
+          "name": "Adventure",
+          "name_ar": "مغامرة"
+        },
+        {
+          "name": "Animation",
+          "name_ar": "رسوم متحركة"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=770254"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=770254"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Back%20to%20the%20Outback/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Back%20to%20the%20Outback/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Back%20to%20the%20Outback/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Back%20to%20the%20Outback/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Back%20to%20the%20Outback/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Back%20to%20the%20Outback/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt13575806"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/6syBwVwhauGJYwBM6UKuwJfq2c5.jpg",
+      "genre_ids": [
+        27,
+        18
+      ],
+      "id": 949423,
+      "imdb_id": "tt18925334",
+      "original_language": "en",
+      "original_title": "Pearl",
+      "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.",
+      "popularity": 62.33,
+      "poster_path": "https://image.tmdb.org/t/p/original/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+      "release_date": "2022-09-16",
+      "title": "Pearl",
+      "video": false,
+      "vote_average": 7.319,
+      "vote_count": 318,
+      "age": "17+",
+      "overview_ar": "محاصرة في مزرعة عائلتها المنعزلة ، يجب أن تعتني بيرل بوالدها المريض تحت المراقبة المريرة والمتعجرفة لأمها المتدينة. الرغبة في حياة ساحرة مثل التي شوهدت في الأفلام ، تتعارض طموحات بيرل مع الإغراءات والقمع.",
+      "trailer": "https://www.youtube.com/watch?v=L5PW5r3pEOg&ab_channel=A24",
+      "genres": [
+        {
+          "name": "Horror",
+          "name_ar": "رعب"
+        },
+        {
+          "name": "Drama",
+          "name_ar": "دراما"
+        }
+      ],
+      "play": [
+        {
+          "server1": [
+            "https://www.2embed.to/embed/tmdb/movie?id=949423"
+          ],
+          "servers": [
+            {
+              "server": "https://www.2embed.to/embed/tmdb/movie?id=949423"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Pearl/e/2Jw.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Pearl/e/videojs.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Pearl/e/cloudinary.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Pearl/e/jwplayer.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Pearl/e/MediaElement.html"
+            },
+            {
+              "server": "https://playerrrr222.github.io/4LinhY3i9hn.github.io/Done/Movie/5/Pearl/e/Plyr.html"
+            },
+            {
+              "server": "https://www.2embed.to/embed/imdb/movie?id=tt18925334"
+            }
+          ],
+          "name": "Watch"
+        }
+      ]
     },
     {
       "adult": false,
